@@ -73,7 +73,7 @@ Then, you can obtain these scores through the `./codes/inference/visual_expert/v
 #### Step 4: Fine-tune LLM
 We provide a trained checkpoint in `./codes/fine-tune/llama3/model_arg/llama3_8b_checkpoints`, you just need to record its path.
 
-Alternatively, if you want to train a new checkpoint, please refer to llama-factory(https://github.com/hiyouga/LLaMA-Factory) or use peft (https://github.com/huggingface/peft) or swift (https://github.com/modelscope/swift).
+Alternatively, if you want to train a new checkpoint, please refer to Llama-Factory [https://github.com/hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) or use peft [https://github.com/huggingface/peft](https://github.com/huggingface/peft) or swift [https://github.com/modelscope/swift](https://github.com/modelscope/swift).
 
 In `./codes/fine-tune/`, we provide .sh files adapted for fine-tuning Llama3, Qwen2.5, and Vicuna1.5 using Llama-Factory.
 
