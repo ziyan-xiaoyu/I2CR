@@ -12,7 +12,7 @@ This is the official github repository for the paper titled "I2CR: Intra- and In
   - [Evaluate](#evaluate)
 
 ## Overview
-<img src="framework.jpg"/>
+<img src="/figures/framework.jpg"/>
 
 Our proposed I2CR consists of four key steps. (1) Target Entity Selection (TES). (2) Intra-modal Consistency Reflection (ICR). (3) Inter-modal Alignment Verification (IAV). and (4) Visual Iterative Feedback (VIF).
 
