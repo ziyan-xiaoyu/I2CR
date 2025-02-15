@@ -1,5 +1,3 @@
-# （迭代后第一个模块）有图片信息从第四步迭代进来
-
 import sys
 sys.path.append('..')
 import main.params as params
