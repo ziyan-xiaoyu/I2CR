@@ -1,12 +1,11 @@
 <br />
 <p align="center">
   <h1 align="center"> 🔭 I2CR: Intra- and Inter-modal Collaborative Reflections for Multimodal Entity Linking</h1>
-<!--   <h3 align="center">SpatialMQA: A new benchmark dataset for spatial reasoning of MLLMs.</h3> -->
   
   <p align="center">  
 <!--     <a href="https://arxiv.org/abs/2205.00363">arxiv</a> -->
     ·
-    <a href="https://github.com/ziyan-xiaoyu/SpatialMQA/blob/master/figures/framework.png">framework</a>
+    <a href="https://github.com/ziyan-xiaoyu/I2CR/blob/master/figures/framework.png">framework</a>
     ·
     <a href="https://github.com/ziyan-xiaoyu/I2CR/blob/master/codes/inference/main/run_main.py">codes</a>
 <!--     <a href="https://paperswithcode.com/sota/visual-reasoning-on-vsr">benchmark</a> -->
