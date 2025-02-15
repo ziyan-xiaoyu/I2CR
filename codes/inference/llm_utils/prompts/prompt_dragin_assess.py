@@ -1,5 +1,3 @@
-# （第二个模块）验证语义一致性（验证部分）
-
 import sys
 sys.path.append('..')
 import main.params as params
