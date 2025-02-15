@@ -71,9 +71,11 @@ Alternatively, if you'd like to download CLIP and recalculate the scores on your
 Then, you can obtain these scores through the `./codes/inference/visual_expert/ve_score.py` script.
 
 #### Step 4: Fine-tune LLM
-<br>
 We provide a trained checkpoint in `./codes/fine-tune/llama3/model_arg/llama3_8b_checkpoints`, you just need to record its path.
+
 Alternatively, if you want to train a new checkpoint, please refer to llama-factory(https://github.com/hiyouga/LLaMA-Factory) or use peft (https://github.com/huggingface/peft) or swift (https://github.com/modelscope/swift).
+
+In `./codes/fine-tune/`, we provide .sh files adapted for fine-tuning Llama3, Qwen2.5, and Vicuna1.5 using Llama-Factory.
 
 #### Step 5: Run
 ```
