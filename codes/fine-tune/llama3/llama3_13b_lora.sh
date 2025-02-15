@@ -3,12 +3,12 @@ export NCCL_IB_DISABLE=1
 CUDA_VISIBLE_DEVICES=1 llamafactory-cli train \
     --stage sft \
     --do_train \
-    --model_name_or_path ../../../models/llama3-8b-instruct \
+    --model_name_or_path ../../../models/llama3-13b-instruct \
     --dataset wikidiverse_train_v6_summary_nil \
     --dataset_dir /LLaMA-Factory/data \
     --template llama3 \
     --finetuning_type lora \
-    --output_dir ./model_arg/llama3_8b_yourself \
+    --output_dir ./model_arg/llama3_13b_yourself \
     --overwrite_cache \
     --overwrite_output_dir \
     --cutoff_len 4096 \
