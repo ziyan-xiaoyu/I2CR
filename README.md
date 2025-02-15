@@ -39,18 +39,18 @@ Alternatively, you can download the raw WikiMEL and Richpedia-MEL from [https://
 
 
 ## Usage
-### Step 1: Install and set up environment
+#### Step 1: Install and set up environment
 ```
 >>> pip install -r requirements.txt
 >>> conda create -n I2CR_env python==3.8.20
 >>> conda activate I2CR_env
 ```
 
-**Step 2**: Prepare datasets
+#### Step 2: Prepare datasets
 <br>
 You can prepare the dataset using the methods provided in the previous section `Datasets`.
 
-**Step 3**: Prepare models
+#### Step 3: Prepare models
 <br>
 Download the LLM
 ```
@@ -68,12 +68,12 @@ Alternatively, if you'd like to download CLIP and recalculate the scores on your
 ```
 Then, you can obtain these scores through the `./codes/inference/visual_expert/ve_score.py` script.
 
-**Step 4**: Fine-tune LLM
+#### Step 4: Fine-tune LLM
 <br>
 We provide a trained checkpoint(`./codes/fine-tune/llama3/model_arg/llama3_8b_checkpoints`), you just need to record its path.
 Alternatively, if you want to train a new checkpoint, please refer to llama-factory(https://github.com/hiyouga/LLaMA-Factory) or use peft (https://github.com/huggingface/peft) or swift (https://github.com/modelscope/swift).
 
-**Step 5**: Run
+#### Step 5: Run
 ```
 >>> cd codes/inference/main/
 >>> python run_main.py
