@@ -1,5 +1,3 @@
-# （第一个模块）选择最初的答案
-
 import sys
 sys.path.append('..')
 import main.params as params
