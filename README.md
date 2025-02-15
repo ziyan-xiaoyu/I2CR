@@ -47,25 +47,27 @@ Alternatively, you can download the raw WikiMEL and Richpedia-MEL from [https://
 ```
 
 #### Step 2: Prepare datasets
-<br>
 You can prepare the dataset using the methods provided in the previous section `Datasets`.
 
 #### Step 3: Prepare models
-<br>
 Download the LLM
+
 ```
 >>> git lfs install
 >>> git clone https://huggingface.co/unsloth/llama-3-8b-Instruct models/llama-3-8b-Instruct
 ```
+
 Download the embedding model
 ```
 >>> git clone https://huggingface.co/Salesforce/SFR-Embedding-Mistral
 ```
+
 The precomputed scores of the CLIP model are stored in `./codes/inference/visual_expert/output`. 
 Alternatively, if you'd like to download CLIP and recalculate the scores on your own, you can use the following command to download the model:
 ```
 >>> git clone https://huggingface.co/laion/CLIP-ViT-bigG-14-laion2B-39B-b160k
 ```
+
 Then, you can obtain these scores through the `./codes/inference/visual_expert/ve_score.py` script.
 
 #### Step 4: Fine-tune LLM
