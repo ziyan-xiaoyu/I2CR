@@ -39,7 +39,7 @@ Alternatively, you can download the raw WikiMEL and Richpedia-MEL from [https://
 
 
 ## Usage
-**Step 1**: Install and set up environment
+### Step 1: Install and set up environment
 ```
 >>> pip install -r requirements.txt
 >>> conda create -n I2CR_env python==3.8.20
