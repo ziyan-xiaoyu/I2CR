@@ -4,9 +4,9 @@ import os
 import argparse
 
 """run which dataset"""
-# __dataset_type = 'wikimel'
+__dataset_type = 'wikimel'
 # __dataset_type = 'wikidiverse'
-__dataset_type = 'richpedia'
+# __dataset_type = 'richpedia'
 
 
 """num of parallel processes"""
