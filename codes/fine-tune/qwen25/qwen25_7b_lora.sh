@@ -3,12 +3,12 @@ export NCCL_IB_DISABLE=1
 CUDA_VISIBLE_DEVICES=1 llamafactory-cli train \
     --stage sft \
     --do_train \
-    --model_name_or_path /data/yuguangya/ALLYOUNEED/Qwen2.5/Qwen2.5-7B-Instruct \
+    --model_name_or_path /Qwen2.5-7B-Instruct \
     --dataset wikidiverse_train_v6_summary_nil \
-    --dataset_dir /root/nas/someModels/fine-tuning/llama3-8B-instruct/LLaMA-Factory/data \
+    --dataset_dir /LLaMA-Factory/data \
     --template qwen \
     --finetuning_type lora \
-    --output_dir /root/nas/202409_SMCR/ARR_SMCR/finetuning/qwen25/model_arg/qwen25_7B/20250209_1 \
+    --output_dir /model_arg/qwen25_7B/checkpoint_1 \
     --overwrite_cache \
     --overwrite_output_dir \
     --cutoff_len 4096 \
