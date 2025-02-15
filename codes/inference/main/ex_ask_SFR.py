@@ -170,7 +170,7 @@ def execute_sample_draginAssess_meta(llama_pipeline, SFR_tokenizer, SFR_model, s
         GPTres = "Reasonable"
         score = 1
     else:
-        GPTres, score = SFR_calculate_score(SFR_tokenizer, SFR_model, mention, context, entity_name, entity_summary, mention_imgdesc_new, max_length=4096, annlycom_th=0.7)
+        GPTres, score = SFR_calculate_score(SFR_tokenizer, SFR_model, mention, context, entity_name, entity_summary, mention_imgdesc_new, max_length=4096, annlycom_th=0.8)
 
     # global _status_code_draginAssess_ask
     # if record and _status_code_draginAssess_ask == 0:
@@ -246,7 +246,7 @@ def execute_dataset_wkmel(dataset, save_path, tempfile_path, step1_2_path, ask_g
         return handle_sample
 
     wikimel_step1_2_path = step1_2_path
-    wikimel_step1_2_res = {}  # 最好设置成一个空字典，不设成空列表
+    wikimel_step1_2_res = {}  
     for idx, (sample_id, sample) in tqdm(enumerate(dataset.items())):
 
         if 'GPTans' in sample and sample['GPTans'] not in ['None', '']:
@@ -254,7 +254,6 @@ def execute_dataset_wkmel(dataset, save_path, tempfile_path, step1_2_path, ask_g
         
         sample_pt = ex_meta(llama_pipeline, SFR_tokenizer, SFR_model, sample, 'PTres', None)
         backbone_ans, ans_0 = getBackboneDraginAns_step12(sample_pt, 'PTIres', False)
-        # 语义部分到此，sample_id 是数据id，backbone_ans 是语义第一步的结果，ans_0 是语义第二步的结果
         entry = {
             "sample_id": sample_id,
             "ans_1": backbone_ans,
@@ -296,7 +295,7 @@ def execute_dataset_wkmel(dataset, save_path, tempfile_path, step1_2_path, ask_g
         if idx % 10 == 0:
             dumpdata(dataset, tempfile_path)
     
-    dumpdata(wikimel_step1_2_res, wikimel_step1_2_path)  # 保存1/2两步的结果，回头计算acc
+    dumpdata(wikimel_step1_2_res, wikimel_step1_2_path)
     dumpdata(dataset, save_path)
     return
 
@@ -327,7 +326,6 @@ def execute_dataset_wkpd(dataset, save_path, tempfile_path, step1_2_path, ask_gp
         
         sample_pt = ex_meta(llama_pipeline, SFR_tokenizer, SFR_model, sample, 'PTres', None)
         backbone_ans, ans_0 = getBackboneDraginAns_step12(sample_pt, 'PTIres')
-        # 语义部分到此，sample_id 是数据id，backbone_ans 是语义第一步的结果，ans_0 是语义第二步的结果
         entry = {
             "sample_id": sample_id,
             "ans_1": backbone_ans,
@@ -339,49 +337,37 @@ def execute_dataset_wkpd(dataset, save_path, tempfile_path, step1_2_path, ask_gp
         if score_0 != 'break' and score_0 >= annlycom_th:
             ans = ans_0
         else:
-            sample_i_1 = ex_meta(llama_pipeline, SFR_tokenizer, SFR_model, sample, 'Ires', 'OCR text') 
-            ans_1 = getBackboneDraginAns(sample_i_1, 'PTIres')
+            sample_i_1 = ex_meta(llama_pipeline, SFR_tokenizer, SFR_model, sample, 'Ires', 'OCR text')
+            ans_1 = getBackboneDraginAns(sample_i_1, 'PTIres', False)
             score_1 = get_ans_score(sample_id, sample_i_1, score_dataset=score_dataset)
-            if score_1 != 'break':
-                if score_1 >= annlycom_th:
-                    ans = ans_1
-                else:
-                    sample_i_2 = ex_meta(llama_pipeline, SFR_tokenizer, SFR_model, sample, 'Ires', 'Caption')
-                    ans_2 = getBackboneDraginAns(sample_i_2, 'PTIres')
-                    score_2 = get_ans_score(sample_id, sample_i_2, score_dataset=score_dataset)
-                    if score_2 != 'break':
-                        if score_2 > annlycom_th:
-                            ans = ans_2
-                        else:
-                            sample_i_3 = ex_meta(llama_pipeline, SFR_tokenizer, SFR_model, sample, 'Ires', 'Dense Captions')
-                            ans_3 = getBackboneDraginAns(sample_i_3, 'PTIres')
-                            score_3 = get_ans_score(sample_id, sample_i_3, score_dataset=score_dataset)
-                            if score_3 != 'break':
-                                if score_3 > annlycom_th:
-                                    ans = ans_3
-                                else:
-                                    sample_i_4 = ex_meta(llama_pipeline, SFR_tokenizer, SFR_model, sample, 'Ires', 'Tags')
-                                    ans_4 = getBackboneDraginAns(sample_i_4, 'PTIres')
-                                    score_4 = get_ans_score(sample_id, sample_i_4, score_dataset=score_dataset)
-                                    if score_4 != 'break':
-                                        if score_4 > annlycom_th:
-                                            ans = ans_4
-                                        else:
-                                            ans = ans_0
-                                    else:
-                                        ans = ans_4
-                            else:
-                                ans = ans_3
-                    else:
-                        ans = ans_2
-            else:
+            if score_1 != 'break' and score_1 >= annlycom_th:
                 ans = ans_1
+            else:
+                sample_i_2 = ex_meta(llama_pipeline, SFR_tokenizer, SFR_model, sample, 'Ires', 'Caption')
+                ans_2 = getBackboneDraginAns(sample_i_2, 'PTIres', False)
+                score_2 = get_ans_score(sample_id, sample_i_2, score_dataset=score_dataset)
+                if score_2 != 'break' and score_2 >= annlycom_th:
+                    ans = ans_2
+                else:
+                    sample_i_3 = ex_meta(llama_pipeline, SFR_tokenizer, SFR_model, sample, 'Ires', 'Dense Captions')
+                    ans_3 = getBackboneDraginAns(sample_i_3, 'PTIres', False)
+                    score_3 = get_ans_score(sample_id, sample_i_3, score_dataset=score_dataset)
+                    if score_3 != 'break' and score_3 >= annlycom_th:
+                        ans = ans_3
+                    else:
+                        sample_i_4 = ex_meta(llama_pipeline, SFR_tokenizer, SFR_model, sample, 'Ires', 'Tags')
+                        ans_4 = getBackboneDraginAns(sample_i_4, 'PTIres', False)
+                        score_4 = get_ans_score(sample_id, sample_i_4, score_dataset=score_dataset)
+                        if score_4 != 'break' and score_4 >= annlycom_th:
+                            ans = ans_4
+                        else:
+                            ans = ans_0
         
         dataset[sample_id]['GPTans'] = ans
         if idx % 10 == 0:
             dumpdata(dataset, tempfile_path)
         
-    dumpdata(wikidiverse_step1_2_res, wikidiverse_step1_2_path)  # 保存1/2两步的结果，回头计算acc
+    dumpdata(wikidiverse_step1_2_res, wikidiverse_step1_2_path)
     dumpdata(dataset, save_path)
     return
 
