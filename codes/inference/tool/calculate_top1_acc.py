@@ -1,5 +1,3 @@
-# 计算一下第一步、第二步top1的上限
-
 import json
 
 def calculate_accuracy(data_path_12, data_path, answer_path):
@@ -24,7 +22,6 @@ def calculate_accuracy(data_path_12, data_path, answer_path):
     step2_nil_num = 0
     all_nil_num = 0
 
-    # 算 1-2 步
     for item_id, item_data in data_12.items():
         mention_answer = answer.get(item_id)
         step1_ans = item_data.get("ans_1", "")
@@ -47,7 +44,6 @@ def calculate_accuracy(data_path_12, data_path, answer_path):
             if mention_answer == 'nil':
                 step2_nil_num += 1
     
-    # 算 all 步
     for item_id, item_data in data.items():
         mention_answer = answer.get(item_id)
         ans = item_data.get("GPTans", "")
@@ -80,18 +76,17 @@ def calculate_accuracy(data_path_12, data_path, answer_path):
     print("Unmatched answers:", all_unmatched_answers)
     print("all_nil_num:", all_nil_num)
 
-# data_path_12 = '../dataset_WIKIMEL/result/0115_step1_2_om_ft_top1_3.json'
-# data_path = '../dataset_WIKIMEL/result/0115_test_cp_om_ft_top1_3.json'
-# answer_path = '../dataset_WIKIMEL/WikiMEL_testset_label.json'
+data_path_12 = '../../../datasets/dataset_WikiMEL/result/step1_2_output.json'
+data_path = '../../../datasets/dataset_WikiMEL/result/output.json'
+answer_path = '../../../datasets/dataset_WikiMEL/WikiMEL_testset_label.json'
 
-# data_path_12 = '../dataset_wikidiverse/result/0115_step1_2_om_ft_top1_2.json'
-# data_path = '../dataset_wikidiverse/result/0115_test_cp_om_ft_top1_2.json'
-# answer_path = '../dataset_wikidiverse/WikiDiverse_testset_label.json'
-# answer_path = '../dataset_wikidiverse/WikiDiverse_testset_label_raw.json'
+# data_path_12 = '../../../datasets/dataset_WikiDiverse/result/step1_2_output.json'
+# data_path = '../../../datasets/dataset_WikiDiverse/result/output.json'
+# answer_path = '../../../datasets/dataset_WikiDiverse/WikiDiverse_testset_label.json'
 
-data_path_12 = '../dataset_richpedia/result/0120_step1_2_om_ft_top1_2.json'
-data_path = '../dataset_richpedia/result/0120_test_cp_om_ft_top1_2.json'
-answer_path = '../dataset_richpedia/richpedia_testset_label.json'
+# data_path_12 = '../../../datasets/dataset_RichMEL/result/step1_2_output.json'
+# data_path = '../../../datasets/dataset_RichMEL/result/output.json'
+# answer_path = '../../../datasets/dataset_RichMEL/richpedia_testset_label.json'
 
 calculate_accuracy(data_path_12, data_path, answer_path)
 
