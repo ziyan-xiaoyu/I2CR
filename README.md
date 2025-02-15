@@ -32,6 +32,7 @@ Our proposed I2CR consists of four key steps. (1) Target Entity Selection (TES).
 
 ## Datasets
 In this study, we employ the test sets from the following three datasets for evaluation: WkiMEL, WikiDiverse and Richpedia-MEL.
+
 The processed input datasets are stored in `./dataset_WikiMEL`, `./dataset_WikiDiverse` and `./dataset_Richpedia`. 
 These files also contain four distinct visual clues extracted from the images using four different image-to-text models.
 
@@ -86,4 +87,5 @@ Please ensure that all paths in params.py, run_main.py, and infer_SFR.py are cor
 
 ## Evaluate
 The results are saved in `/dataset_WikiMEL/result`, `/dataset_WikiDiverse/result` and `/dataset_RichMEL/result`.
+
 You can use [`calculate_top1_acc.py/`](codes/inference/tool/calculate_top1_acc.py) to calculate the model's accuracy on different datasets.
