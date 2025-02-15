@@ -3,12 +3,12 @@ export NCCL_IB_DISABLE=1
 CUDA_VISIBLE_DEVICES=1 llamafactory-cli train \
     --stage sft \
     --do_train \
-    --model_name_or_path /data/yuguangya/ALLYOUNEED/7B/Vicuna/vicuna-7b-v1.5 \
+    --model_name_or_path /vicuna-7b-v1.5 \
     --dataset wikidiverse_train_v6_summary_nil \
-    --dataset_dir /root/nas/someModels/fine-tuning/llama3-8B-instruct/LLaMA-Factory/data \
+    --dataset_dir /LLaMA-Factory/data \
     --template vicuna \
     --finetuning_type lora \
-    --output_dir /root/nas/202409_SMCR/ARR_SMCR/finetuning/vicuna/model_arg/vicuna15_7B/20250209_1 \
+    --output_dir /model_arg/vicuna15_7B/checkpoint_1 \
     --overwrite_cache \
     --overwrite_output_dir \
     --cutoff_len 4096 \
