@@ -1,0 +1,1529 @@
+{
+    "70": {
+        "mention": "Spanish",
+        "mention_context": "Spanish runners enter the field of play for the start of 400m T12 Men Heat 3.",
+        "Candentity": [
+            {
+                "name": "Spanish_language",
+                "desc": "The Spanish language is a Romance language spoken by millions of people around the world, with a rich cultural heritage and a complex history of names and dialects."
+            },
+            {
+                "name": "Spaniards",
+                "desc": "The Spaniards are a Romance nation native to Spain, with a complex history and diverse cultures, languages, and regional identities, including a majority of Spanish speakers and minority languages such as Basque, Catalan, and Galician."
+            },
+            {
+                "name": "Spanish_wine",
+                "desc": "Spanish wine refers to a wide range of red, white, and sparkling wines produced in Spain, which has over 1."
+            },
+            {
+                "name": "Spanish_goat",
+                "desc": "The Spanish goat, also known as the brush goat or scrub goat, is a meat and brush-clearing type of goat that originated from Spain and is now widely found in the United States, often used for clearing brush and other unwanted plant species from pasture lands."
+            },
+            {
+                "name": "Castilian_Spanish",
+                "desc": "Castilian Spanish refers to the standard variety of Peninsular Spanish spoken in northern and central Spain, used as a language standard for radio and TV speakers."
+            },
+            {
+                "name": "Spanish_(song)",
+                "desc": "\"Spanish\" is a UK single by Craig David from his album Slicker Than Your Average, featuring a Spanish element and Spanish rapper Duke One, and peaked at #8 on the UK charts."
+            },
+            {
+                "name": "Spain",
+                "desc": "Spain is a country located in Southwestern Europe, comprising the Iberian Peninsula, the Balearic and Canary Islands, and several African territories, with a rich history dating back to ancient times and a modern-day parliamentary democracy and high-income economy."
+            },
+            {
+                "name": "Mexican_Spanish",
+                "desc": "Mexican Spanish is a set of Spanish language varieties spoken in Mexico, the United States, and Canada, with the central Mexican variety being the most well-known and widely used, influenced by the Aztec language and Spanish colonial history."
+            },
+            {
+                "name": "4_×_100_metres_relay",
+                "desc": "The 4 × 100 metres relay is an athletics track event where four runners, each running 100 metres, pass a baton in a designated zone, with the goal of completing the relay in the shortest time possible."
+            },
+            {
+                "name": "White-faced_Black_Spanish",
+                "desc": "The White-faced Black Spanish, also known as the Spanish or Cara Blanca, is a domestic chicken breed originating from Spain, but largely bred to its present type in Great Britain in the 18th century."
+            }
+        ],
+        "mention_imgpath": "9169331840df794e1fae059d79f1fbd1.JPG",
+        "mention_imgdesc_Azure": {
+            "Caption": "a group of people walking on a track",
+            "Dense Captions": "a group of people walking on a track; a person wearing a backpack; a person wearing a red and yellow jacket; a person carrying a backpack; a person wearing a backpack with a number on it; a person wearing a blue jacket; a person wearing a backpack with a number on it; a person wearing a backpack; a person wearing a blue shirt and a backpack; a group of people wearing backpacks",
+            "Tags": "person; clothing; footwear; man; stadium; outdoor; sport; sports uniform; sport venue; soccer; arena; fan; sportswear; people; group; standing; red",
+            "OCR text": "19:01:2; LON ON; ESO; 2157; ESP; 2255",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        333
+                    ],
+                    "caption": "a group of people walking on a track",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        311,
+                        61,
+                        105,
+                        268
+                    ],
+                    "caption": "a person wearing a backpack",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        142,
+                        64,
+                        89,
+                        264
+                    ],
+                    "caption": "a person wearing a red and yellow jacket",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        78,
+                        97,
+                        251
+                    ],
+                    "caption": "a person carrying a backpack",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        219,
+                        75,
+                        89,
+                        254
+                    ],
+                    "caption": "a person wearing a backpack with a number on it",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        395,
+                        77,
+                        74,
+                        252
+                    ],
+                    "caption": "a person wearing a blue jacket",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        303,
+                        112,
+                        85,
+                        113
+                    ],
+                    "caption": "a person wearing a backpack with a number on it",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        225,
+                        129,
+                        67,
+                        114
+                    ],
+                    "caption": "a person wearing a backpack",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        128,
+                        75,
+                        121
+                    ],
+                    "caption": "a person wearing a blue shirt and a backpack",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        38,
+                        482,
+                        284
+                    ],
+                    "caption": "a group of people wearing backpacks",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        4,
+                        81,
+                        97,
+                        252
+                    ],
+                    "confidence": 0.728
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        148,
+                        67,
+                        89,
+                        266
+                    ],
+                    "confidence": 0.875
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        219,
+                        79,
+                        87,
+                        252
+                    ],
+                    "confidence": 0.91
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        311,
+                        58,
+                        106,
+                        275
+                    ],
+                    "confidence": 0.923
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        392,
+                        80,
+                        79,
+                        248
+                    ],
+                    "confidence": 0.829
+                }
+            ]
+        }
+    },
+    "1069": {
+        "mention": "Zoo",
+        "mention_context": "Tatiana at the Zoo before she was killed.",
+        "Candentity": [
+            {
+                "name": "Zoo_(file_format)",
+                "desc": "Zoo is a data compression program and format developed in the 1980s, based on the LZW algorithm, that uses the."
+            },
+            {
+                "name": "Zoo_station_(Calgary)",
+                "desc": "Zoo station is a CTrain light rail station in Calgary, Alberta, Canada, serving the Northeast Line and located near the Calgary Zoo, Telus Spark science museum, and Bridgeland community, with a unique design featuring animal and dinosaur images."
+            },
+            {
+                "name": "The_Zoo",
+                "desc": "The Zoo is a one-act comic opera by Arthur Sullivan and Bolton Rowe, premiered in 1875, telling the story of two pairs of lovers in a farcical tale with no spoken dialogue, running about 40 minutes."
+            },
+            {
+                "name": "Tatiana_(Siberian_Tiger)",
+                "desc": "Tatiana, a female Siberian tiger, was involved in two attacks at the San Francisco Zoo, including one fatal incident, before being shot and killed by police in 2007."
+            },
+            {
+                "name": "Zoo_(Japanese_band)",
+                "desc": "ZOO was a popular Japanese pop music band formed in 1989, known for their hit single \"Choo Choo TRAIN\" and contributions to JR East Railway's Ski-Ski campaign."
+            },
+            {
+                "name": "Zoo_(TV_series)",
+                "desc": "Zoo is an American drama TV series based on the novel of the same name, starring James Wolk and Kristen Connolly, which follows a group of professionals investigating a mysterious pandemic of violent animal attacks on humans worldwide."
+            },
+            {
+                "name": "Zoo",
+                "desc": "A zoo is a facility that houses and cares for animals, displaying them to the public and sometimes breeding them, with the term derived from the Greek words for \"animal\" and \"study of\"."
+            },
+            {
+                "name": "Zoo_(Patterson_novel)",
+                "desc": "\"Zoo\" is a science fiction thriller novel by James Patterson and Michael Ledwidge, published in 2012 and featuring a story that appeared on the New York Times best seller list."
+            },
+            {
+                "name": "Zoopark",
+                "desc": "Zoopark was a founding rock group that started the Russian rock movement, established in 1981."
+            },
+            {
+                "name": "Zoo_(Ceremony_album)",
+                "desc": "Zoo is the fourth studio album by American punk rock band Ceremony, released on March 5, 2012 through Matador Records."
+            }
+        ],
+        "mention_imgpath": "b3f9ab8d17715f9f3ac835a8867f02cb.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a tiger walking on the ground",
+            "Dense Captions": "a tiger with black and white stripes; a tiger standing on the ground; close up of a cat's whiskers; a tiger looking at something; a close up of a zebra's face",
+            "Tags": "animal; mammal; tiger; big cat; wildlife; bengal tiger; terrestrial animal; siberian tiger; big cats; outdoor; snout; fur; whiskers; zoo; felidae; grass; cat",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        322,
+                        500
+                    ],
+                    "caption": "a tiger with black and white stripes",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        62,
+                        303,
+                        427
+                    ],
+                    "caption": "a tiger standing on the ground",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        49,
+                        225,
+                        95,
+                        79
+                    ],
+                    "caption": "close up of a cat's whiskers",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        33,
+                        65,
+                        275,
+                        225
+                    ],
+                    "caption": "a tiger looking at something",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        117,
+                        53,
+                        263
+                    ],
+                    "caption": "a close up of a zebra's face",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "tiger",
+                    "bounding_box": [
+                        0,
+                        59,
+                        313,
+                        333
+                    ],
+                    "confidence": 0.668
+                }
+            ]
+        }
+    },
+    "1115": {
+        "mention": "California",
+        "mention_context": "Homes and streets of a neighborhood affected by the Santa Barbara County mudslides in Santa Barbara, California.",
+        "Candentity": [
+            {
+                "name": "California_(Blink-182_album)",
+                "desc": "California is the seventh studio album by American rock band Blink-182, released in 2016, featuring Alkaline Trio frontman Matt Skiba and produced by John Feldmann, which debuted at number one in the US and UK and received mixed reviews from music critics."
+            },
+            {
+                "name": "California_(sculpture)",
+                "desc": "California is a mid-19th century marble sculpture by American artist Hiram Powers, depicting the wealth and danger of California and currently on display at the Metropolitan Museum of Art in New York City."
+            },
+            {
+                "name": "Santa_Rosa_Hills_(Riverside_County)",
+                "desc": "The Santa Rosa Hills are a low mountain range located in Riverside County, California, southeast of Hemet."
+            },
+            {
+                "name": "California_station_(CTA_Green_Line)",
+                "desc": "California is a station on the Chicago Transit Authority's Green Line, located at the intersection of California Avenue and Lake Street in the East Garfield Park neighborhood, which opened in 1893 and reopened after a closure from 1992 to 1996."
+            },
+            {
+                "name": "Origin_of_the_name_California",
+                "desc": "The name \"California\" likely originated from a 16th-century novel, Las Sergas de Esplandián, which describes a fictional island, and was later applied to the Baja California Peninsula and eventually expanded to include a larger region in the southwest United States and northwest Mexico."
+            },
+            {
+                "name": "California_(EP)",
+                "desc": "California is an extended play by American DJ and record producer Diplo, released in March 2018."
+            },
+            {
+                "name": "California_(Mr._Bungle_album)",
+                "desc": "California is the third studio album by American experimental rock band Mr."
+            },
+            {
+                "name": "2018_Southern_California_mudflows",
+                "desc": "The 2018 Southern California mudflows were a series of deadly mudslides that occurred in early January 2018, causing 23 deaths, 163 hospitalizations, and $227 million in damages, particularly in Santa Barbara County northwest of Los Angeles."
+            },
+            {
+                "name": "California",
+                "desc": "California is a state located on the West Coast of the United States, known for its diverse geography, vibrant cities, and iconic attractions such as Hollywood and Silicon Valley."
+            },
+            {
+                "name": "Songs_of_Innocence_(U2_album)",
+                "desc": "Songs of Innocence is the thirteenth studio album by Irish rock band U2, released in 2014, which revisits the group members' youth in Ireland in the 1970s and pays tribute to their musical inspirations, with a digital release that sparked controversy."
+            }
+        ],
+        "mention_imgpath": "bb256159777561d401f8dfd6d6cca211.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "aerial view of a farm",
+            "Dense Captions": "aerial view of a farm; a field of trees and bushes; a building with trees in the background; aerial view of a forest; a large group of trees; a aerial view of a forest; a tree in a city; a roof of a house",
+            "Tags": "outdoor; plant; aerial photography; bird's-eye view; landscape; tree; house; grass; suburb; village; land lot; rural area; aerial; mountain; field; vineyard",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        281
+                    ],
+                    "caption": "aerial view of a farm",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        34,
+                        2,
+                        415,
+                        115
+                    ],
+                    "caption": "a field of trees and bushes",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        341,
+                        214,
+                        86,
+                        63
+                    ],
+                    "caption": "a building with trees in the background",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        58,
+                        93,
+                        400,
+                        182
+                    ],
+                    "caption": "aerial view of a forest",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        193,
+                        209,
+                        152,
+                        69
+                    ],
+                    "caption": "a large group of trees",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        114,
+                        159,
+                        314,
+                        120
+                    ],
+                    "caption": "a aerial view of a forest",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        116,
+                        121,
+                        135,
+                        81
+                    ],
+                    "caption": "a tree in a city",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        219,
+                        143,
+                        57
+                    ],
+                    "caption": "a roof of a house",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": []
+        }
+    },
+    "547": {
+        "mention": "Munich",
+        "mention_context": "A Subway in Munich at Rindermarkt.",
+        "Candentity": [
+            {
+                "name": "Munich_(song)",
+                "desc": "\"Munich\" is a song by British post-punk revival band Editors, released as the second single from their 2005 debut album The Back Room, which peaked at number 10 in the UK Singles Chart."
+            },
+            {
+                "name": "Munich_Airport",
+                "desc": "Munich Airport is the international airport of Munich, Germany, serving as a hub for Lufthansa and handling over 47."
+            },
+            {
+                "name": "Munich,_Germany",
+                "desc": "Munich is the capital and most populous city of Bavaria, Germany, with a population of over 1."
+            },
+            {
+                "name": "Pizza_Nova",
+                "desc": "Pizza Nova is a Canadian franchise chain of pizza restaurants founded in 1963 by Italian immigrants, with over 140 locations across Canada and competing with other popular pizza chains."
+            },
+            {
+                "name": "Munich_(Germany)",
+                "desc": "Munich is the capital and most populous city of the Free State of Bavaria, with a population of over 1."
+            },
+            {
+                "name": "Munichia",
+                "desc": "Munichia, also known as Munychia, is an ancient Greek hill in Piraeus, Athens, Greece, now a fashionable neighborhood with a Greek Orthodox church, picturesque houses, and a theater, with historical significance dating back to the Battle of Munychia in 403 BCE."
+            },
+            {
+                "name": "Munich,_Bavaria",
+                "desc": "Munich is the capital and most populous city of the Free State of Bavaria, with a population of over 1."
+            },
+            {
+                "name": "Munich,_West_Germany",
+                "desc": "Munich is the capital and most populous city of the Free State of Bavaria, Germany, with a population of over 1."
+            },
+            {
+                "name": "Munich",
+                "desc": "Munich is the capital and most populous city of Bavaria, Germany, with a population of over 1."
+            },
+            {
+                "name": "Munich_(district)",
+                "desc": "Munich is a district in Bavaria, Germany, bordering several other districts and almost encircling the city of Munich, which serves as its administrative seat."
+            }
+        ],
+        "mention_imgpath": "4b59d03cce59b517e66e9043d90ebb6b.JPG",
+        "mention_imgdesc_Azure": {
+            "Caption": "a subway restaurant with a sign",
+            "Dense Captions": "a subway restaurant with a sign; a sign on a sidewalk; a green sign with white text; a sign in a store; a sidewalk with a sign; a sign board with a picture of a sandwich; a box of pizza with text; a grey brick sidewalk; a close up of a sign; a subway restaurant with a sign",
+            "Tags": "text; outdoor; building; shop; store; sign; ground; city; restaurant; street",
+            "OCR text": "SUBWAY; cre; -; JOPEN; SUBS; Mehr; Pizziola; 349; 349",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        375,
+                        500
+                    ],
+                    "caption": "a subway restaurant with a sign",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        29,
+                        288,
+                        132,
+                        190
+                    ],
+                    "caption": "a sign on a sidewalk",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        41,
+                        21,
+                        312,
+                        127
+                    ],
+                    "caption": "a green sign with white text",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        257,
+                        161,
+                        66,
+                        214
+                    ],
+                    "caption": "a sign in a store",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        356,
+                        366,
+                        134
+                    ],
+                    "caption": "a sidewalk with a sign",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        46,
+                        268,
+                        227,
+                        107
+                    ],
+                    "caption": "a sign board with a picture of a sandwich",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        171,
+                        273,
+                        51,
+                        89
+                    ],
+                    "caption": "a box of pizza with text",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        187,
+                        397,
+                        184,
+                        97
+                    ],
+                    "caption": "a grey brick sidewalk",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        167,
+                        68,
+                        120,
+                        54
+                    ],
+                    "caption": "a close up of a sign",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        17,
+                        31,
+                        349,
+                        392
+                    ],
+                    "caption": "a subway restaurant with a sign",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "shop",
+                    "bounding_box": [
+                        36,
+                        18,
+                        332,
+                        391
+                    ],
+                    "confidence": 0.663
+                }
+            ]
+        }
+    },
+    "882": {
+        "mention": "Brilliant Street",
+        "mention_context": "Front of St Stanislaus College in Bathurst, facing Brilliant Street.",
+        "Candentity": [
+            {
+                "name": "Green-crowned_brilliant",
+                "desc": "The Green-crowned Brilliant (Heliodoxa jacula) is a species of hummingbird found in Colombia, Costa Rica, Ecuador, and Panama, also known as the Green-fronted Brilliant."
+            },
+            {
+                "name": "This_Is_My_Street",
+                "desc": "This Is My Street is a 1963 British film about a bored housewife who begins an affair with her mother's lodger, who lives next door, in a run-down inner city London house."
+            },
+            {
+                "name": "Fortune_Green_(ward)",
+                "desc": "Fortune Green is a ward in the London Borough of Camden, England, with a population of 11,740 as of the 2011 Census."
+            },
+            {
+                "name": "Violet-fronted_brilliant",
+                "desc": "The Violet-fronted Brilliant is a stub article related to hummingbirds, indicating that it is a brief or incomplete entry that requires further development."
+            },
+            {
+                "name": "Brilliant_(website)",
+                "desc": "Brilliant."
+            },
+            {
+                "name": "The_Brilliant_Green",
+                "desc": "The Brilliant Green is a Japanese rock band from Kyoto formed in 1995, known for their major debut single \"Bye Bye Mr."
+            },
+            {
+                "name": "Brilliant_green_(dye)",
+                "desc": "Brilliant green is a triarylmethane dye closely related to malachite green, used in various applications."
+            },
+            {
+                "name": "Brilliant_Branch",
+                "desc": "The Brilliant Branch, also known as the Brilliant Cutoff, is a railway line in Pittsburgh and Aspinwall, Pennsylvania, connecting the Pittsburgh Line to the Conemaugh Line and the Allegheny Valley Railroad's Allegheny Subdivision."
+            },
+            {
+                "name": "Brilliant_emerald",
+                "desc": "The Brilliant Emerald, Somatochlora metallica, is a large and green dragonfly species found across northern Eurasia, with a restricted population in Scotland and commonly found in south east England."
+            },
+            {
+                "name": "nil",
+                "desc": "There is no entity to summarize, as the name and description are both \"nil\"."
+            }
+        ],
+        "mention_imgpath": "8f6e169498529ec16f9aa6403b8f34bb.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a large brick building with white spires",
+            "Dense Captions": "a large brick building with white spires; a field of grass with a few trees; a large brick building with a white roof; a building with a white roof; a close up of a field; a close up of a field; a field of dirt and bushes",
+            "Tags": "outdoor; sky; grass; building; cloud; house; place of worship",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        280
+                    ],
+                    "caption": "a large brick building with white spires",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        40,
+                        200,
+                        419,
+                        77
+                    ],
+                    "caption": "a field of grass with a few trees",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        70,
+                        490,
+                        128
+                    ],
+                    "caption": "a large brick building with a white roof",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        492,
+                        165
+                    ],
+                    "caption": "a building with a white roof",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        203,
+                        212,
+                        153,
+                        62
+                    ],
+                    "caption": "a close up of a field",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        144,
+                        213,
+                        156,
+                        61
+                    ],
+                    "caption": "a close up of a field",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        78,
+                        186,
+                        396,
+                        63
+                    ],
+                    "caption": "a field of dirt and bushes",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "castle",
+                    "bounding_box": [
+                        17,
+                        71,
+                        317,
+                        136
+                    ],
+                    "confidence": 0.647
+                }
+            ]
+        }
+    },
+    "78": {
+        "mention": "T36",
+        "mention_context": "Men's 100 m T36 final cross the line.",
+        "Candentity": [
+            {
+                "name": "300_m_rifle_prone",
+                "desc": "The 300 m rifle prone is an ISSF shooting event that involves shooting 60 shots from a prone position with a full-power rifle, added to the World Championship program in 1982 and still featured in championships despite its declining popularity due to high costs and range difficulties."
+            },
+            {
+                "name": "T36",
+                "desc": "T36 is an entity with no provided description, leaving its nature and characteristics unknown."
+            },
+            {
+                "name": "Individual_dressage_at_the_2014_FEI_World_Equestrian_Games",
+                "desc": "The individual dressage event at the 2014 FEI World Equestrian Games in Normandy saw Charlotte Dujardin of Great Britain win gold in both the Grand Prix Special and Freestyle, with Helen Langehanenberg of Germany taking silver and Kristina Sprehe and Adelinde Cornelissen winning bronze in the respective events."
+            },
+            {
+                "name": "T35_(classification)",
+                "desc": "T35 is a disability sport classification for running competitions that includes individuals with coordination impairments such as hypertonia, ataxia, and athetosis, including those with cerebral palsy, used at the Paralympic Games."
+            },
+            {
+                "name": "4_×_100_metres_relay",
+                "desc": "The 4 × 100 metres relay is an athletics track event where four runners complete 100 metres each, with a relay baton passed between them in a designated 30-metre changeover zone, requiring precise timing and coordination to set world records."
+            },
+            {
+                "name": "T37_(classification)",
+                "desc": "T37 is a disability sport classification for track and jump events, encompassing individuals with coordination impairments such as hypertonia, ataxia, and athetosis."
+            },
+            {
+                "name": "European_300_m_Rifle_Championships",
+                "desc": "The European 300 m Rifle Championships are annual shooting sport championships organized by the International Shooting Sport Federation since 1959, featuring competitions in the 300-meter rifle discipline."
+            },
+            {
+                "name": "2013_FIG_Rhythmic_Gymnastics_World_Cup_series",
+                "desc": "The 2013 FIG Rhythmic Gymnastics World Cup series consisted of eight events in Europe, featuring individual and group competitions, with the top scorers in each event crowned winners at the final event in Saint Petersburg, Russia."
+            },
+            {
+                "name": "T44_(classification)",
+                "desc": "T44 is a disability sport classification for athletes with single below-knee amputation or moderately reduced function in one or both legs, including ISOD A4 and A9 classes."
+            },
+            {
+                "name": "T36_(classification)",
+                "desc": "T36 is a disability sport classification for athletes with coordination impairments such as hypertonia, ataxia, and athetosis, including those with cerebral palsy, used by the International Paralympic Committee."
+            }
+        ],
+        "mention_imgpath": "c00ca4b1e99b57b7c3282c9d97f407c4.JPG",
+        "mention_imgdesc_Azure": {
+            "Caption": "a group of people running on a track",
+            "Dense Captions": "a group of people running on a track; a man running on a track; a blurry image of a runner; a person running on a purple mat; a group of men running on a track; a group of people running on a track; a crowd of people in a stadium",
+            "Tags": "sport; track and field; person; stadium; sport venue; sports; competition; athlete; competition event; multi-sport event; arena; athletic shoe; championship; tournament; athletics; track and field athletics; individual sports; footwear; sportswear; 800 metres; heptathlon; outdoor; road; people; game; crowd; jumping; player",
+            "OCR text": "OH 2012",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        333
+                    ],
+                    "caption": "a group of people running on a track",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        206,
+                        174,
+                        84,
+                        109
+                    ],
+                    "caption": "a man running on a track",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        135,
+                        169,
+                        57,
+                        118
+                    ],
+                    "caption": "a blurry image of a runner",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        35,
+                        164,
+                        59,
+                        113
+                    ],
+                    "caption": "a person running on a purple mat",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        2,
+                        144,
+                        486,
+                        183
+                    ],
+                    "caption": "a group of men running on a track",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        16,
+                        150,
+                        283,
+                        137
+                    ],
+                    "caption": "a group of people running on a track",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        492,
+                        97
+                    ],
+                    "caption": "a crowd of people in a stadium",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        58,
+                        172,
+                        48,
+                        105
+                    ],
+                    "confidence": 0.689
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        122,
+                        174,
+                        57,
+                        110
+                    ],
+                    "confidence": 0.77
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        209,
+                        181,
+                        72,
+                        102
+                    ],
+                    "confidence": 0.791
+                }
+            ]
+        }
+    },
+    "511": {
+        "mention": "Stormont Parliamentary Building",
+        "mention_context": "The Stormont Parliamentary Building in Northern Ireland.",
+        "Candentity": [
+            {
+                "name": "Parliament_Hill_(Quebec_City)",
+                "desc": "Parliament Hill is a historic complex in Quebec City, featuring the Parliament Building of Quebec, shopping streets, residential areas, and public green spaces, located on the promontory of Quebec."
+            },
+            {
+                "name": "Parliament_Buildings_(Northern_Ireland)",
+                "desc": "Parliament Buildings, also known as Stormont, is the seat of the Northern Ireland Assembly, the devolved legislature for the region, located in the Stormont Estate area of Belfast."
+            },
+            {
+                "name": "Shanghai_Pudong_Development_Bank",
+                "desc": "Shanghai Pudong Development Bank Co."
+            },
+            {
+                "name": "Parliament_Hill",
+                "desc": "Parliament Hill, also known as The Hill, is a Crown land area in Ottawa, Ontario, Canada, home to the Parliament of Canada and a popular tourist destination, with a Gothic revival architecture and a history dating back to the 18th century."
+            },
+            {
+                "name": "New_Zealand_Parliament_Buildings",
+                "desc": "The New Zealand Parliament Buildings, located in Wellington, comprise a 45,000 square meter site featuring the Parliament House, Parliamentary Library, \"The Beehive\" executive wing, and Bowen House, with an overall setting lacking aesthetic or architectural coherence."
+            },
+            {
+                "name": "Parliament_Building_(Quebec)",
+                "desc": "The Parliament Building in Quebec City is an eight-floor structure designed by Eugène-Étienne Taché and built from 1877 to 1886, serving as the home of the Parliament of Quebec and standing 52 metres tall."
+            },
+            {
+                "name": "Convocation_Hall_(University_of_Toronto)",
+                "desc": "Convocation Hall is a domed rotunda on the University of Toronto campus, designed by Darling and Pearson in 1907, serving as a venue for convocation ceremonies, academic events, and social functions."
+            },
+            {
+                "name": "Parliament_Buildings_(Barbados)",
+                "desc": "The Parliament Buildings in Barbados, built in the neo-Gothic style between 1870 and 1874, serve as the seat of the Parliament of Barbados and are situated in the heart of Bridgetown, having been designated as UNESCO protected properties in 2011."
+            },
+            {
+                "name": "Old_Parliament_Building_(Quebec)",
+                "desc": "The Old Parliament Building was the seat of government for various Canadian regions, including Lower Canada, Canada West, Province of Canada, and Quebec, from 1791 to 1883."
+            },
+            {
+                "name": "Government_Building_(Toronto)",
+                "desc": "The Government Building, also known as the Arts, Crafts and Hobbies Building, is a heritage exhibition building at Exhibition Place in Toronto, Ontario, Canada, built in 1911 for the Canadian National Exhibition and now used as a dinner theatre since 1993."
+            }
+        ],
+        "mention_imgpath": "45fecc1383f6c3108ed433a82801a1ef.JPG",
+        "mention_imgdesc_Azure": {
+            "Caption": "a large white building with columns and columns with Parliament Buildings in the background",
+            "Dense Captions": "a large white building with columns and columns; a large white building with columns; a green lawn with a building in the background; a blue sky above a building; a blue sky with clouds; a white building with columns and flags; a building with columns and a green lawn",
+            "Tags": "outdoor; grass; sky; building; palace; cloud; presidential palace; estate; mansion; courthouse; government building; stately home; campus; lawn; field; large; school",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        352
+                    ],
+                    "caption": "a large white building with columns and columns",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        1,
+                        127,
+                        487,
+                        140
+                    ],
+                    "caption": "a large white building with columns",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        248,
+                        491,
+                        100
+                    ],
+                    "caption": "a green lawn with a building in the background",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        243,
+                        90,
+                        96,
+                        51
+                    ],
+                    "caption": "a blue sky above a building",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        139,
+                        130
+                    ],
+                    "caption": "a blue sky with clouds",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        492,
+                        247
+                    ],
+                    "caption": "a white building with columns and flags",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        257,
+                        175,
+                        98,
+                        91
+                    ],
+                    "caption": "a building with columns and a green lawn",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": []
+        }
+    },
+    "1332": {
+        "mention": "exoplanet",
+        "mention_context": "Artist's concept of an exoplanet being devoured by the host star.",
+        "Candentity": [
+            {
+                "name": "Superhabitable_planet",
+                "desc": "A superhabitable planet is a hypothetical exoplanet or exomoon that may be better suited for the emergence and evolution of life than Earth, with characteristics such as larger size, warmer temperatures, and older age, and orbiting K-type main-sequence stars."
+            },
+            {
+                "name": "Exoplanet_naming_convention",
+                "desc": "The exoplanet naming convention is a system used by the International Astronomical Union to name exoplanets, typically by adding a lowercase letter to the name of its parent star, with some exceptions for circumbinary planets and a limited number of officially sanctioned names."
+            },
+            {
+                "name": "Gas_giant",
+                "desc": "A gas giant is a type of giant planet primarily composed of hydrogen and helium, characterized by a layer of metallic hydrogen and a rocky core, with Jupiter and Saturn being the most well-known examples in our Solar System."
+            },
+            {
+                "name": "Exoplanet_(album)",
+                "desc": "Exoplanet is the debut studio album by progressive metal band The Contortionist, released in 2010 and featuring a remastered edition in 2016."
+            },
+            {
+                "name": "Kepler-1520",
+                "desc": "Kepler-1520 is a K-type main-sequence star in the Cygnus constellation with a potentially rapidly disintegrating planet, about 0."
+            },
+            {
+                "name": "NASA_Exoplanet_Archive",
+                "desc": "The NASA Exoplanet Archive is an online catalog and data service that collects and serves public data on extra-solar planets and their host stars, providing tools and services for analyzing and displaying transit data from various surveys and missions."
+            },
+            {
+                "name": "Extragalactic_planet",
+                "desc": "An extragalactic planet is a star-bound or rogue planet located outside the Milky Way Galaxy, which is extremely difficult to detect directly due to vast distances, with the most distant known planets being SWEEPS-11 and SWEEPS-04, approximately 27,710 light-years from the Sun."
+            },
+            {
+                "name": "Methods_of_detecting_exoplanets",
+                "desc": "Methods of detecting exoplanets involve indirect methods, such as Doppler spectroscopy, due to the faint light of the planet compared to its parent star and the glare from the star."
+            },
+            {
+                "name": "Exoplanet",
+                "desc": "An exoplanet is a planet outside the Solar System, with over 4,400 confirmed exoplanets in 3,257 systems, detected using various methods, and with some potentially habitable and hosting liquid water, sparking interest in the search for extraterrestrial life."
+            },
+            {
+                "name": "Extraterrestrial_atmosphere",
+                "desc": "The study of extraterrestrial atmospheres is an active field of research that explores the atmospheres of various astronomical objects, including planets, moons, comets, and the Sun, to gain insight into Earth's atmosphere and understand atmospheric processes."
+            }
+        ],
+        "mention_imgpath": "1b42a18e8e6ebb5dc02415395ae5357b.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a planet with a ring in the center",
+            "Dense Captions": "a planet with a ring in the center; a planet with a ring in the middle of it; a planet with a fire around it; a yellow and orange planet; a planet with flames in space",
+            "Tags": "astronomical object; planet; space; outer space; universe; astronomy; celestial event; moon; sphere",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        400
+                    ],
+                    "caption": "a planet with a ring in the center",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        60,
+                        0,
+                        427,
+                        391
+                    ],
+                    "caption": "a planet with a ring in the middle of it",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        51,
+                        231,
+                        143,
+                        120
+                    ],
+                    "caption": "a planet with a fire around it",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        223,
+                        0,
+                        269,
+                        269
+                    ],
+                    "caption": "a yellow and orange planet",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        39,
+                        156,
+                        204,
+                        233
+                    ],
+                    "caption": "a planet with flames in space",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": []
+        }
+    },
+    "832": {
+        "mention": "FIFA",
+        "mention_context": "FIFA Sonnenberg Convention Center, in Zurich.",
+        "Candentity": [
+            {
+                "name": "FIFA_Fair_Play_Award",
+                "desc": "The FIFA Fair Play Award is a recognition of exemplary behavior that promotes fair play and compassion in association football, awarded annually to individuals, teams, fans, and organizations."
+            },
+            {
+                "name": "History_of_FIFA",
+                "desc": "The History of FIFA refers to the founding and development of the Fédération Internationale de Football Association (FIFA), the international governing body of association football, futsal, and beach soccer, which was established on May 21, 1904 and now has 211 member associations."
+            },
+            {
+                "name": "Angélique_Kidjo",
+                "desc": "Angélique Kidjo is a Beninese singer-songwriter, actress, and activist known for her diverse musical influences and creative music videos, having recorded and collaborated with numerous artists and being referred to as \"Africa's premier diva\" by Time magazine."
+            },
+            {
+                "name": "FIFA_World_Cup",
+                "desc": "The FIFA World Cup is an international association football competition held every four years, where 32 national teams compete for the title, with Brazil being the most successful team with five titles, and the tournament is the most prestigious and widely viewed sporting event in the world."
+            },
+            {
+                "name": "FIFA_International_Referees_List",
+                "desc": "The FIFA International Referees List is an annual publication that includes the global list of qualified FIFA international referees for association football, futsal, and beach soccer, authorized to officiate at the international level and wear a FIFA badge on their uniform."
+            },
+            {
+                "name": "FIFA_(video_game_series)",
+                "desc": "FIFA is a series of association football sports video games developed and released annually by Electronic Arts under the EA Sports label, featuring officially licensed leagues, teams, and players from around the world."
+            },
+            {
+                "name": "F%C3%A9d%C3%A9ration_Internationale_de_Football_Association",
+                "desc": "The Fédération Internationale de Football Association (FIFA) is not described in the provided text, which appears to be a summary of the city of Lille, France, its history, culture, and development."
+            },
+            {
+                "name": "Fifa_Mountains",
+                "desc": "The Faifa Mountains, located near the town of Faifa' in southwest Saudi Arabia, are a mountain range in Asia that is currently a stub article."
+            },
+            {
+                "name": "FIFA",
+                "desc": "FIFA is a non-profit organization that governs international association football, futsal, and beach soccer, overseeing competitions and promoting the sport worldwide, with a membership of 211 national associations and a focus on growing the game, ensuring accessibility, and advocating for integrity and fair play."
+            },
+            {
+                "name": "FIFA_Women%27s_World_Cup",
+                "desc": "The FIFA Women's World Cup is an international football tournament contested by senior women's national teams, held every four years, with the United States being the current champions and four national teams having won the tournament a total of eight times."
+            }
+        ],
+        "mention_imgpath": "86e8f80613583fb02f6de76d839a143e.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a sign in front of a building",
+            "Dense Captions": "a sign in front of a building; a sun on a red background; a blue and orange football ball; a close-up of a sign; a close up of a football ball; a roof of a house; a close up of a sign; a building with a glass wall and trees; a group of football balls",
+            "Tags": "text; outdoor; building; tree; window; sky; plant; house; sign",
+            "OCR text": "FIFA; SONNENBERG; CONVENTION CENTER",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        350
+                    ],
+                    "caption": "a sign in front of a building",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        331,
+                        183,
+                        130,
+                        137
+                    ],
+                    "caption": "a sun on a red background",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        328,
+                        17,
+                        73,
+                        71
+                    ],
+                    "caption": "a blue and orange football ball",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        277,
+                        0,
+                        215,
+                        340
+                    ],
+                    "caption": "a close-up of a sign",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        394,
+                        20,
+                        61,
+                        70
+                    ],
+                    "caption": "a close up of a football ball",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        78,
+                        94,
+                        158,
+                        88
+                    ],
+                    "caption": "a roof of a house",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        334,
+                        88,
+                        124,
+                        52
+                    ],
+                    "caption": "a close up of a sign",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        179,
+                        265,
+                        164
+                    ],
+                    "caption": "a building with a glass wall and trees",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        324,
+                        11,
+                        132,
+                        81
+                    ],
+                    "caption": "a group of football balls",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "plant",
+                    "bounding_box": [
+                        239,
+                        243,
+                        42,
+                        80
+                    ],
+                    "confidence": 0.546
+                }
+            ]
+        }
+    },
+    "1273": {
+        "mention": "Space Shuttle Discovery",
+        "mention_context": "The Space Shuttle Discovery launched on its final mission, STS-133 (crew pictured), today.",
+        "Candentity": [
+            {
+                "name": "Discovery_(Electric_Light_Orchestra_album)",
+                "desc": "Discovery is the eighth studio album by English rock band Electric Light Orchestra, released in 1979 and topping record charts in the UK and US."
+            },
+            {
+                "name": "Land_Rover_Discovery",
+                "desc": "The Land Rover Discovery is a mid-size SUV."
+            },
+            {
+                "name": "Discovery_History",
+                "desc": "Discovery History is a British television channel owned by Discovery Inc."
+            },
+            {
+                "name": "Web_Services_Discovery",
+                "desc": "Web_Services_Discovery is a process that enables access to software systems over the Internet using standard protocols, allowing service providers to publish services and consumers to discover and use them."
+            },
+            {
+                "name": "Discovery_One",
+                "desc": "Discovery One is a fictional nuclear-powered interplanetary spaceship in the Space Odyssey series, crewed by two men and controlled by the AI HAL 9000, featured in novels and films 2001."
+            },
+            {
+                "name": "Discovery_(band)",
+                "desc": "Discovery is an American indie rock and electronic recording project formed by friends Rostam Batmanglij and Wesley Miles in 2005."
+            },
+            {
+                "name": "Crew",
+                "desc": "A crew is a group of people working together in a structured organization, often with a hierarchical chain of command, with origins in nautical settings and also referring to the sport of rowing."
+            },
+            {
+                "name": "Space_Shuttle_Discovery",
+                "desc": "Space Shuttle Discovery is one of NASA's five fully operational orbiters, launched in 1984, and flew 39 missions over 27 years, carrying out research, International Space Station assembly, and Hubble Space Telescope deployment, before being retired and now on display at the Smithsonian National Air and Space Museum."
+            },
+            {
+                "name": "Electronic_discovery",
+                "desc": "Electronic discovery refers to the process of discovering and reviewing electronic information, such as emails and documents, in legal proceedings, governed by rules of civil procedure and involving review for privilege and relevance."
+            },
+            {
+                "name": "Discovery_II",
+                "desc": "Discovery II is a sternwheel riverboat built in 1971, still in operation as a tour vessel on the Chena and Tanana rivers near Fairbanks, Alaska."
+            }
+        ],
+        "mention_imgpath": "d08f264b76a7a8296280d1d9dce3652a.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a group of people in orange suits",
+            "Dense Captions": "a group of people in orange suits; a person in an orange suit holding a black helmet; a person in an orange suit; a person in an orange suit holding a shoe; a person in an orange suit holding a hose; a person in an orange suit; a person in an orange suit; a group of people in orange suits; a logo with a rocket launch; a satellite in space",
+            "Tags": "person; clothing; astronaut; protective garment",
+            "OCR text": ". BOWEN . LIN; DREW .; STS 1133",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        400
+                    ],
+                    "caption": "a group of people in orange suits",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        177,
+                        136,
+                        77,
+                        250
+                    ],
+                    "caption": "a person in an orange suit holding a black helmet",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        117,
+                        143,
+                        68,
+                        243
+                    ],
+                    "caption": "a person in an orange suit",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        19,
+                        129,
+                        100,
+                        254
+                    ],
+                    "caption": "a person in an orange suit holding a shoe",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        247,
+                        143,
+                        75,
+                        240
+                    ],
+                    "caption": "a person in an orange suit holding a hose",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        371,
+                        134,
+                        79,
+                        255
+                    ],
+                    "caption": "a person in an orange suit",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        311,
+                        135,
+                        70,
+                        251
+                    ],
+                    "caption": "a person in an orange suit",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        12,
+                        113,
+                        450,
+                        273
+                    ],
+                    "caption": "a group of people in orange suits",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        191,
+                        16,
+                        111,
+                        113
+                    ],
+                    "caption": "a logo with a rocket launch",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        354,
+                        16,
+                        125,
+                        97
+                    ],
+                    "caption": "a space station in space",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        32,
+                        127,
+                        85,
+                        268
+                    ],
+                    "confidence": 0.878
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        181,
+                        142,
+                        75,
+                        238
+                    ],
+                    "confidence": 0.853
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        253,
+                        142,
+                        71,
+                        242
+                    ],
+                    "confidence": 0.863
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        317,
+                        135,
+                        72,
+                        253
+                    ],
+                    "confidence": 0.869
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        376,
+                        136,
+                        76,
+                        249
+                    ],
+                    "confidence": 0.813
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        117,
+                        154,
+                        72,
+                        234
+                    ],
+                    "confidence": 0.791
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,1469 @@
+{
+    "975": {
+        "mention": "New Mexico",
+        "mention_context": "Union County highlighted in location map of New Mexico.",
+        "Candentity": [
+            {
+                "name": "New_Mexico_Airlines",
+                "desc": "New Mexico Airlines was a commuter airline brand founded by Pacific Air Holdings to operate flights in New Mexico, starting operations on July 1, 2007, and using the identifiers and call signs of its parent company Pacific Wings."
+            },
+            {
+                "name": "New_Mexico_United",
+                "desc": "New Mexico United is an American professional soccer team based in Albuquerque, New Mexico, founded in 2018 and currently playing in the USL Championship, the second division of American soccer."
+            },
+            {
+                "name": "New_Mexico",
+                "desc": "New Mexico is a state located in the southwestern region of the United States, known for its rich cultural heritage, diverse landscapes, and unique blend of Native American, Spanish, and Mexican influences."
+            },
+            {
+                "name": "Northern_Colorado",
+                "desc": "Northern Colorado is a region in the state of Colorado and a proposed state in the northeastern portion of the state, comprising a portion of the existing state."
+            },
+            {
+                "name": "New_Mexico,_United_States",
+                "desc": "New Mexico is a state in the Southwestern United States, known for its diverse climate and geography, rich cultural heritage, and unique demographic character, with a history dating back to prehistoric times and a blend of indigenous, Hispanic, and American influences."
+            },
+            {
+                "name": "New_Mexico_(film)",
+                "desc": "New Mexico is a 1951 Western film directed by Irving Reis, starring Lew Ayres and Marilyn Maxwell."
+            },
+            {
+                "name": "The_Deadly_Companions",
+                "desc": "The Deadly Companions is a 1961 American Western and war film directed by Sam Peckinpah, starring Maureen O'Hara, Brian Keith, and Steve Cochran, about an ex-army officer who tries to make amends by escorting a funeral procession through Indian territory after accidentally killing a woman's son."
+            },
+            {
+                "name": "New_Mexico_(state)",
+                "desc": "New Mexico is a state in the Southwestern United States, known for its diverse geography, climate, and cultural heritage, with a unique blend of indigenous, Hispanic, and American influences shaping its history, economy, and demographics."
+            },
+            {
+                "name": "New_Mexico_wine",
+                "desc": "New Mexico wine has a long history dating back to 1629, with viticulture thriving in the Middle Rio Grande Valley, Mesilla Valley, and Mimbres Valley AVAs, and today the state has over 60 wineries producing 900,000 US gallons of wine annually."
+            },
+            {
+                "name": "New_Mexico_(U.S._state)",
+                "desc": "New Mexico is a state in the Southwestern United States, known for its diverse geography, climate, and cultural heritage, with a population of over 2."
+            }
+        ],
+        "mention_imgpath": "a1bb856e364c12f9214fb4ef48cd3c21.png",
+        "mention_imgdesc_Azure": {
+            "Caption": "a map of state with red highlighted",
+            "Dense Captions": "a map of state with red highlighted; a map of the state of colorado; a red and white rectangle",
+            "Tags": "square; diagram; rectangle; sketch; pattern; plan; pixel",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        450,
+                        500
+                    ],
+                    "caption": "a map of state with red highlighted",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        438,
+                        481
+                    ],
+                    "caption": "a map of the state of colorado",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        366,
+                        0,
+                        76,
+                        110
+                    ],
+                    "caption": "a red and white rectangle",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "cornice",
+                    "bounding_box": [
+                        8,
+                        27,
+                        439,
+                        418
+                    ],
+                    "confidence": 0.887
+                }
+            ]
+        }
+    },
+    "1308": {
+        "mention": "Canon Inc.",
+        "mention_context": "The offices of Canon Inc. in San Jose, California.",
+        "Candentity": [
+            {
+                "name": "Canon_Inc.",
+                "desc": "Canon Inc."
+            },
+            {
+                "name": "CPS_(Canon)",
+                "desc": "Canon Inc."
+            },
+            {
+                "name": "キヤノン株式会社",
+                "desc": "Canon Inc."
+            },
+            {
+                "name": "Kyanon_Kabushiki_Gaisha",
+                "desc": "Canon Inc."
+            },
+            {
+                "name": "Network_Appliance,_Inc.",
+                "desc": "NetApp, Inc."
+            },
+            {
+                "name": "Canon_(company)",
+                "desc": "Canon Inc."
+            },
+            {
+                "name": "Hansa_Canon",
+                "desc": "Canon Inc."
+            },
+            {
+                "name": "Canon_(brand)",
+                "desc": "Canon is a Japanese multinational corporation that specializes in producing a wide range of products, including cameras, medical equipment, scanners, printers, and semiconductor manufacturing equipment."
+            },
+            {
+                "name": "UBM_Canon",
+                "desc": "UBM Canon is a business-to-business media company founded in 1978, which publishes magazines, produces trade shows and events, and owns websites, having undergone acquisitions and mergers with other companies over the years."
+            },
+            {
+                "name": "Canon_Inc",
+                "desc": "Canon Inc."
+            }
+        ],
+        "mention_imgpath": "daeff0aaf9158061f5cce46612ee0c16.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a building with flags in front of it",
+            "Dense Captions": "a building with flags in front of it; a tree in front of a building; a building with flags in front of it; a tree with many leaves; a flag on a pole; a flag with a red and white flag; a white poles next to a road; a sidewalk with a green lawn and grass",
+            "Tags": "outdoor; sky; building; tree; flag; sign; government building",
+            "OCR text": "Canon",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        393
+                    ],
+                    "caption": "a building with flags in front of it",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        408,
+                        169,
+                        88,
+                        162
+                    ],
+                    "caption": "a tree in front of a building",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        49,
+                        38,
+                        282,
+                        315
+                    ],
+                    "caption": "a building with flags in front of it",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        302,
+                        185,
+                        67,
+                        175
+                    ],
+                    "caption": "a tree with many leaves",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        94,
+                        3,
+                        121,
+                        364
+                    ],
+                    "caption": "a flag on a pole",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        75,
+                        76,
+                        75,
+                        51
+                    ],
+                    "caption": "a flag with a red and white flag",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        30,
+                        331,
+                        69,
+                        56
+                    ],
+                    "caption": "a white poles next to a road",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        3,
+                        328,
+                        492,
+                        64
+                    ],
+                    "caption": "a sidewalk with a green lawn and grass",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "flag",
+                    "bounding_box": [
+                        124,
+                        7,
+                        92,
+                        60
+                    ],
+                    "confidence": 0.504
+                },
+                {
+                    "object_name": "tree",
+                    "bounding_box": [
+                        411,
+                        171,
+                        81,
+                        160
+                    ],
+                    "confidence": 0.529
+                },
+                {
+                    "object_name": "Marine invertebrates",
+                    "bounding_box": [
+                        0,
+                        64,
+                        383,
+                        289
+                    ],
+                    "confidence": 0.519
+                }
+            ]
+        }
+    },
+    "276": {
+        "mention": "2018 French Open",
+        "mention_context": "Basilashvili at the 2018 French Open",
+        "Candentity": [
+            {
+                "name": "2018_French_Open_%E2%80%93_Men%27s_Doubles",
+                "desc": "The 2018 French Open – Men's Doubles is a Grand Slam tennis tournament held on outdoor clay courts at Stade Roland Garros in Paris, France, featuring singles, doubles, and mixed doubles play."
+            },
+            {
+                "name": "2018_French_Open_%E2%80%93_Women%27s_Doubles",
+                "desc": "The 2018 French Open – Women's Doubles is a tennis tournament held on outdoor clay courts at the Stade Roland Garros in Paris, featuring doubles play and defending champion Iga Świątek."
+            },
+            {
+                "name": "2018_Australian_Open",
+                "desc": "The 2018 Australian Open was a tennis tournament held from January 15-28, 2018, at Melbourne Park, featuring events for professional players, junior and wheelchair players, and notable victories for Roger Federer and Caroline Wozniacki."
+            },
+            {
+                "name": "2018_French_Open_-_Men%27s_Doubles",
+                "desc": "Pierre-Hugues Herbert and Nicolas Mahut won the men's doubles title at the 2018 French Open, defeating Oliver Marach and Mate Pavić in the final, with Herbert and Mahut becoming the third all-French team to reach the French Open men's doubles final in six years."
+            },
+            {
+                "name": "2018_French_Open_-_Women%27s_Doubles",
+                "desc": "The 2018 French Open was a major tennis tournament held from May 27 to June 10, 2018, at the Stade Roland Garros in Paris, France, featuring events for singles, doubles, and mixed doubles play, with Rafael Nadal and Simona Halep emerging as champions."
+            },
+            {
+                "name": "2018_French_Open_%E2%80%93_Mixed_Doubles",
+                "desc": "The 2018 French Open – Mixed Doubles is a Grand Slam tennis tournament held on outdoor clay courts at the Stade Roland Garros in Paris, France, featuring singles, doubles, and mixed doubles play."
+            },
+            {
+                "name": "2018_French_Open_%E2%80%93_Men%27s_Singles",
+                "desc": "The 2018 French Open – Men's Singles was a Grand Slam tennis tournament won by Rafael Nadal, who withdrew from the 2023 tournament due to injury, marking his first absence since his debut in 2005."
+            },
+            {
+                "name": "2018_French_Open_(badminton)",
+                "desc": "The French Open is an annual badminton tournament held in France since 1909, promoted to the BWF Super Series in 2007 and categorized as a BWF World Tour Super 750 event since 2018."
+            },
+            {
+                "name": "2018_French_Open",
+                "desc": "The 2018 French Open was a Grand Slam tennis tournament held at Stade Roland Garros in Paris, France, from May 27 to June 10, featuring Rafael Nadal's 11th French Open title and Simona Halep's first Grand Slam title."
+            },
+            {
+                "name": "Nikoloz_Basilashvili",
+                "desc": "Nikoloz Basilashvili is a Georgian professional tennis player who has won three ATP titles, including the German Open and China Open, and achieved a career-high ranking of world No."
+            }
+        ],
+        "mention_imgpath": "edd55ab5fa04784e24add358ba1b2b28.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a man holding a tennis racket",
+            "Dense Captions": "a man holding a tennis racket; a man holding a tennis racket; a person holding a tennis racket; a white wristband with a logo on it; a man wearing a grey shirt; a person holding a tennis racket",
+            "Tags": "athletic game; sport; person; tennis; clothing; outdoor; man; racquet sport; racket; tennis racket; soft tennis; tennis equipment; player; racketlon; tennis court; tennis player; elbow; sports equipment; strings; rackets; holding; court",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        333,
+                        500
+                    ],
+                    "caption": "a man holding a tennis racket",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        278,
+                        489
+                    ],
+                    "caption": "a man holding a tennis racket",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        146,
+                        305,
+                        183,
+                        135
+                    ],
+                    "caption": "a person holding a tennis racket",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        63,
+                        365,
+                        55,
+                        57
+                    ],
+                    "caption": "a white wristband with a logo on it",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        64,
+                        178,
+                        163,
+                        147
+                    ],
+                    "caption": "a man wearing a grey shirt",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        22,
+                        353,
+                        260,
+                        142
+                    ],
+                    "caption": "a person holding a tennis racket",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "tennis racket",
+                    "bounding_box": [
+                        184,
+                        320,
+                        146,
+                        118
+                    ],
+                    "confidence": 0.773
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        17,
+                        19,
+                        254,
+                        366
+                    ],
+                    "confidence": 0.568
+                }
+            ]
+        }
+    },
+    "1375": {
+        "mention": "Carroll",
+        "mention_context": "Carroll (left) debates past Wikinews interviewee, Joe Schriner (right). 2019.",
+        "Candentity": [
+            {
+                "name": "Carroll_County,_Illinois",
+                "desc": "Carroll County is a county located in Illinois, with a population of 15,387 as of 2010, and its county seat is Mount Carroll."
+            },
+            {
+                "name": "Carroll's",
+                "desc": "Carroll's, also known as P."
+            },
+            {
+                "name": "Carroll_County,_Arkansas",
+                "desc": "Carroll County, Arkansas is a county located in the U."
+            },
+            {
+                "name": "Carroll_County,_Ohio",
+                "desc": "Carroll County, Ohio is a county with a population of 26,721 as of 2020, named after Charles Carroll of Carrollton, the last surviving signer of the Declaration of Independence, and is part of the Appalachian Ohio region."
+            },
+            {
+                "name": "Carroll_County,_Georgia",
+                "desc": "Carroll County, Georgia is a county located in northwestern Georgia with a population of approximately 110,527 as of 2010, and its county seat is the city of Carrollton, which is part of the Atlanta-Sandy Springs-Roswell metropolitan area."
+            },
+            {
+                "name": "Carroll_County,_Iowa",
+                "desc": "Carroll County, Iowa is a county located in the U."
+            },
+            {
+                "name": "Ownie_Carroll",
+                "desc": "Ownie Carroll was a Major League Baseball pitcher who played nine seasons with the Detroit Tigers, New York Yankees, Cincinnati Reds, and Brooklyn Dodgers."
+            },
+            {
+                "name": "Carroll_County,_New_Hampshire",
+                "desc": "Carroll County, New Hampshire is a county in the state of New Hampshire with a population of 50,107 as of 2020, named after Charles Carroll of Carrollton, the last surviving signer of the United States Declaration of Independence."
+            },
+            {
+                "name": "Carroll_County,_Maryland",
+                "desc": "Carroll County, Maryland is a county located in the state of Maryland, with a population of 167,134 as of 2010, and its county seat is Westminster."
+            },
+            {
+                "name": "Brian_T._Carroll",
+                "desc": "Brian T."
+            }
+        ],
+        "mention_imgpath": "e5a972dac4cfae0e76c3b7293dab37f7.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "two men sitting at a podium",
+            "Dense Captions": "two men sitting at a podium; a man in a white shirt; a red white and blue flag with stars; a flag on a door; a man standing behind a podium with flags; a flag on a wooden surface; a man in a green shirt; a close up of a flag",
+            "Tags": "text; indoor; box; wall; child; person",
+            "OCR text": "D); of ( ASP-OH)",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        375
+                    ],
+                    "caption": "two men sitting at a podium",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        73,
+                        220,
+                        176,
+                        151
+                    ],
+                    "caption": "a man in a white shirt",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        301,
+                        146,
+                        157,
+                        192
+                    ],
+                    "caption": "a red white and blue flag with stars",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        225,
+                        0,
+                        269,
+                        145
+                    ],
+                    "caption": "a flag on a door",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        90,
+                        14,
+                        320,
+                        354
+                    ],
+                    "caption": "a man standing behind a podium with flags",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        74,
+                        156,
+                        113,
+                        209
+                    ],
+                    "caption": "a man in a green shirt",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        213,
+                        115,
+                        256,
+                        248
+                    ],
+                    "caption": "a flag on a wooden surface",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        299,
+                        0,
+                        109,
+                        91
+                    ],
+                    "caption": "a close up of a flag",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": []
+        }
+    },
+    "760": {
+        "mention": "Ugandan",
+        "mention_context": "Ugandan President Yoweri Museveni (2003)",
+        "Candentity": [
+            {
+                "name": "Uganda_national_cricket_team",
+                "desc": "The Uganda national cricket team, also known as the Cricket Cranes, represents Uganda in international cricket and is organized by the Uganda Cricket Association, an associate member of the International Cricket Council since 1998."
+            },
+            {
+                "name": "Ali_Mohammed_Ghedi",
+                "desc": "Ali Mohamed Gedi, also known as Ali Gedi, was the Prime Minister of the Transitional Federal Government of Somalia from 2004 to 2007, a position he held despite being relatively unknown in political circles at the time of his appointment."
+            },
+            {
+                "name": "Cinema_of_Uganda",
+                "desc": "The Cinema of Uganda, also known as Ugawood, is a growing film industry in Uganda that produces low-budget films, often funded by NGOs or made with DIY equipment, and has gained recognition through international film festivals and awards."
+            },
+            {
+                "name": "Ugandan_English",
+                "desc": "Ugandan English, also known as Uglish, is a variety of English spoken in Uganda, characterized by a unique blend of English and local languages."
+            },
+            {
+                "name": "Constitution_of_Uganda",
+                "desc": "The Constitution of Uganda is the supreme law of Uganda, a republican form of government with a powerful President, promulgated on October 8, 1995."
+            },
+            {
+                "name": "Coffee_production_in_Uganda",
+                "desc": "Coffee production in Uganda refers to the cultivation of Arabica coffee around the slopes of Mount Elgon, which was introduced from Ethiopia and naturalized in the region."
+            },
+            {
+                "name": "Politics_of_Uganda",
+                "desc": "Uganda is a presidential republic with a multi-party system, where the President serves as head of state and the prime minister as head of government, with executive and legislative powers shared between the government and the National Assembly."
+            },
+            {
+                "name": "Uganda_national_football_team",
+                "desc": "The Uganda national football team represents Uganda in men's international football and is controlled by the Federation of Uganda Football Associations, with its best finish in the Africa Cup of Nations being second place in 1978."
+            },
+            {
+                "name": "Uganda_People%27s_Defence_Force",
+                "desc": "The Uganda People's Defence Force (UPDF) is the armed forces of Uganda, with an estimated strength of 40,000-45,000 personnel, consisting of land forces and an air wing, and is responsible for maintaining national security and stability."
+            },
+            {
+                "name": "Uganda",
+                "desc": "Uganda is a landlocked country in East-Central Africa, bordered by several countries, with a varied climate and a history of colonial rule and violent conflicts, currently governed by President Yoweri Kaguta Museveni."
+            }
+        ],
+        "mention_imgpath": "75993e0fd17505b6466831c24621d213.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a man in a suit sitting in a chair",
+            "Dense Captions": "a man in a suit sitting in a chair; a man in a suit sitting in a chair; a man in a suit sitting in a wheelchair; a person standing on a carpet",
+            "Tags": "clothing; person; man; footwear; human face; gentleman; furniture; chair; blazer; tie; dress shirt; shirt; sitting; indoor; flag; floor; wearing; ground; suit",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        200,
+                        320
+                    ],
+                    "caption": "a man in a suit sitting in a chair",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        15,
+                        22,
+                        144,
+                        290
+                    ],
+                    "caption": "a man in a suit sitting in a chair",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        26,
+                        47,
+                        143,
+                        141
+                    ],
+                    "caption": "a man in a suit sitting in a wheelchair",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        248,
+                        195,
+                        67
+                    ],
+                    "caption": "a person standing on a carpet",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": []
+        }
+    },
+    "510": {
+        "mention": "corner kick",
+        "mention_context": "The ball comes off a corner kick.",
+        "Candentity": [
+            {
+                "name": "Free_kick_(Australian_rules_football)",
+                "desc": "A free kick in Australian rules football is a penalty awarded by a field umpire to a player who has been infringed by an opponent or is the nearest player to a player from the opposite team who has broken a rule."
+            },
+            {
+                "name": "Free_kick",
+                "desc": "A free kick is a restart play in football where the ball is kicked into the field of play to resume the game."
+            },
+            {
+                "name": "Goal_kick",
+                "desc": "A goal kick is a method of restarting play in association football, as dictated by Law 16 of the Laws of the Game."
+            },
+            {
+                "name": "Place_kick",
+                "desc": "Place_kick refers to a type of kick in various forms of football, including American and Canadian football, where a player kicks the ball through the opponent's goalposts for points."
+            },
+            {
+                "name": "Penalty_kick_(association_football)",
+                "desc": "A penalty kick is a method of restarting play in association football, awarded when a foul punishable by a direct free kick is committed by a player in their own penalty area, allowing a single shot on goal defended only by the opposing team's goalkeeper."
+            },
+            {
+                "name": "Slovenia_national_football_team",
+                "desc": "The Slovenia national football team represents Slovenia in men's international football and has participated in three major competitions, including the UEFA Euro 2000 and the 2002 and 2010 FIFA World Cups."
+            },
+            {
+                "name": "Glossary_of_rugby_union_terms",
+                "desc": "The Glossary of Rugby Union Terms is a comprehensive dictionary of terminology used in the sport of rugby union, providing definitions for various words and phrases related to the game."
+            },
+            {
+                "name": "Corner_kick",
+                "desc": "A corner kick is a method of restarting play in association football where the ball goes out of play over the goal line, last touched by the defending team, and is taken from the nearest corner of the field."
+            },
+            {
+                "name": "Free_kick_(rugby_union)",
+                "desc": "A free kick in rugby union is a play where the team in possession cannot score directly, but can only score after the ball becomes dead or an opponent touches it, and is subject to certain rules regarding lineouts and scrums."
+            },
+            {
+                "name": "Onside_kick",
+                "desc": "An onside kick is a deliberate kickoff kicked short by the kicking team to regain possession of the ball, typically attempted late in a game when trailing by 8 points or fewer."
+            }
+        ],
+        "mention_imgpath": "45c13b68779bc833a30f242d7204893f.JPG",
+        "mention_imgdesc_Azure": {
+            "Caption": "a group of football players on a field",
+            "Dense Captions": "a group of football players on a field; a man in a white uniform; a man in a red jersey; a man in a red jersey and black shorts; a group of people playing football; a person in a uniform; a group of men playing football; a group of football players on a field; a group of people in a stadium",
+            "Tags": "grass; person; athletic game; stadium; sport; outdoor; football player; player; soccer player; sport venue; soccer-specific stadium; team sport; soccer; ball game; artificial turf; man; sports equipment; ball; championship; game; playing; football; tournament; forward; field; group",
+            "OCR text": "11; 7; 12; 16; 4; 24",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        333,
+                        500
+                    ],
+                    "caption": "a group of football players on a field",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        49,
+                        236,
+                        70,
+                        138
+                    ],
+                    "caption": "a man in a white uniform",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        148,
+                        253,
+                        79,
+                        129
+                    ],
+                    "caption": "a man in a red jersey",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        237,
+                        164,
+                        78,
+                        129
+                    ],
+                    "caption": "a man in a red jersey and black shorts",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        83,
+                        193,
+                        80,
+                        130
+                    ],
+                    "caption": "a group of people playing football",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        147,
+                        164,
+                        57,
+                        126
+                    ],
+                    "caption": "a person in a uniform",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        93,
+                        152,
+                        232,
+                        164
+                    ],
+                    "caption": "a group of men playing football",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        109,
+                        325,
+                        372
+                    ],
+                    "caption": "a group of football players on a field",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        328,
+                        110
+                    ],
+                    "caption": "a group of people in a stadium",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        110,
+                        67,
+                        31,
+                        69
+                    ],
+                    "confidence": 0.535
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        94,
+                        176,
+                        60,
+                        121
+                    ],
+                    "confidence": 0.653
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        141,
+                        166,
+                        60,
+                        121
+                    ],
+                    "confidence": 0.738
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        197,
+                        184,
+                        45,
+                        114
+                    ],
+                    "confidence": 0.822
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        241,
+                        167,
+                        54,
+                        123
+                    ],
+                    "confidence": 0.785
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        51,
+                        241,
+                        61,
+                        134
+                    ],
+                    "confidence": 0.888
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        142,
+                        255,
+                        73,
+                        124
+                    ],
+                    "confidence": 0.847
+                }
+            ]
+        }
+    },
+    "1427": {
+        "mention": "Frankfurt am Main",
+        "mention_context": "A mural in Frankfurt am Main, Germany of Alan Kurdi lying deceased.",
+        "Candentity": [
+            {
+                "name": "Goethe_University_Frankfurt",
+                "desc": "Goethe University Frankfurt is a public research university located in Frankfurt am Main, Germany, founded in 1914 as a citizens' university, with around 45,000 students across four campuses and a strong reputation for academic excellence, having produced 20 Nobel Prize winners and 18 Gottfried Wilhelm Leibniz Prize winners."
+            },
+            {
+                "name": "Frankfurt_am_Main_I_(electoral_district)",
+                "desc": "Frankfurt am Main I is an electoral constituency in the Bundestag, represented by Matthias Zimmer of the Christian Democratic Union since 2009, electing one member via first-past-the-post voting in southern Hesse, specifically the western part of the city of Frankfurt am Main."
+            },
+            {
+                "name": "Frankfurt_(Main)_Hauptbahnhof",
+                "desc": "Frankfurt (Main) Hauptbahnhof is the busiest railway station in Hesse, Germany, serving as a major transport hub for long and short distance travel and considered the most important station in Germany by Deutsche Bahn."
+            },
+            {
+                "name": "Frankfurt_am_Main",
+                "desc": "Frankfurt am Main is the most populous city in the German state of Hesse, known for its cultural, ethnic, and religious diversity, financial centers, and global hubs for commerce, culture, education, tourism, and transportation."
+            },
+            {
+                "name": "Hamun_Lake",
+                "desc": "Hamun Lake is a term referring to a series of shallow, seasonal lakes in the Sistan region on the Irano-Afghan border, fed by snowmelt and perennial rivers, including the Helmand River."
+            },
+            {
+                "name": "Frankfurt_am_Main_(Germany)",
+                "desc": "Frankfurt am Main is the most populous city in the German state of Hesse, with a population of over 791,000, and is a global hub for commerce, culture, education, tourism, and transportation, known for its diverse population, financial centers, and cultural institutions."
+            },
+            {
+                "name": "Frankfurt_am_Main,_Germany",
+                "desc": "Frankfurt am Main is the most populous city in the German state of Hesse, known for its rich history, cultural diversity, and status as a global hub for commerce, culture, education, tourism, and transportation."
+            },
+            {
+                "name": "Frankfurt,_Germany",
+                "desc": "Frankfurt is the most populous city in the German state of Hesse, with a population of over 2."
+            },
+            {
+                "name": "Frankfurt_am_main",
+                "desc": "Frankfurt am Main is the most populous city in the German state of Hesse, with a population of over 791,000 inhabitants, and is a global hub for commerce, culture, education, tourism, and transportation, known for its financial center, international airport, and diverse cultural and educational institutions."
+            },
+            {
+                "name": "Frankfurt",
+                "desc": "Frankfurt is the most populous city in the German state of Hesse, with a population of over 791,000 inhabitants, and is considered an \"alpha world city\" and the heart of the larger Rhine-Main metropolitan region."
+            }
+        ],
+        "mention_imgpath": "65be598751ce30ff1e668dbfa042261e.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a mural of a boy lying on the ground",
+            "Dense Captions": "a mural of a boy lying on the ground; a woman lying on her stomach; a body of water with a stone wall; a person wearing a red shirt; a close up of a person's face; a person wearing a blue shirt",
+            "Tags": "outdoor; sky; lake; person; water; river; ground",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        333
+                    ],
+                    "caption": "a mural of a boy lying on the ground",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        181,
+                        190,
+                        251,
+                        66
+                    ],
+                    "caption": "a woman lying on her stomach",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        279,
+                        493,
+                        52
+                    ],
+                    "caption": "a body of water with a stone wall",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        223,
+                        193,
+                        79,
+                        57
+                    ],
+                    "caption": "a person wearing a red shirt",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        184,
+                        192,
+                        51,
+                        57
+                    ],
+                    "caption": "a close up of a person's face",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        307,
+                        188,
+                        77,
+                        66
+                    ],
+                    "caption": "a person wearing a blue shirt",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        192,
+                        187,
+                        258,
+                        75
+                    ],
+                    "confidence": 0.657
+                }
+            ]
+        }
+    },
+    "145": {
+        "mention": "Eton Dorney",
+        "mention_context": "Final day of Paralympic rowing at Eton Dorney.",
+        "Candentity": [
+            {
+                "name": "Dorney_Court",
+                "desc": "Dorney Court is a Grade I listed early Tudor manor house, dating from around 1440, located in Dorney, Buckinghamshire, England, and owned and lived in by the Palmer family."
+            },
+            {
+                "name": "Dorney_Park_&_Wildwater_Kingdom",
+                "desc": "Dorney Park & Wildwater Kingdom is an American amusement and water park located in Pennsylvania, featuring seven roller coasters, including Steel Force, the tenth longest steel roller coaster in the world."
+            },
+            {
+                "name": "Eton_Wick",
+                "desc": "Eton Wick is a village in Berkshire, England, located on the River Thames near historic towns like Windsor and Eton, Slough, and Dorney Lake, the 2012 Summer Olympics rowing venue."
+            },
+            {
+                "name": "Eton_Montem",
+                "desc": "Eton_Montem was a traditional Eton College ceremony that involved a procession, publication of a humorous \"Montem Ode\", and the appointment of a \"Montem Poet\", which was abolished in 1847 due to rowdy crowds and declining profits."
+            },
+            {
+                "name": "Australian_Paralympic_Rowing_Team",
+                "desc": "The Australian Paralympic Rowing Team is the national Paralympic rowing team that represents Australia in international Paralympic Games competitions, starting from the 2008 Beijing Games."
+            },
+            {
+                "name": "Eton_Wick_(electoral_ward)",
+                "desc": "Eton Wick is a ward in the Royal Borough of Windsor and Maidenhead, England, represented by a Conservative Party councillor who was suspended due to housing benefit fraud."
+            },
+            {
+                "name": "Eton_Rural_District",
+                "desc": "Eton Rural District was a rural district in Buckinghamshire, England, covering an area in the south-east of the county, named after but not containing the urban district of Eton."
+            },
+            {
+                "name": "Dorney_Lake",
+                "desc": "Dorney Lake is a privately owned, purpose-built rowing lake in England, near Windsor and Eton, developed by Eton College and completed in 2006, offering facilities for rowing, canoeing, dragon boating, open water swimming, and triathlon."
+            },
+            {
+                "name": "Eton_Park",
+                "desc": "Eton Park was a football stadium in Burton upon Trent, England, that served as the home ground of Burton Albion F."
+            },
+            {
+                "name": "Dorney",
+                "desc": "Dorney is a village and civil parish in Buckinghamshire, England, bordering the River Thames and featuring a grade I listed manor house, Dorney Court, and the largest rowing lake in the south of England, Dorney Lake."
+            }
+        ],
+        "mention_imgpath": "d1eb7d7601b7c2908b73d2570761cb19.JPG",
+        "mention_imgdesc_Azure": {
+            "Caption": "a body of water with a crowd of people on it",
+            "Dense Captions": "a body of water with a boat in it; a white tent in a field; a group of boats on a body of water; a foggy landscape with a city in the background; a group of people on a boat; a grey sky with clouds",
+            "Tags": "outdoor; sky; water; transport; vehicle; plane; boat; people; lake; mountain; river; watercraft; airplane",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        333
+                    ],
+                    "caption": "a body of water with a boat in it",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        19,
+                        117,
+                        452,
+                        90
+                    ],
+                    "caption": "a white tent in a field",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        205,
+                        490,
+                        121
+                    ],
+                    "caption": "a group of boats on a body of water",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        3,
+                        93,
+                        490,
+                        54
+                    ],
+                    "caption": "a foggy landscape with a city in the background",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        20,
+                        202,
+                        447,
+                        62
+                    ],
+                    "caption": "a group of people on a boat",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        488,
+                        132
+                    ],
+                    "caption": "a grey sky with clouds",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": []
+        }
+    },
+    "429": {
+        "mention": "game",
+        "mention_context": "The Rollers bring the ball down the floor during the game.",
+        "Candentity": [
+            {
+                "name": "ESPN_GamePlan",
+                "desc": "ESPN GamePlan was a college football out-of-market sports package offering regional telecasts and syndicated games to viewers in the US, discontinued in 2015 to make way for ESPN College Extra."
+            },
+            {
+                "name": "Otherside_of_the_Game",
+                "desc": "\"Otherside of the Game\" is a ballad by Erykah Badu, from her 1997 album Baduizm, that tells the story of a conflicted woman in a troubled relationship, showcasing her debt to jazz and soul."
+            },
+            {
+                "name": "The_Game_Game",
+                "desc": "The Game Game is a game show hosted by Jim McKrell, packaged by Chuck Barris, and aired during the 1969-1970 season, marking Barris's first syndicated program."
+            },
+            {
+                "name": "Game_On_(exhibition)",
+                "desc": "Game On is an international touring exhibition that explores the history and culture of computer games, featuring over 150 playable games, console designs, and interactive experiences that highlight the evolution of gaming from the 1960s to the present day."
+            },
+            {
+                "name": "The_Game_(play)",
+                "desc": "The Game is a play by Harold Brighouse, first published in 1920, which centers on a fictional football team, their star player, and the family of the club owner, and was revived by Northern Broadsides in 2010 after a period of near oblivion."
+            },
+            {
+                "name": "Game_Night_(film)",
+                "desc": "Game Night is a 2018 American action comedy film about a group of friends whose game night turns into a real-life mystery when one of them is kidnapped by apparent burglars, starring Jason Bateman and Rachel McAdams."
+            },
+            {
+                "name": "Game_of_Homes",
+                "desc": "Game of Homes is a Canadian reality TV series where four couples compete to renovate four rundown houses in Vancouver and Toronto, hosted by Cameron Mathison and Dave Salmoni."
+            },
+            {
+                "name": "Game_Off",
+                "desc": "Game Off is an annual game jam where participants have a month to build a game based on a theme, individually or in teams, promoting open source software and collaborative game development."
+            },
+            {
+                "name": "Match_Game",
+                "desc": "The Match Game is an American television panel game show that premiered in 1962 and has been revived several times over the decades, featuring contestants trying to match answers given by celebrity panelists to fill-in-the-blank questions."
+            },
+            {
+                "name": "Beheading_game",
+                "desc": "A beheading game is a medieval romance trope where players exchange blows that could decapitate their opponent, with examples including Sir Gawain and the Green Knight and the Irish story Fled Bricrenn."
+            }
+        ],
+        "mention_imgpath": "35affa38f19269b874a8003ab67f27d5.JPG",
+        "mention_imgdesc_Azure": {
+            "Caption": "a group of people in wheelchairs playing basketball",
+            "Dense Captions": "a group of people in wheelchairs playing basketball; a person in a wheelchair; a man in a wheelchair holding a basketball; a person wearing black pants; a person in a wheelchair holding a basketball; a person in a white shirt; a woman in a white shirt; a close-up of a wheel; a person in a wheelchair; a woman in wheelchairs playing basketball",
+            "Tags": "wheelchair; person; chair; clothing; disabled sports; wheelchair sports; basketball; floor; indoor; people",
+            "OCR text": "Sports; Basketball; ME AUSTRALIAN; TS COMMISSION; Rising St*rs; BURZYNSKI",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        333
+                    ],
+                    "caption": "a group of women in wheelchairs playing basketball",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        364,
+                        159,
+                        132,
+                        168
+                    ],
+                    "caption": "a person in a wheelchair",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        136,
+                        49,
+                        111,
+                        217
+                    ],
+                    "caption": "a man in a wheelchair holding a basketball",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        445,
+                        0,
+                        52,
+                        131
+                    ],
+                    "caption": "a person wearing black pants",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        218,
+                        79,
+                        74,
+                        138
+                    ],
+                    "caption": "a person in a wheelchair holding a basketball",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        340,
+                        142,
+                        77,
+                        150
+                    ],
+                    "caption": "a person in a white shirt",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        409,
+                        115,
+                        71,
+                        97
+                    ],
+                    "caption": "a woman in a white shirt",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        109,
+                        168,
+                        108,
+                        122
+                    ],
+                    "caption": "a close-up of a wheel",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        293,
+                        254,
+                        86,
+                        76
+                    ],
+                    "caption": "a person in a wheelchair",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        43,
+                        492,
+                        282
+                    ],
+                    "caption": "a woman in wheelchairs playing basketball",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        446,
+                        0,
+                        50,
+                        130
+                    ],
+                    "confidence": 0.854
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        225,
+                        81,
+                        66,
+                        126
+                    ],
+                    "confidence": 0.787
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        138,
+                        49,
+                        110,
+                        221
+                    ],
+                    "confidence": 0.741
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        415,
+                        119,
+                        64,
+                        100
+                    ],
+                    "confidence": 0.641
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        340,
+                        146,
+                        82,
+                        174
+                    ],
+                    "confidence": 0.734
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        394,
+                        173,
+                        102,
+                        156
+                    ],
+                    "confidence": 0.777
+                },
+                {
+                    "object_name": "wheelchair",
+                    "bounding_box": [
+                        105,
+                        118,
+                        182,
+                        176
+                    ],
+                    "confidence": 0.659
+                }
+            ]
+        }
+    },
+    "1411": {
+        "mention": "Kaohsiung Municipal Social Education Center",
+        "mention_context": "The 9th Taiwan Sports Elite Awards is held in Kaohsiung Municipal Social Education Center.",
+        "Candentity": [
+            {
+                "name": "Kaohsiung_Cultural_Center",
+                "desc": "The Kaohsiung Cultural Center is a cultural complex in Lingya District, Kaohsiung, Taiwan, founded in 1981, featuring two concert halls, galleries, a library, and the office of the Kaohsiung Bureau of Cultural Affairs."
+            },
+            {
+                "name": "Breeze_Center",
+                "desc": "Breeze Center is a shopping center located in Songshan District, Taipei, Taiwan."
+            },
+            {
+                "name": "Kaohsiung_Municipal_Jhong-Jheng_Senior_High_School",
+                "desc": "Kaohsiung Municipal Jhong-Jheng Senior High School is a junior and senior high school located in Lingya District, Kaohsiung City, Taiwan."
+            },
+            {
+                "name": "Kaohsiung_City_Council",
+                "desc": "The Kaohsiung City Council is the city council of Kaohsiung City, Taiwan, composed of 65 councilors elected using the single non-transferable vote system, with eligible voters being residents aged 23 or above and having resided in the city for more than four months."
+            },
+            {
+                "name": "Kaohsiung_Science_Park",
+                "desc": "The Kaohsiung Science Park, also known as Luzhu Science Park, is a 1,409-acre science park located in Lujhu District, Kaohsiung, Taiwan, established in 2010 as part of the Southern Taiwan Science Park project."
+            },
+            {
+                "name": "Keelung_Cultural_Center",
+                "desc": "The Keelung Cultural Center is a cultural center located in Zhongzheng District, Keelung, Taiwan."
+            },
+            {
+                "name": "Kaohsiung_City_Constituency_II",
+                "desc": "Kaohsiung City Constituency II is a single-member district in the northwestern part of Kaohsiung City, Taiwan, represented by Chiu Chih-wei since 2012."
+            },
+            {
+                "name": "National_Kaohsiung_Center_for_the_Arts",
+                "desc": "The National Kaohsiung Center for the Arts Weiwuying is a performance arts center located in Fengshan District, Kaohsiung, Taiwan."
+            },
+            {
+                "name": "Kaohsiung_Municipal_Social_Education_Hall",
+                "desc": "The Kaohsiung Municipal Social Education Hall is an educational center located in Siaogang District, Kaohsiung, Taiwan."
+            },
+            {
+                "name": "Kaohsiung_City_Government",
+                "desc": "The Kaohsiung City Government is the municipal government of Kaohsiung, formed in 2010 after the merger of Kaohsiung County and City, with a directly elected Mayor serving as its chief administrator."
+            }
+        ],
+        "mention_imgpath": "ea5210e2fcef460c21d733cafbf6ce65.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a crowd of people outside of a building",
+            "Dense Captions": "a crowd of people outside of a building; a close up of a truck; a window with a square window; a window on a building; a building with a tower; a group of people standing on stairs; a crowd of people outside of a building; a building with multiple chimneys",
+            "Tags": "sky; outdoor; building; cloud; road; public space; land vehicle; people; town; vehicle; large; person; street; crowd",
+            "OCR text": "高; CL; 让文教育馆",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        375
+                    ],
+                    "caption": "a crowd of people outside of a building",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        286,
+                        141,
+                        71
+                    ],
+                    "caption": "a close up of a truck",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        171,
+                        119,
+                        129,
+                        60
+                    ],
+                    "caption": "a window with a square window",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        171,
+                        190,
+                        182,
+                        55
+                    ],
+                    "caption": "a window on a building",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        189,
+                        54,
+                        90,
+                        52
+                    ],
+                    "caption": "a building with a tower",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        250,
+                        495,
+                        90
+                    ],
+                    "caption": "a group of people standing on stairs",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        29,
+                        490,
+                        321
+                    ],
+                    "caption": "a crowd of people outside of a building",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        84,
+                        52,
+                        290,
+                        124
+                    ],
+                    "caption": "a building with multiple chimneys",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "Land vehicle",
+                    "bounding_box": [
+                        10,
+                        292,
+                        130,
+                        69
+                    ],
+                    "confidence": 0.55
+                }
+            ]
+        }
+    }
+}

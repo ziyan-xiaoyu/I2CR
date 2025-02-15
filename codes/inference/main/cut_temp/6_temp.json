@@ -1,0 +1,1340 @@
+{
+    "1416": {
+        "mention": "Claudia Mo",
+        "mention_context": "Claudia Mo of Civic Party",
+        "Candentity": [
+            {
+                "name": "Claudia_Rivero_(journalist)",
+                "desc": "Claudia Rivero is a reporter currently based in Philadelphia, Pennsylvania. Her recent work includes the short documentary Where is Janteyl, the story of a pregnant teen who disappeared under suspicious circumstances in Delaware. She is also involved as a producer for The Messages Project, an award-winning nonprofit dedicated to helping children of incarcerated parents. Claudia spent fours years as a general assignment reporter at NBC10 in Philadelphia. Prior to NBC10 Claudia spent eight years at KTVK in Phoenix, Arizona, where she interviewed killer Jodi Arias shortly after her arrest. The interview also aired on CNN and Nancy Grace on HLN. Claudia filled in on the anchor desk for Good Morning Arizona weekend edition, Good Day Arizona and MAS Arizona, KTVK's former Spanish-language cable station. She received two Emmy awards and two Associated Press awards during her time at KTVK. Claudia started her career at Univision's KTVW-33 in Phoenix, Arizona. She received a B.A. in journalism and mass communication from Arizona State University. Claudia volunteers at Books Through Bars in West Philadelphia, a nonprofit that sends free books and educational materials to prisoners."
+            },
+            {
+                "name": "Claudia_Lumor",
+                "desc": "Claudia Lumor is a Ghanaian Publisher, founder of Glitz Africa Magazine and the Glitz Style Awards. She is also the Executive Producer of Glitz Africa Fashion Week Ghana. This Ghanaian biographical article is a stub."
+            },
+            {
+                "name": "Claudia_Losch",
+                "desc": "Claudia Losch is a retired German shot putter. She is the 1984 Olympic Champion. At the 1988 Olympic Games, she finished fifth. She is also the 1989 World Indoor Champion and won the European Indoor title three times. Losch won the German indoor championship in the shot put in 1983, 1984, 1987, 1988, and 1989. She won the German championship from 1982 through 1990, nine times in a row. For the monoskier and paralympian, see Claudia Lösch."
+            },
+            {
+                "name": "Claudia_(magazine)",
+                "desc": "Claudia is a Polish language monthly women's magazine published in Warsaw, Poland."
+            },
+            {
+                "name": "Mikuni_Shimokawa",
+                "desc": "Mikuni Shimokawa is a Japanese pop singer and songwriter. She is best known for her songs used for anime theme music, particularly the opening and ending themes of the Full Metal Panic! series. In addition to her vocal talents, Shimokawa can also play the piano. She is a former member of the girl group Checkicco."
+            },
+            {
+                "name": "Claudia_Mo",
+                "desc": "Claudia Mo , also known as Claudia Bowring, is a Hong Kong journalist and politician, a member of the pan-democracy camp. She was a member of the Legislative Council, representing the Kowloon West geographical constituency, until November 2020 when she resigned along other pro-democrats to protest against the disqualification of four of her colleagues by the government. Claudia Mo is one of 55 activists who were arrested in January 2021 under Hong Kong's new National Security Law. On 28 February, she, together with 46 other defendants, were charged with the offence of conspiracy to commit subversion. They appeared in West Kowloon Magistracy on 1 March. After a four-day bail hearing, the court denied her bail and remanded her and 31 other co-defendants in gaol custody for three months, pending further police investigation. In denying her bail, the court found no evidence to prove that she would not endanger national security if she were to be released on bail. In this Chinese name, the family name is Mo."
+            },
+            {
+                "name": "Claudia_Moreno",
+                "desc": "Claudia Cristina Moreno González Spanish pronunciation: [ˈklawðja moˈɾeno]; is a Venezuelan beauty pageant titleholder who was the official representative of Venezuela to the Miss Universe 2000 pageant. This biography article about a Venezuelan contestant in a beauty pageant is a stub."
+            },
+            {
+                "name": "Claudia_Montero",
+                "desc": "nil"
+            },
+            {
+                "name": "Claudia_Molitor",
+                "desc": "Claudia Molitor (born 1974) is an English-German composer based in Brighton, East Sussex, England."
+            },
+            {
+                "name": "Claudia_Andujar",
+                "desc": "Claudia Andujar is a Swiss-born Brazilian photographer and activist."
+            }
+        ],
+        "mention_imgpath": "ed7156117d2b37351eb6f13141fa0303.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a woman holding books in a store",
+            "Dense Captions": "a woman holding books in a store; a woman holding a book; a person wearing blue jeans; a woman smiling at the camera; a book with a picture of two men; a close up of a person's pants; a person holding a book; a person holding a camera",
+            "Tags": "clothing; person; human face; smile; book; indoor; girl; woman; ceiling; holding; store; standing; young",
+            "OCR text": "次文化; 次文; LONG Time No Talk; 中英會谈",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        375,
+                        500
+                    ],
+                    "caption": "a woman holding books in a store",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        40,
+                        40,
+                        252,
+                        449
+                    ],
+                    "caption": "a woman holding a book",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        109,
+                        63,
+                        343
+                    ],
+                    "caption": "a person wearing blue jeans",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        193,
+                        249,
+                        86,
+                        111
+                    ],
+                    "caption": "a woman smiling at the camera",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        81,
+                        263,
+                        143,
+                        99
+                    ],
+                    "caption": "a book with a picture of two men",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        99,
+                        418,
+                        172,
+                        78
+                    ],
+                    "caption": "a close up of a person's pants",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        42,
+                        175,
+                        175,
+                        264
+                    ],
+                    "caption": "a person holding a book",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        146,
+                        55,
+                        145
+                    ],
+                    "caption": "a person holding a phone",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        1,
+                        118,
+                        64,
+                        334
+                    ],
+                    "confidence": 0.703
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        50,
+                        53,
+                        241,
+                        397
+                    ],
+                    "confidence": 0.634
+                }
+            ]
+        },
+        "GPTans": "Claudia_Mo"
+    },
+    "152": {
+        "mention": "Iron Man",
+        "mention_context": "Cosplayers cosplaying Marvel Cinematic Universe's Iron Man (left) and Spider-Man (right).",
+        "Candentity": [
+            {
+                "name": "Iron_Man_(2008_film)",
+                "desc": "Iron Man is a 2008 American superhero film based on the Marvel Comics character of the same name. Produced by Marvel Studios and distributed by Paramount Pictures,[N 1] it is the first film in the Marvel Cinematic Universe . It was directed by Jon Favreau from a screenplay by the writing teams of Mark Fergus and Hawk Ostby, and Art Marcum and Matt Holloway, and stars Robert Downey Jr. as Tony Stark / Iron Man alongside Terrence Howard, Jeff Bridges, Shaun Toub, and Gwyneth Paltrow. In the film, following his escape from captivity by a terrorist group, world famous industrialist and master engineer Tony Stark builds a mechanized suit of armor and becomes the superhero Iron Man. A film featuring the character was in development at Universal Pictures, 20th Century Fox, and New Line Cinema at various times since 1990, before Marvel Studios reacquired the rights in 2006. Marvel put the project in production as its first self-financed film, with Paramount Pictures distributing. Favreau signed on as director in April 2006, and faced opposition from Marvel when trying to cast Downey in the title role; the actor was signed in September. Filming took place from March to June 2007, primarily in California to differentiate the film from numerous other superhero stories that are set in New York City-esque environments. During filming, the actors were free to create their own dialogue because pre-production was focused on the story and action. Rubber and metal versions of the armor, created by Stan Winston's company, were mixed with computer-generated imagery to create the title character. Iron Man premiered in Sydney on April 14, 2008, and was released in the United States on May 2, as the first film in Phase One of the MCU. It grossed over $585 million on its $140 million budget, becoming the eighth-highest grossing film of 2008. The film was praised by critics for its acting , screenplay, direction, visual effects, and action sequences. It was selected by the American Film Institute as one of the ten best films of 2008 and received two nominations at the 81st Academy Awards for Best Sound Editing and Best Visual Effects. Two sequels have been released: Iron Man 2 and Iron Man 3 . Further information: Iron Man and Music of the Marvel Cinematic Universe"
+            },
+            {
+                "name": "Iron_Man",
+                "desc": "This article is about the fictional superhero. For other uses, see Iron Man ."
+            },
+            {
+                "name": "Peter_Parker_(Marvel_Cinematic_Universe)",
+                "desc": "Peter Parker is a fictional character portrayed by Tom Holland in the Marvel Cinematic Universe film franchise—based on the character of the same name by Marvel Comics—commonly known by his alter ego, Spider-Man. In the films, Parker is a high school student at Midtown School of Science and Technology who received spider-like abilities after being bitten by a radioactive spider and since then has secretly operated as a vigilante. He is later recruited by Tony Stark and joins the Avengers. As of 2019[update], the character is one of the central figures of the MCU, having appeared prominently in five films from his introduction in Captain America: Civil War up to Spider-Man: Far From Home. In Iron Man 2, director Jon Favreau's son Max appears as a child wearing an Iron Man mask whom Iron Man saves from a drone. This was, retroactively, the introduction of a young Peter Parker to the MCU, as confirmed in June 2017 by Holland, producer Kevin Feige, and Spider-Man: Homecoming director Jon Watts. He is due to star in the upcoming MCU installment Spider-Man: No Way Home. Further information: Captain America: Civil War, Spider-Man: Homecoming, Avengers: Infinity War, Avengers: Endgame, and Spider-Man: Far From Home"
+            },
+            {
+                "name": "Iron_Man_(2009_film)",
+                "desc": "Tieren is a 2009 Chinese film directed by Li Yin based on the life of the model worker Wang Jinxi, played by Wu Gang. The film was released on Labor Day , 2009 as part of the celebration of the sixtieth anniversary of the founding of the PRC. Wu Gang won the Golden Rooster Award for Best Actor 2009, Shanghai Film Critics Award for Best Actor and was also nominated for Huabiao Award for Outstanding Actor. This article related to a Chinese film is a stub."
+            },
+            {
+                "name": "Iron_Man_(magazine)",
+                "desc": "Iron Man Magazine is an American publication which discusses bodybuilding, weightlifting and powerlifting. It was founded in 1936 by two Alliance, Nebraska natives, Peary Rader and his wife, Mabel Rader."
+            },
+            {
+                "name": "Iron_Man_(song)",
+                "desc": "\"Iron Man\" is a song written and performed by the English heavy metal band Black Sabbath, released on their 1970 album Paranoid. The lyrics tell the story of a man who time travels into the future and sees the apocalypse. In the process of returning to the present he is turned into steel by a magnetic field, and his attempts to warn the public are ignored and mocked. Feeling shunned and alone, Iron Man plans his revenge on mankind, causing the apocalypse seen in his vision. Upon hearing the main guitar riff for the first time, vocalist Ozzy Osbourne remarked that it sounded \"like a big iron bloke walking about\". The title became \"Iron Man\", with Geezer Butler writing the lyrics around the title. Osbourne sang behind a metal fan to get the sound effect in its first line, 'I am Iron Man!'. Despite the title, the song has no connection to the Marvel Comics character of the same name, although it was used in the end credits of the 2008 movie Iron Man, and the trailer for the 2010 sequel, Iron Man 2. The character Tony Stark, alter-ego of Iron Man, also wears a Black Sabbath t-shirt in the 2012 film The Avengers. This article is about the song by Black Sabbath. For the song by The Tansads, see The Tansads."
+            },
+            {
+                "name": "Tony_Stark_(Marvel_Cinematic_Universe)",
+                "desc": "Anthony Edward Stark is a fictional character portrayed by Robert Downey Jr. in the Marvel Cinematic Universe film franchise—based on the Marvel Comics character of the same name—commonly known by his alter ego, Iron Man. In the films, Stark is an industrialist, genius inventor, hero and former playboy who is CEO of Stark Industries. At the beginning of the series, he is a chief weapons manufacturer for the U.S. military, until he has a change of heart and redirects his technical knowledge into the creation of mechanized suits of armor which he uses to defend against those that would threaten peace around the world. Stark is one of the central figures of the MCU, having appeared in eleven films since his introduction in Iron Man . The character and Downey's performance have been credited with helping to cement the MCU as a multi-billion-dollar franchise, with Stark's evolution often being considered the defining arc of the series. See also: Iron Man and Iron Man 2"
+            },
+            {
+                "name": "Iron_Man_(Ultimate_Marvel_character)",
+                "desc": "Iron Man is a fictional character appearing in American comic books published by Marvel Comics. The character is the Ultimate Marvel version of the fictional superhero Iron Man, who first appeared in the fourth issue of Ultimate Marvel Team-Up, written by Brian Michael Bendis and drawn by Mike Allred. He later appeared in the Ultimates and often appears in other Ultimate Marvel titles. In the Ultimate Marvel Universe, the character is a wealthy industrialist, billionaire playboy, genius inventor, business tycoon and world-renowned scientist, who created the Iron Man armor, an exo-suit with high-tech equipment and superhuman capabilities, which grants the wearer with abilities, such as super-strength, flight, enhanced durability and the ability to fire weaponized energy blasts and beams. Like his mainstream counterpart, he has a drinking problem, being commonly depicted as a charismatic and womanizing alcoholic, with a snarky and sarcastic sense of humour, who suffers from a life-threatening affliction; in this case an inoperable brain tumor. With a life expectancy anywhere between six months and five years, he chose to become a philanthropist and superhero, deciding to use the remaining time he has left to live, for a noble purpose. While the character is yet to be featured in his own ongoing series, Stark's early life and origins were initially explored in the Ultimate Iron Man miniseries written by science fiction author Orson Scott Card. However, this origin story is no longer considered canon in the Ultimate Marvel Universe and was retconned as only being a fictional Japanese anime version. On the other hand, the character's adult years have been covered mainly by Mark Millar and Warren Ellis."
+            },
+            {
+                "name": "The_Iron_Man_(serial)",
+                "desc": "The Iron Man is a 1924 American film serial directed by Jay Marchant. This article about a silent film is a stub."
+            },
+            {
+                "name": "Iron_Man_(TV_series)",
+                "desc": "Iron Man, also known as Iron Man: The Animated Series, is an American animated television series based on Marvel Comics' superhero Iron Man. The series aired from 1994 to 1996 in syndication as part of The Marvel Action Hour, which packaged Iron Man with another animated series based on Marvel properties, the Fantastic Four, with one half-hour episode from each series airing back-to-back. The show was backed by a toy line that featured many armor variants. This series of Iron Man was among the few television series to be re-recorded in THX. This may have been usual at the time for a motion picture, but it is rare for a television series. Off the heels of the release of the live-action Iron Man film in 2008, reruns began airing on the Jetix block on Toon Disney. For the 2009 television series, see Iron Man: Armored Adventures."
+            }
+        ],
+        "mention_imgpath": "0e463c5651b7d3f0d32f36a01e722a58.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "two people in clothing",
+            "Dense Captions": "two people in clothing; a person in a garment; a person in a garment; two people in clothing in front of a blue wall; a person wearing a garment",
+            "Tags": "superhero; hero; fictional character; avengers; justice league; cartoon; fiction; iron man; action figure; armour; costume; clothing; person",
+            "OCR text": "COMIC CON; 1 --; THC CON; TIC CON; COM; SUZUKI MINA; GALURU; BENGALUETI; Comic CON; NIC CON; PLAY; RIC CON; NER; CON; COITIC CON; Tc CON",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        281
+                    ],
+                    "caption": "two people in clothing",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        46,
+                        4,
+                        197,
+                        268
+                    ],
+                    "caption": "a person in a garment",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        287,
+                        65,
+                        153,
+                        207
+                    ],
+                    "caption": "a person in a garment",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        487,
+                        272
+                    ],
+                    "caption": "two people in clothing in front of a blue wall",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        136,
+                        5,
+                        79,
+                        90
+                    ],
+                    "caption": "a close up of a garment",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        53,
+                        8,
+                        192,
+                        273
+                    ],
+                    "confidence": 0.85
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        295,
+                        71,
+                        148,
+                        209
+                    ],
+                    "confidence": 0.571
+                }
+            ]
+        }
+    },
+    "605": {
+        "mention": "Tian Shan mountain range",
+        "mention_context": "Panorama of downtown Korla, Xinjiang in the majestic Tian Shan mountain range. May 2007.",
+        "Candentity": [
+            {
+                "name": "Qitian_Mountains",
+                "desc": "The Qitian Mountains , also known as Guiyang Mountains are a series of mountains located in Chenzhou, Hunan Province, the smallest one of the Five Ranges in the Nanling Mountains. The Qitan Mountains runs through Beihu District and Yizhang County in the southwestern Chenzhou. This article related to a mountain or hill in China is a stub."
+            },
+            {
+                "name": "Tian_Shan",
+                "desc": "The Tian Shan,[a] also known as the Tengri Tagh or Tengir-Too, meaning the Mountains of Heaven or the Heavenly Mountain, is a large system of mountain ranges located in Central Asia. The highest peak in the Tian Shan is Jengish Chokusu, at 7,439 metres high. Its lowest point is the Turpan Depression, which is 154 m below sea level. One of the earliest historical references to these mountains may be related to the Xiongnu word Qilian – according to Tang commentator Yan Shigu, Qilian is the Xiongnu word for sky or heaven. Sima Qian in the Records of the Grand Historian mentioned Qilian in relation to the homeland of the Yuezhi and the term is believed to refer to the Tian Shan rather than the Qilian Mountains 1,500 kilometres further east now known by this name. The Tannu-Ola mountains in Tuva has the same meaning in its name . The name in Chinese, Tian Shan, is most likely a direct translation of the traditional Kyrgyz name for the mountains, Teñir Too. The Tian Shan is sacred in Tengrism, and its second-highest peak is known as Khan Tengri which may be translated as \"Lord of the Spirits\". \"Tianshan\" redirects here. For other uses, see Tianshan ."
+            },
+            {
+                "name": "Tianzhong_Mountain",
+                "desc": "Tianzhong Mountain has another name of Tiantai, and the original Tianzhong mountain is a circle little hill, covering an area of about 540 square meters, being 3.6 meters tall. It is located in the place, which is two kilometers far away of the northern Runan 汝南县, Zhumadian, Henan province. And the unique geographical position forms the ecological resources of Tianzhong mountain. According to history:“Yu the Great points for the world into Jiuzhou and since Yuzhou is the center of Jiuzhou and Runan is the center of Yu, Runan is called Tianzhong.” Another said is because of no clock for the ancient times during the day and hour can only calculate through the change of the shadow, Runan old volunteers recording: “since ancient times the shadow is measured, people collect stones to remember time by making a record of the sun's shadow”."
+            },
+            {
+                "name": "Tianmen_Mountain",
+                "desc": "nil"
+            },
+            {
+                "name": "Tiantai_Mountain",
+                "desc": "Tiantai Mountain, Mount Tiantai, or Tiantai Shan is a mountain in Tiantai County near the city of Taizhou, Zhejiang, China. Its highest peak, Huading, reaches a height of 1,138 meters . The mountain was made a national park on 1 August 1988. One of nine remaining wild populations of Seven-Son Flower Heptacodium miconioides is located on Mount Tiantai. \"Mount Tiantai\" redirects here. For other uses, see Mount Tiantai ."
+            },
+            {
+                "name": "Legend_of_Tianyun_Mountain",
+                "desc": "Legend of Tianyun Mountain is a 1980 Chinese film about Chinese people's sufferings from the long-term political campaigns from \"Anti-rightists\" in 1950s until the fall of Gang of Four. It depicted the individuals' hardship in the political turmoils and critically reflected the impact of that special history after the formation of the People's Republic of China. The film was based on the novel written by Lu Yanzhou, and was directed by Xie Jin, starring Wang Fuli, Shi Weijian, Zhong Xinghuo and Shi Jianlan."
+            },
+            {
+                "name": "Jialishan_Range",
+                "desc": "Jialishan Range is a mountain range in northern Taiwan. It is also regarded as the northern part of \"Western Thrust Fault Mountains\" by Tomita Yoshirou and Lin Chaoqi. Although it is named as \"Range\", some scholars think it only is a piedmont belt. It does not find a mention in the geography textbooks of elementary schools and high schools. The reason is Jialishan Range was cut by several rivers. The tallest peak of Jialishan Range is Mount Le , which has a height of 2,618 m."
+            },
+            {
+                "name": "Tianmu_Mountain",
+                "desc": "Tianmu Mountain, Mount Tianmu, or Tianmushan is a mountain in Lin'an County 83.2 kilometers west of Hangzhou, Zhejiang, in eastern China. It is made up of two peaks: West Tianmu and East Tianmu . Twin ponds near the top of the peaks led to the name of the mountain. China's Tianmu Mountain National Nature Reserve lies on the northwest portion of the mountain. It is a UNESCO Biosphere Reserve as part of UNESCO's Man and the Biosphere Program. Tianmu is known for giant Japanese cedars, waterfalls, Tianmu tea, peaks surrounded by clouds, bamboo shoots, temples and nunneries, and odd-shaped rocks. More than 2,000 species of plants grow on the mountain, including the last surviving truly wild population of Ginkgo trees. Prominent among the Japanese cedars is the \"Giant Tree King\", named by the Qianlong Emperor of the Qing. In 2009, it measured 26.5 meters in height, 2.33 meters in diameter, and 42.9 cubic meters in volume. The mountain is also home to hundreds of species of birds and animals, including 39 endangered or protected species. These include the clouded leopard and the black muntjac. In Chinese, the name Tianmushan can also refer to the adjacent range of mountains, including Mount Mogan."
+            },
+            {
+                "name": "Korla",
+                "desc": "Korla, also known as Kurla or from Mandarin Chinese as Ku'erle or Kuerle, is the second largest city in Xinjiang. It is a county-level city and the seat of the Bayingolin Mongol Autonomous Prefecture, the largest prefecture of China. Korla has existed since at least the Han Dynasty. Korla is known for its production of fragrant pears and is a production center for the Tarim oil fields. This article is about modern city of Korla, sometimes known as Kroran. For the ancient state also known as Krorän, see Loulan Kingdom. For the organist, see Korla Pandit."
+            },
+            {
+                "name": "Sacred_Mountains_of_China",
+                "desc": "The Sacred Mountains of China are divided into several groups. The Five Great Mountains refers to five of the most renowned mountains in Chinese history, and they were the subjects of imperial pilgrimage by emperors throughout ages. They are associated with the supreme God of Heaven and the five main cosmic deities of Chinese traditional religion. The group associated with Buddhism is referred to as the Four Sacred Mountains of Buddhism , and the group associated with Taoism is referred to as the Four Sacred Mountains of Taoism . The sacred mountains have all been important destinations for pilgrimage, the Chinese expression for pilgrimage being a shortened version of an expression which means \"paying respect to a holy mountain\" . Main article: Mount Tai"
+            }
+        ],
+        "mention_imgpath": "58c0db2bcd5049f1904a4529a01655c5.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "an aerial view of a city",
+            "Dense Captions": "an aerial view of a city; a high angle view of a village; a river running through a city; a aerial view of a city; a city in the desert; a building with a lot of debris",
+            "Tags": "outdoor; aerial photography; building; ground; water; bird's-eye view; sky; urban design; urban area; shore; nature; city; river; aerial; panorama",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        222
+                    ],
+                    "caption": "an aerial view of a city",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        120,
+                        53,
+                        359,
+                        162
+                    ],
+                    "caption": "a high angle view of a village",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        55,
+                        182,
+                        126
+                    ],
+                    "caption": "a river running through a city",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        123,
+                        152,
+                        209,
+                        66
+                    ],
+                    "caption": "a aerial view of a city",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        116,
+                        157,
+                        121,
+                        62
+                    ],
+                    "caption": "a building with a lot of debris",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": []
+        }
+    },
+    "359": {
+        "mention": "Stockholm",
+        "mention_context": "AP-BGY, the aircraft which was forced to land in Stockholm, photographed last year. Following the incident, one man of Pakistani origin was detained by police.",
+        "Candentity": [
+            {
+                "name": "Stockholm_(2018_film)",
+                "desc": "Stockholm is a 2018 crime film written, produced and directed by Robert Budreau. It stars Ethan Hawke, Noomi Rapace, Mark Strong, Christopher Heyerdahl, Bea Santos and Thorbjørn Harr. The film premiered at the Tribeca Film Festival on April 19, 2018 and was released on April 12, 2019 by Smith Global Media."
+            },
+            {
+                "name": "Stockholm_&_Göteborg",
+                "desc": "Volume 6: Stockholm & Göteborg is a live album by English avant-rock group Henry Cow, and is disc 6 of the 10-disc 40th Anniversary Henry Cow Box Set. It was released in September 2008 by RēR Megacorp as a free-standing album in advance of the box set release in January 2009. Stockholm & Göteborg consists of previously unreleased recordings made by Sveriges Radio of concerts performed by the group in May 1976[a] in Gothenburg and May 1977 in Stockholm. The concerts were later broadcast by Sveriges Radio in July 1976 and June 1977 respectively. Also included on the CD is a song from a concert in Hamburg in March 1976.[a] The original 8 track and stereo 2 track master tapes were used and non-invasively remixed and remastered for this album by Bob Drake. This was Henry Cow's first new release in 30 years and the first to include Georgie Born, the band's bassist and celloist from 1976 to 1978. It was also the first official release of the band performing \"Erk Gah\"."
+            },
+            {
+                "name": "The_Real_World:_Stockholm",
+                "desc": "The Real World: Stockholm is the first reality television show to be broadcast on Swedish television. Based on the successful American TV show The Real World, the show premiered on 1 October 1995 on TV1000. Following the show's success, The Real World: Visby aired in 1996, but it became the last Real World season in Sweden following poor ratings.The Real World: Visby was broadcast on TV1000 and ZTV in late 1996. It served as second season of the show after the success of The Real World: Stockholm. It was the last Swedish season as the ratings dropped too low.\n\n"
+            },
+            {
+                "name": "Stockholm_(2013_film)",
+                "desc": "Stockholm is a 2013 Spanish romantic drama film directed by Rodrigo Sorogoyen."
+            },
+            {
+                "name": "Stockholm,_Sweden",
+                "desc": "Stockholm (Swedish: [ˈstɔ̂kː(h)ɔlm] (listen)) is the capital and largest city of Sweden as well as the largest urban area in Scandinavia. Approximately 990,000 people live in the municipality, with 1.6 million in the urban area, and 2.5 million in the metropolitan area. The city stretches across fourteen islands where Lake Mälaren flows into the Baltic Sea. Outside the city to the east, and along the coast, is the island chain of the Stockholm archipelago. The area has been settled since the Stone Age, in the 6th millennium BC, and was founded as a city in 1252 by Swedish statesman Birger Jarl. It is also the county seat of Stockholm County. For several hundred years, Stockholm was the capital of Finland as well (Finnish: Tukholma), which was then a part of Sweden. The population of the municipality of Stockholm is expected to reach one million people in 2024.Stockholm is the cultural, media, political, and economic centre of Sweden. The Stockholm region alone accounts for over a third of the country's GDP, and is among the top 10 regions in Europe by GDP per capita. Ranked as an alpha-global city, it is the largest in Scandinavia and the main centre for corporate headquarters in the Nordic region. The city is home to some of Europe's top ranking universities, such as the Karolinska Institute, Stockholm School of Economics, KTH Royal Institute of Technology and Stockholm University. It hosts the annual Nobel Prize ceremonies and banquet at the Stockholm Concert Hall and Stockholm City Hall. One of the city's most prized museums, the Vasa Museum, is the most visited non-art museum in Scandinavia. The Stockholm metro, opened in 1950, is well known for the decor of its stations; it has been called the longest art gallery in the world. Sweden's national football arena is located north of the city centre, in Solna. Avicii Arena, the national indoor arena, is in the southern part of the city. The city was the host of the 1912 Summer Olympics.\nStockholm is the seat of the Swedish government and most of its agencies, including the highest courts in the judiciary, and the official residencies of the Swedish monarch and the Prime Minister. The government has its seat in the Rosenbad building, the Riksdag (Swedish parliament) is seated in the Parliament House, and the Prime Minister's residence is adjacent at Sager House. Stockholm Palace is the official residence and principal workplace of the Swedish monarch, while Drottningholm Palace in neighboring Ekerö serves as the Royal Family's private residence."
+            },
+            {
+                "name": "Stockholm_(The_Triffids_album)",
+                "desc": "Stockholm is a live recording by Australian folk rock group, The Triffids, released in July 1990 and is the final official recording by the band. All tracks were recorded live in Stockholm in 1989 for Swedish National Radio, The Bommen Show. The album was produced by Lars Aldman, engineered by Michael Bergek, and mixed at Planet Sound Studios, Perth on 15, 16 and 17 September 1989 by James Hewgill and David McComb. The album was released after the Triffids officially disbanded in August, 1989 in order to fulfill the band's contractual obligations with MNW. Island were not happy with the band using any material previously released under the label as a result the recordings highlight the Triffids’ pre-Calenture era. This 1990s folk album-related article is a stub."
+            },
+            {
+                "name": "Stockholm_County",
+                "desc": "Stockholm County is a county or län on the Baltic Sea coast of Sweden. It borders Uppsala County and Södermanland County. It also borders Mälaren and the Baltic Sea. The city of Stockholm is the capital of Sweden. Stockholm County is divided by the historic provinces of Uppland and Södermanland . More than one fifth of the Swedish population lives in the county. Stockholm County is also one of the statistical riksområden according to NUTS:SE, Nomenclature of Territorial Units for Statistics within the EU. With more than two million inhabitants, Stockholm is the most densely populated county of Sweden. This article is about the administrative county. For the Riksdag constituency, see Stockholm County ."
+            },
+            {
+                "name": "Stockholm_(Jean-Louis_Aubert_album)",
+                "desc": "Stockholm a French solo album by Jean-Louis Aubert. It includes the singles Océan and Le Jour Se Lève Encore."
+            },
+            {
+                "name": "Boeing_777",
+                "desc": "The Boeing 777 is an American wide-body airliner developed and manufactured by Boeing Commercial Airplanes. It is the world's largest twinjet and commonly referred to as the Triple Seven. The 777 was designed to bridge the gap between Boeing's 767 and 747, and to replace older DC-10s or L-1011s. Developed in consultation with eight major airlines, with a first meeting in January 1990, the program was launched on October 14, 1990 with an order from United Airlines. The prototype was rolled out on April 9, 1994, and first flew on June 12, 1994. The 777 entered service with the launch customer, United Airlines, on June 7, 1995. Longer range variants were launched on February 29, 2000 and were first delivered on April 29, 2004. It can accommodate up to ten abreast seating layout and has a typical 3-class capacity of 301 to 368 passengers, with a range of 5,240 to 8,555 nautical miles . It is recognizable for its large-diameter turbofan engines, six wheels on each main landing gear, fully circular fuselage cross-section, and a blade-shaped tail cone. It has fly-by-wire controls, a first for Boeing. It initially competed with the Airbus A340 and the McDonnell Douglas MD-11, both now out of production, and currently competes with the Airbus A330-300 and newer Airbus A350 XWB. The original 777 with a maximum takeoff weight of 545,000–660,000 lb was produced in two fuselage lengths: the initial -200 was followed by the extended-range 777-200ER in 1997; and the 33.25 ft longer 777-300 in 1998. Those 777 Classics were powered with 77,200–98,000 lbf General Electric GE90, Pratt & Whitney PW4000, or Rolls-Royce Trent 800 engines. The longer range 777-300ER with a MTOW of 766,000–775,000 lb entered service in 2004, the ultra long-range 777-200LR in 2006, and the 777F freighter in 2009. These long haul variants feature 110,000–115,300 lbf GE90 engines and extended raked wingtips. In November 2013, Boeing announced the 777X development with the -8 and -9 variants, scheduled to enter service by 2020. The 777X features composite wings with folding wingtips and General Electric GE9X engines. The 777 has been ordered and delivered more than any other wide-body airliner; as of August 2019[update], more than 60 customers had placed orders for 2,049 aircraft of all variants, with 1,609 delivered. The most common and successful variant is the 777-300ER with 844 aircraft ordered and 810 delivered. By March 2018, the 777 had become the most-produced Boeing wide-body jet, surpassing the Boeing 747. As of July 2018[update], Emirates was the largest operator with 163 aircraft. As of February 2019[update], the 777 has been involved in 28 aviation accidents and incidents, including seven hull losses resulting in 541 fatalities along with three hijackings. \"B777\" redirects here. For the road in Scotland, see B777 road."
+            },
+            {
+                "name": "Stockholm",
+                "desc": "Stockholm [a] is the capital and most populous urban area of Sweden as well as in Scandinavia. 1 million people live in the municipality, approximately 1.6 million in the urban area, and 2.4 million in the metropolitan area. The city stretches across fourteen islands where Lake Mälaren flows into the Baltic Sea. Outside the city to the east, and along the coast, is the island chain of the Stockholm archipelago. The area has been settled since the Stone Age, in the 6th millennium BC, and was founded as a city in 1252 by Swedish statesman Birger Jarl. It is also the county seat of Stockholm County. Stockholm is the cultural, media, political, and economic centre of Sweden. The Stockholm region alone accounts for over a third of the country's GDP, and is among the top 10 regions in Europe by GDP per capita. Ranked as an alpha-global city, it is the largest in Scandinavia and the main centre for corporate headquarters in the Nordic region. The city is home to some of Europe's top ranking universities, such as the Stockholm School of Economics, Karolinska Institute and KTH Royal Institute of Technology. It hosts the annual Nobel Prize ceremonies and banquet at the Stockholm Concert Hall and Stockholm City Hall. One of the city's most prized museums, the Vasa Museum, is the most visited non-art museum in Scandinavia. The Stockholm metro, opened in 1950, is well known for the decor of its stations; it has been called the longest art gallery in the world. Sweden's national football arena is located north of the city centre, in Solna. Ericsson Globe, the national indoor arena, is in the southern part of the city. The city was the host of the 1912 Summer Olympics, and hosted the equestrian portion of the 1956 Summer Olympics otherwise held in Melbourne, Victoria, Australia. Stockholm is the seat of the Swedish government and most of its agencies, including the highest courts in the judiciary, and the official residencies of the Swedish monarch and the Prime Minister. The government has its seat in the Rosenbad building, the Riksdag is seated in the Parliament House, and the Prime Minister's residence is adjacent at Sager House. Stockholm Palace is the official residence and principal workplace of the Swedish monarch, while Drottningholm Palace, a World Heritage Site on the outskirts of Stockholm, serves as the Royal Family's private residence. For other uses, see Stockholm ."
+            }
+        ],
+        "mention_imgpath": "2b22bc532444abaec22840bea83d9ced.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a large airplane flying in the sky",
+            "Dense Captions": "a large airplane flying in the sky; a plane flying in the sky; the tail of an airplane",
+            "Tags": "transport; aircraft; sky; outdoor; airplane; plane; air travel; vehicle; aircraft engine; airliner; flap; jet; airline; jet engine; flight; wing; twinjet; aerospace engineering; aviation; jet aircraft; air; takeoff; blue; large; airport; airbus",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        297
+                    ],
+                    "caption": "a large airplane flying in the sky",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        3,
+                        79,
+                        478,
+                        133
+                    ],
+                    "caption": "a plane flying in the sky",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        5,
+                        80,
+                        247,
+                        75
+                    ],
+                    "caption": "the tail of an airplane",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "airplane",
+                    "bounding_box": [
+                        29,
+                        79,
+                        317,
+                        135
+                    ],
+                    "confidence": 0.5
+                },
+                {
+                    "object_name": "airplane",
+                    "bounding_box": [
+                        148,
+                        83,
+                        325,
+                        139
+                    ],
+                    "confidence": 0.662
+                }
+            ]
+        }
+    },
+    "865": {
+        "mention": "Singapore rhododendron",
+        "mention_context": "A video of a Singapore rhododendron with a carpenter bee",
+        "Candentity": [
+            {
+                "name": "Bulbophyllum_trigonopus",
+                "desc": "Bulbophyllum trigonopus is a species of epiphytic orchid that is found in Borneo and from Thailand to Malaysia. It was first formally described in 1881 by Heinrich Gustav Reichenbach who gave it the name Cirrhopetalum trigonopus and gave Bulbophyllum trigonopus as a synonym. The description was published in The Gardeners' Chronicle along with the first formal description of Cirrhopetalum abbreviatum. In 2017 Poh Teck Ong changed the name to Bulbophyllum trigonopus and the change has been accepted by the World Checklist of Selected Plant Families with Cirrhopetalum abbreviatum now regarded as a synonym of Bulbophyllum trigonopus."
+            },
+            {
+                "name": "Patersonia_occidentalis",
+                "desc": "Patersonia occidentalis, commonly known as purple flag or long purple flag, is a perennial herbaceous plant that is endemic to Western Australia. The Noongar name for the plant is komma. The tufted rhizomatous plant typically grows to a height of 0.75 to 1.5 metres and has a width of less than 0.5 metres . It blooms between August and December producing purple flowers. Found amongst granite outcrops, in winter wet areas and on dunes from the Mid West, Peel, Wheatbelt, South West, Great Southern and Goldfields-Esperance regions of Western Australia where it grows in gravelly, sandy or loamy soils over granite, limestone or ironstone. Cultivated in gardens the species is frost tolerant and able to cope in a dry position. It was first described by the botanist Robert Brown in 1810 in his work Prodromus Florae Novae Hollandiae. Synonyms for the species include Genosiris occidentalis described by Ferdinand von Mueller in 1869 in Fragmenta Phytographiae Australiae and Patersonia bicolor by George Bentham in 1873 in Flora Australiensis."
+            },
+            {
+                "name": "Melastoma_malabathricum",
+                "desc": "Melastoma malabathricum, known also as Malabar melastome, Indian rhododendron, Singapore rhododendron, planter's rhododendron and senduduk, is a flowering plant in the family Melastomataceae. This plant is native to Indomalaya, Japan and Australia, and is usually found between 100 and 2,800 m on grasslands and sparse forests. It has been used as a medicinal plant in certain parts of the world, but has been declared a noxious weed in the United States. M. malabathricum is a known hyperaccumulator of aluminium, and as such can be used for phytoremediation."
+            },
+            {
+                "name": "Benthamina_alyxifolia",
+                "desc": "Benthamina alyxifolia is a species of mistletoe plant, found in Australia. This Santalales-related article is a stub."
+            },
+            {
+                "name": "Hoplerythrinus",
+                "desc": "This Characiformes-related article is a stub."
+            },
+            {
+                "name": "Rhododendron_sect._Rhodora",
+                "desc": "This Ericaceae article is a stub."
+            },
+            {
+                "name": "Acacia_perangusta",
+                "desc": "Acacia perangusta, commonly known as eprapah wattle, is a tree or shrub belonging to the genus Acacia and the subgenus Phyllodineae native to eastern Australia."
+            },
+            {
+                "name": "California_carpenter_bee",
+                "desc": "The California carpenter bee, Xylocopa californica, is a species of carpenter bee in the order Hymenoptera. It is native to western North America. This Apidae article is a stub."
+            },
+            {
+                "name": "Rhododendron_subsect._Ledum",
+                "desc": "Ledum was a genus in the family Ericaceae, including 8 species of evergreen shrubs native to cool temperate and subarctic regions of the Northern Hemisphere and commonly known as Labrador tea. It is now recognised as a subsection of section Rhododendron, subgenus Rhododendron, of the genus Rhododendron."
+            },
+            {
+                "name": "Salix_triandra",
+                "desc": "Salix triandra, with the common names almond willow, almond-leaved willow or black maul willow, is a species of willow native to Europe and Western and Central Asia. It is found from south-eastern England east to Lake Baikal, and south to Spain and the Mediterranean east to the Caucasus, and the Alborz Mountains. It usually grows in riparian habitats, on river and stream banks, and in wetlands."
+            }
+        ],
+        "mention_imgpath": "2a989849b7b1e61bcd04e66879bb5650.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a black insect on a purple flower",
+            "Dense Captions": "a black insect on a purple flower; a blurry image of a person's head; a black bug on a purple flower; a bee on a purple flower; a close up of a green vegetable; a purple flower with green leaves",
+            "Tags": "insect; invertebrate; purple; outdoor; plant; bee; animal; flower",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        407
+                    ],
+                    "caption": "a black insect on a purple flower",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        208,
+                        127,
+                        72,
+                        119
+                    ],
+                    "caption": "a blurry image of a person's head",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        488,
+                        397
+                    ],
+                    "caption": "a black bug on a purple flower",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        150,
+                        57,
+                        252,
+                        219
+                    ],
+                    "caption": "a bee on a purple flower",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        219,
+                        0,
+                        235,
+                        71
+                    ],
+                    "caption": "a close up of a green vegetable",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        294,
+                        167,
+                        110,
+                        76
+                    ],
+                    "caption": "a purple flower with green leaves",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": []
+        }
+    },
+    "1355": {
+        "mention": "Bulldog",
+        "mention_context": "Jim LeRoy in his airplane \"Bulldog\", taxiing back after a performance at Airshow Chattanooga in October 2005.",
+        "Candentity": [
+            {
+                "name": "Bulldog_(band)",
+                "desc": "Bulldog is an Argentine punk rock band formed in 1989 This article on a rock band is a stub."
+            },
+            {
+                "name": "The_Bulldog",
+                "desc": "The Bulldog is an Amsterdam-based company that owns and operates a chain of cannabis coffee shops and a hotel in Canada: the merchandising brand name is the same as the company name. The group logo consists of a cartoon figure of a bulldog in a round frame. For the American football player nicknamed \"the Bulldog\", see Art Donovan."
+            },
+            {
+                "name": "Microsoft_SQL_Server_Master_Data_Services",
+                "desc": "Microsoft SQL Server Master Data Services is a Master Data Management product from Microsoft that ships as a part of the Microsoft SQL Server relational database management system. Master Data Services is the SQL Server solution for master data management. Master data management allows an organization to discover and define non-transactional lists of data, and compile maintainable, reliable master lists. Master Data Services first shipped with Microsoft SQL Server 2008 R2. Microsoft SQL Server 2016 introduced enhancements to Master Data Services, such as improved performance and security, and the ability to clear transaction logs, create custom indexes, share entity data between different models, and support for many-to-many relationships."
+            },
+            {
+                "name": "Bulldog",
+                "desc": "The Bulldog, also known as the English Bulldog or British Bulldog, is a medium-sized dog breed. It is a muscular, hefty dog with a wrinkled face and a distinctive pushed-in nose. The Kennel Club , the American Kennel Club , and the United Kennel Club oversee breeding records. Bulldogs are popular pets; they were the fifth most popular purebreed in the US in 2017 according to the American Kennel Club. Bulldogs have a longstanding association with British culture, as the BBC wrote: \"to many the Bulldog is a national icon, symbolising pluck and determination.\" During World War II, Bulldogs were often likened to Prime Minister Winston Churchill and his defiance of Nazi Germany. Dedicated Bulldog fanciers formed the Bulldog Club in 1878, and the Bulldog Club of America in 1890. This article is about the English Bulldog. For other uses, see Bulldog ."
+            },
+            {
+                "name": "Jim_LeRoy",
+                "desc": "Jim LeRoy was an American aerobatics pilot. He died upon impact in a crash at the Dayton Air Show in Ohio."
+            },
+            {
+                "name": "Scottish_Aviation_Bulldog",
+                "desc": "The Scottish Aviation Bulldog is a British two-seat side-by-side training aircraft designed by Beagle Aircraft as the B.125 Bulldog. The prototype Bulldog flew on 19 May 1969 at Shoreham Airport. The first order for the type was for 78 from the Swedish Air Board. Before any production aircraft were built, Beagle Aircraft ceased trading and the production rights for the aircraft, with the Swedish order, were taken over by Scottish Aviation Limited. All subsequent aircraft were built at Prestwick Airport by Scottish Aviation, and later by British Aerospace."
+            },
+            {
+                "name": "Bulldog_(The_Killing)",
+                "desc": "\"Bulldog\" is the twenty-fourth episode of the American television drama series The Killing, and the eleventh of its second season, which aired on the AMC channel in the United States on June 3, 2012. It is written by Jeremy Doner and directed by Ed Bianchi. In the episode, the detectives gain access to the casino's tenth floor, which only causes them to elude the police; and both Stan Larsen and Darren Richmond make decisions that affect their futures."
+            },
+            {
+                "name": "Bristol_Bulldog",
+                "desc": "The Bristol Bulldog is a British Royal Air Force single-seat biplane fighter designed during the 1920s by the Bristol Aeroplane Company.  More than 400 Bulldogs were produced for the RAF and overseas customers, and it was one of the most famous aircraft used by the RAF during the inter-war period."
+            },
+            {
+                "name": "GWR_3300_Class",
+                "desc": "The Bulldog and Bird classes were double-framed inside cylinder 4-4-0 steam locomotives used for passenger services on the Great Western Railway. The Bird Class were a development of the Bulldogs with strengthened outside frames, of which a total of fifteen were built. A total of 121 Bulldogs were built new, with a further twenty rebuilt from Duke Class locomotives. Thirty Bulldogs were later rebuilt as Earl Class locomotives and renumbered 3265 , 3200-3228."
+            },
+            {
+                "name": "Oxford_University_Police",
+                "desc": "The Oxford University Police, or Oxford University Constables , was the private police force of the University of Oxford between 1829 and 2003. They carried warrant cards and were empowered to act as police officers within the University precincts and within areas of Oxford within four miles of any University building. As of 2001 the force existed as a private constabulary with 40 sworn constables. They were widely recognised for the bowler hats which formed part of their uniform, and formerly had the duty of patrolling outside the Examination Schools alongside the University Proctors, the officials responsible for discipline in the University. They were abolished by the University Council in 2003."
+            }
+        ],
+        "mention_imgpath": "e20f03d1b843ec9a7df6739291fe78ef.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a yellow airplane parked in front of a building",
+            "Dense Captions": "a yellow airplane parked in front of a building; a yellow airplane with a person in the cockpit; a close up of a sign; a blue roof with a white wall; the tail of a yellow airplane; a building with many windows",
+            "Tags": "transport; vehicle; aircraft; general aviation; outdoor; building; plane; propeller-driven aircraft; propeller; air travel; yellow; light aircraft; airplane; aerospace manufacturer; aviation; monoplane; turboprop; parked; ground; airport; runway",
+            "OCR text": "UNISON; BULLDOG; A Co",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        375
+                    ],
+                    "caption": "a yellow airplane parked in front of a building",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        1,
+                        131,
+                        466,
+                        195
+                    ],
+                    "caption": "a yellow airplane with a person in the cockpit",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        134,
+                        217,
+                        159,
+                        53
+                    ],
+                    "caption": "a close up of a sign",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        186,
+                        0,
+                        310,
+                        68
+                    ],
+                    "caption": "a blue roof with a white wall",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        9,
+                        187,
+                        122,
+                        120
+                    ],
+                    "caption": "the tail of a yellow airplane",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        73,
+                        492,
+                        103
+                    ],
+                    "caption": "a building with many windows",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "plane",
+                    "bounding_box": [
+                        98,
+                        140,
+                        380,
+                        185
+                    ],
+                    "confidence": 0.588
+                }
+            ]
+        }
+    },
+    "862": {
+        "mention": "Rick Perry",
+        "mention_context": "Rick Perry in October 2011.",
+        "Candentity": [
+            {
+                "name": "Rick_Ross",
+                "desc": "William Leonard Roberts II , known professionally as Rick Ross, is an American rapper, songwriter, entrepreneur, and record executive. Prior to releasing his debut single, \"Hustlin'\" in 2006, Ross was the subject of a bidding war, receiving offers from Diddy's Bad Boy Entertainment and Irv Gotti's Murder Inc., until signing a multimillion-dollar deal with Jay-Z's Def Jam Recordings. Ross released his debut album Port of Miami through the label later that year, debuting at the top spot on the U.S. Billboard 200 album chart, with sales of 187,000 units during the first week. Ross released his second studio album, Trilla in 2008, once again debuting atop the Billboard 200. Rick Ross founded the record label Maybach Music Group in 2009, on which he released his studio albums Deeper Than Rap , Teflon Don , God Forgives, I Don't , Mastermind, Hood Billionaire , Black Market , and Rather You Than Me . His tenth album, Port of Miami 2 was released in August 2019 and peaked at number 2 on the Billboard 200 charts. Ross was also the first artist signed to Diddy's management company Ciroc Entertainment. In early 2012, MTV named Ross as the Hottest MC in the Game. For other uses, see Rick Ross and Rozay ."
+            },
+            {
+                "name": "Rick_Leach",
+                "desc": "Rick Leach is a former professional tennis player and a coach from the United States. A doubles specialist, he won five Grand Slam doubles titles , and four mixed doubles titles . He reached the world No. 1 doubles ranking in 1990. Leach was a member of the US team which won the Davis Cup in 1990. Partnering Jim Pugh, he won the doubles rubbers in all four of the rounds which the US played in that year, and clinched the team's victory in the final with a win over Pat Cash and John Fitzgerald of Australia. Prior to turning professional, Leach became the first four-time Division 1 All-American in singles and doubles at the University of Southern California , and won the NCAA doubles title in 1986 and 1987. He is currently the coach of the OC Breakers. His brother, Jon Leach, is married to tennis player Lindsay Davenport. For the former baseball player and college quarterback, see Rick Leach ."
+            },
+            {
+                "name": "2010_Texas_gubernatorial_election",
+                "desc": "The 2010 Texas gubernatorial election was held on Tuesday, November 2, 2010, to elect the Governor of Texas. Incumbent Republican Governor Rick Perry ran successfully for election to a third consecutive term. He won the Republican primary against U.S. Senator Kay Bailey Hutchison and political newcomer, Debra Medina. The former Mayor of Houston, Bill White, won the Democratic nomination. Kathie Glass, a lawyer from Houston and previous candidate for Texas Attorney General, won the Libertarian nomination. Deb Shafto was the nominee of the Texas Green Party. Andy Barron, an orthodontist from Lubbock, was a declared write-in candidate. Exit polls showed Perry winning Anglos , while White performed well among African Americans and Latinos Perry's fourth inauguration for a third full four-year term began on January 18, 2011, on the State Capitol South Grounds."
+            },
+            {
+                "name": "Rick_Spears",
+                "desc": "Rick Spears is an American comic book writer, best known for Teenagers from Mars and other independent comics."
+            },
+            {
+                "name": "Rick_Perry_presidential_campaign,_2012",
+                "desc": "The Rick Perry presidential campaign of 2012 began when Rick Perry, four-term Governor of Texas, announced via a spokesman on August 11, 2011, that he would be running for the 2012 Republican Party nomination for president of the United States.Perry was considered as a potential candidate since as early as the 2008 presidential election, initially denying he was interested in the office but later becoming more open-minded. He formally launched his campaign on August 13, 2011, in Charleston, South Carolina. While he was initially successful in fundraising and was largely considered a serious contender for the nomination, he struggled during the debates and his poll numbers began to decline. After finishing fifth with just over 10% of the vote in the Iowa caucuses on January 3, 2012, Perry considered dropping out of the presidential race but did not. After a poor showing in New Hampshire and with \"lagging\" poll numbers in South Carolina, Perry formally announced he was suspending his campaign on January 19, 2012."
+            },
+            {
+                "name": "Rick_Perry",
+                "desc": "James Richard \"Rick\" Perry is an American politician who served as the 14th United States Secretary of Energy from 2017 to 2019 and as the 47th Governor of Texas from 2000 to 2015. Perry also ran unsuccessfully for the Republican nomination for President of the United States in the 2012 and 2016 elections. Born into a family of cotton farmers in Haskell, Texas, Perry graduated from Texas A&M University in 1972 and entered into the United States Air Force, serving a five-year stint and achieving the rank of captain. After leaving the Air Force in 1977, Perry returned to Texas and entered politics, serving as a Democratic member of the Texas House of Representatives from 1985 to 1991. In 1989, Perry switched parties and became a Republican, and was elected Agriculture Commissioner of Texas the following year. In 1998, Perry was elected Lieutenant Governor of Texas, becoming the state's first Republican Lieutenant Governor since Reconstruction. Perry assumed the governorship of Texas in December 2000, after Governor George W. Bush resigned following his election as President. Perry was re-elected Governor three times, becoming the longest-serving Governor in Texas history. As Governor, Perry identified as a staunch conservative, enacting conservative fiscal policies, restrictions on abortion and expanded gun rights. Long considered a potential presidential candidate, Perry officially announced his candidacy for the 2012 Republican nomination for President in August 2011. Perry initially performed well in polling and showed strong fundraising prowess, leading to him being considered a serious contender for the nomination, however his support declined following poor performances in debates and early primaries and he withdrew from the race in January 2012. Perry declined to run for re-election to a fourth term as Governor and left office in 2015, launching a second presidential campaign shortly after. Perry's second presidential campaign failed to garner substantial polling support, fundraising or media attention, leading to him withdrawing from the race after only three months. Perry was initially a vocal opponent of Donald Trump's 2016 campaign for President, however he later endorsed Trump after he secured the Republican nomination. After winning the presidency, Trump appointed Perry as Secretary of Energy and he was confirmed by the United States Senate in a 62–37 vote on March 2, 2017. On October 17, 2019, Perry reported to Trump that he intended to resign as Secretary of Energy at the end of the year. He left office on December 1, 2019. For people with similar names, see Richard Perry and James Perry."
+            },
+            {
+                "name": "Ron_Perry_(music)",
+                "desc": "Ron Perry is an American music executive. As of January 2, 2018, Perry serves as the Chairman & CEO of Columbia Records. Columbia Records is home to Adele, Beyoncé, Bob Dylan, Bruce Springsteen, David Bowie, Barbra Streisand, Billy Joel, BTS, Tony Bennett, AC/DC, Leonard Cohen, Electric Light Orchestra, David Gilmour, Jack White, Pharrell, John Mayer, among other artists. Perry is the former president of SONGS Music Publishing. A partner of SONGS since the company's inception in 2004, Perry had signed and overseen the careers of artists and songwriters including The Weeknd, XXXTentacion, Lorde, Diplo, DJ Mustard, Major Lazer, Desiigner, Q-Tip and many others. In December 2017, SONGS was sold to Kobalt Music Publishing. Some of Perry's A&R credits include the 11x Diamond single for Lil Nas X, \"Old Town Road .\" This became the longest running #1 single of all time on the Billboard Hot 100 for 19 consecutive weeks, and earned 2 Grammy Awards for Music Video of the Year and Best Pop Duo/Group Performance at the 62nd Annual Grammy Awards. Other credits include the 6x Multi-Platinum \"Starboy\" and the 3x Platinum \"I Feel It Coming\" for The Weeknd and Daft Punk, as well as Lorde's second album Melodrama, which debuted at No. 1 on the Billboard Top 200 and received a Grammy nomination for Album of the Year at the 60th Annual Grammy Awards."
+            },
+            {
+                "name": "Rick_Tyler",
+                "desc": "Richard Seburn Tyler Jr. is an American white supremacist and political candidate from Tennessee. Tyler first attracted significant media attention in 2016 when he erected a billboard that read \"Make America White Again\" when running for the United States House of Representatives as an independent. He has unsuccessfully run for multiple offices since 2010, and has announced that he will be running for President in 2020 on the American Freedom Party ticket. For the DC Comics character, see Hourman ."
+            },
+            {
+                "name": "Rick_Perry_2012_presidential_campaign",
+                "desc": "The Rick Perry presidential campaign of 2012 began when Rick Perry, four-term Governor of Texas, announced via a spokesman on August 11, 2011, that he would be running for the 2012 Republican Party nomination for president of the United States. Perry was considered as a potential candidate since as early as the 2008 presidential election, initially denying he was interested in the office but later becoming more open-minded. He formally launched his campaign on August 13, 2011, in Charleston, South Carolina. While he was initially successful in fundraising and was largely considered a serious contender for the nomination, he struggled during the debates and his poll numbers began to decline. After finishing fifth with just over 10% of the vote in the Iowa caucuses on January 3, 2012, Perry considered dropping out of the presidential race but did not. After a poor showing in New Hampshire and with \"lagging\" poll numbers in South Carolina, Perry formally announced he was suspending his campaign on January 19, 2012. Main articles: Republican Party presidential debates, 2012 and Straw polls for the Republican Party presidential primaries, 2012"
+            },
+            {
+                "name": "Mastermind_(Rick_Ross_album)",
+                "desc": "Mastermind is the sixth studio album by American rapper Rick Ross. It was released on March 3, 2014, by Maybach Music Group and Slip-n-Slide Records, and distributed by Def Jam Recordings. The album features guest appearances from Jay-Z, Jeezy, The Weeknd, Kanye West, Big Sean, Meek Mill, Lil Wayne, French Montana, Diddy, Sizzla, Mavado, Z-Ro and Scarface. The album was supported with the official singles \"The Devil Is a Lie\", \"War Ready\" and \"Thug Cry\", in addition to the promotional singles \"Box Chevy\", \"No Games\" and \"Nobody\". Mastermind received generally positive reviews from critics. The album debuted at number one on the US Billboard 200, with first-week sales of 179,000 copies in the United States. The album was nominated for Album of the Year at the 2014 BET Hip Hop Awards."
+            }
+        ],
+        "mention_imgpath": "89eb64d71ff00d457225c150f8415a1f.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a man in a suit and tie",
+            "Dense Captions": "a man in a suit and tie; a man in a suit and tie; a close-up of a man's tie; a man smiling with a white shirt; a close up of a man's face; a close up of a person's mouth; a man wearing a suit and tie",
+            "Tags": "human face; person; smile; clothing; formal wear; man; chin; tie; forehead; blazer; businessperson; gentleman; white-collar worker; dress shirt; collar; shirt; wrinkle; eyebrow; headshot; wearing; suit; indoor; fabric",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        369,
+                        500
+                    ],
+                    "caption": "a man in a suit and tie",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        2,
+                        9,
+                        358,
+                        480
+                    ],
+                    "caption": "a man in a suit and tie",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        75,
+                        318,
+                        106,
+                        177
+                    ],
+                    "caption": "a close-up of a man's tie",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        58,
+                        8,
+                        227,
+                        286
+                    ],
+                    "caption": "a man smiling with a white shirt",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        72,
+                        15,
+                        208,
+                        133
+                    ],
+                    "caption": "a close up of a man's face",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        91,
+                        189,
+                        117,
+                        57
+                    ],
+                    "caption": "a close up of a person's mouth",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        7,
+                        245,
+                        352,
+                        244
+                    ],
+                    "caption": "a man wearing a suit and tie",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "tie",
+                    "bounding_box": [
+                        79,
+                        321,
+                        95,
+                        179
+                    ],
+                    "confidence": 0.793
+                }
+            ]
+        }
+    },
+    "1132": {
+        "mention": "Arkadiusz Milik",
+        "mention_context": "Arkadiusz Milik whose goal helped Poland enjoy their first victory in UEFA Euro turnament.",
+        "Candentity": [
+            {
+                "name": "Janusz_Michallik",
+                "desc": "Janusz Michallik is a retired Polish-American soccer defender, current soccer coach and television sports commentator."
+            },
+            {
+                "name": "Leszek_Marks",
+                "desc": "Leszek Eugeniusz Marks is a Polish geologist, professor ordinarius , currently at the Warsaw University, Department of Climate Geology; and the Polish Geological Institute-National Research Institute , president of Committee for Quaternary Research of the Polish Academy of Sciences. At present , member of editorial boards of scientific journals Boreas, \"Litosfera\", \"Geography and Geology\", and Studia Quaternaria . This article about a Polish scientist is a stub."
+            },
+            {
+                "name": "Milak",
+                "desc": "Milak is a city and a municipal board in Rampur district in the Indian state of Uttar Pradesh.In field of legal education there is one Law college at village Guladia Bhatt Milak–Bilaspur road in name of Rampur College of Law Milak imparting legal education among students in whole Rampur district. Also there are several inter college and 3 degree colleges nearby: Rambahadur Degree college, Shri Hansraj Degree College, Shri Hira Mahavidyalaya. Its nearby cities are Rampur, Rudrapur and Bareilly. For villages in Iran, see Milak, Iran ."
+            },
+            {
+                "name": "Jaroslav_Jašek",
+                "desc": "Jaroslav Jašek was an orienteering competitor who competed for Czechoslovakia. At the 1970 World Orienteering Championships in Eisenach he won a bronze medal in the relay, together with Zdenek Lenhart, Bohuslav Beranek and Svatoslav Galik. This biographical article about an orienteer is a stub."
+            },
+            {
+                "name": "Juraj_Haulik",
+                "desc": "Juraj Haulik de Váralya was a Croatian cardinal in the Roman Catholic Church of Slovak ethnicity and the first archbishop of Zagreb. He was also acting ban of Croatia for two separate terms."
+            },
+            {
+                "name": "Arkadiusz_Milik",
+                "desc": "Arkadiusz Krystian \"Arek\" Milik ; born 28 February 1994), is a Polish professional footballer who plays as a striker for Ligue 1 club Olympique de Marseille, on loan from Napoli, and the Poland national team. Milik began his career as a footballer in the Rozwój Katowice youth squad. In 2011, he signed a one-year contract with Górnik Zabrze, and in 2012 he transferred to Bayer Leverkusen and later played on loan for FC Augsburg and Ajax respectively. In 2015–16, he was purchased by Ajax on a four-year deal for a reported €2.8 million fee. While playing for Ajax, Milik became one of the top goalscorers in Eredivisie. On 1 August 2016, he joined Italian club Napoli for €35 million, effectively replacing Gonzalo Higuaín. At international level, Milik participated at UEFA Euro 2016 with Poland, where his nation reached the quarter-final stage of the tournament. He also took part at the 2018 FIFA World Cup, where his team was eliminated in the group stage."
+            },
+            {
+                "name": "Jan_Milíč",
+                "desc": "Jan Milíč z Kroměříže was a Czech Catholic priest and the most influential preacher of the emerging Bohemian Reformation in the 14th century. Together with other Bohemian preachers and writers of that time, he paved in a certain sense the way for the reforming activity of Jan Hus. \"Milíč\" redirects here. For other uses, see Milič ."
+            },
+            {
+                "name": "Jozef_Kovalík",
+                "desc": "Jozef Kovalík is a Slovak tennis player playing on the ATP Challenger Tour."
+            },
+            {
+                "name": "Raúl_Albiol",
+                "desc": "Raúl Albiol Tortajada is a Spanish professional footballer who plays for Villarreal and the Spain national team. A reliable and physically strong player who excels in the air, his main asset is his versatility, as he can play as a central defender, right back or defensive midfielder. He spent most of his career with Valencia and Real Madrid, winning five major titles with both teams combined; he amassed La Liga totals of 229 matches and seven goals over ten seasons, and also played several years in the Italian Serie A with Napoli. A Spanish international since 2007, Albiol represented the country in two World Cups and as many European Championships, winning three tournaments including the 2010 World Cup. In this Spanish name, the first or paternal surname is Albiol and the second or maternal family name is Tortajada."
+            },
+            {
+                "name": "Joseph_Jankovic",
+                "desc": "Joseph Jankovic, M.D., Professor of Neurology, Distinguished Chair in Movement Disorders, and Founder and Director of the Parkinson's Disease Center and Movement Disorders Clinic, is an American neurologist at Baylor College of Medicine in Houston, Texas. Jankovic has served as the principal investigator in hundreds of clinical trials and his pioneering research in etiology, pathogenesis, and classification of various movement disorders and on experimental therapeutics. Jankovic has contributed to classifications, characterization, and therapeutic guidelines of various movement disorders. He has served as the principal investigator in hundreds of clinical trials and his research on drugs for parkinsonian disorders and hyperkinetic movement disorders, including botulinum toxin and tetrabenazine, has led to their approval by the United States Food and Drug Administration."
+            }
+        ],
+        "mention_imgpath": "be8e1af9654febc2aefaf837370aaeea.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a man in a football uniform running",
+            "Dense Captions": "a man in a football uniform running; a person wearing a white shirt and red shorts; a blurry image of a person in a yellow shirt; a blurry image of a person wearing a red shirt; a person wearing red shorts; a close up of a person's feet; a blurry image of a person; a man running in a sports uniform; a close up of a shoe",
+            "Tags": "person; sport; soccer player; player; athletic game; grass; stadium; man; football player; sport venue; soccer-specific stadium; team sport; sportswear; soccer; championship; jersey; tournament; field; outdoor",
+            "OCR text": "23",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        232,
+                        500
+                    ],
+                    "caption": "a man in a football uniform running",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        43,
+                        14,
+                        147,
+                        464
+                    ],
+                    "caption": "a person wearing a white shirt and red shorts",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        177,
+                        68,
+                        255
+                    ],
+                    "caption": "a blurry image of a person in a yellow shirt",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        168,
+                        163,
+                        60,
+                        121
+                    ],
+                    "caption": "a blurry image of a person wearing a red shirt",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        61,
+                        252,
+                        113,
+                        89
+                    ],
+                    "caption": "a person wearing red shorts",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        102,
+                        418,
+                        94,
+                        63
+                    ],
+                    "caption": "a close up of a person's feet",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        13,
+                        0,
+                        54,
+                        83
+                    ],
+                    "caption": "a blurry image of a person",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        43,
+                        76,
+                        140,
+                        189
+                    ],
+                    "caption": "a man running in a sports uniform",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        432,
+                        227,
+                        64
+                    ],
+                    "caption": "a close up of a shoe",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": []
+        }
+    },
+    "41": {
+        "mention": "Chinese",
+        "mention_context": "North Korea's 007 meets a leader of the Chinese mafia (screenshot of the short movie).",
+        "Candentity": [
+            {
+                "name": "Sinitic_languages",
+                "desc": "The Sinitic languages,[a] often synonymous with \"Chinese languages\", constitute the major branch of the Sino-Tibetan language family. It is frequently proposed that there is a primary split between the Sinitic languages and the rest of the family , but this view is rejected by an increasing number of researchers. The Bai languages, whose classification is difficult, may be an offshoot of Old Chinese and thus Sinitic; otherwise Sinitic is defined only by the many varieties of Chinese, and usage of the term \"Sinitic\" may reflect the linguistic view that Chinese constitutes a family of distinct languages, rather than variants of a single language.[b] For the sociolinguistic treatment of Chinese, see Varieties of Chinese. For other languages spoken in China, see Languages of China."
+            },
+            {
+                "name": "Jang_Woo-hyuk",
+                "desc": "Jang Woo-hyuk is a South Korean singer and rapper. He debuted in 1996 as a member of the best-selling K-pop boy band HOT After the band broke up due to a contract dispute, Jang and two other former members formed the boy band JtL, which was active from 2001 to 2003. Jang also released two full-length albums and two extended plays as a solo artist. He is the founder of talent agency WH Entertainment. In this Korean name, the family name is Jang."
+            },
+            {
+                "name": "Simplified_Chinese_characters",
+                "desc": "Simplified Chinese characters are one type of standard Chinese character sets. Along with traditional Chinese characters, they are one of the two standard character sets of the contemporary Chinese written language. The government of the People's Republic of China in mainland China has promoted them for use in printing since the 1950s and 1960s to encourage literacy. They are officially used in the People's Republic of China, Malaysia and Singapore, while traditional Chinese characters remain in common use in Hong Kong, Macau, Taiwan and Japan, as well as South Korea to a certain extent.\nSimplified Chinese characters may be referred to by their official name 简化字; Jiǎnhuàzì or colloquially 简体字; . In its broadest sense, the latter term refers to all characters that have undergone simplifications of character \"structure\" or \"body\", some of which have existed for millennia mainly in handwriting alongside traditional characters. On the other hand, the official name refers to the modern systematically simplified character set, which includes not only structural simplification but also substantial reduction in the total number of standardized Chinese characters.Simplified character forms were created by reducing the number of strokes and simplifying the forms of a sizable proportion of Chinese characters. Some simplifications were based on popular cursive forms embodying graphic or phonetic simplifications of the traditional forms. Some characters were simplified by applying regular rules, for example, by replacing all occurrences of a certain component with a simplified version of the component. Variant characters with the same pronunciation and identical meaning were reduced to a single standardized character, usually the simplest amongst all variants in form. Finally, many characters were left untouched by simplification and are thus identical between the traditional and simplified Chinese orthographies.\nA second round of simplifications was promulgated in 1977, but was later retracted in 1986 for a variety of reasons, largely due to the confusion caused and the unpopularity of the second-round simplifications.In August 2009, China began collecting public comments for a modified list of simplified characters. The new Table of General Standard Chinese Characters consisting of 8,105 (simplified and unchanged) characters was officially implemented for use by the State Council of the People's Republic of China on June 5, 2013.\n\n"
+            },
+            {
+                "name": "Traditional_Chinese_characters",
+                "desc": "Traditional Chinese characters are one type of standard Chinese character sets of the contemporary written Chinese. The traditional characters had taken shapes since the clerical change and mostly remained in the same structure they took at the introduction of the regular script in the 2nd century. Over the following centuries, traditional characters were regarded as the standard form of printed Chinese characters or literary Chinese throughout the Sinosphere until the middle of the 20th century, before different script reforms initiated by countries using Chinese characters as a writing system.Traditional Chinese characters remain in common use in Taiwan, Hong Kong and Macau, as well as in most overseas Chinese communities outside Southeast Asia; in addition, Hanja in Korean language remains virtually identical to traditional characters, which is still used to a certain extent in South Korea, despite differing standards used among these countries over some variant Chinese characters. In Taiwan, the standardization of traditional characters is stipulated through the promulgation of the Standard Form of National Characters, which is regulated by Taiwan's Ministry of Education. In contrast, simplified Chinese characters are used in Mainland China, Malaysia, and Singapore in official publications.\nThe debate on traditional and simplified Chinese characters has been a long-running issue among Chinese communities. Currently, many Chinese online newspapers allow users to switch between both character sets."
+            },
+            {
+                "name": "People%27s_Republic_of_China",
+                "desc": "This is a list of leaders of the China's Government institutions. Each institution of China is headed by a chairperson or secretary, with some being more prominent than others. The paramount leader holds the highest authority of the Chinese Communist Party (CCP) and Government of the People's Republic of China (PRC)."
+            },
+            {
+                "name": "Chinese_people_in_Finland",
+                "desc": "Chinese people in Finland form one of the largest immigrant groups in Finland. As of 2018 there were 12,407 speakers of Chinese in Finland. About 60% of them reside in Capital Region . As of 2018 there were 9,230 Chinese citizens living in Finland. From 1990 to 2017 a total number of 2,460 Chinese citizens have been granted Finnish citizenship. Further information: Category:Finnish people of Chinese descent"
+            },
+            {
+                "name": "China",
+                "desc": "China (Chinese: 中国; pinyin: Zhōngguó), officially the People's Republic of China (PRC),[k] is a country in East Asia. It is the world's second-most populous country with a population exceeding 1.4 billion. China spans the equivalent of five time zones and borders fourteen countries by land,[l] tied with Russia as having the most of any country in the world. With an area of nearly 9.6 million square kilometres (3,700,000 sq mi), it is the world's third largest country by total land area.[m] The country consists of 22 provinces,[n] five autonomous regions, four municipalities, and two semi-autonomous special administrative regions. The national capital is Beijing, and the most populous city and largest financial center is Shanghai."
+            },
+            {
+                "name": "History_of_China",
+                "desc": "This article is about the general history of China from prehistoric times to the present. For the history of the Republic of China since 1912, see History of the Republic of China. For the history of the People's Republic of China since 1949, see History of the People's Republic of China."
+            },
+            {
+                "name": "Chinese_people",
+                "desc": "Chinese people are the various individuals or ethnic groups associated with China, usually through ancestry, ethnicity, nationality, citizenship, or other affiliation. The Han Chinese are the largest ethnic group in China, comprising approximately 92% of its mainland population. Han Chinese people also comprise approximately 95%, 92%, 89% and 74% of the population of Taiwan, Hong Kong, Macau and Singapore respectively. They are also the world's largest ethnic group, comprising approximately 18% of the global human population. Outside China, the terms \"Han Chinese\" and \"Chinese\" are often conflated since those identifying or registered as Han Chinese are the dominant ethnic group in China. There are 55 officially-recognized ethnic minorities in China who may also identify as \"Chinese\". Although Hong Kong and Macau are both under Chinese sovereignty, both regions are highly autonomous. Hong Kong and Macau are respectively governed by international treaties known as the \"Sino-British Joint Declaration\" and the \"Sino-Portuguese Joint Declaration\". Residents of both regions can possess various nationalities. People from Taiwan, officially the Republic of China , may also be referred to as \"Chinese\" in various contexts, though they are usually referred to as \"Taiwanese\". The territory of Taiwan is disputed and the ROC has limited recognition of its sovereignty. There is also an extensive Chinese diaspora known as Overseas Chinese. This article is about the general concept of peoples relating to China. For the dominant Chinese ethnic group, see Han Chinese. For a list of ethnicities in modern China, see List of ethnic groups in China. For a list of ethnicities in historical China, see Ethnic groups in Chinese history."
+            },
+            {
+                "name": "Chinese_language",
+                "desc": "Chinese is a group of language varieties that form the Sinitic branch of the Sino-Tibetan languages, spoken by the ethnic Han Chinese majority and many minority ethnic groups in Greater China. About 1.3 billion people speak a variety of Chinese as their first language. The spoken varieties of Chinese are usually considered by native speakers to be variants of a single language. Due to their lack of mutual intelligibility, however, they are classified as separate languages in a family by some linguists, who note that the varieties are as divergent as the Romance languages.[d] Investigation of the historical relationships among the varieties of Chinese is just starting. Currently, most classifications posit 7 to 13 main regional groups based on phonetic developments from Middle Chinese, of which the most spoken by far is Mandarin , followed by Min , Wu , and Yue . These branches are unintelligible to each other, and many of their subgroups are unintelligible with the other varieties within the same branch . There are, however, transitional areas where varieties from different branches share enough features for some limited intelligibility, including New Xiang with Southwest Mandarin, Xuanzhou Wu with Lower Yangtze Mandarin, Jin with Central Plains Mandarin and certain divergent dialects of Hakka with Gan . All varieties of Chinese are tonal to at least some degree, and are largely analytic. The earliest Chinese written records are Shang dynasty-era oracle bone inscriptions, which can be dated to 1250 BCE. The phonetic categories of Old Chinese can be reconstructed from the rhymes of ancient poetry. During the Northern and Southern dynasties period, Middle Chinese went through several sound changes and split into several varieties following prolonged geographic and political separation. Qieyun, a rime dictionary, recorded a compromise between the pronunciations of different regions. The royal courts of the Ming and early Qing dynasties operated using a koiné language based on Nanjing dialect of Lower Yangtze Mandarin. Standard Chinese , based on the Beijing dialect of Mandarin, was adopted in the 1930s and is now an official language of both the People's Republic of China and the Republic of China , one of the four official languages of Singapore, and one of the six official languages of the United Nations. The written form, using the logograms known as Chinese characters, is shared by literate speakers of mutually unintelligible dialects. Since the 1950s, simplified Chinese characters have been promoted for use by the government of the People's Republic of China, while Singapore officially adopted simplified characters in 1976. Traditional characters remain in use in Taiwan, Hong Kong, Macau, and other countries with significant overseas Chinese speaking communities such as Malaysia . This article is about the group of Sinitic language varieties. For other languages spoken in China, see Languages of China."
+            }
+        ],
+        "mention_imgpath": "d01afbcf12151b93cc66938c47b416ab.png",
+        "mention_imgdesc_Azure": {
+            "Caption": "a man in a white hat and white coat facing another man",
+            "Dense Captions": "a man in a white hat and white coat facing another man in a white hat; a blurry image of a man; a man wearing a white hat and a white shirt; blur a blurry image of a person's head; a man in a white hat and a white shirt; a blurry image of a light",
+            "Tags": "clothing; person; human face; man; concert; music; standing",
+            "OCR text": "6rooms; com",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        444,
+                        249
+                    ],
+                    "caption": "a man in a white hat and white coat facing another man in a white hat",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        251,
+                        46,
+                        110,
+                        197
+                    ],
+                    "caption": "a blurry image of a man",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        96,
+                        48,
+                        165,
+                        192
+                    ],
+                    "caption": "a man wearing a white hat and a white shirt",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        121,
+                        51
+                    ],
+                    "caption": "blur a blurry image of a person's head",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        65,
+                        31,
+                        318,
+                        161
+                    ],
+                    "caption": "a man in a white hat and a white shirt facing each other",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        5,
+                        31,
+                        133,
+                        107
+                    ],
+                    "caption": "a blurry image of a light",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "headwear",
+                    "bounding_box": [
+                        169,
+                        54,
+                        80,
+                        49
+                    ],
+                    "confidence": 0.674
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        99,
+                        53,
+                        170,
+                        194
+                    ],
+                    "confidence": 0.819
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        248,
+                        52,
+                        116,
+                        194
+                    ],
+                    "confidence": 0.902
+                }
+            ]
+        }
+    },
+    "905": {
+        "mention": "Concordia University",
+        "mention_context": "Loyola campus of Concordia University in Montreal",
+        "Candentity": [
+            {
+                "name": "Concordia_University_(Nebraska)",
+                "desc": "Concordia University, Nebraska is a private Lutheran university in Seward, Nebraska. It was established in 1894 and is affiliated with the Lutheran Church–Missouri Synod as one of seven schools in the Concordia University System. The university is organized into three schools: the College of Arts and Sciences, the College of Education, and the College of Graduate Studies."
+            },
+            {
+                "name": "Concordia_University",
+                "desc": "Concordia University ; commonly referred to as Concordia is a public comprehensive research university located in Montreal, Quebec, Canada. Founded in 1974 following the merger of Loyola College and Sir George Williams University, Concordia is one of the three universities in Quebec where English is the primary language of instruction . As of the 2018–19 academic year, there were 46,829 students enrolled in credit courses at Concordia, making the university among the largest in Canada by enrollment. The university has two campuses, set approximately 7 kilometres apart: Sir George Williams Campus is the main campus, located in Downtown Montreal in an area known as Quartier Concordia; and Loyola Campus in the residential district of Notre-Dame-de-Grâce. With four faculties, a school of graduate studies and numerous colleges, centres and institutes, Concordia offers over 400 undergraduate and 200 graduate programs and courses. The university's John Molson School of Business consistently ranks among the top 10 Canadian business schools and the top 100 worldwide. Moreover, Concordia was ranked seventh in Canada and 229th among world universities in the International Professional Classification of Higher Education Institutions. Concordia is a non-sectarian and coeducational institution, with more than 220,000 alumni worldwide. The university is a member of the Association of Universities and Colleges of Canada, International Association of Universities, Canadian Association of Research Libraries, Canadian University Society for Intercollegiate Debate, Canadian Bureau for International Education and Canadian University Press. The university's varsity teams, known as the Stingers, compete in the Quebec Student Sport Federation of U Sports. This article is about the university in Montreal, Quebec. For other uses, see Concordia University ."
+            },
+            {
+                "name": "Concordia_University_(Quebec)",
+                "desc": "Concordia University (French: Université Concordia) is an English-language public research university located in Montreal, Quebec, Canada. Founded in 1974 following the merger of Loyola College and Sir George Williams University, Concordia is one of the three universities in Quebec where English is the primary language of instruction (the others being McGill and Bishop's). As of the 2020–21 academic year, there were 51,253 students enrolled in credit courses at Concordia, making the university among the largest in Canada by enrolment. The university has two campuses, set approximately 7 kilometres (4 miles) apart: Sir George Williams Campus is the main campus, located in the Quartier Concordia neighbourhood of Downtown Montreal in the borough of Ville Marie; and Loyola Campus in the residential district of Notre-Dame-de-Grâce. With four faculties, a school of graduate studies and numerous colleges, centres and institutes, Concordia offers over 400 undergraduate and 200 graduate programs and courses.Concordia is a non-sectarian and coeducational institution, with more than 230,000 alumni worldwide.\nThe university is a member of the Association of Universities and Colleges of Canada, International Association of Universities, Canadian Association of Research Libraries, Canadian University Society for Intercollegiate Debate, Canadian Bureau for International Education and Canadian University Press. The university's varsity teams, known as the Stingers, compete in the Quebec Student Sport Federation of U Sports."
+            },
+            {
+                "name": "Concordia_University_(Saint_Paul,_Minnesota)",
+                "desc": "Concordia University, St. Paul is a private university in Saint Paul, Minnesota. It was founded in 1893 and enrolls nearly 5,600 students. It is an affiliate of the eight-member Concordia University System, which is operated by the second-largest Lutheran church body in the United States, the Lutheran Church–Missouri Synod. The school was a two year college until 1964. The present name Concordia University, St. Paul was adopted in 1997. Main article: Concordia Golden Bears"
+            },
+            {
+                "name": "Concordia_University_(Portland,_Oregon)",
+                "desc": "Concordia University was a private Lutheran Church–Missouri Synod (LCMS) university in Portland, Oregon, that closed in Spring 2020. One remaining program, the accelerated bachelor's degree in nursing, continues to operate under another Concordia University System school. \nOpened in 1905 as a University-preparatory school, the institution added college classes in 1950 and the high school formally split from the college in 1977. The school of approximately 5,400 undergraduate and graduate students was affiliated with the LCMS and the Concordia University System. Located in northeast Portland, the school had branch campuses across Oregon and operated the Concordia University School of Law in Boise, Idaho. The university had four colleges and eighteen majors. Its athletic teams, known as the Cavaliers, competed in NCAA's Great Northwest Athletic Conference at the Division II level.\nThe university closed most of its schools after the completion of the spring 2020 semester when its parent, the LCMS, withdrew major financial support. Concordia University of St. Paul, Minnesota, now operates the School of Nursing and offers a program with an accelerated bachelor's degree."
+            },
+            {
+                "name": "Reed_College",
+                "desc": "Reed College is a private liberal arts college in Portland, Oregon. Founded in 1908, Reed is a residential college with a campus in the Eastmoreland neighborhood, with Tudor-Gothic style architecture, and a forested canyon nature preserve at its center. Reed is known for its mandatory first-year humanities program, senior thesis, progressive politics, de-emphasis on grades, and unusually high proportion of graduates who go on to earn doctorates and other postgraduate degrees. The college has many prominent alumni, including over a hundred Fulbright Scholars, 67 Watson Fellows, and three Churchill Scholars; its 32 Rhodes Scholars are the second-highest count for a liberal arts college. Reed is ranked fourth in the United States for all postsecondary institutions for the percentage of its graduates who go on to earn a Ph.D. See also: Criticism of college and university rankings"
+            },
+            {
+                "name": "Concordia_University_(Montreal)",
+                "desc": "Concordia University (French: Université Concordia) is an English-language public research university located in Montreal, Quebec, Canada. Founded in 1974 following the merger of Loyola College and Sir George Williams University, Concordia is one of the three universities in Quebec where English is the primary language of instruction (the others being McGill and Bishop's). As of the 2020–21 academic year, there were 51,253 students enrolled in credit courses at Concordia, making the university among the largest in Canada by enrolment. The university has two campuses, set approximately 7 kilometres (4 miles) apart: Sir George Williams Campus is the main campus, located in the Quartier Concordia neighbourhood of Downtown Montreal in the borough of Ville Marie; and Loyola Campus in the residential district of Notre-Dame-de-Grâce. With four faculties, a school of graduate studies and numerous colleges, centres and institutes, Concordia offers over 400 undergraduate and 200 graduate programs and courses.Concordia is a non-sectarian and coeducational institution, with more than 230,000 alumni worldwide.\nThe university is a member of the Association of Universities and Colleges of Canada, International Association of Universities, Canadian Association of Research Libraries, Canadian University Society for Intercollegiate Debate, Canadian Bureau for International Education and Canadian University Press. The university's varsity teams, known as the Stingers, compete in the Quebec Student Sport Federation of U Sports."
+            },
+            {
+                "name": "Concordia_University_System",
+                "desc": "The Concordia University System is an organization of seven colleges and universities and one satellite campus in the United States that are operated by the Lutheran Church–Missouri Synod . All of the institutions are named \"Concordia\"—a reference to the Latin title of The Book of Concord, the collection of Lutheran confessions—and all include professional church work programs as part of their curricula. The CUS was formed in 1992. As of 2011, 28,421 students attend Concordia University System institutions. Each Concordia is independent and has its own president, faculty, and board of regents. At the same time, the schools interact with one another and share some resources and services. One service offered by the CUS, the Simultaneous Enrollment Program, allows any student enrolled at one Concordia to attend another CUS college for up to a year as a \"visiting student\". During that time, visiting students are considered to be enrolled at both CUS institutions simultaneously. For other similarly named educational institutions, see Concordia University ."
+            },
+            {
+                "name": "Concordia_University_(Saint_Paul)",
+                "desc": "Concordia University, St. Paul is a private university in Saint Paul, Minnesota. It was founded in 1893 and enrolls nearly 5,600 students. It is a member of the Concordia University System, which is operated by the second-largest Lutheran church body in the United States, the Lutheran Church–Missouri Synod. The school was a two year college until 1964. The present name Concordia University, St. Paul was adopted in 1997."
+            },
+            {
+                "name": "Concordia_University_(Oregon)",
+                "desc": "Concordia University was a private Lutheran Church–Missouri Synod university in Portland, Oregon that closed in Spring 2020. One remaining program, the accelerated Bachelor Degree, continues to operate under another Concordia University System school. Opened in 1905 as a University-preparatory school, the institution added college classes in 1950 and the high school formally split from the college in 1977. The school of approximately 5,400 undergraduate and graduate students was affiliated with the Lutheran Church–Missouri Synod and the Concordia University System. Located in Northeast Portland, the school had branch campuses across Oregon and operated the Concordia University School of Law in Boise, Idaho. The university had four colleges and eighteen majors. Its athletic teams, known as the Cavaliers, competed in NCAA's Great Northwest Athletic Conference at the Division II level. The university closed most of its schools after the completion of the spring 2020 semester when its parent, the LCMS, withdrew major financial support. Concordia University, St. Paul now operates the School of Nursing and offers a program with an accelerated Bachelor Degree. Main article: Concordia Cavaliers"
+            }
+        ],
+        "mention_imgpath": "949e4dbc036ffb343b7d9c7b3fd2f7a5.JPG",
+        "mention_imgdesc_Azure": {
+            "Caption": "a building with snow on the ground",
+            "Dense Captions": "a building with snow on the ground; a tree with snow on it; a building with many windows; a building with green domes; a statue in the snow; a building with many windows; a building with snow on the roof; a statue in a snowy area; a building with snow on the ground; a snow covered path with a tire track",
+            "Tags": "outdoor; sky; building; tree; snow; winter; freezing; castle",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        402,
+                        500
+                    ],
+                    "caption": "a building with snow on the ground",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        328,
+                        145,
+                        70,
+                        305
+                    ],
+                    "caption": "a tree with snow on it",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        244,
+                        110,
+                        73,
+                        209
+                    ],
+                    "caption": "a building with many windows",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        100,
+                        55,
+                        87,
+                        82
+                    ],
+                    "caption": "a building with green domes",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        32,
+                        353,
+                        186,
+                        72
+                    ],
+                    "caption": "a statue in the snow",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        132,
+                        151,
+                        242
+                    ],
+                    "caption": "a building with many windows",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        92,
+                        347,
+                        245
+                    ],
+                    "caption": "a building with snow on the roof",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        305,
+                        298,
+                        187
+                    ],
+                    "caption": "a statue in a snowy area",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        19,
+                        391,
+                        455
+                    ],
+                    "caption": "a building with snow on the ground",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        157,
+                        339,
+                        186,
+                        156
+                    ],
+                    "caption": "a snow covered path with a tire track",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "castle",
+                    "bounding_box": [
+                        0,
+                        46,
+                        362,
+                        329
+                    ],
+                    "confidence": 0.548
+                }
+            ]
+        }
+    }
+}

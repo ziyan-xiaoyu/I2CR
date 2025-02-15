@@ -1,0 +1,52 @@
+{
+    "156": {
+        "sample_id": "156",
+        "ans_1": "FC_Bayern_Munich",
+        "ans_2": "FC_Bayern_Munich"
+    },
+    "735": {
+        "sample_id": "735",
+        "ans_1": "Sevastopol,_Ukraine",
+        "ans_2": "Sevastopol"
+    },
+    "1074": {
+        "sample_id": "1074",
+        "ans_1": "Northern_Rock",
+        "ans_2": "Northern_Rock"
+    },
+    "681": {
+        "sample_id": "681",
+        "ans_1": "nil",
+        "ans_2": "nil"
+    },
+    "224": {
+        "sample_id": "224",
+        "ans_1": "Torch",
+        "ans_2": "Torch"
+    },
+    "1191": {
+        "sample_id": "1191",
+        "ans_1": "CCGS_Hudson",
+        "ans_2": "CCGS_Hudson"
+    },
+    "803": {
+        "sample_id": "803",
+        "ans_1": "Influenza_A_virus",
+        "ans_2": "Influenza_A_virus"
+    },
+    "312": {
+        "sample_id": "312",
+        "ans_1": "Sydney",
+        "ans_2": "Sydney"
+    },
+    "1460": {
+        "sample_id": "1460",
+        "ans_1": "Bratz",
+        "ans_2": "Bratz"
+    },
+    "567": {
+        "sample_id": "567",
+        "ans_1": "Australia_women%27s_national_basketball_team",
+        "ans_2": "Australia_women%27s_national_basketball_team"
+    }
+}

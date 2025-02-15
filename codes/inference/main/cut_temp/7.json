@@ -1,0 +1,1430 @@
+{
+    "263": {
+        "mention": "Prime Minister John Howard",
+        "mention_context": "Protesters in Bathurst turned their backs on Australian Prime Minister John Howard as he arrived for a Liberal Party luncheon.",
+        "Candentity": [
+            {
+                "name": "Howard_Davies_(economist)",
+                "desc": "Sir Howard John Davies is a British economist and author, who has held various leadership positions including chairman of NatWest Group, the London School of Economics, and the Financial Services Authority, and is currently a Professor at the Paris School of International Affairs."
+            },
+            {
+                "name": "2007–08_Writers_Guild_of_America_strike",
+                "desc": "The 2007-08 Writers Guild of America strike was a 14-week labor dispute between 12,000 film and television screenwriters and 397 American film and television producers, seeking increased funding and resulting in a tentative agreement and eventual ratification."
+            },
+            {
+                "name": "Denean_Howard",
+                "desc": "Denean Elizabeth Howard-Hill is an American athlete who won a gold medal in the 4x400 meters relay at the 1984 Summer Olympics and held the national high school record in the 4x400 meters relay for 18 years."
+            },
+            {
+                "name": "John_Howard_(sprinter)",
+                "desc": "John Howard is a sprinter from the Federated States of Micronesia who holds the record as the fastest sprinter in the Micronesian Region and South Pacific Regions, having competed in the 2012 Summer Olympics."
+            },
+            {
+                "name": "John_Howard_(NIOSH_director)",
+                "desc": "John Jackson Howard is a physician and public health administrator who served as the director of the National Institute for Occupational Safety and Health (NIOSH) and coordinated health programs for rescue workers affected by the September 11 attacks."
+            },
+            {
+                "name": "Jeffrey_R._Howard",
+                "desc": "Jeffrey Robert Howard is the Chief United States Circuit Judge of the United States Court of Appeals for the First Circuit."
+            },
+            {
+                "name": "John_Howard_(optical_physicist)",
+                "desc": "John Howard was a prominent optical physicist who served as president of the Optical Society of America, founded Applied Optics, and held various scientific positions, including chief scientist of the Air Force Geophysics Laboratory."
+            },
+            {
+                "name": "Third_Howard_Ministry",
+                "desc": "The Third Howard Ministry was the 62nd ministry of the Australian Government, led by Prime Minister John Howard, serving from 2001 to 2004 and notable for having all its members still alive as of 2021."
+            },
+            {
+                "name": "Fourth_Howard_Ministry",
+                "desc": "The Fourth Howard Ministry was the 63rd ministry of the Australian government, led by Prime Minister John Howard from 2004 to 2007, following the 2004 federal election and preceding the 2007 federal election."
+            },
+            {
+                "name": "Mark_Howard_(journalist)",
+                "desc": "Mark Howard is an Australian television presenter and journalist who has worked for Fox Sports and Network Ten, hosting and reporting on various sports events, including AFL, cricket, and motorsport, and currently hosts his own podcast, the Howie Games."
+            }
+        ],
+        "mention_imgpath": "158dc75ef43b78a94e7dcd95471e0fa3.JPG",
+        "mention_imgdesc_Azure": {
+            "Caption": "a police officer standing next to a barrier with signs",
+            "Dense Captions": "a police officer standing next to a barrier with signs; a person with a gun; a person holding a sign; a close-up of a barrier; a flag on a pole; a police officer standing next to a group of people",
+            "Tags": "outdoor; clothing; person; footwear; sky; road; man; building; people; group; street; standing; sign",
+            "OCR text": "CUSTO; wants; FURNESS; HOWS NOT; HOWARD; LIES; BACK ON; ----",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        375
+                    ],
+                    "caption": "a police officer standing next to a barrier with signs",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        329,
+                        117,
+                        55,
+                        192
+                    ],
+                    "caption": "a person with a gun",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        441,
+                        122,
+                        57,
+                        81
+                    ],
+                    "caption": "a person holding a sign",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        143,
+                        489,
+                        158
+                    ],
+                    "caption": "a close-up of a barrier",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        46,
+                        1,
+                        446,
+                        71
+                    ],
+                    "caption": "a flag on a pole",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        125,
+                        50,
+                        371,
+                        257
+                    ],
+                    "caption": "a police officer standing next to a group of people",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        290,
+                        106,
+                        49,
+                        86
+                    ],
+                    "confidence": 0.526
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        45,
+                        105,
+                        32,
+                        112
+                    ],
+                    "confidence": 0.615
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        393,
+                        117,
+                        49,
+                        90
+                    ],
+                    "confidence": 0.569
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        327,
+                        117,
+                        63,
+                        188
+                    ],
+                    "confidence": 0.851
+                }
+            ]
+        }
+    },
+    "1316": {
+        "mention": "Nan Province",
+        "mention_context": "Nan Province, on the border with Laos, is highlighted on a map of Thailand.",
+        "Candentity": [
+            {
+                "name": "Yün_Nan_Province",
+                "desc": "Yunnan Province is a landlocked province in southwest China, spanning approximately 394,000 km2, with a population of 48."
+            },
+            {
+                "name": "Nan_Province",
+                "desc": "Nan Province is one of Thailand's seventy-six provinces located in upper northern Thailand, bordering Uttaradit, Phrae, and Phayao provinces, as well as Sainyabuli province in Laos to the north and east."
+            },
+            {
+                "name": "Yun_nan_Province",
+                "desc": "Yunnan Province is a landlocked region in southwestern China, known for its natural resources, diverse plant life, and rich cultural history, with a population of approximately 48."
+            },
+            {
+                "name": "Yunnan",
+                "desc": "Yunnan is a landlocked province in southwest China, spanning approximately 394,000 km2, with a population of 48."
+            },
+            {
+                "name": "Muang_Nan",
+                "desc": "Muang_Nan is one of Thailand's seventy-six provinces, located in upper northern Thailand, bordering Uttaradit, Phrae, and Phayao provinces to the south, and sharing borders with Laos to the north and east."
+            },
+            {
+                "name": "Yün_nan_Province",
+                "desc": "Yunnan Province is a landlocked province in southwest China, covering approximately 394,000 km2 and having a population of 48."
+            },
+            {
+                "name": "Yun_Nan_Province",
+                "desc": "Yunnan Province is a landlocked province in southwestern China, spanning approximately 394,000 km2, with a population of 48."
+            },
+            {
+                "name": "Nan_province,_Thailand",
+                "desc": "Nan is one of Thailand's 76 provinces, located in upper northern Thailand, bordered by Uttaradit, Phrae, and Phayao provinces to the south, and Sainyabuli of Laos to the north and east."
+            },
+            {
+                "name": "Kingdom_of_Benin",
+                "desc": "The Kingdom of Benin was a pre-colonial kingdom in West Africa, specifically in what is now southern Nigeria, with its capital in Benin City, that existed from the 11th century to 1897 when it was annexed by the British Empire."
+            },
+            {
+                "name": "Nan_County",
+                "desc": "Nan County, also known as Nanxian, is a county in Hunan Province, China, located under the administration of Yiyang city, with a registered population of 683,500 and a permanent resident population of 632,800 as of 2015."
+            }
+        ],
+        "mention_imgpath": "da28cb834f391f2425726a263a484053.png",
+        "mention_imgdesc_Azure": {
+            "Caption": "a map of asia with different colored areas",
+            "Dense Captions": "a map of asia with different colored areas; a map of the country; a map of the country",
+            "Tags": "map; atlas; text",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        178,
+                        300
+                    ],
+                    "caption": "a map of asia with different colored areas",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        171,
+                        294
+                    ],
+                    "caption": "a map of the country",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        19,
+                        180,
+                        93,
+                        116
+                    ],
+                    "caption": "a map of the country",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": []
+        }
+    },
+    "1374": {
+        "mention": "UN",
+        "mention_context": "A BM-14 multiple rocket launcher, similar to the type likely to have launched the M-14 munitions found by UN Inspectors on August 26.",
+        "Candentity": [
+            {
+                "name": "United_Nations",
+                "desc": "The United Nations (UN) is an international organization established in 1945 to promote peace, security, and cooperation among its member states."
+            },
+            {
+                "name": "United_Nations_Office_of_Internal_Oversight_Services",
+                "desc": "The United Nations Office of Internal Oversight Services is an independent office that assists the Secretary-General in fulfilling internal oversight responsibilities, conducting activities such as internal audit, investigation, and reporting to ensure the efficient and effective use of UN resources and staff."
+            },
+            {
+                "name": "UN_(album)",
+                "desc": "UN is the debut studio album by British singer-songwriter Dan Black, released in 2009, which received mixed reviews from critics."
+            },
+            {
+                "name": "United_Nations_(gang)",
+                "desc": "The United Nations is a criminal gang originating from Vancouver, British Columbia, Canada, formed in the 2000s by members of diverse ethnic backgrounds."
+            },
+            {
+                "name": "United_Nations_Development_Programme",
+                "desc": "The United Nations Development Programme (UNDP) is the United Nations' global development network, promoting technical and investment cooperation among nations and providing expert advice, training, and grants to developing countries to help them achieve the Sustainable Development Goals."
+            },
+            {
+                "name": "United_Nations_peacekeeping",
+                "desc": "The United Nations peacekeeping is a unique instrument that helps countries torn by conflict create lasting peace by monitoring and observing peace processes, assisting ex-combatants in implementing peace agreements, and providing various forms of support, including confidence-building measures, power-sharing arrangements, and economic and social development."
+            },
+            {
+                "name": "Type_63_multiple_rocket_launcher",
+                "desc": "The Type 63 multiple rocket launcher is a 12-tube, 107mm towed rocket launcher produced by China in the 1960s, widely used until the late 1980s and still in service with specialized PLA formations."
+            },
+            {
+                "name": "Un_(prefix)",
+                "desc": "The prefix \"un_\" is a bound morpheme that is placed before the stem of a word, altering its form and meaning, and is used to create new words with different semantic meanings and lexical categories."
+            },
+            {
+                "name": "UN_(band)",
+                "desc": "UN was a South Korean musical group formed under NH Media, consisting of two members, Choi Jung-won and Kim Jeong-hoon, who released five albums from 2000 to 2005 and had a significant hit with the single \"For a Lifetime\"."
+            },
+            {
+                "name": "Un_(album)",
+                "desc": "Un is the 11th studio album by Chumbawamba, released in 2004, which blends electronic and folk music with world music samples, serving as a bridge between the band's earlier and later sounds."
+            }
+        ],
+        "mention_imgpath": "e5f2b9b8598cbd825463f1761ba32a56.JPG",
+        "mention_imgdesc_Azure": {
+            "Caption": "a military vehicle with multiple rocket launchers",
+            "Dense Captions": "a military vehicle with multiple rocket launchers; a close-up of a cannon; a close up of a tire; a group of pipes stacked together; a close up of a tire; a close up of a tree; a close up of a building; a group of pipes next to a tree",
+            "Tags": "wheel; tire; outdoor; auto part; cannon; weapon; ground; grass",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        375
+                    ],
+                    "caption": "a military vehicle with multiple rocket launchers",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        73,
+                        68,
+                        374,
+                        301
+                    ],
+                    "caption": "a close-up of a cannon",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        76,
+                        203,
+                        100,
+                        167
+                    ],
+                    "caption": "a close up of a tire",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        158,
+                        73,
+                        184,
+                        153
+                    ],
+                    "caption": "a group of pipes stacked together",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        349,
+                        208,
+                        93,
+                        162
+                    ],
+                    "caption": "a close up of a tire",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        207,
+                        0,
+                        287,
+                        62
+                    ],
+                    "caption": "a close up of a tree",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        132,
+                        0,
+                        62,
+                        67
+                    ],
+                    "caption": "a close up of a building",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        46,
+                        1,
+                        443,
+                        107
+                    ],
+                    "caption": "a group of pipes next to a tree",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "cannon",
+                    "bounding_box": [
+                        59,
+                        37,
+                        391,
+                        338
+                    ],
+                    "confidence": 0.535
+                }
+            ]
+        }
+    },
+    "620": {
+        "mention": "New Horizons",
+        "mention_context": "Pluto as viewed by New Horizons, July 13, 2015.",
+        "Candentity": [
+            {
+                "name": "New_Horizons_(strategy)",
+                "desc": "New Horizons is the UK government's 10-year strategy for mental health in England, published in 2009, aiming to improve mental well-being and services by 2020 through a comprehensive programme of action."
+            },
+            {
+                "name": "Pluto",
+                "desc": "Pluto is a dwarf planet in the Kuiper belt, a ring of bodies beyond Neptune's orbit, with a moderately eccentric and inclined orbit, five known moons, and a reddish-brown cap on Charon's north pole composed of tholins."
+            },
+            {
+                "name": "Ofakim_Hadashim",
+                "desc": "Ofakim Hadashim, also known as \"New Horizons\", is an Israeli art movement founded in Tel Aviv in 1942."
+            },
+            {
+                "name": "Seventh_Sojourn",
+                "desc": "Seventh Sojourn is the eighth studio album by the Moody Blues, released in 1972."
+            },
+            {
+                "name": "Découvertes_Gallimard",
+                "desc": "Découvertes Gallimard is an editorial collection of illustrated, pocket-sized books that provide concise introductions to various subjects, written by experts for a general audience, with over 588 titles and spin-offs published since its inception in 1986."
+            },
+            {
+                "name": "The_Vyborg_Side",
+                "desc": "The Vyborg Side is a 1939 Soviet drama film directed by Grigori Kozintsev and Leonid Trauberg, concluding a trilogy about the life of a young factory worker, Maxim."
+            },
+            {
+                "name": "New_Horizons",
+                "desc": "New Horizons is an interplanetary space probe that was launched in 2006 to perform a flyby study of the Pluto system and other Kuiper belt objects, becoming the fifth space probe to achieve escape velocity and leaving the Solar System."
+            },
+            {
+                "name": "New_Horizons_(The_Sylvers_album)",
+                "desc": "New Horizons is the sixth album by the R&B group the Sylvers, a Los Angeles-based group from California."
+            },
+            {
+                "name": "New_Horizons_(Flyleaf_album)",
+                "desc": "New Horizons is the third studio album by American rock band Flyleaf, released in 2012, produced by Howard Benson and featuring lead vocalist Lacey Sturm in her final appearance with the band before her departure."
+            },
+            {
+                "name": "Bright_Horizons",
+                "desc": "Bright Horizons is a US-based child-care provider and largest employer-sponsored child care provider, offering a range of services including child care, back-up care, tuition management, and education advising, headquartered in Watertown, Massachusetts."
+            }
+        ],
+        "mention_imgpath": "f0ab73cf8fc663618c68ad9916f762e5.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a close up of a planet",
+            "Dense Captions": "a close up of a planet; a close up of a planet; a white powder on a surface; a close up of a planet",
+            "Tags": "moon; astronomical object; sphere; planet; celestial event; nature; astronomy; outer space",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        500
+                    ],
+                    "caption": "a close up of a planet",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        22,
+                        24,
+                        464,
+                        461
+                    ],
+                    "caption": "a close up of a planet",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        141,
+                        219,
+                        158,
+                        215
+                    ],
+                    "caption": "a white powder on a surface",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        94,
+                        173,
+                        332,
+                        301
+                    ],
+                    "caption": "a close up of a planet",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "land",
+                    "bounding_box": [
+                        25,
+                        28,
+                        453,
+                        450
+                    ],
+                    "confidence": 0.728
+                }
+            ]
+        }
+    },
+    "1366": {
+        "mention": "OLPC",
+        "mention_context": "OLPC in Galima (Nigeria) showing children with their lime green XO laptops.",
+        "Candentity": [
+            {
+                "name": "SimCity_(1989_video_game)",
+                "desc": "SimCity is a city-building simulation video game developed by Will Wright, where players create and manage a city, balancing residential, industrial, and environmental needs to increase the standard of living and prevent bankruptcy."
+            },
+            {
+                "name": "OLPC_XS",
+                "desc": "The OLPC XS is a Linux-based OS designed for generic servers to provide network connectivity and management features for XO laptops, including Sugar Learning Platform, backups, and content updates."
+            },
+            {
+                "name": "RiscPC",
+                "desc": "The RiscPC is a RISC OS/Acorn RISC Machine computer launched in 1994, which superseded the Acorn Archimedes and allows PC compatible software to be run through an Acorn PC card and software."
+            },
+            {
+                "name": "TRPC",
+                "desc": "TRPC is a family of transient receptor potential cation channels in animals, characterized by non-selective cation permeability and activation by various stimuli, including phospholipase C, diacylglycerol, and membrane stretching, with specific members implicated in various physiological and pathological processes."
+            },
+            {
+                "name": "OLPC_XO-3",
+                "desc": "The OLPC XO-3 is a computer hardware article that is currently a stub, requiring further development and information to be added."
+            },
+            {
+                "name": "Education_in_Nigeria",
+                "desc": "Education in Nigeria is overseen by the Federal Ministry of Education, with a decentralized system and regional differences in quality, curriculum, and funding, resulting in a large population of out-of-school youth."
+            },
+            {
+                "name": "PearPC",
+                "desc": "PearPC is an architecture-independent PowerPC platform emulator that can run PowerPC operating systems, including pre-Intel Mac OS X, on x86-based systems, using a just-in-time processor emulation core that translates PPC code into x86 code."
+            },
+            {
+                "name": "One_Laptop_per_Child",
+                "desc": "One Laptop per Child was a non-profit initiative that aimed to provide low-cost, low-power laptops to children in developing countries to improve education, but it was ultimately shut down in 2014 due to disappointing sales."
+            },
+            {
+                "name": "AAPC_(healthcare)",
+                "desc": "The American Academy of Professional Coders (AAPC) is a professional association that provides certification and training services to medical coders, billers, auditors, compliance managers, and practice managers in the United States."
+            },
+            {
+                "name": "OLPC_XO",
+                "desc": "The OLPC XO is an inexpensive laptop computer designed to provide access to knowledge and opportunities for children in developing countries, featuring a rugged and low-power design, flash memory, and a pre-installed operating system derived from Fedora Linux."
+            }
+        ],
+        "mention_imgpath": "e49bfeaee368c2d81a6de49f39ff49a7.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a group of students in a classroom",
+            "Dense Captions": "a group of students in a classroom; a green and white laptop; a man in a green jacket; a woman in a green shirt; a man looking at a computer; a group of students in a classroom; a man laughing in a classroom; a group of people sitting in a classroom; a close-up of a boy; a group of people sitting together",
+            "Tags": "person; indoor; laptop; computer; clothing; education; group; sitting; people",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        185
+                    ],
+                    "caption": "a group of students in a classroom",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        98,
+                        125,
+                        74,
+                        51
+                    ],
+                    "caption": "a green and white laptop",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        117,
+                        41,
+                        77,
+                        112
+                    ],
+                    "caption": "a man in a green jacket",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        225,
+                        64,
+                        69,
+                        114
+                    ],
+                    "caption": "a woman in a green shirt",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        58,
+                        67,
+                        112
+                    ],
+                    "caption": "a man looking at a computer",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        1,
+                        490,
+                        175
+                    ],
+                    "caption": "a group of students in a classroom",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        275,
+                        45,
+                        84,
+                        93
+                    ],
+                    "caption": "a man laughing in a classroom",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        2,
+                        28,
+                        203,
+                        151
+                    ],
+                    "caption": "a group of people sitting in a classroom",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        365,
+                        58,
+                        56,
+                        61
+                    ],
+                    "caption": "a close-up of a boy",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        67,
+                        27,
+                        75,
+                        62
+                    ],
+                    "caption": "a group of people sitting together",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        404,
+                        22,
+                        49,
+                        58
+                    ],
+                    "confidence": 0.52
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        114,
+                        44,
+                        81,
+                        99
+                    ],
+                    "confidence": 0.609
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        195,
+                        47,
+                        61,
+                        82
+                    ],
+                    "confidence": 0.56
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        366,
+                        61,
+                        61,
+                        63
+                    ],
+                    "confidence": 0.572
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        0,
+                        62,
+                        76,
+                        106
+                    ],
+                    "confidence": 0.676
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        73,
+                        85,
+                        59,
+                        77
+                    ],
+                    "confidence": 0.561
+                }
+            ]
+        }
+    },
+    "1198": {
+        "mention": "Ciudad Parque Bicentenario",
+        "mention_context": "Ciudad Parque Bicentenario, one of the main goals by the Government for the Bicentennial, during its construction.",
+        "Candentity": [
+            {
+                "name": "Ciudad_Lineal",
+                "desc": "Ciudad Lineal is a district of Madrid, Spain."
+            },
+            {
+                "name": "Parque_Centenario",
+                "desc": "Parque Centenario is an extensive public park located in the Caballito district of Buenos Aires, Argentina."
+            },
+            {
+                "name": "Parque_del_Centenario",
+                "desc": "The Parque del Centenario is a 100,000m2 park in Algeciras, Spain, established in 2007 to commemorate the 100th anniversary of the Algeciras Conference, built on the ruins of the old Fuerte de San García."
+            },
+            {
+                "name": "Municipalidad",
+                "desc": "The Municipalidad is a Spanish term for municipality used in many Latin American countries, referring to the governing body of a particular territory, which is often referred to as \"municipio\"."
+            },
+            {
+                "name": "Parque_de_la_Ciudad",
+                "desc": "The Parque de la Ciudad is a former amusement park located in the Villa Soldati neighborhood of Buenos Aires, Argentina."
+            },
+            {
+                "name": "Torre_Bicentenario",
+                "desc": "The Torre Bicentenario was a planned skyscraper in Mexico City that would have been the tallest building in Mexico and Latin America, but was officially canceled in 2007, although there are rumors it may still be built."
+            },
+            {
+                "name": "Centenario",
+                "desc": "The Centenario is a Mexican gold coin that is the subject of this article, distinct from the Lamborghini Centenario supercar and other uses of the name."
+            },
+            {
+                "name": "Ciudad_del_Saber",
+                "desc": "Ciudad del Saber is a government-sponsored cluster of academic, tech, and non-profit organizations in Panama, located in the former United States Army South headquarters, Fort Clayton."
+            },
+            {
+                "name": "Ciudad_Perico",
+                "desc": "Ciudad Perico is a town and municipality in Jujuy Province, Argentina, considered a stub article about a place in the region."
+            },
+            {
+                "name": "En_la_Ciudad_de_la_Furia",
+                "desc": "\"En la Ciudad de la Furia\" is a song by Argentine rock band Soda Stereo, written by Gustavo Cerati and released in 1989 as the first single from their album Doble Vida."
+            }
+        ],
+        "mention_imgpath": "c819e1eb379811d3e0dc38214804ac1e.png",
+        "mention_imgdesc_Azure": {
+            "Caption": "a black background with red text",
+            "Dense Captions": "a black background with red text; a black background with red text",
+            "Tags": "font; graphics; text; design; typography",
+            "OCR text": "Image Not; Available",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        100,
+                        100
+                    ],
+                    "caption": "a black background with red text",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        97,
+                        95
+                    ],
+                    "caption": "a black background with red text",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": []
+        }
+    },
+    "1254": {
+        "mention": "East Room",
+        "mention_context": "President Bush spoke to the nation in the East Room of the White House",
+        "Candentity": [
+            {
+                "name": "The_Dining_Room",
+                "desc": "The Dining Room is a play by A."
+            },
+            {
+                "name": "North_East_Lancashire_Card_and_Blowing_Room_Operatives%27_and_Ring_Spinners%27_Association",
+                "desc": "The North East Lancashire Card and Blowing Room Operatives' and Ring Spinners' Association was a British trade union that existed from 1886 to 1974, representing workers in the cotton textile industry."
+            },
+            {
+                "name": "South_East_Lancashire_Provincial_Card_and_Blowing_Room_Operatives'_Association",
+                "desc": "The South East Lancashire Provincial Card and Blowing Room Operatives' Association was a trade union formed in 1887, representing cotton industry workers in Ashton-under-Lyne and surrounding areas of Lancashire, England, and merged with other unions in 1967."
+            },
+            {
+                "name": "South_East_Lancashire_Provincial_Card_and_Blowing_Room_Operatives%27_Association",
+                "desc": "The South East Lancashire Provincial Card and Blowing Room Operatives' Association was a trade union founded in 1888, led by William Henry Carr, a British trade unionist and political activist, who served as its secretary and was involved in various labor movements and political campaigns."
+            },
+            {
+                "name": "The_Upstairs_Room",
+                "desc": "The Upstairs Room is a 1972 Holocaust survivor autobiography by Johanna Reiss that recounts her childhood in occupied Holland during the Nazi invasion."
+            },
+            {
+                "name": "Rooms_of_the_House",
+                "desc": "Rooms of the House is the fourth studio album by American post-hardcore band La Dispute, released on March 18, 2014 through their own label Better Living."
+            },
+            {
+                "name": "The_Living_Room",
+                "desc": "The Living Room was a venue that featured live artists performing every night of the week in its main area and a smaller upstairs space called \"Googies Lounge\"."
+            },
+            {
+                "name": "East_Room",
+                "desc": "The East Room is a large event and reception room in the White House complex, used for various functions such as dances, receptions, and ceremonies, and has undergone redecoration over the past two centuries."
+            },
+            {
+                "name": "Iraq_War_and_the_War_on_Terror",
+                "desc": "The Iraq War was referred to as \"the central front in the War on Terror\" by President George W."
+            },
+            {
+                "name": "Northern_Textile_and_Allied_Workers'_Union",
+                "desc": "The Northern Textile and Allied Workers' Union was a trade union representing cotton factory workers in northern Lancashire, England, founded in 1886 and merging with the Transport and General Workers' Union in 1984."
+            }
+        ],
+        "mention_imgpath": "cc32382666bbcb773cefb23e49d5009f.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a man in a suit and tie standing at a podium",
+            "Dense Captions": "a man in a suit and tie standing at a podium; a man in a suit and tie speaking into microphones; a close-up of a logo; a close-up of a seal; a chandelier from a ceiling; a blurry picture of a person; a person sitting in a room",
+            "Tags": "clothing; person; human face; man; official; indoor; tie; lectern; government; formal wear; speaker; speech; wall; suit; stand; standing; ceremony",
+            "OCR text": "UN; NITE; STATES; IDEN'T OF THE; OF THE",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        418,
+                        500
+                    ],
+                    "caption": "a man in a suit and tie standing at a podium",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        81,
+                        92,
+                        238,
+                        254
+                    ],
+                    "caption": "a man in a suit and tie speaking into microphones",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        55,
+                        325,
+                        347,
+                        162
+                    ],
+                    "caption": "a close-up of a logo",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        174,
+                        373,
+                        130,
+                        121
+                    ],
+                    "caption": "a close-up of a seal",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        3,
+                        0,
+                        102,
+                        113
+                    ],
+                    "caption": "a chandelier from a ceiling",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        365,
+                        50,
+                        51,
+                        147
+                    ],
+                    "caption": "a blurry picture of a person",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        231,
+                        105,
+                        264
+                    ],
+                    "caption": "a person sitting in a room",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        92,
+                        98,
+                        230,
+                        255
+                    ],
+                    "confidence": 0.825
+                }
+            ]
+        }
+    },
+    "684": {
+        "mention": "Loe Beerens",
+        "mention_context": "Edsilia Rombley performing \"On Top of the World\" at Eurovision 2007 in Helsinki.Photo: Loe Beerens",
+        "Candentity": [
+            {
+                "name": "Jens_Henrik_Beer",
+                "desc": "Jens Henrik Beer was a Norwegian businessperson, farmer, and politician who held various positions, including vice consul, parliamentarian, and mayor, and was also a pioneer in rational farming and wrote articles on agriculture."
+            },
+            {
+                "name": "Het_vind",
+                "desc": "Het vind is the debut studio album by Swedish singer-songwriter Marie Fredriksson, released in 1984, which became a top twenty hit in Sweden and included singles such as \"Ännu doftar kärlek\" and \"Natt efter natt\"."
+            },
+            {
+                "name": "Joos_de_Beer",
+                "desc": "Joos de Beer was a renowned Early Netherlandish painter from Utrecht."
+            },
+            {
+                "name": "Schou_Brewery",
+                "desc": "The Schou Brewery is a former Norwegian brewery."
+            },
+            {
+                "name": "Jannie_de_Beer",
+                "desc": "Jan Hendrik de Beer, also known as Jannie de Beer, was a South African former rugby union player who played flyhalf for the Springboks national team, scoring 181 points in 13 tests."
+            },
+            {
+                "name": "Edwin_John_Beer",
+                "desc": "Edwin John Beer was a British chemist, geologist, and mineralogist who pioneered the development of Viscose Rayon, a man-made fibre, and made significant contributions to the discovery of industrial minerals in India during World War I."
+            },
+            {
+                "name": "Bosteels_Brewery",
+                "desc": "Bosteels Brewery is a Belgian brewery founded in 1791, known for brewing four beers, including Tripel Karmeliet, DeuS, Pauwel Kwak, and Monte Cristo, before being sold to AB InBev in 2016."
+            },
+            {
+                "name": "Hung_Cee_Kay",
+                "desc": "Celeste Hung Cee Kay is a Hong Kong swimmer who competed in the 1988 Summer Olympics and won bronze in the 1986 Asian Games, later becoming an executive director of Hop Hing, a Hong Kong restaurant operator."
+            },
+            {
+                "name": "Edwin_Beer",
+                "desc": "Edwin Beer was an American surgeon who pioneered the endoscopic treatment of papillary bladder tumors and is recognized as the founder of electrosurgery of the bladder."
+            },
+            {
+                "name": "Lindemans_Brewery",
+                "desc": "Lindemans Brewery is a Belgian family brewery based in Vlezenbeek that produces lambics, a style of Belgian ale made with raw wheat and wild yeast."
+            }
+        ],
+        "mention_imgpath": "69f515952f3cd7ed81705cf86831a3fa.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a woman on a stage with a group of women",
+            "Dense Captions": "a woman on a stage with a group of women; a woman wearing a red dress; a blurry image of a woman in a white dress; a woman in a grey shirt; a woman wearing a white dress; a woman in white dress; a woman singing on stage with other women",
+            "Tags": "clothing; person; human face; dress; entertainment; girl; talent show; fashion; performance art; dance; sport; dancing; lady; performance; woman; dancer",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        326
+                    ],
+                    "caption": "a woman on a stage with a group of women",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        208,
+                        35,
+                        113,
+                        283
+                    ],
+                    "caption": "a woman wearing a red dress",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        74,
+                        123,
+                        83,
+                        189
+                    ],
+                    "caption": "a blurry image of a woman in a white dress",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        289,
+                        98,
+                        103,
+                        214
+                    ],
+                    "caption": "a woman in a grey shirt",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        369,
+                        123,
+                        77,
+                        190
+                    ],
+                    "caption": "a woman wearing a white dress",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        125,
+                        98,
+                        100,
+                        215
+                    ],
+                    "caption": "a woman in white dress",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        24,
+                        15,
+                        448,
+                        296
+                    ],
+                    "caption": "a woman singing on stage with other women",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        77,
+                        126,
+                        86,
+                        181
+                    ],
+                    "confidence": 0.736
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        155,
+                        105,
+                        76,
+                        203
+                    ],
+                    "confidence": 0.821
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        299,
+                        101,
+                        86,
+                        216
+                    ],
+                    "confidence": 0.864
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        371,
+                        131,
+                        74,
+                        170
+                    ],
+                    "confidence": 0.718
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        206,
+                        35,
+                        112,
+                        281
+                    ],
+                    "confidence": 0.861
+                }
+            ]
+        }
+    },
+    "439": {
+        "mention": "New York",
+        "mention_context": "UN Security Council Chamber in New York",
+        "Candentity": [
+            {
+                "name": "New_York_(2009_film)",
+                "desc": "New York is a 2009 Indian thriller film directed by Kabir Khan, starring John Abraham, Katrina Kaif, and Neil Nitin Mukesh, which tells the story of three students whose lives are changed by the September 11 attacks and its aftermath."
+            },
+            {
+                "name": "New_York_(2019_typeface)",
+                "desc": "New York is a transitional serif typeface created by Apple Inc."
+            },
+            {
+                "name": "New_York_(magazine)",
+                "desc": "New York is a biweekly American magazine that focuses on life, culture, politics, and style, with a particular emphasis on New York City, and has won numerous awards for its reporting and design."
+            },
+            {
+                "name": "New_York_City",
+                "desc": "New York City is the most populous city in the United States, situated at the southern tip of New York State, comprising five boroughs, and serving as a global center for culture, finance, technology, entertainment, and international diplomacy."
+            },
+            {
+                "name": "New_York_(state)",
+                "desc": "New York is a state located in the northeastern United States, known for its rich history, iconic cities such as New York City, and diverse natural landscapes."
+            },
+            {
+                "name": "Reform_of_the_United_Nations_Security_Council",
+                "desc": "The Reform of the United Nations Security Council is a proposed change to the UN's governing structure, aimed at increasing the representation and influence of developing countries on the Council, as described in the \"Uniting for Consensus\" initiative."
+            },
+            {
+                "name": "_N.Y.",
+                "desc": "N."
+            },
+            {
+                "name": "New_York_(World_Series_of_Football)",
+                "desc": "\"New York\" was a professional football team formed by Tom O'Rouke for the 1902 World Series of Football, held at Madison Square Garden in New York City."
+            },
+            {
+                "name": "New_York_(Ja_Rule_song)",
+                "desc": "\"New York\" is a song by Ja Rule, released in 2004 as the second single from his album R."
+            },
+            {
+                "name": "New_York_(Burgess_book)",
+                "desc": "The New York book by Burgess is a travel book that is currently a stub and requires further development."
+            }
+        ],
+        "mention_imgpath": "35b3b6378cbcdf0dd810965355945041.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a room with a round table and chairs",
+            "Dense Captions": "a room with a round table and chairs; a wall with a mural of people; a table in a circular room with chairs; a round table in a room with chairs; a curtain with a black background; a table in a room",
+            "Tags": "indoor; wall; furniture; ceiling; hall; interior design; theatre; chair; concert hall; performing arts center; room; movie palace; floor; large; auditorium; empty; theater",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        251
+                    ],
+                    "caption": "a room with a round table and chairs",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        177,
+                        48,
+                        139,
+                        85
+                    ],
+                    "caption": "a wall with a painting on it",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        129,
+                        493,
+                        106
+                    ],
+                    "caption": "a table in a circular room with chairs",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        68,
+                        41,
+                        361,
+                        182
+                    ],
+                    "caption": "a round table in a room with chairs",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        88,
+                        46,
+                        73,
+                        99
+                    ],
+                    "caption": "a curtain with a black background",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        162,
+                        140,
+                        174,
+                        51
+                    ],
+                    "caption": "a table in a room",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "hall",
+                    "bounding_box": [
+                        4,
+                        19,
+                        325,
+                        228
+                    ],
+                    "confidence": 0.637
+                }
+            ]
+        }
+    },
+    "797": {
+        "mention": "Sydney",
+        "mention_context": "China versus Japan earlier today in Sydney.",
+        "Candentity": [
+            {
+                "name": "Sydney_(NRC_team)",
+                "desc": "Sydney is an Australian rugby union team that competes in the National Rugby Championship (NRC), formerly known as the Sydney Rays, and draws on the metropolitan sides that have represented the city for over a century."
+            },
+            {
+                "name": "Sydney,_New_South_Wales",
+                "desc": "Sydney is the capital city of New South Wales, Australia, and the most populous city in Australia and Oceania, known for its rich history, cultural diversity, and iconic landmarks such as the Sydney Opera House and Harbour Bridge."
+            },
+            {
+                "name": "Sydney,_Australia",
+                "desc": "Sydney is the capital city of New South Wales, Australia, known for its iconic landmarks, natural beauty, and cultural significance, with a population of over 5."
+            },
+            {
+                "name": "Sydney",
+                "desc": "Sydney is the capital city of New South Wales, Australia, and the most populous city in Oceania, known for its rich history, cultural diversity, and iconic landmarks, with a population of over 5."
+            },
+            {
+                "name": "Sydney_(Australia)",
+                "desc": "Sydney is the capital city of New South Wales, Australia, known for its iconic landmarks, vibrant cultural scene, and strong economy, with a population of over 5."
+            },
+            {
+                "name": "Dan_Highcock",
+                "desc": "Dan Highcock is a former British wheelchair basketball player who was selected to play for Team GB in the 2012 Summer Paralympics in London."
+            },
+            {
+                "name": "Sydney_Airport",
+                "desc": "Sydney Airport, also known as Sydney Kingsford Smith Airport, is an international airport in Sydney, Australia, serving as a primary hub for Qantas and a secondary hub for Virgin Australia and Jetstar, handling over 42 million passengers annually."
+            },
+            {
+                "name": "Hard_Eight_(film)",
+                "desc": "Hard Eight is a 1996 American crime film written and directed by Paul Thomas Anderson, starring Philip Baker Hall, John C."
+            },
+            {
+                "name": "Sydney_(city)",
+                "desc": "The City of Sydney is the local government area covering the central business district and surrounding inner-city suburbs of Sydney, established in 1842 and governed by the City of Sydney Act, 1988, with the Lord Mayor of Sydney being its current leader."
+            },
+            {
+                "name": "The_Real_World:_Sydney",
+                "desc": "The Real World."
+            }
+        ],
+        "mention_imgpath": "7c1f307a61db9db797bac43cd1293ad3.JPG",
+        "mention_imgdesc_Azure": {
+            "Caption": "a woman in wheelchairs on a basketball court",
+            "Dense Captions": "a woman in wheelchairs on a basketball court; a girl in a wheelchair; a person in a wheelchair; a man in a wheelchair; a person in a wheelchair; a wheel chair with wheels; a person in a wheelchair holding a wheel; a wheel of a wheelchair; a blue cone with a wooden handle; a woman in a wheelchair on a basketball court",
+            "Tags": "wheelchair; wheel; person; chair; clothing; disabled sports; sports equipment; wheelchair sports; basketball; floor; indoor; bicycle; ground",
+            "OCR text": "JAPAN; it's Ce",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        333
+                    ],
+                    "caption": "a woman in wheelchairs on a basketball court",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        292,
+                        69,
+                        71,
+                        74
+                    ],
+                    "caption": "a girl in a wheelchair",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        95,
+                        119,
+                        208,
+                        166
+                    ],
+                    "caption": "a person in a wheelchair",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        24,
+                        0,
+                        125,
+                        239
+                    ],
+                    "caption": "a man in a wheelchair",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        397,
+                        52,
+                        85,
+                        144
+                    ],
+                    "caption": "a person in a wheelchair",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        204,
+                        131,
+                        185,
+                        162
+                    ],
+                    "caption": "a wheel chair with wheels",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        384,
+                        118,
+                        110,
+                        80
+                    ],
+                    "caption": "a person in a wheelchair holding a wheel",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        6,
+                        138,
+                        80,
+                        126
+                    ],
+                    "caption": "a wheel of a wheelchair",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        223,
+                        0,
+                        58,
+                        131
+                    ],
+                    "caption": "a blue cone with a wooden handle",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        486,
+                        317
+                    ],
+                    "caption": "a woman in a wheelchair on a basketball court",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        286,
+                        70,
+                        86,
+                        119
+                    ],
+                    "confidence": 0.653
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        24,
+                        6,
+                        134,
+                        251
+                    ],
+                    "confidence": 0.869
+                },
+                {
+                    "object_name": "Land vehicle",
+                    "bounding_box": [
+                        7,
+                        112,
+                        194,
+                        164
+                    ],
+                    "confidence": 0.7
+                },
+                {
+                    "object_name": "Land vehicle",
+                    "bounding_box": [
+                        195,
+                        114,
+                        203,
+                        179
+                    ],
+                    "confidence": 0.551
+                }
+            ]
+        }
+    }
+}

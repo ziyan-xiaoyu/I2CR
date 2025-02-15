@@ -1,0 +1,1269 @@
+{
+    "1557": {
+        "mention": "General Libraries",
+        "mention_context": "The General Libraries (modified by Wapcaplet or Jdforrester",
+        "Candentity": [
+            {
+                "name": "Ais_people",
+                "desc": "The Ais or Ays were a Native American people of eastern Florida. Their territory included coastal areas and islands from approximately Cape Canaveral to the Indian River. The Ais chiefdom consisted of a number of towns, each led by a chief who was subordinate to the paramount chief of Ais; the Indian River was known as the \"River of Ais\" to the Spanish. The Ais language has been linked to the Chitimacha language by linguist Julian Granberry, who points out that \"Ais\" means \"the people\" in the Chitimacha language. The best single source for information on the Ais at the end of the 17th century is Jonathan Dickinson's Journal, in which he makes observations on their appearance, diet, and customs. Dickinson and his party were shipwrecked, and spent several weeks among the Ais in 1696. By Dickinson's account, the chief of the town of Jece, near present-day Sebastian, was paramount to all of the coastal towns from the Jaega town of Jobe in the south to approximately Cape Canaveral in the north . The Ais had already had considerable contact with Europeans by this time. The Spanish became acquainted with the Ais in middle of the 16th century. In 1566 Pedro Menéndez de Avilés, founder of St. Augustine, Florida, established a fort and mission at an Ais town, which the Spanish called Santa Lucía. After the Ais attacked the fort, killing 23 of the soldiers, the Spanish abandoned the fort and mission. Spain eventually established some control over the coast; at the time, the Ais considered them friends and non-Spanish Europeans as enemies. A number of Ais men learned some Spanish, and a patrol of Spanish soldiers from St. Augustine arrived in Jece while the Dickinson party was there. One Ais man in Jece had been taken away by the English to work as a diver on a wreck east of Cuba. He got away when the ship put in for water in Cuba, and made his way back to his home via Havana and St. Augustine. For other uses, see AIS ."
+            },
+            {
+                "name": "New_Zealand_Parliamentary_Library",
+                "desc": "The New Zealand Parliamentary Library is the library and information resource of the New Zealand Parliament. The current library building in Wellington was completed in 1899 and is the oldest of the extant buildings in the Parliament complex. It stands to the north of Parliament House ."
+            },
+            {
+                "name": "National_Library_of_the_Kingdom_of_Morocco",
+                "desc": "The National Library of the Kingdom of Morocco is located in Rabat, Morocco with a branch in Tetouan. The Bibliothèque Générale was created in 1924. In 2003 it was renamed the \"Bibliothèque nationale du Royaume du Maroc.\" This article relating to library science or information science is a stub."
+            },
+            {
+                "name": "RUM_General_Library",
+                "desc": "The RUM General Library is the main library for the University of Puerto Rico at Mayagüez. It consists of a main library and a specialized collection."
+            },
+            {
+                "name": "Library_of_the_Surgeon_General's_Office",
+                "desc": "The Library of the Surgeon General's Office, later called the Army Medical Library, was the institutional medical literature repository of the U.S. Army Surgeon General from 1836 to 1956 when it was transformed into the National Library of Medicine."
+            },
+            {
+                "name": "General_Society_of_Mechanics_and_Tradesmen_of_the_City_of_New_York",
+                "desc": "The General Society of Mechanics and Tradesmen of the City of New York, was founded on November 17, 1785, by 22 men who gathered in Walter Heyer's public-house on Pine Street in Lower Manhattan. The aims of the General Society were to provide cultural, educational and social services to families of skilled craftsmen. The General Society during this early period celebrated the mutuality and centrality of the craft community. Besides its charitable activities, the society played a prominent part in the festivities that marked patriotic holidays, carrying banners emblazoned with its slogan 'By hammer and hand all arts do stand', echoing the motto of the Worshipful Company of Blacksmiths. The city of New York and the Society both benefited from the decision to make New York the seat of the Federal Government. In 1789, legislators and their assistants and families began to pour into the city. Business prospects brightened considerably. In 1792, the Society attained a membership of 413, and received a charter of incorporation. Old documents reveal that the Society was quite active in the last years of the 18th century, corresponding with other business related associations, and petitioning the state legislature in the interests of industrial progress."
+            },
+            {
+                "name": "GNU_Lesser_General_Public_License",
+                "desc": "The GNU Lesser General Public License is a free-software license published by the Free Software Foundation . The license allows developers and companies to use and integrate a software component released under the LGPL into their own software without being required by the terms of a strong copyleft license to release the source code of their own components. However, any developer who modifies an LGPL-covered component is required to make their modified version available under the same LGPL license. For proprietary software, code under the LGPL is usually used in the form of a shared library, so that there is a clear separation between the proprietary and LGPL components. The LGPL is primarily used for software libraries, although it is also used by some stand-alone applications. The LGPL was developed as a compromise between the strong copyleft of the GNU General Public License and more permissive licenses such as the BSD licenses and the MIT License. The word \"Lesser\" in the title shows that the LGPL does not guarantee the end user's complete freedom in the use of software; it only guarantees the freedom of modification for components licensed under the LGPL, but not for any proprietary components."
+            },
+            {
+                "name": "University_of_Coimbra_General_Library",
+                "desc": "The library is open every day from 9:00 to 22:45."
+            },
+            {
+                "name": "Public_Libraries_(journal)",
+                "desc": "Public Libraries is the official publication of the Public Library Association , a division of the American Library Association . It is devoted exclusively to public libraries. The print edition is published six times a year and is a delayed open access journal, with older issues available as PDF files on the journal's website."
+            },
+            {
+                "name": "General_Polygon_Clipper",
+                "desc": "The General Polygon Clipper is a software library providing for computing the results of clipping operations on sets of polygons. It generalises the computer graphics clipping problem of intersecting polygons with polygons. The first release of GPC was designed and implemented in 1997 by Alan Murta. As of August 2009[update] the current GPC release was version 2.32. The core GPC library is written in the C programming language but the library has also been ported to work with several other languages. GPC is free for non-commercial use, and its author encourages the free use of GPC to support research, teaching and academic applications. To use GPC in support of commercial applications, a Licence is required. As of August 2020, GPC is no longer distributed or available."
+            }
+        ],
+        "mention_imgpath": "993f65314e8e5b1cde1fd4db1d0ed742.png",
+        "mention_imgdesc_Azure": {
+            "Caption": "a map of florida state",
+            "Dense Captions": "a map of florida state; a map of florida with red highlighted; a white rectangular object with black border; a map of state with red highlighted",
+            "Tags": "sketch; diagram; drawing; map",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        300,
+                        295
+                    ],
+                    "caption": "a map of florida state",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        290,
+                        285
+                    ],
+                    "caption": "a map of florida with red highlighted",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        12,
+                        102,
+                        166,
+                        184
+                    ],
+                    "caption": "a white rectangular object with black border",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        148,
+                        11,
+                        145,
+                        272
+                    ],
+                    "caption": "a map of state with red highlighted",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": []
+        },
+        "GPTans": "nil"
+    },
+    "915": {
+        "mention": "black holes",
+        "mention_context": "Artist's depiction of two supermassive black holes merging.",
+        "Candentity": [
+            {
+                "name": "Black_hole_(networking)",
+                "desc": "In networking, black holes refer to places in the network where incoming or outgoing traffic is silently discarded , without informing the source that the data did not reach its intended recipient. When examining the topology of the network, the black holes themselves are invisible, and can only be detected by monitoring the lost traffic; hence the name. Main article: Domain Name System-based Blackhole List"
+            },
+            {
+                "name": "Black_hole",
+                "desc": "A black hole is a region of spacetime where gravity is so strong that nothing, including light or other electromagnetic waves, has enough energy to escape it. The theory of general relativity predicts that a sufficiently compact mass can deform spacetime to form a black hole. The boundary of no escape is called the event horizon. Although it has a great effect on the fate and circumstances of an object crossing it, it has no locally detectable features according to general relativity. In many ways, a black hole acts like an ideal black body, as it reflects no light. Moreover, quantum field theory in curved spacetime predicts that event horizons emit Hawking radiation, with the same spectrum as a black body of a temperature inversely proportional to its mass. This temperature is of the order of billionths of a kelvin for stellar black holes, making it essentially impossible to observe directly.\nObjects whose gravitational fields are too strong for light to escape were first considered in the 18th century by John Michell and Pierre-Simon Laplace. In 1916, Karl Schwarzschild found the first modern solution of general relativity that would characterize a black hole. David Finkelstein, in 1958, first published the interpretation of \"black hole\" as a region of space from which nothing can escape. Black holes were long considered a mathematical curiosity; it was not until the 1960s that theoretical work showed they were a generic prediction of general relativity. The discovery of neutron stars by Jocelyn Bell Burnell in 1967 sparked interest in gravitationally collapsed compact objects as a possible astrophysical reality. The first black hole known was Cygnus X-1, identified by several researchers independently in 1971.Black holes of stellar mass form when massive stars collapse at the end of their life cycle. After a black hole has formed, it can grow by absorbing mass from its surroundings. Supermassive black holes of millions of solar masses (M☉) may form by absorbing other stars and merging with other black holes. There is consensus that supermassive black holes exist in the centres of most galaxies.\nThe presence of a black hole can be inferred through its interaction with other matter and with electromagnetic radiation such as visible light. Any matter that falls onto a black hole can form an external accretion disk heated by friction, forming quasars, some of the brightest objects in the universe. Stars passing too close to a supermassive black hole can be shredded into streamers that shine very brightly before being \"swallowed.\" If other stars are orbiting a black hole, their orbits can be used to determine the black hole's mass and location. Such observations can be used to exclude possible alternatives such as neutron stars. In this way, astronomers have identified numerous stellar black hole candidates in binary systems and established that the radio source known as Sagittarius A*, at the core of the Milky Way galaxy, contains a supermassive black hole of about 4.3 million solar masses.\n\n"
+            },
+            {
+                "name": "Black_Holes_and_Revelations",
+                "desc": "Black Holes and Revelations is the fourth studio album by English rock band Muse. It was released on 3 July 2006 through the band's own Helium-3 imprint as well as Warner Bros. Records. Recording was done in a four-month span and was split between New York and France. It also marked the first time the band took a more active role in production. Black Holes and Revelations saw a change in style from Muse's previous albums, and the band cited influences that included Depeche Mode, Millionaire, Lightning Bolt, Sly and the Family Stone, and music from southern Italy. Like their two previous albums, it features political and dystopian undertones, with lyrics covering topics such as political corruption, alien invasion, revolution, and New World Order conspiracies, as well as more conventional love songs. Black Holes and Revelations received positive reviews from critics and appeared on many year-end lists. It received a Mercury Prize nomination and later appeared in the 2007 version of 1001 Albums You Must Hear Before You Die. The album entered the charts at number one in five countries, including the United Kingdom, and in the top 10 in several other countries. It was later certified triple platinum in the UK and platinum in the US. Singles \"Supermassive Black Hole\" and \"Knights of Cydonia\" were both UK top-10 hits, while \"Starlight\", \"Map of the Problematique\", and \"Invincible\" all charted within the top 25. \"Exo Politics\" and \"Exo-Politics\" redirect here. For other uses, see Exopolitics."
+            },
+            {
+                "name": "Endpin",
+                "desc": "The endpin is the component of a cello or double bass that makes contact with the floor to support the instrument's weight. It is made of metal, carbon fiber, or, occasionally, wood, and is typically extensible from the bottom of the instrument, secured there with a thumbscrew or other tightening mechanism. Most bass clarinets and contrabassoons also have a similar fixture."
+            },
+            {
+                "name": "The_Black_Hole_(1979_film)",
+                "desc": "The Black Hole is a 1979 American dark science fiction film directed by Gary Nelson and produced by Walt Disney Productions. The film stars Maximilian Schell, Robert Forster, Joseph Bottoms, Yvette Mimieux, Anthony Perkins and Ernest Borgnine, while the voices of the main robot characters are provided by Roddy McDowall and Slim Pickens . The music for the film was composed by John Barry. In the early 1970s, the film was initially conceived as a space-themed disaster film. However, the script went through numerous iterations from various screenwriters. Additionally, Disney's effects department used computerized camera technology to create the visual effects. The film was released on December 18, 1979, in the United Kingdom and on December 21, 1979, in the United States. It was the first film from Walt Disney Productions to receive a PG rating. The film received mixed reviews from film critics and was a box office disappointment. The film was nominated for two Academy Awards for Best Cinematography and Best Visual Effects. \"The Black Hole\" redirects here. For other uses, see Black hole ."
+            },
+            {
+                "name": "Black_Holes_(film)",
+                "desc": "Black Holes is a 1995 Italian romance film directed by Pappi Corsicato. This article related to an Italian film of the 1990s is a stub."
+            },
+            {
+                "name": "Hawking_radiation",
+                "desc": "Hawking radiation is black-body radiation that is predicted to be released by black holes, due to quantum effects near the black hole event horizon. It is named after the physicist Stephen Hawking, who provided a theoretical argument for its existence in 1974. The requirement that black holes lose energy into the wider universe, and therefore can \"evaporate\", and the radiated spectrum are both a result of analysing black hole thermal equilibrium combined with extreme redshifting effects very close to the event horizon, with some consideration of quantum entanglement effects. A pair of virtual waves/particles arises just outside the event horizon due to ordinary quantum effects. Very close to the event horizon, these always manifest as a pair of photons. It may happen that one of these photons passes beyond the event horizon, while the other escapes into the wider universe . A close analysis shows that the exponential redshifting effect of extreme gravity very close to the event horizon almost tears the escaping photon apart, and in addition very slightly amplifies it. The amplification gives rise to a \"partner wave\", which carries negative energy and passes through the event horizon, where it remains trapped, reducing the total energy of the black hole. The escaping photon adds an equal amount of positive energy to the wider universe outside the black hole. In this way, no matter or energy ever actually leaves the black hole itself. A conservation law exists for the partner wave, which in theory shows that the emissions comprise an exact black body spectrum, bearing no information about the interior conditions. Hawking radiation reduces the mass and rotational energy of black holes and is therefore also known as black hole evaporation. Because of this, black holes that do not gain mass through other means are expected to shrink and ultimately vanish. For all except the smallest black holes, this would happen extremely slowly. The radiation temperature is inversely proportional to the black hole's mass, so micro black holes are predicted to be larger emitters of radiation than more massive black holes and should thus shrink and dissipate faster."
+            },
+            {
+                "name": "Black_Holes_(album)",
+                "desc": "Black Holes is the debut studio album by Canadian blues rock band, The Blue Stones. The album was released on October 20, 2015. The album was re-released on October 26, 2018 through Entertainment One."
+            },
+            {
+                "name": "Supermassive_black_hole",
+                "desc": "A supermassive black hole is the largest type of black hole, with mass on the order of millions to billions of times the mass of the Sun . Black holes are a class of astronomical objects that have undergone gravitational collapse, leaving behind spheroidal regions of space from which nothing can escape, not even light. Observational evidence indicates that almost every large galaxy has a supermassive black hole at the galaxy's center. The Milky Way has a supermassive black hole in its Galactic Center, which corresponds to the location of Sagittarius A*. Accretion of interstellar gas onto supermassive black holes is the process responsible for powering active galactic nuclei and quasars. This article is about the astronomical object. For the song by the band Muse, see Supermassive Black Hole ."
+            },
+            {
+                "name": "Black_hole_thermodynamics",
+                "desc": "In physics, black hole thermodynamics is the area of study that seeks to reconcile the laws of thermodynamics with the existence of black hole event horizons.  As the study of the statistical mechanics of black-body radiation led to the development of the theory of quantum mechanics, the effort to understand the statistical mechanics of black holes has had a deep impact upon the understanding of quantum gravity, leading to the formulation of the holographic principle."
+            }
+        ],
+        "mention_imgpath": "9738fe4ab58458d1aedbe2f1cfc8820b.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a two glowing circles in space",
+            "Dense Captions": "a two glowing circles in space; a yellow and orange circle; a group of glowing circles in space; a yellow circle in water; a pair of red and yellow circles in space; a close up of a planet; a dark spot in the sky",
+            "Tags": "universe; space; amber; astronomical object; outer space; colorfulness; astronomy; vortex; fractal art; nebula; star",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        375
+                    ],
+                    "caption": "a two glowing circles in space",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        225,
+                        143,
+                        246,
+                        112
+                    ],
+                    "caption": "a yellow and orange circle",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        67,
+                        72,
+                        404,
+                        188
+                    ],
+                    "caption": "a group of glowing circles in space",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        76,
+                        86,
+                        203,
+                        87
+                    ],
+                    "caption": "a yellow circle in water",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        488,
+                        364
+                    ],
+                    "caption": "a pair of red and yellow circles in space",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        103,
+                        278,
+                        121,
+                        93
+                    ],
+                    "caption": "a dark spot in the sky",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        27,
+                        1,
+                        447,
+                        107
+                    ],
+                    "caption": "a close up of a planet",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": []
+        }
+    },
+    "1267": {
+        "mention": "Michelangelo's",
+        "mention_context": "Michelangelo's face detail of God.",
+        "Candentity": [
+            {
+                "name": "Michelangelo_(Stanley_book)",
+                "desc": "Michelangelo is a 2000 children's biography by Diane Stanley. It covers Michelangelo's life, from his childhood to his death."
+            },
+            {
+                "name": "Michelangelo",
+                "desc": "Michelangelo di Lodovico Buonarroti Simoni , known simply as Michelangelo , was an Italian sculptor, painter, architect and poet of the High Renaissance born in the Republic of Florence, who exerted an unparalleled influence on the development of Western art. His artistic versatility was of such a high order that he is often considered a contender for the title of the archetypal Renaissance man, along with his rival, the fellow Florentine, Leonardo da Vinci. Several scholars have described Michelangelo as the greatest artist of his age and even as the greatest artist of all time. A number of Michelangelo's works of painting, sculpture and architecture rank among the most famous in existence. His output in these fields was prodigious; given the sheer volume of surviving correspondence, sketches and reminiscences, he is the best-documented artist of the 16th century. He sculpted two of his best-known works, the Pietà and David, before the age of thirty. Despite holding a low opinion of painting, he also created two of the most influential frescoes in the history of Western art: the scenes from Genesis on the ceiling of the Sistine Chapel in Rome, and The Last Judgment on its altar wall. His design of the Laurentian Library pioneered Mannerist architecture. At the age of 74, he succeeded Antonio da Sangallo the Younger as the architect of St. Peter's Basilica. He transformed the plan so that the western end was finished to his design, as was the dome, with some modification, after his death. Michelangelo was the first Western artist whose biography was published while he was alive. In fact, two biographies were published during his lifetime. One of them, by Giorgio Vasari, proposed that Michelangelo's work transcended that of any artist living or dead, and was \"supreme in not one art alone but in all three\". In his lifetime, Michelangelo was often called Il Divino . His contemporaries often admired his terribilità—his ability to instil a sense of awe. Attempts by subsequent artists to imitate Michelangelo's impassioned, highly personal style resulted in Mannerism, the next major movement in Western art after the High Renaissance. For other uses, see Michelangelo ."
+            },
+            {
+                "name": "Human_skull_symbolism",
+                "desc": "Skull symbolism is the attachment of symbolic meaning to the human skull. The most common symbolic use of the skull is as a representation of death, mortality and the unachievable nature of immortality. Humans can often recognize the buried fragments of an only partially revealed cranium even when other bones may look like shards of stone. The human brain has a specific region for recognizing faces, and is so attuned to finding them that it can see faces in a few dots and lines or punctuation marks; the human brain cannot separate the image of the human skull from the familiar human face. Because of this, both the death and the now-past life of the skull are symbolized. Hindu temples and depiction of some Hindu deities have displayed association with skulls. Moreover, a human skull with its large eye sockets displays a degree of neoteny, which humans often find visually appealing—yet a skull is also obviously dead, and to some can even seem to look sad due to the downward facing slope on the ends of the eye sockets. A skull with the lower jaw intact may also appear to be grinning or laughing due to the exposed teeth. As such, human skulls often have a greater visual appeal than the other bones of the human skeleton, and can fascinate even as they repel. Our present society predominantly associates skulls with death and evil. Unicode reserves character U+1F480 for a human skull pictogram."
+            },
+            {
+                "name": "SS_Michelangelo",
+                "desc": "SS Michelangelo was an Italian ocean liner built in 1965 for Italian Line by Ansaldo Shipyards, Genoa. She was one of the last ships to be built primarily for liner service across the North Atlantic. Her sister ship was the SS Raffaello."
+            },
+            {
+                "name": "Michaleangelo",
+                "desc": "Michelangelo di Lodovico Buonarroti Simoni (Italian: [mikeˈlandʒelo di lodoˈviːko ˌbwɔnarˈrɔːti siˈmoːni]; 6 March 1475 – 18 February 1564), known as Michelangelo (English: ), was an Italian sculptor, painter, architect, and poet of the High Renaissance. Born in the Republic of Florence, his work was inspired by models from classical antiquity and had a lasting influence on Western art. Michelangelo's creative abilities and mastery in a range of artistic arenas define him as an archetypal Renaissance man, along with his rival and elder contemporary, Leonardo da Vinci. Given the sheer volume of surviving correspondence, sketches, and reminiscences, Michelangelo is one of the best-documented artists of the 16th century. He was lauded by contemporary biographers as the most accomplished artist of his era.Michelangelo achieved fame early; two of his best-known works, the Pietà and David, were sculpted before the age of thirty. Although he did not consider himself a painter, Michelangelo created two of the most influential frescoes in the history of Western art: the scenes from Genesis on the ceiling of the Sistine Chapel in Rome, and The Last Judgment on its altar wall. His design of the Laurentian Library pioneered Mannerist architecture. At the age of 71, he succeeded Antonio da Sangallo the Younger as the architect of St. Peter's Basilica. Michelangelo transformed the plan so that the western end was finished to his design, as was the dome, with some modification, after his death.\nMichelangelo was the first Western artist whose biography was published while he was alive. In fact, three biographies were published during his lifetime. One of them, by Giorgio Vasari, proposed that Michelangelo's work transcended that of any artist living or dead, and was \"supreme in not one art alone but in all three.\"In his lifetime, Michelangelo was often called Il Divino (\"the divine one\"). His contemporaries often admired his terribilità—his ability to instill a sense of awe in viewers of his art. Attempts by subsequent artists to imitate the expressive physicality of Michelangelo's style contributed to the rise of Mannerism, a short-lived movement in Western art following the High Renaissance."
+            },
+            {
+                "name": "The_Michelangelo",
+                "desc": "The Taft Hotel is a 22-story pre-war Spanish Renaissance structure that occupies the entire eastern side of Seventh Avenue between 50th and 51st Street, just north of Times Square, in New York City. In its modern configuration, it features two separate and distinct uses, each with their own entrance on 51st St. The first and largest portion of building is devoted to the residential condominium called Executive Plaza, with each of its 440 units being privately owned. Certain units are rented by their owners to the public through the Oakwood brand. Sharing a smaller portion of the building is The Michelangelo, a Starhotels hotel."
+            },
+            {
+                "name": "Michelangelo_(computer_virus)",
+                "desc": "Although designed to infect DOS systems, the virus can easily disrupt other operating systems installed on the system since, like many viruses of its era, the Michelangelo infects the master boot record of a hard drive. Once a system became infected, any floppy disk inserted into the system becomes immediately infected as well. And because the virus spends most of its time dormant, activating only on March 6, it is conceivable that an infected computer could go for years without detection — as long as it wasn't booted on that date, while infected. The virus first came to widespread international attention in January 1992, when it was revealed that a few computer and software manufacturers had accidentally shipped products, for example Intel's LANSpool print server, infected with the virus. Although the infected machines numbered only in the hundreds, the resulting publicity spiraled into \"expert\" claims, partially led by anti-virus company founder John McAfee, of thousands or even millions of computers infected by Michelangelo. However, on March 6, 1992, only 10,000 to 20,000 cases of data loss were reported.[citation needed] In subsequent years, users were advised not to run PCs on March 6, waiting until March 7, or else reset the PC date to March 7 at some time on March 5 . Eventually, the news media lost interest, and the virus was quickly forgotten. Despite the scenario given above, in which an infected computer could evade detection for years, by 1997 no cases were being reported in the wild.[citation needed]"
+            },
+            {
+                "name": "Michelangelo_Celesia",
+                "desc": "Michelangelo Celesia, O.S.B. Cas. was an Italian Benedictine monk who served as the Archbishop of Palermo from 1871 until his death, and was elevated to the cardinalate in 1884."
+            },
+            {
+                "name": "Michelangelo_(Teenage_Mutant_Ninja_Turtles)",
+                "desc": "Michelangelo, nicknamed Mike or Mikey, is a fictional superhero and one of the four main characters of the Teenage Mutant Ninja Turtles comics and all related media. He is usually depicted wearing an orange eye mask. His signature weapons are dual nunchaku, though he has also been portrayed using other weapons, such as a grappling hook, manriki-gusari, tonfa, and a three-section staff . Michaelangelo is the most naturally skilled of the four brothers, but prefers to have a good time rather than train. The youngest of the group, he is shown to be rather immature; he is known for his wise-cracks, love of skateboarding, witty optimism, and, like his brothers, love of pizza. Michelangelo was given a much bigger role in the 1987 cartoon series, directed at a younger audience, than in the more serious Miragegi comic books which were aimed at an older audience. He often coins most of their catchphrases, such as \"Cowabunga!\". Like all of the brothers, he is named after a Renaissance artist; in this case, he is named after Michelangelo Buonarroti. His name was originally spelled Michaelangelo by the original creators, possibly misspelling his name sake's name wrong due to the name \"Michael\" and how the name \"Michael\" is spelled. In the Mirage comics, all The Turtles wear red masks, but to tell them apart, he was given an orange mask instead."
+            },
+            {
+                "name": "Michelangelo_Buonarroti",
+                "desc": "Michelangelo di Lodovico Buonarroti Simoni (Italian: [mikeˈlandʒelo di lodoˈviːko ˌbwɔnarˈrɔːti siˈmoːni]; 6 March 1475 – 18 February 1564), known as Michelangelo (English: ), was an Italian sculptor, painter, architect, and poet of the High Renaissance. Born in the Republic of Florence, his work was inspired by models from classical antiquity and had a lasting influence on Western art. Michelangelo's creative abilities and mastery in a range of artistic arenas define him as an archetypal Renaissance man, along with his rival and elder contemporary, Leonardo da Vinci. Given the sheer volume of surviving correspondence, sketches, and reminiscences, Michelangelo is one of the best-documented artists of the 16th century. He was lauded by contemporary biographers as the most accomplished artist of his era.Michelangelo achieved fame early; two of his best-known works, the Pietà and David, were sculpted before the age of thirty. Although he did not consider himself a painter, Michelangelo created two of the most influential frescoes in the history of Western art: the scenes from Genesis on the ceiling of the Sistine Chapel in Rome, and The Last Judgment on its altar wall. His design of the Laurentian Library pioneered Mannerist architecture. At the age of 71, he succeeded Antonio da Sangallo the Younger as the architect of St. Peter's Basilica. Michelangelo transformed the plan so that the western end was finished to his design, as was the dome, with some modification, after his death.\nMichelangelo was the first Western artist whose biography was published while he was alive. In fact, three biographies were published during his lifetime. One of them, by Giorgio Vasari, proposed that Michelangelo's work transcended that of any artist living or dead, and was \"supreme in not one art alone but in all three.\"In his lifetime, Michelangelo was often called Il Divino (\"the divine one\"). His contemporaries often admired his terribilità—his ability to instill a sense of awe in viewers of his art. Attempts by subsequent artists to imitate the expressive physicality of Michelangelo's style contributed to the rise of Mannerism, a short-lived movement in Western art following the High Renaissance."
+            }
+        ],
+        "mention_imgpath": "d01f27c2543ad57c9243c07bb199fff1.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a close-up of a man with a beard",
+            "Dense Captions": "a close-up of a man with a beard; a close-up of a bearded man; a close up of a person's skin; close-up of a man's face",
+            "Tags": "painting; art; sketch; human face; drawing; self-portrait; artwork; portrait",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        356,
+                        500
+                    ],
+                    "caption": "a close-up of a man with a beard",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        347,
+                        488
+                    ],
+                    "caption": "a close-up of a bearded man",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        145,
+                        145,
+                        347
+                    ],
+                    "caption": "a close up of a person's skin",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        50,
+                        0,
+                        269,
+                        209
+                    ],
+                    "caption": "close-up of a man's face",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "dog",
+                    "bounding_box": [
+                        14,
+                        117,
+                        297,
+                        372
+                    ],
+                    "confidence": 0.538
+                }
+            ]
+        }
+    },
+    "1468": {
+        "mention": "Binrand",
+        "mention_context": "Binrand Cosplay as Shyvana from League of Legends.",
+        "Candentity": [
+            {
+                "name": "Bin_Furuya",
+                "desc": "Bin Furuya , whose real name is Satoshi Furuya is a Japanese suit actor born  July 5, 1943 best known for his uncredited portrayal of the title character in the 1966 series Ultraman. Furuya would later portray the character Amagi in the sequel series Ultra Seven. Furuya has also made appearances in Gorath, Ghidorah, the Three-Headed Monster, Ultraman Zearth and Mega Monster Battle: Ultra Galaxy"
+            },
+            {
+                "name": "Bin_He",
+                "desc": "Bin He is an American biomedical engineering scientist. He is the Trustee Professor and Head of the Department of Biomedical Engineering, and Professor by courtesy in the Department of Electrical and Computer Engineering, and Professor of the Neuroscience Institute at Carnegie Mellon University. Prior, he was Distinguished McKnight University Professor of Biomedical Engineering and Medtronic-Bakken Endowed Chair for Engineering in Medicine at the University of Minnesota. He previously served as the director of the Institute for Engineering in Medicine and the Center for Neuroengineering at the University of Minnesota. He is the Editor in Chief of the IEEE Transactions on Biomedical Engineering. He was the president of the IEEE Engineering in Medicine & Biology Society from 2009 to 2010."
+            },
+            {
+                "name": "Binalot",
+                "desc": "Binalot is a method of wrapping and serving food in the Philippines using banana leaves. The term is derived from the word balot meaning \"to wrap\". This Filipino cuisine–related article is a stub."
+            },
+            {
+                "name": "Mount_Binalud",
+                "desc": "Mount Binālud is the second highest peak in Razavi Khorasan province, Iran. It is known also as the Roof of Khorasan. Made of Triassic-Jurassic metamorphic rocks, this mountain is 26 km north-east of Nishapur and to the west of Mashhad. With an elevation of 3201 metres, Mount Binalud is the second highest point of the Binalud Mountains. This Razavi Khorasan province location article is a stub."
+            },
+            {
+                "name": "Binbashi",
+                "desc": "A binbashi, alternatively bimbashi, is a major in the Turkish army, of which term originated in the Ottoman army. The title was also used for a major in the Khedivial Egyptian army as Bimbashi . It was also used by the Serbian revolutionaries as Bimbaša in 1804–1817. Since the restructuring of the modern Turkish Army in 1934, Binbaşı means major; but in the Ottoman Army the more correct equivalent of the Western rank \"major\" was Kolağası , which ranked above Yüzbaşı and below Binbaşı. When the rank Kolağası was removed from the Turkish Army in 1934, the rank Binbaşı was relegated to major Until 1934, it was the duty of a Binbaşı to command a battalion in the Ottoman armies; but since 1934, it is the duty of a Yarbay to command a battalion.[citation needed] The collar mark and cap of a Binbaşı had two stripes and one star during the early years of the Turkish Republic. This Turkey-related article is a stub."
+            },
+            {
+                "name": "Binmaley",
+                "desc": "Binmaley, officially the Municipality of Binmaley , is a 1st class municipality in the province of Pangasinan, Philippines. According to the 2015 census, it has a population of 83,052 people.  Binmaley is located along the western coastland of Pangasinan facing the Lingayen Gulf, in between Lingayen and Dagupan City. On January 8–9, 1945, the amphibious forces of U.S. General Douglas MacArthur used the town's beach, designated as \"yellow beach\", alongside the beaches of Lingayen, Dagupan, and San Fabian, in their landing operations to liberate Luzon from Japanese occupation during World War II. The town is famous for its bangus aqua-culture, due to the existence of its numerous fishponds . However, because of constant siltation over the past several years from mine tailings upstream from Agno River , and the overuse of artificial fish feeds, the bangus industry has suffered from fishkill, fewer viable fishponds and lower harvests. As a result, many formerly productive fishponds have been converted into large commercial and residential lots. This phenomenon is beginning to seriously threaten the unique Binmaley fishpond industry. Current Government action is inadequate due to strong pressures from other competing commercial interests, not to mention fishfeed producers. Binmaley's town center has a Neo classical church dating back to the 17th century. It also became famous throughout the Philippines for the outstanding academic achievements of students from its Binmaley Catholic High School, especially when it was headed by a German priest, Fr. Leo Behneke, in the 1960s and 1970s. Its name roughly means \"the place which became a town\" or \"went to town\" in the Pangasinan language. Binmaley, is famously known for its \"Sigay Festival\". The Pangasinan word sigay broadly translates to harvest, or a time to gather the rich yields of the farm, the sea, the ponds and the rivers. It also relates to a contraction of the words silew, meaning light, and gayaga, meaning merriment. It was Mayor Lorenzo \"Enzo\" Cerezo who pioneered and founded \"Sigay Festival\". Main article: List of Cultural Properties of the Philippines in Binmaley, Pangasinan"
+            },
+            {
+                "name": "Bint_Allayl",
+                "desc": "Bint Allayl was a British champion Thoroughbred racehorse. She was rated the best two-year-old filly of 1998 by both the International Classification and the Cartier Racing Awards. She won three of her four races including the Queen Mary Stakes and the Lowther Stakes and was made favourite for the 1999 1000 Guineas. She was put down after suffering an injury in training in February 1999."
+            },
+            {
+                "name": "Binnal",
+                "desc": "Binnal is a village in the Yelburga taluk of Koppal district in the Indian state of Karnataka. Binnal is 17 km from Kuknoor and 22 km from Gadag. Binnal can be reached by Gadag-Kuknoor route via Harlapur-Yarehanchinal."
+            },
+            {
+                "name": "Bin_Bunluerit",
+                "desc": "Bin Bunluerit or Bin Binluerit ) is a Thai actor and director whose notable works include the Thai historical drama, Bang Rajan, Panya Raenu, a series of comedy films, and the 2004 Hollywood film, Alexander. This article about a Thai actor is a stub."
+            },
+            {
+                "name": "Binntal",
+                "desc": "The Binn Valley is a valley of the Alps, located on the north side of the Lepontine Alps in the Swiss canton of Valais. The valley is drained by the Binna, a tributary of the Rhone, at Grengiols. The valley is named after Binn , the main settlement. Other villages or localities are Ausserbinn , Heiligkreuz and Fäld . The mountains in the Binntal generally exceed 3,000 metres. The highest are the Helsenhorn, the Turbhorn and the Ofenhorn. On the upper east side of the valley, the Albrun Pass connects it with the Italian Valle Devero."
+            }
+        ],
+        "mention_imgpath": "f6888969297ca74272c9bc81c05b6c07.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a person in a garment",
+            "Dense Captions": "a person in a garment; a person in a garment; a close up of a claw; a woman wearing a garment; a person wearing a garment",
+            "Tags": "outdoor; tree; costume; clothing; person; carnival; cosplay; human face; parade",
+            "OCR text": "13",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        331
+                    ],
+                    "caption": "a person in a garment",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        98,
+                        6,
+                        301,
+                        317
+                    ],
+                    "caption": "a person in a garment",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        1,
+                        15,
+                        89,
+                        202
+                    ],
+                    "caption": "a close up of a claw",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        145,
+                        5,
+                        140,
+                        165
+                    ],
+                    "caption": "a woman wearing a garment",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        125,
+                        164,
+                        239,
+                        161
+                    ],
+                    "caption": "a person wearing a garment",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        135,
+                        45,
+                        190,
+                        286
+                    ],
+                    "confidence": 0.65
+                }
+            ]
+        }
+    },
+    "1455": {
+        "mention": "Australian",
+        "mention_context": "Australian Prime Minister Julia Gillard.",
+        "Candentity": [
+            {
+                "name": "Australia_national_soccer_team",
+                "desc": "The Australia national soccer team represents Australia in international men's soccer. Officially nicknamed the Socceroos, the team is controlled by the governing body for soccer in Australia, Football Federation Australia , which is currently a member of the Asian Football Confederation and the regional ASEAN Football Federation since leaving the Oceania Football Confederation in 2006. Australia is the only national team to have been a champion of two confederations, having won the OFC Nations Cup four times between 1980 and 2004, as well as the AFC Asian Cup at the 2015 event on home soil. The team has represented Australia at the FIFA World Cup tournament on five occasions, in 1974 and from 2006 to 2018. The team has also represented Australia at the FIFA Confederations Cup four times. This article is about the men's team. For the women's team, see Australia women's national soccer team."
+            },
+            {
+                "name": "Australia_men%27s_national_basketball_team",
+                "desc": "The Australian men's national basketball team, known as the Boomers after the slang for a male kangaroo, represents Australia in international basketball competition. Australia is a regional power in basketball. Placed in the relatively weak FIBA Oceania region, the Boomers's qualification for the Summer Olympic Games and FIBA World Cup is often a three-match competition against the other regional power, the New Zealand Tall Blacks. Before the formation of the National Basketball League in 1979, Boomers players were selected from state leagues around the country, with Victoria, South Australia, and to a lesser extent New South Wales the dominant states. After the formation of the NBL, players began to be selected almost exclusively from that competition during the 1980s and 1990s. Occasionally players were selected from outside the NBL. Mark Bradtke made his Boomers debut in 1987 while attending the Australian Institute of Sport before he entered the NBL. Luc Longley made his debut in 1988 while playing college basketball in the United States. Other Australian players enter the Euroleague and the National Basketball Association in the U.S. The Boomers's roster for the 2014 World Cup included five NBA players: Cameron Bairstow with the Chicago Bulls, Aron Baynes with the Boston Celtics, Matthew Dellavedova with the Milwaukee Bucks, and Dante Exum and Joe Ingles with the Utah Jazz. Three other players were ruled out of the World Cup due to injury play in the NBA, namely Andrew Bogut of the Los Angeles Lakers, rookie Ben Simmons of the Philadelphia 76ers and Patty Mills of the San Antonio Spurs. Several players on youth national teams are student athletes at the AIS or in the US college basketball system. Some players made the senior national team while at US schools. By the early 21st century, almost half of the squad played outside Australia. For the 2012 London Olympic Games, only two members of the Australian squad were based in the country – Peter Crawford and Adam Gibson, with the latter being the only Australia-based member of the 2014 World Cup squad. The AIS has helped Australia's popularity worldwide. Australia has participated in the most Olympic men's basketball tournaments without winning a medal. Australia has also participated in 12 FIBA World Cups without winning a medal, making Australia the nation with the third-most appearances at the tournament without winning a medal, behind Canada and Puerto Rico . \"The Boomers\" redirects here. For other uses, see Boomer ."
+            },
+            {
+                "name": "Australia_national_wheelchair_rugby_team",
+                "desc": "Wheelchair rugby is a sport with national representation at the Paralympic games.  The Australian Team is known as the 'Steelers'.Australia has competed at every Paralympics Games since the sport gained full Paralympic Medal status at the 2000 Summer Paralympics. The Steelers also competed in the 1996 Summer Paralympics where wheelchair rugby was a demonstration sport. The 'Steelers' defeated Canada at the 2012 London Games to win its first gold medal. In 2014, it won its first World Championship by defeating Canada. In winning the world championship, the Steelers became the second nation in history to hold both the Paralympic and world championship titles concurrently.Wheelchair Rugby Australia (WRA) established in 2022  is responsible for the development and growth of the sport of wheelchair rugby in Australia. The sport is not included at the Special Olympics or the Deaflympics."
+            },
+            {
+                "name": "Australia_women%27s_national_wheelchair_basketball_team",
+                "desc": "The Australia women's national wheelchair basketball team is the women's wheelchair basketball side that represents Australia in international competitions. The team is known as the Gliders. The team hasn't won a gold medal for Australia since it began competing at the 1992 Summer Paralympics, however it has won either the silver or bronze medal since the 2000 Summer Paralympics held in Sydney. Gliders finished 6th at the 2014 Women's World Wheelchair Basketball Championship but did not qualify for the 2016 Summer Paralympics."
+            },
+            {
+                "name": "First_Gillard_Ministry",
+                "desc": "The First Gillard Ministry was the 65th ministry of the Australian government and was led by the prime minister, Julia Gillard. It succeeded the first Rudd Ministry upon its swearing in by the Governor-General of Australia, Quentin Bryce, on 24 June 2010. It was replaced by the second Gillard Ministry on 14 September 2010 after the 2010 election. The change in ministry followed a series of events on 23–24 June that led to the Prime Minister, Kevin Rudd, first calling a leadership ballot within the governing Labor Party after being challenged by his deputy, Julia Gillard, and then declining to contest it, allowing Gillard to win the leadership unopposed. The initial form of the First Gillard Ministry was identical to the final form of the first Rudd Ministry, apart from Gillard's appointment as prime minister and Wayne Swan as deputy prime minister, and the departure of Rudd as a minister. A minor reshuffle was announced on 28 June, with Simon Crean to assume responsibility for Gillard's former portfolios of Education, Employment and Workplace Relations and Social Inclusion. Stephen Smith was assigned the Trade portfolio in addition to his Foreign Affairs portfolio."
+            },
+            {
+                "name": "Australian_Americans",
+                "desc": "Australian Americans are Americans who have Australian ancestry. The first Australian Americans were recent settlers in Australia who then moved on to America. This group included Irish settlers in Australia who then moved to California during the Gold Rush. Immigration from Australia to the United States increased at times of economic boom, such as the Reconstruction era, and in the years following the Second World War. Many Australian citizens live in the U.S during the 21st century, including an estimated 44,000 Australians living in the city of Los Angeles alone as of 2016."
+            },
+            {
+                "name": "Australia",
+                "desc": "Australia, officially the Commonwealth of Australia, is a sovereign country comprising the mainland of the Australian continent, the island of Tasmania, and numerous smaller islands. It is the largest country in Oceania and the world's sixth-largest country by total area. The population of 26 million is highly urbanised and heavily concentrated on the eastern seaboard. Australia's capital is Canberra, and its largest city is Sydney. The country's other major metropolitan areas are Melbourne, Brisbane, Perth, and Adelaide. Indigenous Australians inhabited the continent for about 65,000 years prior to the first arrival of Dutch explorers in the early 17th century, who named it New Holland. In 1770, Australia's eastern half was claimed by Great Britain and initially settled through penal transportation to the colony of New South Wales from 26 January 1788, a date which became Australia's national day. The population grew steadily in subsequent decades, and by the time of an 1850s gold rush, most of the continent had been explored by European settlers and an additional five self-governing crown colonies established. On 1 January 1901, the six colonies federated, forming the Commonwealth of Australia. Australia has since maintained a stable liberal democratic political system that functions as a federal parliamentary constitutional monarchy, comprising six states and ten territories. Australia is the oldest, flattest, and driest inhabited continent, with the least fertile soils. It has a landmass of 7,617,930 square kilometres . A megadiverse country, its size gives it a wide variety of landscapes and climates, with deserts in the centre, tropical rainforests in the north-east, and mountain ranges in the south-east. Australia generates its income from various sources, including mining-related exports, telecommunications, banking, manufacturing, and international education. Australia is a developed country, with the world's thirteenth-largest economy and tenth-highest per capita income. It is considered a regional power and has the world's thirteenth-highest military expenditure. Immigrants account for 30% of the population, the highest proportion in any country with a population over 10 million. The country ranks highly in measures of health, education, economic freedom, and civil liberties. Australia is a member of the United Nations, G20, Commonwealth of Nations, ANZUS, Organisation for Economic Co-operation and Development , World Trade Organization, Asia-Pacific Economic Cooperation, Pacific Islands Forum, and the ASEAN Plus Six. This article is about the country. For other uses, see Australia ."
+            },
+            {
+                "name": "Australia_women%27s_national_water_polo_team",
+                "desc": "The Australia national women's water polo team represents Australia in women's international water polo competitions and is controlled by Water Polo Australia. It was one of the most successful women's water polo teams in the world. It is currently organised into the Asia/Oceania regional group. Main article: Australia women's Olympic water polo team records and statistics"
+            },
+            {
+                "name": "Australia_men%27s_national_wheelchair_basketball_team",
+                "desc": "The Australia men's national wheelchair basketball team is the men's wheelchair basketball side that represents Australia in international competitions. The team is known as the Rollers. Australia took the gold medal at the 1996 Atlanta Paralympic Games and 2008 Beijing Paralympic Games. Australia has competed at every men's wheelchair basketball tournament at the Paralympic Games except 1964. Kevin Coombs was Australia's first captain of the men's wheelchair basketball team. The Rollers qualified for the 2016 Summer Paralympics by winning the 2015 Asia Oceania Qualifying Tournament and finished sixth."
+            },
+            {
+                "name": "Australia_national_soccer_team",
+                "desc": "The Australia national soccer team represents Australia in international men's soccer. Officially nicknamed the Socceroos, the team is controlled by the governing body for soccer in Australia, Football Federation Australia , which is currently a member of the Asian Football Confederation and the regional ASEAN Football Federation since leaving the Oceania Football Confederation in 2006. Australia is the only national team to have been a champion of two confederations, having won the OFC Nations Cup four times between 1980 and 2004, as well as the AFC Asian Cup at the 2015 event on home soil. The team has represented Australia at the FIFA World Cup tournament on five occasions, in 1974 and from 2006 to 2018. The team has also represented Australia at the FIFA Confederations Cup four times. This article is about the men's team. For the women's team, see Australia women's national soccer team."
+            }
+        ],
+        "mention_imgpath": "f3db200c76c5adb987154b5183daf949.JPG",
+        "mention_imgdesc_Azure": {
+            "Caption": "a woman speaking into microphones",
+            "Dense Captions": "a woman speaking into microphones; medium shot of a woman speaking into microphones; a person holding a camera; a close-up of a microphone; a close up of a grey object; a woman speaking into a microphone; a close-up of a woman's face; a close up of a person's hair; a close up of a person's arm",
+            "Tags": "person; human face; clothing; soft drink; outdoor; woman; holding; hair",
+            "OCR text": "UNOWY VICHTIV; R; Rehame; 2GB; SAM",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        434,
+                        500
+                    ],
+                    "caption": "a woman speaking into microphones",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        410,
+                        485
+                    ],
+                    "caption": "medium shot of a woman speaking into microphones",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        335,
+                        133,
+                        89,
+                        93
+                    ],
+                    "caption": "a person holding a camera",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        207,
+                        351,
+                        108,
+                        142
+                    ],
+                    "caption": "a close-up of a microphone",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        291,
+                        446,
+                        141,
+                        51
+                    ],
+                    "caption": "a close up of a grey object",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        221,
+                        81,
+                        203,
+                        402
+                    ],
+                    "caption": "a woman speaking into a microphone",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        4,
+                        276,
+                        271
+                    ],
+                    "caption": "a close-up of a woman's face",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        45,
+                        0,
+                        180,
+                        59
+                    ],
+                    "caption": "a close up of a person's hair",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        2,
+                        209,
+                        96,
+                        286
+                    ],
+                    "caption": "a close up of a person's arm",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": []
+        }
+    },
+    "860": {
+        "mention": "Icelandic",
+        "mention_context": "Official portrait of Jóhanna Sigurðardóttir, Icelandic Prime Minister.",
+        "Candentity": [
+            {
+                "name": "History_of_Icelandic",
+                "desc": "The history of the Icelandic language began in the 9th century when the settlement of Iceland, mostly by Norwegians, brought a dialect of Old Norse to the island. The oldest preserved texts in Icelandic were written around 1100, the oldest single text being Íslendingabók followed by Landnámabók. Some of the poetry, such as the Eddas, that were written down a little later nevertheless contain older language because poetic language was kept in memory unchanged over sometimes a remarkably long time. The most famous of these, written in Iceland from the 12th century onward, are without doubt the Icelandic Sagas, the historical writings of Snorri Sturluson, and the Poetic Edda. The language of the era of the sagas is called Old Icelandic, a dialect of Old Norse, the common Scandinavian language of the Viking era. The Danish rule of Iceland from 1380 to 1918 had little effect on the evolution of Icelandic, which remained in daily use among the general population: Danish was not used for official communications. The same applied to English during the British occupation of Iceland during World War II. Though Icelandic is considered more archaic than other living Germanic languages, especially in its morphology and other grammatical aspects, as well as in its lexicon, the language has nevertheless been subject to some important changes. The pronunciation, for instance, changed considerably between the 12th and 16th centuries, especially that of vowels. Nevertheless, written Icelandic has changed relatively little since the 13th century. As a result of this, and of the similarity between the modern and ancient grammar, modern speakers can still understand, more or less, the original sagas and Eddas that were written some 800 years ago. This ability is sometimes mildly overstated by Icelanders themselves, most of whom actually read the Sagas with updated modern spelling and footnotes—though otherwise intact. See also: Old Norse"
+            },
+            {
+                "name": "Music_of_Iceland",
+                "desc": "The music of Iceland includes vibrant folk and pop traditions, as well as an active classical and contemporary music scene. Well-known artists from Iceland include medieval music group Voces Thules, alternative rock band The Sugarcubes, singers Björk, Hafdís Huld and Emiliana Torrini, post-rock band Sigur Rós, post-metal band Sólstafir, indie folk/indie pop band Of Monsters and Men, blues/rock band Kaleo, metal band Skálmöld and techno-industrial band Hatari. Iceland's traditional music is related to Nordic music forms. Although Iceland has a very small population, it is home to many famous and praised bands and musicians. Main article: Icelandic folk music"
+            },
+            {
+                "name": "Cinema_of_Iceland",
+                "desc": "Iceland has a notable cinema film industry, with many Icelandic actors having gone on to receive international attention. The most famous film, and the only one to be nominated for the Academy Award and European Film Awards, is Börn náttúrunnar , directed by Friðrik Þór Friðriksson. This film brought Icelandic cinema to the international scene, which has since grown to its height, with films such as Nói Albínói by Dagur Kári, heralded as descendants of the Icelandic film tradition. The Icelandic director Baltasar Kormákur also directed 101 Reykjavík, Hafið , A Little Trip to Heaven , and Mýrin . The annual Edda Awards are the national film awards of Iceland. Main article: List of Icelandic films"
+            },
+            {
+                "name": "Icelandic_orthography",
+                "desc": "Icelandic orthography is the way in which Icelandic words are spelled and how their spelling corresponds with their pronunciation."
+            },
+            {
+                "name": "Football_in_Iceland",
+                "desc": "Football is the most popular sport in Iceland. Iceland hosted the U-18 European Championship in 1997, but an Icelandic national team has qualified for the final competition of a major tournament only five times—thrice by the women's national team at UEFA Women's Euro in 2009, 2013 and 2017, and twice by the men's team at UEFA Euro 2016 and the 2018 FIFA World Cup. The only Iceland teams to advance past the group stage at a major tournament are the women in 2013 and the men in 2016. Iceland's most famous football player is Eiður Guðjohnsen. He has won two Premier League titles for Chelsea F.C. as well as La Liga, Copa del Rey and the UEFA Champions League title for FC Barcelona. There are 20,000 players registered at clubs. Main article: Icelandic football league system"
+            },
+            {
+                "name": "Icelanders",
+                "desc": "Icelanders are a North Germanic ethnic group and nation who are native to the island country of Iceland and speak Icelandic. Icelanders established the country of Iceland in mid 930 A.D. when the Althing met for the first time. Iceland came under the reign of Norwegian, Swedish and Danish kings but regained full sovereignty and independence from the Danish monarchy on 1 December 1918, when the Kingdom of Iceland was established. On 17 June 1944, the monarchy was abolished and the Icelandic republic was founded. The language spoken is Icelandic, a North Germanic language, and Lutheranism is the predominant religion. Historical and DNA records indicate that around 60 to 80 percent of the male settlers were of Norse origin and a similar percentage of the women were of Gaelic stock from Ireland and peripheral Scotland. This article is about Icelanders as an ethnic group. For information about residents or nationals of Iceland, see Demographics of Iceland."
+            },
+            {
+                "name": "Jóhanna_Sigurðardóttir",
+                "desc": "Jóhanna Sigurðardóttir is an Icelandic politician and the former Prime Minister of Iceland. She became active in the trade union movement, serving as an officer. Elected an MP from 1978 to 2013, she was appointed as Iceland's Minister of Social Affairs and Social Security, serving from 1987 to 1994, and from 2007 until 2009. In 1994, when she lost a bid to head the Social Democratic Party, she raised her fist and declared \"Minn tími mun koma!\" , a phrase that became a popular Icelandic expression. She became Prime Minister on 1 February 2009, Iceland's first female Prime Minister and the world's first openly LGBT head of government. Forbes listed her among the 100 most powerful women in the world. She has been a member of the Althing for Reykjavík constituencies since 1978, winning re-election on eight successive occasions. In September 2012, Jóhanna announced she would not seek re-election and retired from politics as Iceland's longest serving member of Parliament. This is an Icelandic name. The last name is patronymic, not a family name; this person is referred to by the given name Jóhanna."
+            },
+            {
+                "name": "Icelandic_sheep",
+                "desc": "The Icelandic sheep is a breed of domestic sheep. The Icelandic breed is one of the Northern European short-tailed sheep, which exhibit a fluke-shaped, naturally short tail. The Icelandic is a mid-sized breed, generally short-legged and stocky, with face and legs free of wool. The fleece of the Icelandic sheep is dual-coated and occurs in white and a variety of other colors, including a range of browns, grays, and blacks. They exist in both horned and polled strains. Generally left unshorn for the winter, the breed is very cold-hardy. Multiple births are very common in Icelandic ewes, with a lambing percentage of 175–220%. A gene also exists in the breed called the Þoka gene, and ewes carrying it have been known to give birth to triplets, quadruplets, quintuplets, and even sextuplets on occasion. Ewes can be mated as lambs as early as five to seven months, although many farmers wait until the ewe's second winter before allowing them to breed. They are seasonal breeders and come into estrus around October. The breeding season can last up to four months. Rams become mature early and can start breeding as early as five months. Descended from the same stock as the Norwegian Spelsau, brought to Iceland by the first settlers, Icelandic sheep have been bred for a thousand years in a very harsh environment. Consequently, they are quite efficient herbivores."
+            },
+            {
+                "name": "Iceland",
+                "desc": "Iceland )[d] is a Nordic island country in the North Atlantic Ocean, with a population of 356,991 and an area of 103,000 km2 , making it the most sparsely populated country in Europe.[e] The capital and largest city is Reykjavík. Reykjavík and the surrounding areas in the southwest of the country are home to over two-thirds of the population. Iceland is volcanically and geologically active. The interior consists of a plateau characterised by sand and lava fields, mountains, and glaciers, and many glacial rivers flow to the sea through the lowlands. Iceland is warmed by the Gulf Stream and has a temperate climate, despite a high latitude just outside the Arctic Circle. Its high latitude and marine influence keep summers chilly, with most of its islands having a polar climate. According to the ancient manuscript Landnámabók, the settlement of Iceland began in 874 AD when the Norwegian chieftain Ingólfr Arnarson became the first permanent settler on the island. In the following centuries, Norwegians, and to a lesser extent other Scandinavians, emigrated to Iceland, bringing with them thralls of Gaelic origin. The island was governed as an independent commonwealth under the Althing, one of the world's oldest functioning legislative assemblies. Following a period of civil strife, Iceland acceded to Norwegian rule in the 13th century. The establishment of the Kalmar Union in 1397 united the kingdoms of Norway, Denmark, and Sweden. Iceland thus followed Norway's integration into that union, coming under Danish rule after Sweden's secession from the union in 1523. Although the Danish kingdom introduced Lutheranism forcefully in 1550, Iceland remained a distant semi-colonial territory in which Danish institutions and infrastructures were conspicuous by their absence.[citation needed] In the wake of the French Revolution and the Napoleonic Wars, Iceland's struggle for independence took form and culminated in independence in 1918 and the founding of a republic in 1944. Although its parliament was suspended from 1799 to 1845, the island republic has been credited with sustaining the world's oldest and longest-running parliament. Until the 20th century, Iceland relied largely on subsistence fishing and agriculture. Industrialisation of the fisheries and Marshall Plan aid following World War II brought prosperity, and Iceland became one of the wealthiest and most developed nations in the world. It became a part of the European Economic Area in 1994; this further diversified the economy into sectors such as finance, biotechnology, and manufacturing. Iceland has a market economy with relatively low taxes, compared to other OECD countries, as well as the highest trade union membership in the world. It maintains a Nordic social welfare system that provides universal health care and tertiary education for its citizens. Iceland ranks high in economic, democratic, and social stability, as well as equality, ranking third in the world by median wealth per adult. In 2020, it was ranked as the fourth-most developed country in the world by the United Nations' Human Development Index, and it ranks first on the Global Peace Index. Iceland runs almost completely on renewable energy. Icelandic culture is founded upon the nation's Scandinavian heritage. Most Icelanders are descendants of Norse and Gaelic settlers. Icelandic, a North Germanic language, is descended from Old West Norse and is closely related to Faroese. The country's cultural heritage includes traditional Icelandic cuisine, Icelandic literature, and medieval sagas. Iceland has the smallest population of any NATO member and is the only one with no standing army, with a lightly armed coast guard. This article is about the country. For other uses, see Iceland ."
+            },
+            {
+                "name": "Icelandic_language",
+                "desc": "Icelandic ; Icelandic: íslenska pronounced [ˈi:slɛnska] ) is a North Germanic language spoken by about 314,000 people, the vast majority of whom live in Iceland where it is the national language. It is most closely related to Faroese and Western Norwegian. The language is more conservative than most other Western European languages. While most of them have greatly reduced levels of inflection , Icelandic retains a four-case synthetic grammar and is distinguished by a wide assortment of irregular declensions. Since the written language has not changed much, Icelanders can read classic Old Norse literature created in the 10th through 13th centuries with relative ease. Icelandic is closely related to Faroese; the written forms of the two languages are very similar, but their spoken forms are not mutually intelligible. It is not mutually intelligible with the continental Scandinavian languages and is more distinct from the most widely spoken Germanic languages, English and German, than those three are. Aside from the 300,000 Icelandic speakers in Iceland, it is spoken by about 8,000 people in Denmark, 5,000 people in the United States, and more than 1,400 people in Canada, notably in the region known as New Iceland in Manitoba which was settled by Icelanders beginning in the 1880s. The state-funded Árni Magnússon Institute for Icelandic Studies serves as a centre for preserving the medieval Icelandic manuscripts and studying the language and its literature. The Icelandic Language Council, comprising representatives of universities, the arts, journalists, teachers, and the Ministry of Culture, Science and Education, advises the authorities on language policy. Since 1995, on 16 November each year, the birthday of 19th-century poet Jónas Hallgrímsson is celebrated as Icelandic Language Day. Main article: History of Icelandic"
+            }
+        ],
+        "mention_imgpath": "89d0b9e1da7b57e1c677c060172ea541.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a woman with white hair wearing glasses",
+            "Dense Captions": "a woman with white hair wearing glasses; a woman with white hair wearing glasses; a close-up of a woman with glasses",
+            "Tags": "human face; person; clothing; portrait; portrait photography; chin; lip; smile; eyebrow; pageboy; neck; forehead; wings; skin; woman; bob cut; wearing; hair; headshot; lady; indoor",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        375,
+                        500
+                    ],
+                    "caption": "a woman with white hair wearing glasses",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        21,
+                        366,
+                        465
+                    ],
+                    "caption": "a woman with white hair wearing glasses",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        56,
+                        22,
+                        259,
+                        261
+                    ],
+                    "caption": "a close-up of a woman with glasses",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        41,
+                        26,
+                        313,
+                        379
+                    ],
+                    "confidence": 0.841
+                }
+            ]
+        }
+    },
+    "550": {
+        "mention": "Super G",
+        "mention_context": "Lincoln Budge in his first run of the Super G at the IPC Nor-Am Cup.",
+        "Candentity": [
+            {
+                "name": "Alpine_skiing_at_the_1988_Winter_Olympics_%E2%80%93_Women%27s_super-G",
+                "desc": "The Men's Super G competition of the Calgary 1988 Olympics was held at Nakiska on Sunday, February 21. This was the Olympic debut of the event.\nThe defending world champion was Pirmin Zurbriggen of Switzerland, who was also the defending World Cup Super G champion and led the current season.France's Franck Piccard won the gold medal, Helmut Mayer of Austria took the silver, and Lars-Börje Eriksson of Sweden was the bronze medalist. Zurbriggen tied for fifth, more than two seconds behind. Italy's Alberto Tomba lasted three gates and did not finish. It was the first Olympic alpine gold for France in twenty years, since the sweep by Jean-Claude Killy in 1968.\nThe course started at an elevation of 2,179 m (7,149 ft) above sea level with a vertical drop of 647 m (2,123 ft) and a course length of 2.327 km (1.45 mi). Piccard's winning time was 99.66 seconds, yielding an average speed of 84.058 km/h (52.2 mph), with an average vertical descent rate of 6.492 m/s (21.3 ft/s)."
+            },
+            {
+                "name": "Alpine_skiing_at_the_2002_Winter_Olympics_%E2%80%93_Men%27s_Super-G",
+                "desc": "The event was held on February 23 at Deer Valley.  Pre-race favorite Bode Miller fell off the course in the second run, and many of the other top competitors struggled with an extremely challenging course.Alain Baxter of Great Britain originally took the bronze, but was disqualified after testing positive for traces of methamphetamine.  This apparently occurred because Baxter had used a Vicks inhaler from Canada, which had a slightly different chemical content from the legal British Vicks inhaler."
+            },
+            {
+                "name": "Moto_G4",
+                "desc": "Moto G4 is a line of Android smartphones manufactured by Motorola Mobility, a subsidiary of Lenovo. They are the successor to the third-generation Moto G, and were first released in Brazil and India on May 17, 2016, with the other markets following. In comparison to the previous singular Moto G models, the G4 fragmented the line into three models, with the base model joined by the Moto G4 Play and the Moto G4 Plus with an upgraded camera and a fingerprint reader."
+            },
+            {
+                "name": "FIS_Alpine_World_Ski_Championships_2011_%E2%80%93_Men%27s_Super-G",
+                "desc": "The FIS Alpine World Ski Championships is an alpine skiing competition organized by the International Ski Federation (FIS)."
+            },
+            {
+                "name": "FIS_Alpine_World_Ski_Championships_2015_%E2%80%93_Men%27s_super-G",
+                "desc": "The FIS Alpine World Ski Championships is an alpine skiing competition organized by the International Ski Federation (FIS)."
+            },
+            {
+                "name": "Giant-Landover",
+                "desc": "Giant Food of Maryland, LLC, also known as Giant, is an American supermarket chain with 165 stores and 153 full service pharmacies located in Delaware, Maryland, Virginia, and the District of Columbia. It is headquartered in Landover, Maryland, an unincorporated area of Prince George's County, Maryland."
+            },
+            {
+                "name": "Super-G",
+                "desc": "Super giant slalom, or super-G, is a racing discipline of alpine skiing. Along with the faster downhill, it is regarded as a \"speed\" event, in contrast to the technical events giant slalom and slalom. It debuted as an official World Cup event during the 1983 season and was added to the official schedule of the World Championships in 1987 and the Winter Olympics in 1988. Much like downhill, a super-G course consists of widely set gates that racers must pass through. The course is set so that skiers must turn more than in downhill, though the speeds are still much higher than in giant slalom . Each athlete only has one run to clock the best time. In the Olympics, super-G courses are usually set on the same slopes as the downhill, but with a lower starting point. \"Super G\" redirects here. For other uses, see Super G ."
+            },
+            {
+                "name": "FIS_Alpine_World_Ski_Championships_2011_%E2%80%93_Women%27s_Super-G",
+                "desc": "The FIS Alpine World Ski Championships is an alpine skiing competition organized by the International Ski Federation (FIS)."
+            },
+            {
+                "name": "Mark_Soyer",
+                "desc": "Mark Soyer  is an Australian para-alpine LW11 classified skier. He dealt with leukaemia twice as a child. At the age of 26, he severed his spinal cord during an accident while riding his motorbike on his parents' farm, and subsequently tried several different sports. Working as a manufacturing jeweller and gemologist in Melbourne, he has also been involved with para-skiing as a volunteer, and serving in administrative roles for various organisations. In 2007, he was a finalist for the Pride of Australia awards for courage. Soyer took up skiing following his accident after attending a camp in Australia. He then travelled to Colorado to attend another camp, before coming back to Australia to attend another camp. In 2007, he was ranked as Australia's second best sit-skier, and was in the top 50 skiers in the world. He attempted to make the 2010 Winter Paralympics. He earned bronze medals at skiing events in New Zealand in 2011. In 2012, he was a member of the Australian Paralympic skiing team, based out of the Australian Institute of Sports, and was trying to secure a spot for the 2014 Winter Paralympics in Sochi, Russia. He represented Australia at the 2018 Winter Paralympics."
+            },
+            {
+                "name": "Super_G_(wireless_networking)",
+                "desc": "Super G is a proprietary method to increase the throughput of an IEEE 802.11g wireless LAN. Atheros uses frame-bursting, compression, and channel bonding technology to improve performance. The throughput transmission speed limit when using Super G is claimed to be up to 40 Mbit/s-60 Mbit/s at a 108 Mbit/s signaling rate, which is achieved through the bonding of two 54 Mbit/s 802.11g channels."
+            }
+        ],
+        "mention_imgpath": "4c687d77a66a6df8342b76b33311fa70.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a person on a sled",
+            "Dense Captions": "a person on a sled; a man on a sled; a close-up of a net; a person in a helmet and snow gear",
+            "Tags": "sport; snow; person; sports equipment; winter sport; footwear; ice skating; hockey; snowshoe; outdoor; sports; winter; helmet; clothing; skiing; ski",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        333
+                    ],
+                    "caption": "a person on a sled",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        271,
+                        53,
+                        186,
+                        174
+                    ],
+                    "caption": "a man on a sled",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        11,
+                        0,
+                        466,
+                        115
+                    ],
+                    "caption": "a close-up of a net",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        369,
+                        82,
+                        90,
+                        100
+                    ],
+                    "caption": "a person in a helmet and snow gear",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        265,
+                        55,
+                        203,
+                        176
+                    ],
+                    "confidence": 0.766
+                }
+            ]
+        }
+    },
+    "40": {
+        "mention": "North Korea",
+        "mention_context": "North Korea's 007 meets a leader of the Chinese mafia (screenshot of the short movie).",
+        "Candentity": [
+            {
+                "name": "North_korea",
+                "desc": "South Korea, officially the Republic of Korea, is a country in East Asia. It constitutes the southern part of the Korean Peninsula and borders North Korea along the Korean Demilitarized Zone. The country's western border is formed by the Yellow Sea, while its eastern border is defined by the Sea of Japan. South Korea claims to be the sole legitimate government of the entire peninsula and adjacent islands. It has a population of 51.96 million, of which roughly half live in the Seoul Capital Area, the fourth most populous metropolitan area in the world. Other major cities include Incheon, Busan, and Daegu.\nThe Korean Peninsula was inhabited as early as the Lower Paleolithic period. Its first kingdom was noted in Chinese records in the early 7th century BCE. Following the unification of the Three Kingdoms of Korea into Silla and Balhae in the late 7th century, Korea was ruled by the Goryeo dynasty (918–1392) and the Joseon dynasty (1392–1897). The succeeding Korean Empire (1897–1910) was annexed in 1910 into the Empire of Japan. Japanese rule ended following Japan's surrender in World War II, after which Korea was divided into two zones; a northern zone occupied by the Soviet Union and a southern zone occupied by the United States. After negotiations on reunification failed, the southern zone became the Republic of Korea in August 1948 while the northern zone became the communist Democratic People's Republic of Korea the following month.\nIn 1950, a North Korean invasion began the Korean War, which saw extensive American-led United Nations intervention in support of the South, while China intervened to support the North, with Soviet assistance. After the war's end in 1953, the country entered into a military alliance with the U.S., which continues to this date, and its devastated economy began to soar, recording the fastest rise in average GDP per capita in the world between 1980 and 1990. Despite lacking natural resources, the nation rapidly developed to become one of the Four Asian Tigers based on international trade and economic globalization, integrating itself within the world economy with export-oriented industrialization; currently being one of the largest exporting nations in the world, along with having one of the largest foreign-exchange reserves in the world. The June Democratic Struggle led to the end of authoritarian rule in 1987 and the country is now considered among the most advanced democracies in Asia, with the highest level of press freedom on the continent in 2021.\nSouth Korea is a regional power and a developed country, with its economy being ranked as the world's thirteenth-largest by nominal GDP and the fourteenth-largest by GDP (PPP). It ranks nineteenth globally by Human Development Index. In recent years, the country has been facing an aging population and the lowest fertility rate in the world. South Korea's citizens enjoy one of the world's fastest Internet connection speeds and the densest high-speed railway network. The country is the world's ninth-largest exporter and ninth-largest importer. Its armed forces are ranked as one of the world's strongest militaries, with the world's second-largest standing army by military and paramilitary personnel. In the 21st century, South Korea has been renowned for its globally influential pop culture, particularly in music (K-pop), TV dramas (K-dramas) and cinema, a phenomenon referred to as the Korean Wave. It is a member of the OECD's Development Assistance Committee, the G20, the IPEF, and the Paris Club."
+            },
+            {
+                "name": "Democratic_Republic_of_Korea",
+                "desc": "North Korea, officially the Democratic People's Republic of Korea (DPRK), is a country in East Asia. It constitutes the northern half of the Korean Peninsula and borders China and Russia to the north at the Yalu (Amnok) and Tumen rivers, and South Korea to the south at the Korean Demilitarized Zone. North Korea's border with South Korea is a disputed border as both countries claim the entirety of the Korean Peninsula. The country's western border is formed by the Yellow Sea, while its eastern border is defined by the Sea of Japan. North Korea, like its southern counterpart, claims to be the legitimate government of the entire peninsula and adjacent islands. Pyongyang is the capital and largest city.\nIn 1910, Korea was annexed by the Empire of Japan. In 1945, after the Japanese surrender at the end of World War II, Korea was divided into two zones along the 38th parallel, with the north occupied by the Soviet Union and the south occupied by the United States. Negotiations on reunification failed, and in 1948, separate governments were formed: the socialist and Soviet-aligned Democratic People's Republic of Korea in the north, and the capitalist, Western-aligned Republic of Korea in the south. The Korean War began in 1950, with an invasion by North Korea, and lasted until 1953. The Korean Armistice Agreement brought about a ceasefire and established a demilitarized zone (DMZ), but no formal peace treaty has ever been signed.\nPost-war North Korea benefited greatly from economic aid and expertise provided by other Eastern Bloc countries, particularly the Soviet Union and China. However, relations between North Korea and the Soviet Union soured after the ascension of Nikita Khrushchev to the Soviet premiership in 1953, as Khrushchev denounced Stalinism while Kim Il Sung, North Korea's first leader, upheld it. Kim briefly turned to China in the late 1950s before purging both pro-Soviet and pro-Chinese elements from the ruling Workers' Party of Korea and promoting his personal philosophy of Juche as the state ideology. From the 1970s, South Korea's economy began to boom whilst North Korea entered a state of stagnation. Pyongyang's international isolation sharply accelerated from the 1980s onwards as the Cold War came to an end and China opened up to the West. The fall of the Soviet Union in 1991 then brought about a full-scale collapse of the North Korean economy. From 1994 to 1998, North Korea suffered a famine that resulted in the deaths of between 240,000 and 420,000 people, and the population continues to suffer from malnutrition.\nAccording to Article 1 of the state constitution, North Korea is an \"independent socialist state\". It holds elections, though they have been described by independent observers as sham elections, as North Korea is a totalitarian dictatorship with a comprehensive cult of personality around the Kim family. The Workers' Party of Korea is the ruling party of North Korea and leads the Democratic Front for the Reunification of Korea, the sole legal political movement in the country. According to Article 3 of the constitution, Kimilsungism–Kimjongilism is the official ideology of North Korea. The means of production are owned by the state through state-run enterprises and collectivized farms. Most services – such as healthcare, education, housing, and food production – are subsidized or state-funded.\nNorth Korea follows Songun, a \"military first\" policy which prioritizes the Korean People's Army in state affairs and the allocation of resources. It possesses nuclear weapons, and is the country with the second highest number of military and paramilitary personnel, with a total of 7.769 million active, reserve, and paramilitary personnel, or approximately 30% of its population. Its active duty army of 1.28 million soldiers is the fourth-largest in the world, consisting of 4.9% of its population. A 2014 inquiry by the United Nations into abuses of human rights in North Korea concluded that \"the gravity, scale and nature of these violations reveal a state that does not have any parallel in the contemporary world,\" with Amnesty International and Human Rights Watch holding similar views. In addition to being a member of the United Nations since 1991, North Korea is also a member of the Non-Aligned Movement, G77, and the ASEAN Regional Forum."
+            },
+            {
+                "name": "North_Korea–South_Korea_relations",
+                "desc": "North Korea–South Korea relations are the diplomatic relationships between the two states of the Korean Peninsula. Formerly a single nation that was annexed by Japan in 1910, the two nations have been divided since the end of World War II in 1945 and engaged in the Korean War from 1950 to 1953 which ended in an armistice agreement but without a peace treaty. North Korea is a one-party totalitarian state run by the Kim dynasty. South Korea was formerly governed by a succession of military dictatorships until democratization in 1987 when it held direct elections. Both nations claim the entire Korean peninsula and outlying islands. Both nations joined the United Nations in 1991 and are recognized by most member states. Since the 1970s, both nations have held informal diplomatic dialogues in order to ease military tensions. In 2000, President Kim Dae-jung became the first President of South Korea to visit North Korea, 55 years after the peninsula was divided. Under President Kim, South Korea adopted the Sunshine Policy in pursuit of more peaceful relationships with North Korea. The policy established the Kaesong Industrial Region, among other things. This policy was continued by the next president Roh Moo-hyun who also visited North Korea in 2007 and met with North Korean leader Kim Jong-il. Through this meeting both leaders signed a declaration to pursue peace and recover inter-Korean relations. However, faced with growing criticism, the Sunshine Policy was discontinued under the next two governments. During Lee Myung-bak and Park Geun-Hye's presidency, the relationship between North and South Korea became more hostile. In 2018, beginning with North Korea's participation in the 2018 Winter Olympics, the relationship has seen a major diplomatic breakthrough and become significantly warmer. In April 2018, the two countries signed the Panmunjom Declaration for Peace, Prosperity and Unification of the Korean Peninsula. In 2018, a majority of South Koreans approved the new relationship. The summits between North and South Korea have also facilitated positive relationships between North Korea and the United States. However, tensions between the two countries remain. Main article: Division of Korea"
+            },
+            {
+                "name": "Chosŏn_Minjujuŭi_Inmin_Konghwaguk",
+                "desc": "North Korea , officially the Democratic People's Republic of Korea , is a country in East Asia constituting the northern part of the Korean Peninsula. The country is bordered to the north by China and by Russia along the Amnok and Tumen rivers, and to the south by South Korea, with the heavily fortified Korean Demilitarized Zone separating the two. North Korea, like its southern counterpart, claims to be the legitimate government of the entire peninsula and adjacent islands. Pyongyang is the country's capital and largest city. In 1910, Korea was annexed by Imperial Japan. At the Japanese surrender at the end of World War II in 1945, Korea was divided into two zones, with the north occupied by the Soviet Union and the south occupied by the United States. Negotiations on reunification failed, and in 1948, separate governments were formed: the socialist Democratic People's Republic of Korea in the north, and the capitalist Republic of Korea in the south. An invasion initiated by North Korea led to the Korean War . The Korean Armistice Agreement brought about a ceasefire, but no peace treaty was signed. According to article 1 of the constitution of North Korea, the DPRK is an \"independent socialist State\".[n 3] North Korea holds elections, though they have been described by independent observers as sham elections. North Korea is a totalitarian dictatorship, with an elaborate cult of personality around the Kim dynasty. The Workers' Party of Korea , led by a member of the ruling family, holds absolute power in the state and leads the Democratic Front for the Reunification of the Fatherland of which all political officers are required to be members. According to article 3 of the constitution of the DPRK, Juche is the North Korean official ideology. The means of production are owned by the state through state-run enterprises and collectivized farms. Most services—such as healthcare, education, housing and food production—are subsidized or state-funded. From 1994 to 1998, North Korea suffered a famine that resulted in the deaths of between 240,000 and 420,000 people, and the population continues to suffer malnutrition. North Korea follows Songun, or \"military-first\" policy. It is the country with the highest number of military and paramilitary personnel, with a total of 9,495,000 active, reserve and paramilitary personnel, or approximately 37% of its population. Its active duty army of 1.21 million is the fourth-largest in the world, after China, the United States and India; consisting of 4.7% of its population. It possesses nuclear weapons. In addition to being a member of the United Nations since 1991, North Korea is also a member of the Non-Aligned Movement, G77 and the ASEAN Regional Forum. A 2014 UN inquiry into abuses of human rights in North Korea concluded that, \"the gravity, scale and nature of these violations reveal a state that does not have any parallel in the contemporary world,\" with Amnesty International and Human Rights Watch holding similar views. The North Korean government denies these abuses. This article is about the Democratic People's Republic of Korea. For the Republic of Korea, see South Korea. For other uses, see Korea ."
+            },
+            {
+                "name": "NKorean",
+                "desc": "North Korea, officially the Democratic People's Republic of Korea (DPRK), is a country in East Asia. It constitutes the northern half of the Korean Peninsula and borders China and Russia to the north at the Yalu (Amnok) and Tumen rivers, and South Korea to the south at the Korean Demilitarized Zone. North Korea's border with South Korea is a disputed border as both countries claim the entirety of the Korean Peninsula. The country's western border is formed by the Yellow Sea, while its eastern border is defined by the Sea of Japan. North Korea, like its southern counterpart, claims to be the legitimate government of the entire peninsula and adjacent islands. Pyongyang is the capital and largest city.\nIn 1910, Korea was annexed by the Empire of Japan. In 1945, after the Japanese surrender at the end of World War II, Korea was divided into two zones along the 38th parallel, with the north occupied by the Soviet Union and the south occupied by the United States. Negotiations on reunification failed, and in 1948, separate governments were formed: the socialist and Soviet-aligned Democratic People's Republic of Korea in the north, and the capitalist, Western-aligned Republic of Korea in the south. The Korean War began in 1950, with an invasion by North Korea, and lasted until 1953. The Korean Armistice Agreement brought about a ceasefire and established a demilitarized zone (DMZ), but no formal peace treaty has ever been signed.\nPost-war North Korea benefited greatly from economic aid and expertise provided by other Eastern Bloc countries, particularly the Soviet Union and China. However, relations between North Korea and the Soviet Union soured after the ascension of Nikita Khrushchev to the Soviet premiership in 1953, as Khrushchev denounced Stalinism while Kim Il Sung, North Korea's first leader, upheld it. Kim briefly turned to China in the late 1950s before purging both pro-Soviet and pro-Chinese elements from the ruling Workers' Party of Korea and promoting his personal philosophy of Juche as the state ideology. From the 1970s, South Korea's economy began to boom whilst North Korea entered a state of stagnation. Pyongyang's international isolation sharply accelerated from the 1980s onwards as the Cold War came to an end and China opened up to the West. The fall of the Soviet Union in 1991 then brought about a full-scale collapse of the North Korean economy. From 1994 to 1998, North Korea suffered a famine that resulted in the deaths of between 240,000 and 420,000 people, and the population continues to suffer from malnutrition.\nAccording to Article 1 of the state constitution, North Korea is an \"independent socialist state\". It holds elections, though they have been described by independent observers as sham elections, as North Korea is a totalitarian dictatorship with a comprehensive cult of personality around the Kim family. The Workers' Party of Korea is the ruling party of North Korea and leads the Democratic Front for the Reunification of Korea, the sole legal political movement in the country. According to Article 3 of the constitution, Kimilsungism–Kimjongilism is the official ideology of North Korea. The means of production are owned by the state through state-run enterprises and collectivized farms. Most services – such as healthcare, education, housing, and food production – are subsidized or state-funded.\nNorth Korea follows Songun, a \"military first\" policy which prioritizes the Korean People's Army in state affairs and the allocation of resources. It possesses nuclear weapons, and is the country with the second highest number of military and paramilitary personnel, with a total of 7.769 million active, reserve, and paramilitary personnel, or approximately 30% of its population. Its active duty army of 1.28 million soldiers is the fourth-largest in the world, consisting of 4.9% of its population. A 2014 inquiry by the United Nations into abuses of human rights in North Korea concluded that \"the gravity, scale and nature of these violations reveal a state that does not have any parallel in the contemporary world,\" with Amnesty International and Human Rights Watch holding similar views. In addition to being a member of the United Nations since 1991, North Korea is also a member of the Non-Aligned Movement, G77, and the ASEAN Regional Forum."
+            },
+            {
+                "name": "D_P_R_of_Korea",
+                "desc": "North Korea, officially the Democratic People's Republic of Korea (DPRK), is a country in East Asia. It constitutes the northern half of the Korean Peninsula and borders China and Russia to the north at the Yalu (Amnok) and Tumen rivers, and South Korea to the south at the Korean Demilitarized Zone. North Korea's border with South Korea is a disputed border as both countries claim the entirety of the Korean Peninsula. The country's western border is formed by the Yellow Sea, while its eastern border is defined by the Sea of Japan. North Korea, like its southern counterpart, claims to be the legitimate government of the entire peninsula and adjacent islands. Pyongyang is the capital and largest city.\nIn 1910, Korea was annexed by the Empire of Japan. In 1945, after the Japanese surrender at the end of World War II, Korea was divided into two zones along the 38th parallel, with the north occupied by the Soviet Union and the south occupied by the United States. Negotiations on reunification failed, and in 1948, separate governments were formed: the socialist and Soviet-aligned Democratic People's Republic of Korea in the north, and the capitalist, Western-aligned Republic of Korea in the south. The Korean War began in 1950, with an invasion by North Korea, and lasted until 1953. The Korean Armistice Agreement brought about a ceasefire and established a demilitarized zone (DMZ), but no formal peace treaty has ever been signed.\nPost-war North Korea benefited greatly from economic aid and expertise provided by other Eastern Bloc countries, particularly the Soviet Union and China. However, relations between North Korea and the Soviet Union soured after the ascension of Nikita Khrushchev to the Soviet premiership in 1953, as Khrushchev denounced Stalinism while Kim Il Sung, North Korea's first leader, upheld it. Kim briefly turned to China in the late 1950s before purging both pro-Soviet and pro-Chinese elements from the ruling Workers' Party of Korea and promoting his personal philosophy of Juche as the state ideology. From the 1970s, South Korea's economy began to boom whilst North Korea entered a state of stagnation. Pyongyang's international isolation sharply accelerated from the 1980s onwards as the Cold War came to an end and China opened up to the West. The fall of the Soviet Union in 1991 then brought about a full-scale collapse of the North Korean economy. From 1994 to 1998, North Korea suffered a famine that resulted in the deaths of between 240,000 and 420,000 people, and the population continues to suffer from malnutrition.\nAccording to Article 1 of the state constitution, North Korea is an \"independent socialist state\". It holds elections, though they have been described by independent observers as sham elections, as North Korea is a totalitarian dictatorship with a comprehensive cult of personality around the Kim family. The Workers' Party of Korea is the ruling party of North Korea and leads the Democratic Front for the Reunification of Korea, the sole legal political movement in the country. According to Article 3 of the constitution, Kimilsungism–Kimjongilism is the official ideology of North Korea. The means of production are owned by the state through state-run enterprises and collectivized farms. Most services – such as healthcare, education, housing, and food production – are subsidized or state-funded.\nNorth Korea follows Songun, a \"military first\" policy which prioritizes the Korean People's Army in state affairs and the allocation of resources. It possesses nuclear weapons, and is the country with the second highest number of military and paramilitary personnel, with a total of 7.769 million active, reserve, and paramilitary personnel, or approximately 30% of its population. Its active duty army of 1.28 million soldiers is the fourth-largest in the world, consisting of 4.9% of its population. A 2014 inquiry by the United Nations into abuses of human rights in North Korea concluded that \"the gravity, scale and nature of these violations reveal a state that does not have any parallel in the contemporary world,\" with Amnesty International and Human Rights Watch holding similar views. In addition to being a member of the United Nations since 1991, North Korea is also a member of the Non-Aligned Movement, G77, and the ASEAN Regional Forum."
+            },
+            {
+                "name": "Joseon_Minjujuui_Inmin_Gonghwagug",
+                "desc": "North Korea, officially the Democratic People's Republic of Korea (DPRK), is a country in East Asia. It constitutes the northern half of the Korean Peninsula and borders China and Russia to the north at the Yalu (Amnok) and Tumen rivers, and South Korea to the south at the Korean Demilitarized Zone. North Korea's border with South Korea is a disputed border as both countries claim the entirety of the Korean Peninsula. The country's western border is formed by the Yellow Sea, while its eastern border is defined by the Sea of Japan. North Korea, like its southern counterpart, claims to be the legitimate government of the entire peninsula and adjacent islands. Pyongyang is the capital and largest city.\nIn 1910, Korea was annexed by the Empire of Japan. In 1945, after the Japanese surrender at the end of World War II, Korea was divided into two zones along the 38th parallel, with the north occupied by the Soviet Union and the south occupied by the United States. Negotiations on reunification failed, and in 1948, separate governments were formed: the socialist and Soviet-aligned Democratic People's Republic of Korea in the north, and the capitalist, Western-aligned Republic of Korea in the south. The Korean War began in 1950, with an invasion by North Korea, and lasted until 1953. The Korean Armistice Agreement brought about a ceasefire and established a demilitarized zone (DMZ), but no formal peace treaty has ever been signed.\nPost-war North Korea benefited greatly from economic aid and expertise provided by other Eastern Bloc countries, particularly the Soviet Union and China. However, relations between North Korea and the Soviet Union soured after the ascension of Nikita Khrushchev to the Soviet premiership in 1953, as Khrushchev denounced Stalinism while Kim Il Sung, North Korea's first leader, upheld it. Kim briefly turned to China in the late 1950s before purging both pro-Soviet and pro-Chinese elements from the ruling Workers' Party of Korea and promoting his personal philosophy of Juche as the state ideology. From the 1970s, South Korea's economy began to boom whilst North Korea entered a state of stagnation. Pyongyang's international isolation sharply accelerated from the 1980s onwards as the Cold War came to an end and China opened up to the West. The fall of the Soviet Union in 1991 then brought about a full-scale collapse of the North Korean economy. From 1994 to 1998, North Korea suffered a famine that resulted in the deaths of between 240,000 and 420,000 people, and the population continues to suffer from malnutrition.\nAccording to Article 1 of the state constitution, North Korea is an \"independent socialist state\". It holds elections, though they have been described by independent observers as sham elections, as North Korea is a totalitarian dictatorship with a comprehensive cult of personality around the Kim family. The Workers' Party of Korea is the ruling party of North Korea and leads the Democratic Front for the Reunification of Korea, the sole legal political movement in the country. According to Article 3 of the constitution, Kimilsungism–Kimjongilism is the official ideology of North Korea. The means of production are owned by the state through state-run enterprises and collectivized farms. Most services – such as healthcare, education, housing, and food production – are subsidized or state-funded.\nNorth Korea follows Songun, a \"military first\" policy which prioritizes the Korean People's Army in state affairs and the allocation of resources. It possesses nuclear weapons, and is the country with the second highest number of military and paramilitary personnel, with a total of 7.769 million active, reserve, and paramilitary personnel, or approximately 30% of its population. Its active duty army of 1.28 million soldiers is the fourth-largest in the world, consisting of 4.9% of its population. A 2014 inquiry by the United Nations into abuses of human rights in North Korea concluded that \"the gravity, scale and nature of these violations reveal a state that does not have any parallel in the contemporary world,\" with Amnesty International and Human Rights Watch holding similar views. In addition to being a member of the United Nations since 1991, North Korea is also a member of the Non-Aligned Movement, G77, and the ASEAN Regional Forum."
+            },
+            {
+                "name": "DPRK",
+                "desc": "nil"
+            },
+            {
+                "name": "North_Korea",
+                "desc": "North Korea , officially the Democratic People's Republic of Korea , is a country in East Asia constituting the northern part of the Korean Peninsula. The country is bordered to the north by China and by Russia along the Amnok and Tumen rivers, and to the south by South Korea, with the heavily fortified Korean Demilitarized Zone separating the two. North Korea, like its southern counterpart, claims to be the legitimate government of the entire peninsula and adjacent islands. Pyongyang is the country's capital and largest city. In 1910, Korea was annexed by Imperial Japan. At the Japanese surrender at the end of World War II in 1945, Korea was divided into two zones, with the north occupied by the Soviet Union and the south occupied by the United States. Negotiations on reunification failed, and in 1948, separate governments were formed: the socialist Democratic People's Republic of Korea in the north, and the capitalist Republic of Korea in the south. An invasion initiated by North Korea led to the Korean War . The Korean Armistice Agreement brought about a ceasefire, but no peace treaty was signed, and the border stayed the same as before. According to article 1 of the constitution of North Korea, the DPRK is an \"independent socialist State\".[n 3] North Korea holds elections, though they have been described by independent observers as sham elections. North Korea is a totalitarian dictatorship, with an elaborate cult of personality around the Kim dynasty. The Workers' Party of Korea , led by a member of the ruling family, holds absolute power in the state and leads the Democratic Front for the Reunification of the Fatherland of which all political officers are required to be members. According to article 3 of the constitution of the DPRK, Juche is the North Korean official ideology. The means of production are owned by the state through state-run enterprises and collectivized farms. Most services—such as healthcare, education, housing and food production—are subsidized or state-funded. From 1994 to 1998, North Korea suffered a famine that resulted in the deaths of between 240,000 and 420,000 people, and the population continues to suffer malnutrition. North Korea follows Songun, or \"military-first\" policy. It is the country with the highest number of military and paramilitary personnel, with a total of 9,495,000 active, reserve and paramilitary personnel, or approximately 37% of its population. Its active duty army of 1.21 million is the fourth-largest in the world, after China, the United States and India; consisting of 4.7% of its population. It possesses nuclear weapons. In addition to being a member of the United Nations since 1991, North Korea is also a member of the Non-Aligned Movement, G77 and the ASEAN Regional Forum. A 2014 UN inquiry into abuses of human rights in North Korea concluded that, \"the gravity, scale and nature of these violations reveal a state that does not have any parallel in the contemporary world,\" with Amnesty International and Human Rights Watch holding similar views. The North Korean government denies these abuses. This article is about the Democratic People's Republic of Korea. For the Republic of Korea, see South Korea. For other uses, see Korea ."
+            },
+            {
+                "name": "Jang_Woo-hyuk",
+                "desc": "Jang Woo-hyuk is a South Korean singer and rapper. He debuted in 1996 as a member of the best-selling K-pop boy band HOT After the band broke up due to a contract dispute, Jang and two other former members formed the boy band JtL, which was active from 2001 to 2003. Jang also released two full-length albums and two extended plays as a solo artist. He is the founder of talent agency WH Entertainment. In this Korean name, the family name is Jang."
+            }
+        ],
+        "mention_imgpath": "d01afbcf12151b93cc66938c47b416ab.png",
+        "mention_imgdesc_Azure": {
+            "Caption": "a man in a white hat and white coat facing another man",
+            "Dense Captions": "a man in a white hat and white coat facing another man in a white hat; a blurry image of a man; a man wearing a white hat and a white shirt; blur a blurry image of a person's head; a man in a white hat and a white shirt facing each other; a blurry image of a light",
+            "Tags": "clothing; person; human face; man; concert; music; standing",
+            "OCR text": "6rooms; com",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        444,
+                        249
+                    ],
+                    "caption": "a man in a white hat and white coat facing another man in a white hat",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        251,
+                        46,
+                        110,
+                        197
+                    ],
+                    "caption": "a blurry image of a man",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        96,
+                        48,
+                        165,
+                        192
+                    ],
+                    "caption": "a man wearing a white hat and a white shirt",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        121,
+                        51
+                    ],
+                    "caption": "blur a blurry image of a person's head",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        65,
+                        31,
+                        318,
+                        161
+                    ],
+                    "caption": "a man in a white hat and a white shirt facing each other",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        5,
+                        31,
+                        133,
+                        107
+                    ],
+                    "caption": "a blurry image of a light",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "headwear",
+                    "bounding_box": [
+                        169,
+                        54,
+                        80,
+                        49
+                    ],
+                    "confidence": 0.674
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        99,
+                        53,
+                        170,
+                        194
+                    ],
+                    "confidence": 0.819
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        248,
+                        52,
+                        116,
+                        194
+                    ],
+                    "confidence": 0.902
+                }
+            ]
+        }
+    },
+    "1536": {
+        "mention": "U.S.",
+        "mention_context": "A large-scale solar panel installation in the U.S.",
+        "Candentity": [
+            {
+                "name": "The_U.S.",
+                "desc": "The United States of America (U.S.A. or USA), commonly known as the United States (U.S. or US) or America, is a country primarily located in North America. It consists of 50 states, a federal district, five major unincorporated territories, nine Minor Outlying Islands, and 326 Indian reservations. The United States is the world's third-largest country by both land and total area. It shares land borders with Canada to its north and with Mexico to its south and has maritime borders with the Bahamas, Cuba, Russia, and other nations. With a population of over 333 million, it is the most populous country in the Americas and the third most populous in the world. The national capital of the United States is Washington, D.C., and its most populous city and principal financial center is New York City.\nIndigenous peoples have inhabited the Americas for thousands of years. Beginning in 1607, British colonization led to the establishment of the Thirteen Colonies in what is now the Eastern United States. They quarreled with the British Crown over taxation and political representation, leading to the American Revolution and proceeding Revolutionary War. The United States declared independence on July 4, 1776, becoming the first nation-state founded on Enlightenment principles of unalienable natural rights, consent of the governed, and liberal democracy. During the nineteenth century, the United States political philosophy was influenced by the concept of manifest destiny, as the country expanded across the continent in a number of wars, land purchases, and treaties, eventually reaching the Pacific Ocean by the middle of the century. Sectional division surrounding slavery in the Southern United States led to the secession of the Confederate States of America, which fought the remaining states of the Union during the American Civil War (1861–1865). With the Union's victory and preservation, slavery was abolished nationally by the Thirteenth Amendment.\nBy 1900, the United States had established itself as a world power, becoming the world's largest economy. After Japan's attack on Pearl Harbor in 1941, the U.S. entered World War II on the Allied side. The aftermath of the war left the United States and the Soviet Union as the world's two superpowers and led to the Cold War. During the Cold War, both countries engaged in a struggle for ideological dominance but avoided direct military conflict. They also competed in the Space Race, which culminated in the 1969 landing of Apollo 11, making the U.S. the first and only nation to ever land humans on the Moon. With the Soviet Union's collapse and the subsequent end of the Cold War in 1991, the United States emerged as the world's sole superpower.\nThe United States government is a federal republic and a representative democracy with three separate branches of government. It has a bicameral national legislature composed of the House of Representatives, a lower house; and the Senate, an upper house based on equal representation for each state. Many policy issues are decentralized, with widely differing laws by jurisdiction. The U.S. ranks highly in international measures of quality of life, income and wealth, economic competitiveness, human rights, innovation, and education; it has low levels of perceived corruption and the highest median income per person of any polity in the world. It has high levels of incarceration and inequality and lacks universal health care. As a melting pot of cultures and ethnicities, the U.S. has been shaped by the world's largest immigrant population.\nA developed country, the American economy accounts for approximately a quarter of global GDP and is the world's largest by GDP at market exchange rates. The United States is the world's largest importer and second-largest exporter. The United States is a founding member of the United Nations, World Bank, International Monetary Fund, Organization of American States, NATO, World Health Organization, and is a permanent member of the United Nations Security Council. The U.S. is the foremost military power in the world and a dominant political, cultural, and scientific force internationally."
+            },
+            {
+                "name": "Solar_panel",
+                "desc": "The term solar panel is used colloquially for a photo-voltaic module. A PV module is an assembly of photo-voltaic cells mounted in a framework for installation. Photo-voltaic cells use sunlight as a source of energy and generate direct current electricity. A collection of PV modules is called a PV Panel, and a system of Panels is an Array. Arrays of a photovoltaic system supply solar electricity to electrical equipment. For solar thermal panels, see solar thermal energy."
+            },
+            {
+                "name": "U.s.",
+                "desc": "The United States of America (U.S.A. or USA), commonly known as the United States (U.S. or US) or America, is a country primarily located in North America. It consists of 50 states, a federal district, five major unincorporated territories, nine Minor Outlying Islands, and 326 Indian reservations. The United States is the world's third-largest country by both land and total area. It shares land borders with Canada to its north and with Mexico to its south and has maritime borders with the Bahamas, Cuba, Russia, and other nations. With a population of over 333 million, it is the most populous country in the Americas and the third most populous in the world. The national capital of the United States is Washington, D.C., and its most populous city and principal financial center is New York City.\nIndigenous peoples have inhabited the Americas for thousands of years. Beginning in 1607, British colonization led to the establishment of the Thirteen Colonies in what is now the Eastern United States. They quarreled with the British Crown over taxation and political representation, leading to the American Revolution and proceeding Revolutionary War. The United States declared independence on July 4, 1776, becoming the first nation-state founded on Enlightenment principles of unalienable natural rights, consent of the governed, and liberal democracy. During the nineteenth century, the United States political philosophy was influenced by the concept of manifest destiny, as the country expanded across the continent in a number of wars, land purchases, and treaties, eventually reaching the Pacific Ocean by the middle of the century. Sectional division surrounding slavery in the Southern United States led to the secession of the Confederate States of America, which fought the remaining states of the Union during the American Civil War (1861–1865). With the Union's victory and preservation, slavery was abolished nationally by the Thirteenth Amendment.\nBy 1900, the United States had established itself as a world power, becoming the world's largest economy. After Japan's attack on Pearl Harbor in 1941, the U.S. entered World War II on the Allied side. The aftermath of the war left the United States and the Soviet Union as the world's two superpowers and led to the Cold War. During the Cold War, both countries engaged in a struggle for ideological dominance but avoided direct military conflict. They also competed in the Space Race, which culminated in the 1969 landing of Apollo 11, making the U.S. the first and only nation to ever land humans on the Moon. With the Soviet Union's collapse and the subsequent end of the Cold War in 1991, the United States emerged as the world's sole superpower.\nThe United States government is a federal republic and a representative democracy with three separate branches of government. It has a bicameral national legislature composed of the House of Representatives, a lower house; and the Senate, an upper house based on equal representation for each state. Many policy issues are decentralized, with widely differing laws by jurisdiction. The U.S. ranks highly in international measures of quality of life, income and wealth, economic competitiveness, human rights, innovation, and education; it has low levels of perceived corruption and the highest median income per person of any polity in the world. It has high levels of incarceration and inequality and lacks universal health care. As a melting pot of cultures and ethnicities, the U.S. has been shaped by the world's largest immigrant population.\nA developed country, the American economy accounts for approximately a quarter of global GDP and is the world's largest by GDP at market exchange rates. The United States is the world's largest importer and second-largest exporter. The United States is a founding member of the United Nations, World Bank, International Monetary Fund, Organization of American States, NATO, World Health Organization, and is a permanent member of the United Nations Security Council. The U.S. is the foremost military power in the world and a dominant political, cultural, and scientific force internationally."
+            },
+            {
+                "name": "United_States_Reports",
+                "desc": "The United States Reports are the official record of the Supreme Court of the United States. They include rulings, orders, case tables , in alphabetical order both by the name of the petitioner and by the name of the respondent , and other proceedings. United States Reports, once printed and bound, are the final version of court opinions and cannot be changed. Opinions of the court in each case are prepended with a headnote prepared by the Reporter of Decisions, and any concurring or dissenting opinions are published sequentially. The Court's Publication Office oversees the binding and publication of the volumes of United States Reports, although the actual printing, binding, and publication are performed by private firms under contract with the United States Government Publishing Office."
+            },
+            {
+                "name": "United_States",
+                "desc": "The United States —officially the United States of America , commonly known as America—is a country primarily located in North America, consisting of 50 states, a federal district, five major self-governing territories, 326 reservations, and various possessions.[h] At 3.8 million square miles , it is the world's third- or fourth-largest country by total area.[d] With a population of more than 328 million people, it is the third most populous country in the world. The national capital is Washington, D.C., and the most populous city is New York City. Paleo-Indians migrated from Siberia to the North American mainland at least 12,000 years ago, and European colonization began in the 16th century. The United States emerged from the thirteen British colonies established along the East Coast. Disputes over taxation and political representation with Great Britain led to the American Revolutionary War , which established independence. In the late 18th century, the U.S. began vigorously expanding across North America, gradually acquiring new territories, oftentimes displacing Native Americans, and admitting new states; by 1848, the United States spanned the continent. Slavery was legal in the southern United States until the second half of the 19th century when the American Civil War led to its abolition. The Spanish–American War and World War I established the U.S. as a world power, a status confirmed by the outcome of World War II. During the Cold War, the United States and the Soviet Union engaged in various proxy wars but avoided direct military conflict. They also competed in the Space Race, culminating in the 1969 spaceflight that first landed humans on the Moon. The Soviet Union's collapse in 1991 ended the Cold War, leaving the United States as the world's sole superpower. The United States is a federal republic and a representative democracy with three separate branches of government, including a bicameral legislature. It is a founding member of the United Nations, World Bank, International Monetary Fund, Organization of American States, NATO, and other international organizations. It is a permanent member of the United Nations Security Council. The U.S. ranks high in international measures of economic freedom, reduced levels of perceived corruption, quality of life, and quality of higher education. It is one of the most racially and ethnically diverse nations in the world. Considered a melting pot of cultures and ethnicities, its population has been profoundly shaped by centuries of immigration. Despite income and wealth disparities, the United States is a highly developed country, and continuously ranks high in measures of socioeconomic performance. It accounts for approximately a quarter of global GDP, and is the world's largest economy by nominal GDP. By value, the United States is the world's largest importer and the second-largest exporter of goods. Although its population is only 4.2% of the world total, it holds 29.4% of the total wealth in the world, the largest share held by any country. Making up more than a third of global military spending, it is the foremost military power in the world and is a leading political, cultural, and scientific force internationally. \"America\", \"US\", \"USA\", and \"United States of America\" redirect here. For the continental landmass, see Americas. For other uses, see America , US , USA , and United States ."
+            },
+            {
+                "name": "Us",
+                "desc": "People from the United States of America are known as and refer to themselves as Americans. Different languages use different terms for citizens of the United States, who are known in English as Americans. All forms of English refer to US citizens as Americans, a term deriving from the United States of America, the country's official name. In the English context, it came to refer to inhabitants of British America, and then the United States. However, there is some linguistic ambiguity over this use due to the other senses of the word American, which can also refer to people from the Americas in general. Other languages, including French, Japanese, and Russian, use cognates of American to refer to people from the United States, while others, particularly Spanish and Portuguese, primarily use terms derived from United States. There are various other local and colloquial names for Americans. The name America came from the Italian navigator Amerigo Vespucci. See also: American"
+            },
+            {
+                "name": "U.S._Country",
+                "desc": "U.S. Country was a 24-hour music format produced by Jones Radio Networks. Its playlist is composed of mostly modern country music from artists such as Lonestar, Gretchen Wilson, Alan Jackson, Brooks & Dunn, Rascal Flatts and dozens more artists. Jones Radio was recently purchased by Triton Media Group and was merge this satellite-driven feed into Dial Global's \"Mainstream Country\" network."
+            },
+            {
+                "name": "U.S._(HI)",
+                "desc": "Hawaii ( (listen) hə-WY-ee; Hawaiian: Hawaiʻi [həˈvɐjʔi] or [həˈwɐjʔi]) is a state in the Western United States, about 2,000 miles (3,200 km) from the U.S. mainland in the Pacific Ocean. It is the only U.S. state outside North America, the only state that is an archipelago, and the only state in the tropics.\nHawaii consists of 137 volcanic islands that comprise almost the entire Hawaiian archipelago; spanning 1,500 miles (2,400 km), the state is physiographically and ethnologically part of the Polynesian subregion of Oceania. Hawaii's ocean coastline is consequently the fourth-longest in the U.S., at about 750 miles (1,210 km). The eight main islands, from northwest to southeast, are Niʻihau, Kauaʻi, Oʻahu, Molokaʻi, Lānaʻi, Kahoʻolawe, Maui, and Hawaiʻi, after which the state is named; it is often called the \"Big Island\" or \"Hawaii Island\" to avoid confusion with the state or archipelago. The uninhabited Northwestern Hawaiian Islands make up most of the Papahānaumokuākea Marine National Monument, the largest protected area in the U.S. and the fourth largest in the world.\nOf the 50 U.S. states, Hawaii is the eighth smallest in land area and the 11th least populous; but with 1.4 million residents, it ranks 13th in population density. Two-thirds of Hawaiians live on O'ahu, home to the state's capital and largest city, Honolulu. Hawaii is among the country's most diverse states, owing to its central location in the Pacific and over two centuries of migration. As one of only six majority-minority states, it has the only Asian American plurality, the largest Buddhist community, and largest proportion of multiracial people in the U.S.. Consequently, Hawaii is a unique melting pot of North American and East Asian cultures, in addition to its indigenous Hawaiian heritage.\nSettled by Polynesians sometime between 1000 and 1200 CE, Hawaii was home to numerous independent chiefdoms. In 1778, British explorer James Cook was the first known non-Polynesian to arrive at the archipelago; early British influence is reflected in the state flag, which bears a Union Jack. An influx of European and American explorers, traders, and whalers soon arrived, leading to the decimation of the once isolated Indigenous community through the introduction of diseases such as syphilis, tuberculosis, smallpox, and measles; the native Hawaiian population declined from between 300,000 and one million to less than 40,000 by 1890.Hawaii became a unified, internationally recognized kingdom in 1810, remaining independent until American and European businessmen overthrew the monarchy in 1893; this led to annexation by the U.S. in 1898. As a strategically valuable U.S. territory, Hawaii was attacked by Japan on December 7, 1941, which brought it global and historical significance, and contributed to America's decisive entry into World War II. Hawaii is the most recent state to join the union, on August 21, 1959. In 1993, the U.S. government formally apologized for its role in the overthrow of Hawaii's government, which had spurred the Hawaiian sovereignty movement and has led to ongoing efforts to redress the indigenous population.\nHistorically dominated by a plantation economy, Hawaii remains a major agricultural exporter due to its fertile soil and uniquely tropical climate in the U.S. Its economy has gradually diversified since the mid-20th century, with tourism and military defense becoming the two largest sectors. The state attracts visitors, surfers, and scientists with its diverse natural scenery, warm tropical climate, abundant public beaches, oceanic surroundings, active volcanoes, and clear skies on the Big Island. Hawaii hosts the U.S. Pacific Fleet, the world's largest naval command, as well as 75,000 employees of the Defense Department.Hawaii's relative isolation results in one of the highest costs of living in the U.S. However, Hawaii is the third-wealthiest state,  and residents have the longest life expectancy of any U.S. state, at 80.7 years."
+            },
+            {
+                "name": "Hawaii",
+                "desc": "This article is about the state of Hawaiʻi. For the archipelago, see Hawaiian Islands. For the largest island in the archipelago, see Hawaii . For other uses, see Hawaii ."
+            },
+            {
+                "name": "Demonyms_for_the_United_States",
+                "desc": "People from the United States of America are known as and refer to themselves as Americans. Different languages use different terms for citizens of the United States, who are known in English as Americans. All forms of English refer to US citizens as Americans, a term deriving from the United States of America, the country's official name. In the English context, it came to refer to inhabitants of British America, and then the United States. However, there is some linguistic ambiguity over this use due to the other senses of the word American, which can also refer to people from the Americas in general. Other languages, including French, Japanese, and Russian, use cognates of American to refer to people from the United States, while others, particularly Spanish and Portuguese, primarily use terms derived from United States. There are various other local and colloquial names for Americans. The name America came from the Italian navigator Amerigo Vespucci. See also: American"
+            }
+        ],
+        "mention_imgpath": "de75e637a4b7f9f28fc628079f8b7575.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "solar panels in a field",
+            "Dense Captions": "solar panels in a field; a group of solar panels; a row of solar panels; a mountain range with blue sky; a group of solar panels; rows of solar panels; a cone shaped object on the ground; a group of cones on a dirt surface; a solar panel on a stand; a blue sky with no clouds",
+            "Tags": "outdoor; solar power; solar energy; solar panel; solar dish; solar cell; ground; mountain; solar; photovoltaic",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        340
+                    ],
+                    "caption": "solar panels in a field",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        20,
+                        74,
+                        176,
+                        146
+                    ],
+                    "caption": "a group of solar panels",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        68,
+                        491,
+                        181
+                    ],
+                    "caption": "a row of solar panels",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        8,
+                        29,
+                        484,
+                        77
+                    ],
+                    "caption": "a mountain range with blue sky",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        207,
+                        82,
+                        280,
+                        139
+                    ],
+                    "caption": "a group of solar panels",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        20,
+                        89,
+                        309,
+                        201
+                    ],
+                    "caption": "rows of solar panels",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        32,
+                        215,
+                        61,
+                        50
+                    ],
+                    "caption": "a cone shaped object on the ground",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        201,
+                        492,
+                        133
+                    ],
+                    "caption": "a group of cones on a dirt surface",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        24,
+                        177,
+                        96,
+                        95
+                    ],
+                    "caption": "a solar panel on a stand",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        491,
+                        55
+                    ],
+                    "caption": "a blue sky with no clouds",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": []
+        }
+    },
+    "1530": {
+        "mention": "PeoPo Citizen Journalism Forum",
+        "mention_context": "2008 PeoPo Citizen Journalism Forum.",
+        "Candentity": [
+            {
+                "name": "African_Social_Forum",
+                "desc": "The African Social Forum is an African social movement opposed to neo-liberal economic policies in Africa and what they see as the exploitation of the African continent in a framework of neo-liberal globalisation. The idea for the African Social Forum originated at the World Social Forum in Porto Alegre from 25 to January 30, 2001, upon the recognition that of the 14,000 representatives, only 50 were from Africa. The first Forum was held in 2002 in Bamako, Mali, with 45 countries represented. The Bamako Declaration approved at the 2002 forum include the following: A strong consensus emerged at the Bamako Forum that the values, practices, structures and institutions of the currently dominant neo-liberal order are inimical to and incompatible with the realization of Africa's dignity, values, and aspirations... The Forum demands of its political leaders that they do not further inflict on Africa the unjust system of the Bretton Woods institutions in the name of financing Africa's development.” The motto of the African Social Forum, adopted from the WSF, is \"Another Africa is possible\"."
+            },
+            {
+                "name": "Pakistan_Fisherfolk_Forum",
+                "desc": "The Pakistan Fisherfolk Forum (PFF) is a non-governmental organisation based in Karachi, Pakistan which works to advance social, economic, cultural and political rights of fishermen and fishing communities in Pakistan. The body came into establishment as a social welfare organisation on 5 May 1998. Since its inception, it has gathered 25,000 volunteers; the stated objectives of the group target a wide array of issues which are directly or indirectly associated with about 4 million fishers in Pakistan. Some of these are:\n\nSocioeconomic and political rights of fishermen\nBringing sustainable fishery policies\nAdvocating a ban on sea trawlers\nStopping depletion of natural resources in the sea and the use of destructive nets\nPreserving the Indus Delta from degradation\nAbolishing contract systems and bringing license systems in inland water bodies\nSupporting the release and rehabilitation of detained Pakistani fishers in Indian jails and Indian fishers in Pakistani jails\nBringing general sustainability in the usage of water resources"
+            },
+            {
+                "name": "Daejeon_Green_Growth_Forum",
+                "desc": "The Daejeon Green Growth Forum is a think tank established for open exchange concerning environmental policy involving members of academia, research institutes, business, central and local government, NGOs, religious groups and the media from around Korea, but particularly the city of Daejeon where it was founded. It is closely tied to the national Green Growth Forum that was established in Seoul on Sept. 9, 2008, under the aegis of the Korean Ministry of the Environment.[citation needed] The Daejeon Green Growth Forum works with the mayor of Daejeon Metropolitan City to take a leadership position on environmental issues by tapping into Daejeon's research capability to rejuvenate the city and serve as a model for other developing cities."
+            },
+            {
+                "name": "Civic_Forum_(Central_African_Republic)",
+                "desc": "Civic Forum was a political party in the Central African Republic led by Timothée Malendoma. This article about an African political party is a stub."
+            },
+            {
+                "name": "Nenang_Pawo",
+                "desc": "Nenang Pawo is one of the highest lamas of the Karma Kagyu school of Tibetan Buddhism. The Pawos form a lineage of tulkus, of which the first was born in 1440. They were traditionally the heads of Nenang Monastery in Ü-Tsang."
+            },
+            {
+                "name": "Boao_Forum_for_Asia",
+                "desc": "The Boao Forum for Asia Initiated by 25 Asian countries and Australia and is a non-profit organisation that hosts high-level forums for leaders from government, business and academia in Asia and other continents to share their vision on the most pressing issues in this dynamic region and the world at large. BFA is modelled on the World Economic Forum held annually in Davos, Switzerland. Its fixed address is in Bo'ao, Hainan province, China, although the Secretariat is based in Beijing. The forum, sometimes known as the “Asian Davos”, takes its name from the town of Boao, located in China's southern Hainan province, which has been the permanent venue for its annual conference since 2002. The Forum is committed to promoting regional economic integration and bringing Asian countries even closer to their development goals. Initiated in 1998 by Fidel V. Ramos, former President of the Philippines, Bob Hawke, former Prime Minister of Australia, and Morihiro Hosokawa, former Prime Minister of Japan, the Boao Forum for Asia was formally inaugurated in February 2001. The founding of the BFA was driven by the People's Republic of China and founded by 26 Asian and Australasian states on 27 February 2001. The organisation held its first meeting from 12–13 April 2002. Discussions at the BFA focus on economics, integration, cooperation, society and the environment. In the past the forum also addressed China's entry into the World Trade Organization, as well as Southeast Asia's economic crisis during the 1990s. The geopolitical strategy 'China's peaceful rise' was a topic of discussion for the forum in 2004. In addition to its annual meeting, the BFA also sponsors other forums and meetings related to Asian issues."
+            },
+            {
+                "name": "Garment_Workers_Unity_Forum",
+                "desc": "The Garment Workers Unity Forum (GWUF) is a national trade union federation of garment workers in Bangladesh.\n\n"
+            },
+            {
+                "name": "Pan_African_Forum_of_Civil_Societies",
+                "desc": "Pan African Forum of Civil Societies  is a Division of the Tanzania Social Support Foundation that is dedicated to strengthening the capacity of Civil Societies from all fifty four African Countries. It was established on 9 May 2015 at Mtwara, Tanzania."
+            },
+            {
+                "name": "Forum_for_African_Women_Educationalists",
+                "desc": "This article about an organization in Africa is a stub."
+            },
+            {
+                "name": "Persibom_Bolaang_Mongondow",
+                "desc": "Persibom, or its full name Perserikatan Sepakbola Indonesia Bolaang Mongondow, is an Indonesian football club based in Bolaang Mongondow Regency, North Sulawesi. They currently compete in the Liga 3 and their homeground is Ambang Stadium.\n\n"
+            }
+        ],
+        "mention_imgpath": "3125e687b6b0d2b2a4852bfeb102bc4c.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a group of people in a lecture hall",
+            "Dense Captions": "a group of people in a lecture hall; a person using a laptop; a person sitting at a desk; a group of people sitting in front of a large blue sign; a woman using a laptop in a lecture hall; a blurry image of a man in a blue jacket; a yellow cabinet with a brown border; a woman using a laptop; a close up of a brown object; a white rectangular object with orange objects on top of it",
+            "Tags": "indoor; conference hall; clothing; convention; academic conference; seminar; meeting; furniture; chair; convention center; presentation; lecture; course; wall; person; public speaking; auditorium; building; hall; people",
+            "OCR text": "2008PJ-P、公民新聞編印",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        281
+                    ],
+                    "caption": "a group of people in a lecture hall",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        190,
+                        158,
+                        72,
+                        68
+                    ],
+                    "caption": "a person using a laptop",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        132,
+                        135,
+                        91,
+                        140
+                    ],
+                    "caption": "a person sitting at a desk",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        266,
+                        0,
+                        225,
+                        84
+                    ],
+                    "caption": "a group of people sitting in front of a large blue sign",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        56,
+                        67,
+                        409,
+                        210
+                    ],
+                    "caption": "a woman using a laptop in a lecture hall",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        83,
+                        64,
+                        59
+                    ],
+                    "caption": "a blurry image of a man in a blue jacket",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        103,
+                        0,
+                        127,
+                        59
+                    ],
+                    "caption": "a yellow cabinet with a brown border",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        91,
+                        115,
+                        251,
+                        160
+                    ],
+                    "caption": "a woman using a laptop",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        193,
+                        227,
+                        71,
+                        51
+                    ],
+                    "caption": "a close up of a brown object",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        234,
+                        188,
+                        127,
+                        90
+                    ],
+                    "caption": "a white rectangular object with orange objects on top of it",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "hall",
+                    "bounding_box": [
+                        150,
+                        11,
+                        344,
+                        263
+                    ],
+                    "confidence": 0.535
+                }
+            ]
+        }
+    }
+}

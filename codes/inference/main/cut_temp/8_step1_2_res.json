@@ -1,0 +1,52 @@
+{
+    "602": {
+        "sample_id": "602",
+        "ans_1": "Justin_Bieber",
+        "ans_2": "Justin_Bieber"
+    },
+    "1150": {
+        "sample_id": "1150",
+        "ans_1": "Punta_Tombo",
+        "ans_2": "Punta_Tombo"
+    },
+    "31": {
+        "sample_id": "31",
+        "ans_1": "Swan",
+        "ans_2": "Swan"
+    },
+    "1175": {
+        "sample_id": "1175",
+        "ans_1": "nil",
+        "ans_2": "nil"
+    },
+    "1499": {
+        "sample_id": "1499",
+        "ans_1": "Romanenko",
+        "ans_2": "Romanenko"
+    },
+    "1101": {
+        "sample_id": "1101",
+        "ans_1": "St._Louis,_Missouri",
+        "ans_2": "St._Louis"
+    },
+    "1071": {
+        "sample_id": "1071",
+        "ans_1": "nil",
+        "ans_2": "nil"
+    },
+    "356": {
+        "sample_id": "356",
+        "ans_1": "Egyptian_Army",
+        "ans_2": "Egyptian_Army"
+    },
+    "580": {
+        "sample_id": "580",
+        "ans_1": "USS_Missouri_(BB-63)",
+        "ans_2": "USS_Missouri_(BB-63)"
+    },
+    "564": {
+        "sample_id": "564",
+        "ans_1": "Domestic_turkey",
+        "ans_2": "Domestic_turkey"
+    }
+}

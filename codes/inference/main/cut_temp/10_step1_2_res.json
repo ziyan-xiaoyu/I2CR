@@ -1,0 +1,52 @@
+{
+    "70": {
+        "sample_id": "70",
+        "ans_1": "Spaniards",
+        "ans_2": "Spain"
+    },
+    "1069": {
+        "sample_id": "1069",
+        "ans_1": "Zoo",
+        "ans_2": "Zoo"
+    },
+    "1115": {
+        "sample_id": "1115",
+        "ans_1": "California",
+        "ans_2": "California"
+    },
+    "547": {
+        "sample_id": "547",
+        "ans_1": "Munich,_Germany",
+        "ans_2": "Munich"
+    },
+    "882": {
+        "sample_id": "882",
+        "ans_1": "nil",
+        "ans_2": "nil"
+    },
+    "78": {
+        "sample_id": "78",
+        "ans_1": "T36_(classification)",
+        "ans_2": "T36"
+    },
+    "511": {
+        "sample_id": "511",
+        "ans_1": "Parliament_Buildings_(Northern_Ireland)",
+        "ans_2": "Parliament_Buildings_(Northern_Ireland)"
+    },
+    "1332": {
+        "sample_id": "1332",
+        "ans_1": "Exoplanet",
+        "ans_2": "Exoplanet"
+    },
+    "832": {
+        "sample_id": "832",
+        "ans_1": "FIFA",
+        "ans_2": "FIFA"
+    },
+    "1273": {
+        "sample_id": "1273",
+        "ans_1": "Space_Shuttle_Discovery",
+        "ans_2": "Space_Shuttle_Discovery"
+    }
+}

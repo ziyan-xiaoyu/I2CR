@@ -1,0 +1,31 @@
+export NCCL_P2P_DISABLE=1
+export NCCL_IB_DISABLE=1
+CUDA_VISIBLE_DEVICES=0 llamafactory-cli train \
+    --stage sft \
+    --do_train \
+    --model_name_or_path /data/yuguangya/ALLYOUNEED/7B/llama/chat/llama3-8b-instruct \
+    --dataset wikidiverse_train_v6_summary_1_9 \
+    --dataset_dir /root/nas/someModels/fine-tuning/llama3-8B-instruct/LLaMA-Factory/data \
+    --template llama3 \
+    --finetuning_type lora \
+    --output_dir /root/nas/202409_SMCR/ARR_SMCR/finetuning/llama3/model_arg/20241213_2 \
+    --overwrite_cache \
+    --overwrite_output_dir \
+    --cutoff_len 4096 \
+    --preprocessing_num_workers 16 \
+    --per_device_train_batch_size 1 \
+    --per_device_eval_batch_size 1 \
+    --gradient_accumulation_steps 16 \
+    --lr_scheduler_type cosine \
+    --logging_steps 10 \
+    --warmup_steps 100 \
+    --save_steps 500 \
+    --eval_steps 500 \
+    --evaluation_strategy steps \
+    --load_best_model_at_end \
+    --learning_rate 2e-5 \
+    --num_train_epochs 2.0 \
+    --val_size 0.1 \
+    --plot_loss \
+    --fp16 \
+    # --ddp_timeout 180000000

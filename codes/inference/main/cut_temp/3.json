@@ -1,0 +1,1147 @@
+{
+    "220": {
+        "mention": "Pennsylvania",
+        "mention_context": "Route 33 in Northampton County, Pennsylvania, where the accident took place.",
+        "Candentity": [
+            {
+                "name": "Pennsylvania",
+                "desc": "Pennsylvania is a state located in the Mid-Atlantic, Northeastern, and Appalachian regions of the United States, known for its rich history, diverse geography, and major cities such as Philadelphia and Pittsburgh."
+            },
+            {
+                "name": "Pennsylvania_(state)",
+                "desc": "Pennsylvania is a state located in the Mid-Atlantic, Northeastern, Appalachian, and Great Lakes regions of the United States, known for its diverse geography, rich history, and contributions to the country's development, including being a haven for religious and political tolerance, a key player in the American Revolution, and a hub for industry and innovation."
+            },
+            {
+                "name": "Pennsylvania_(steamboat)",
+                "desc": "The Pennsylvania was a side-wheeler steamboat that sank in the Mississippi River after a boiler explosion on June 13, 1858, near Ship Island, Memphis, Tennessee."
+            },
+            {
+                "name": "Pennsylvania_(U.S._state)",
+                "desc": "Pennsylvania is a state located in the Mid-Atlantic, Northeastern, Appalachian, and Great Lakes regions of the United States, known for its diverse geography, rich history, and significant contributions to the country's development, including playing a vital role in the American Revolution and Industrial Revolution."
+            },
+            {
+                "name": "Pennsylvania_(song)",
+                "desc": "\"Pennsylvania\" is the regional anthem of the U."
+            },
+            {
+                "name": "Utah_State_Route_21",
+                "desc": "Utah State Route 21 is a 107."
+            },
+            {
+                "name": "Pennsylvania_Route_97_(Adams_County)",
+                "desc": "Pennsylvania Route 97 is a 9."
+            },
+            {
+                "name": "Pennsylvania_(album)",
+                "desc": "Pennsylvania is a 1998 album by Pere Ubu, a loose concept album about geography, travel, and road trips, marking the return of Tom Herman to the band's studio work after a 20-year absence."
+            },
+            {
+                "name": "Pennsylvania_wine",
+                "desc": "Pennsylvania wine refers to wine made from grapes grown in the U."
+            },
+            {
+                "name": "SS_Pennsylvania_(1872)",
+                "desc": "The SS Pennsylvania was an iron passenger-cargo steamship built in 1872, the largest of its kind in the United States at the time, which had a long and distinguished career spanning 44 years before being destroyed by a fire in 1918."
+            }
+        ],
+        "mention_imgpath": "0c90284fc53188d377f7cf3d5fb9d6c6.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a road with clouds in the sky",
+            "Dense Captions": "a road with clouds in the sky; a road with a white line; a cloudy sky with a few clouds; a close up of a cloud; a red and black cloud; a blurry image of a building; a road with a white line",
+            "Tags": "cloud; road; sky; outdoor; horizon; freeway; evening; infrastructure; dusk; afterglow; asphalt; way; street; road surface; lane; landscape; highway; sunset; sunrise; cloudy; night",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        369
+                    ],
+                    "caption": "a road with clouds in the sky",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        11,
+                        304,
+                        465,
+                        62
+                    ],
+                    "caption": "a road with a white line",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        490,
+                        291
+                    ],
+                    "caption": "a cloudy sky with a few clouds",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        147,
+                        1,
+                        340,
+                        126
+                    ],
+                    "caption": "a close up of a cloud",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        257,
+                        0,
+                        183,
+                        73
+                    ],
+                    "caption": "a red and black cloud",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        5,
+                        264,
+                        216,
+                        53
+                    ],
+                    "caption": "a blurry image of a building",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        308,
+                        307,
+                        143,
+                        59
+                    ],
+                    "caption": "a road with a white line",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": []
+        }
+    },
+    "1231": {
+        "mention": "British pound",
+        "mention_context": "The Euro has a considerably lower percentage of counterfeit coins in circulation than the British pound.",
+        "Candentity": [
+            {
+                "name": "Bank_of_England_note_issues",
+                "desc": "The Bank of England, the central bank of the UK, has issued banknotes since 1694, with a monopoly on issuing notes in England and Wales since 1921, featuring portraits of British historical figures on polymer notes in four denominations since 1970."
+            },
+            {
+                "name": "One_pound_(British_coin)",
+                "desc": "The British one pound coin is a denomination of the pound sterling featuring the profile of Queen Elizabeth II on the obverse and four emblems representing the nations of the United Kingdom on the reverse, with various designs and security features introduced over the years to combat counterfeiting."
+            },
+            {
+                "name": "Pound_(mass)",
+                "desc": "The pound, also known as the pound-mass, is a unit of mass used in various systems of measurement, defined as exactly 0."
+            },
+            {
+                "name": "Five_pounds_(British_coin)",
+                "desc": "The British five-pound coin is a commemorative denomination of the pound sterling featuring Queen Elizabeth II's profile on the obverse and various designs on the reverse to commemorate important events, with no standard reverse design and often sold as souvenirs at a premium to face value."
+            },
+            {
+                "name": "Highland_Park_station_(Illinois)",
+                "desc": "Highland Park station is a suburban city in Lake County, Illinois, located 25 miles north of downtown Chicago, with a population of 30,176 as of 2020."
+            },
+            {
+                "name": "Pound_sign",
+                "desc": "The Pound sign (£) is the symbol for the pound sterling, the currency of the United Kingdom and previously of Great Britain and the Kingdom of England, as well as other currencies called pound."
+            },
+            {
+                "name": "Pound_sterling",
+                "desc": "The pound sterling is the official currency of the United Kingdom and several other territories, subdivided into 100 pence, and is the oldest currency in continuous use, widely traded and held as a reserve currency."
+            },
+            {
+                "name": "%C2%A3sd",
+                "desc": "The EMD SD40-2 is a 3,000-horsepower diesel-electric locomotive built by EMD from 1972 to 1989, known for its reliability and versatility, and was one of the best-selling models in EMD's history."
+            },
+            {
+                "name": "British_West_African_pound",
+                "desc": "The British West African Pound was the currency of British West Africa, equal to the pound sterling and subdivided into 20 shillings and 12 pence."
+            },
+            {
+                "name": "Coins_of_the_pound_sterling",
+                "desc": "The Coins of the Pound Sterling is the standard circulating coinage of the United Kingdom, British Crown Dependencies, and British Overseas Territories, ranging in value from one penny to two pounds, with a total of 29 billion coins circulating in the UK as of 2019."
+            }
+        ],
+        "mention_imgpath": "c819e1eb379811d3e0dc38214804ac1e.png",
+        "mention_imgdesc_Azure": {
+            "Caption": "a black background with red text",
+            "Dense Captions": "a black background with red text; a black background with red text",
+            "Tags": "font; graphics; text; design; typography",
+            "OCR text": "Image Not; Available",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        100,
+                        100
+                    ],
+                    "caption": "a black background with red text",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        97,
+                        95
+                    ],
+                    "caption": "a black background with red text",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": []
+        }
+    },
+    "1000": {
+        "mention": "PM Guy Verhofstadt",
+        "mention_context": "Incumbent PM Guy Verhofstadt now heading the caretaker government.",
+        "Candentity": [
+            {
+                "name": "Verhofstadt_I_Government",
+                "desc": "The Verhofstadt I Government was the first liberal-led government in Belgium since 1938, formed by a \"purple-green\" coalition of the Flemish and French-speaking liberal, socialist, and green parties from 1999 to 2003."
+            },
+            {
+                "name": "Zijlstra_cabinet",
+                "desc": "The Zijlstra cabinet was a caretaker government in the Netherlands from 1966 to 1967, formed by the Catholic People's Party and Anti-Revolutionary Party, led by Prime Minister Jelle Zijlstra, which served until replaced by the De Jong cabinet after the 1967 election."
+            },
+            {
+                "name": "Minister_of_Safety_and_Security_v_Luiters",
+                "desc": "The Minister of Safety and Security v Luiters case, decided by the Constitutional Court in 2006, established that an employer, in this case the Minister of Safety and Security, is vicariously liable for the delictual acts of an off-duty police officer who puts themselves on duty, just as they would be for an on-duty officer."
+            },
+            {
+                "name": "Carlos_Van_den_Driessche",
+                "desc": "Carlos Van den Driessche was a Belgian ice hockey player and rower who won several medals and competed in multiple Olympics, and later served as president of the Royal Belgian Ice Hockey Federation."
+            },
+            {
+                "name": "Peter_Vredenburgh_(politician)",
+                "desc": "Peter Vredenburgh was a Republican member of the Wisconsin State Assembly in 1883, representing the 2nd District of Winnebago County, Wisconsin."
+            },
+            {
+                "name": "Sophie_de_Schaepdrijver",
+                "desc": "Sophie de Schaepdrijver is a Belgian historian born on September 11, 1961, in Kortrijk."
+            },
+            {
+                "name": "Dirk_Verhofstadt",
+                "desc": "Dirk Verhofstadt is a Belgian social liberal theorist and younger brother of Guy Verhofstadt, with a philosophical outlook influenced by prominent thinkers such as Karl Popper and John Stuart Mill."
+            },
+            {
+                "name": "Policies_of_Silvio_Berlusconi",
+                "desc": "Silvio Berlusconi was the Prime Minister of Italy for almost ten years, serving as the head of the country's government during his tenure."
+            },
+            {
+                "name": "Guy_Verhofstadt",
+                "desc": "Guy Verhofstadt is a Belgian politician who served as Prime Minister of Belgium from 1999 to 2008, and later became the Leader of the Alliance of Liberals and Democrats for Europe and a Member of the European Parliament, advocating for federalisation of the European Union."
+            },
+            {
+                "name": "C._M._van_den_Heever",
+                "desc": "C."
+            }
+        ],
+        "mention_imgpath": "a8d50cfee831213931f31925d78f008e.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a man in a suit waving",
+            "Dense Captions": "a man in a suit waving; a man in a suit waving",
+            "Tags": "person; clothing; smile; formal wear; tie; human face; man; blazer; dress shirt; suit; collar; gentleman; businessperson; tuxedo; white-collar worker; shirt; outdoor; wearing",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        284,
+                        349
+                    ],
+                    "caption": "a man in a suit waving",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        29,
+                        274,
+                        312
+                    ],
+                    "caption": "a man in a suit waving",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "tie",
+                    "bounding_box": [
+                        71,
+                        140,
+                        24,
+                        57
+                    ],
+                    "confidence": 0.557
+                }
+            ]
+        }
+    },
+    "1377": {
+        "mention": "Joe Schriner",
+        "mention_context": "Carroll (left) debates past Wikinews interviewee, Joe Schriner (right). 2019.",
+        "Candentity": [
+            {
+                "name": "Joe_Wissert",
+                "desc": "Joe Wissert is an American record producer who has worked with a variety of notable artists, including Earth, Wind & Fire, Boz Scaggs, and The Lovin' Spoonful."
+            },
+            {
+                "name": "Joe_Schriner",
+                "desc": "Joe Schriner is an American political activist and journalist who has run for the US presidency six times as an independent candidate, advocating for Christian democratic policies rooted in Catholic Social Teaching, and has also run as a Republican and sought the nomination of the American Solidarity Party and the Green Party."
+            },
+            {
+                "name": "Joe_Schermie",
+                "desc": "Joe Schermie was an American musician and bass player for the 1970s rock-pop group Three Dog Night."
+            },
+            {
+                "name": "Joe_Redner",
+                "desc": "Joe Redner is a businessman and advocate for First Amendment rights, best known as the owner of the Mons Venus strip club and a pioneer in the nude lap dance industry, who has been involved in numerous legal battles and has run for political office."
+            },
+            {
+                "name": "Joe_Stecher",
+                "desc": "Joe Stecher was a renowned American professional wrestler, known for his ferocity, leg strength, and extensive knowledge of the sport, and considered one of the greatest wrestlers of all time."
+            },
+            {
+                "name": "Joe_Schmick",
+                "desc": "Joe Schmick is a Republican member of the Washington House of Representatives, representing the 9th Legislative District, who introduced legislation to give away parts of the John Wayne trail to private landowners, but the legislation was nullified due to a typo."
+            },
+            {
+                "name": "Joe_Quigley_(athlete)",
+                "desc": "Joe Quigley is a retired Australian hammer thrower who won several medals and championships, including a bronze medal at the 1985 Pacific Conference Games and a silver medal at the 1986 Commonwealth Games."
+            },
+            {
+                "name": "Brian_T._Carroll",
+                "desc": "Brian T."
+            },
+            {
+                "name": "Citizen_Joe",
+                "desc": "\"Citizen Joe\" is the 15th episode of Stargate SG-1's 8th season, a clip show featuring an Indiana barber with the Ancient Technology Activation gene who experiences visions of SG-1's missions through an Ancient device."
+            },
+            {
+                "name": "Peg_Leg_Joe",
+                "desc": "Peg Leg Joe is a legendary figure, possibly a composite of real people, who is credited with leading slaves to freedom through the Underground Railroad and authoring the song \"Follow the Drinkin' Gourd\", which contained a code for escape."
+            }
+        ],
+        "mention_imgpath": "e5a972dac4cfae0e76c3b7293dab37f7.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "two men sitting at a podium",
+            "Dense Captions": "two men sitting at a podium; a man in a white shirt; a red white and blue flag; a flag on a door; a man standing behind a podium with flags; a man in a green shirt; a flag on a wooden surface; a close up of a flag",
+            "Tags": "text; indoor; box; wall; child; person",
+            "OCR text": "D); of ( ASP-OH)",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        375
+                    ],
+                    "caption": "two men sitting at a podium",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        73,
+                        220,
+                        176,
+                        151
+                    ],
+                    "caption": "a man in a white shirt",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        301,
+                        146,
+                        157,
+                        192
+                    ],
+                    "caption": "a red white and blue flag with stars",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        225,
+                        0,
+                        269,
+                        145
+                    ],
+                    "caption": "a flag on a door",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        90,
+                        14,
+                        321,
+                        354
+                    ],
+                    "caption": "a man standing behind a podium with flags",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        74,
+                        156,
+                        113,
+                        209
+                    ],
+                    "caption": "a man in a green shirt",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        213,
+                        115,
+                        256,
+                        248
+                    ],
+                    "caption": "a flag on a wooden surface",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        299,
+                        0,
+                        109,
+                        91
+                    ],
+                    "caption": "a close up of a flag",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": []
+        }
+    },
+    "1333": {
+        "mention": "host star",
+        "mention_context": "Artist's concept of an exoplanet being devoured by the host star.",
+        "Candentity": [
+            {
+                "name": "I_See_a_Star",
+                "desc": "\"I See a Star\" is the 1974 Dutch entry in the Eurovision Song Contest, a love duet performed by Mouth & MacNeal, which received 15 points and placed third in a field of 17."
+            },
+            {
+                "name": "Star_World",
+                "desc": "Star World is an English language entertainment television channel launched in 1991 by Star TV in Hong Kong, offering programming from the US, UK, Australia, and New Zealand to cater to English-speaking locals and expatriates in Asia."
+            },
+            {
+                "name": "Search_for_a_Star",
+                "desc": "Search for a Star is a Philippine television singing talent show that premiered on June 21, 2003, and concluded on March 13, 2004, with Rachelle Ann Go emerging as the winner."
+            },
+            {
+                "name": "Star_of_the_Family",
+                "desc": "Star of the Family is an American sitcom that aired on ABC from September 30 to December 9, 1982, featuring Brian Dennehy as a fire chief and his singer daughter, Jennie Lee Krebs, played by Katherine Saltzberg."
+            },
+            {
+                "name": "Star",
+                "desc": "A star is a luminous spheroid of plasma held together by its own gravity, consisting of a gaseous nebula of material primarily composed of hydrogen, helium, and heavier elements, which undergoes thermonuclear fusion and eventually becomes a stellar remnant or black hole."
+            },
+            {
+                "name": "Star_Star",
+                "desc": "\"Star Star\" is a raunchy song by The Rolling Stones, released on their 1973 album Goats Head Soup, originally titled \"Starfucker\" but changed due to record label insistence."
+            },
+            {
+                "name": "Star_of_Asia",
+                "desc": "The Star of Asia is a 330-carat cabochon-cut star sapphire, one of the largest of its type, originating from the Mogok mines of Burma and currently housed at the Smithsonian National Museum of Natural History."
+            },
+            {
+                "name": "Hypothetical_star",
+                "desc": "A hypothetical star is a star that is speculated to exist but has not been definitively observed, with various types having been conjectured to exist or exist in the future universe."
+            },
+            {
+                "name": "Star_world",
+                "desc": "Star_world is a mathematical concept used in robot navigation, referring to n-dimensional shapes that can be mapped to a sphere world of the same dimension, useful for modeling simple worlds, robots, and obstacles."
+            },
+            {
+                "name": "Sol_Star",
+                "desc": "Solomon Star, a German-American businessman and politician, was an early resident of the town of Deadwood, South Dakota."
+            }
+        ],
+        "mention_imgpath": "1b42a18e8e6ebb5dc02415395ae5357b.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a planet with a ring in the center",
+            "Dense Captions": "a planet with a ring in the center; a planet with a ring in the middle of it; a planet with a fire around it; a yellow and orange planet; a planet with flames in space",
+            "Tags": "astronomical object; planet; space; outer space; universe; astronomy; celestial event; moon; sphere",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        400
+                    ],
+                    "caption": "a planet with a ring in the center",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        60,
+                        0,
+                        427,
+                        391
+                    ],
+                    "caption": "a planet with a ring in the middle of it",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        51,
+                        231,
+                        143,
+                        120
+                    ],
+                    "caption": "a planet with a fire around it",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        223,
+                        0,
+                        269,
+                        269
+                    ],
+                    "caption": "a yellow and orange planet",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        39,
+                        156,
+                        204,
+                        233
+                    ],
+                    "caption": "a planet with flames in space",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": []
+        }
+    },
+    "391": {
+        "mention": "Scotland",
+        "mention_context": "Location of Argyll within the country of Scotland.",
+        "Candentity": [
+            {
+                "name": "Scotland_(European_Parliament_constituency)",
+                "desc": "Scotland was a European Parliament constituency that elected between 6 and 8 MEPs using proportional representation from 1999 to 2020, before being abolished following the UK's departure from the EU in 2020."
+            },
+            {
+                "name": "Scotland_(The_Goodies)",
+                "desc": "\"Scotland\" is an episode of the British comedy TV series The Goodies, also known as \"The Loch Ness Monster\", written by the show's creators and featuring music by Bill Oddie."
+            },
+            {
+                "name": "Scot_Land",
+                "desc": "Scotland is a country that is part of the United Kingdom, located in the northern third of the island of Great Britain, with its own government, culture, and distinct institutions, including a devolved parliament and separate legal system."
+            },
+            {
+                "name": "Communities_Scotland",
+                "desc": "Communities Scotland was an executive agency of the Scottish Government from 2001 to 2008, responsible for housing, homelessness, communities, and regeneration throughout Scotland."
+            },
+            {
+                "name": "Flora_and_fauna_of_Scotland",
+                "desc": "The Flora and Fauna of Scotland refers to the country's diverse natural environment, including its unique wildlife, plants, and landscapes, which are shaped by its geography and climate."
+            },
+            {
+                "name": "Northern_Scotland",
+                "desc": "Northern Scotland was an administrative division of Scotland used for police and fire services, comprising Highland, the Orkney Islands, the Shetland Islands, and the Western Isles."
+            },
+            {
+                "name": "Scotland",
+                "desc": "Scotland is a country that is part of the United Kingdom, covering the northern third of the island of Great Britain, with a land border with England and a diverse geography featuring mountains, islands, and a central plain."
+            },
+            {
+                "name": "Scottish_representatives_to_the_first_Parliament_of_Great_Britain",
+                "desc": "The Scottish representatives to the first Parliament of Great Britain, serving from 1707 to 1708, were 45 hand-picked members co-opted from the Commissioners of the newly adjourned Parliament of Scotland."
+            },
+            {
+                "name": "The_Scottish_Nation",
+                "desc": "The Scottish Nation is a mysterious entity with no provided description."
+            },
+            {
+                "name": "Scottish_nation",
+                "desc": "The Scottish nation refers to the country of Scotland, a sovereign state located in Northwestern Europe, known for its rich history, culture, and natural beauty."
+            }
+        ],
+        "mention_imgpath": "3094619f2e8fbd184d5054bff3338410.png",
+        "mention_imgdesc_Azure": {
+            "Caption": "a map of the united kingdom",
+            "Dense Captions": "a map of the united kingdom; a map of the united kingdom",
+            "Tags": "map",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        446,
+                        500
+                    ],
+                    "caption": "a map of the united kingdom",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        106,
+                        258,
+                        115,
+                        160
+                    ],
+                    "caption": "a map of the united kingdom",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": []
+        }
+    },
+    "1039": {
+        "mention": "Food Taipei",
+        "mention_context": "Taipei Pack and Foodtech Taipei mostly showcased CNCs different from Food Taipei.",
+        "Candentity": [
+            {
+                "name": "Food_Food_(TV_channel)",
+                "desc": "Food Food is an Indian food and lifestyle channel launched in 2011, a joint venture between Astro Overseas Limited and Indian chefs, offering high-definition cooking and food shows hosted by various renowned chefs."
+            },
+            {
+                "name": "Food_Basics",
+                "desc": "Food Basics is a Canadian super chain owned by Metro Inc."
+            },
+            {
+                "name": "Convenience_food",
+                "desc": "Convenience food, also known as tertiary processed food, is commercially prepared food that is ready to eat without further preparation, often with traits such as ease of portability, long shelf life, and minimal preparation requirements."
+            },
+            {
+                "name": "Food_for_the_Hungry",
+                "desc": "Food for the Hungry is a Christian international relief and development organization founded in 1971, aiming to graduate communities from extreme poverty within 15 years by empowering local leaders and providing humanitarian aid in over 20 countries."
+            },
+            {
+                "name": "Diet_food",
+                "desc": "Diet_food refers to food and beverages with altered recipes to reduce fat, carbohydrates, and sugar, intended for weight loss or body transformation."
+            },
+            {
+                "name": "TAITRONICS",
+                "desc": "TAITRONICS is a trade show held annually in October by Taiwan External Trade Development Council and Taiwan Electrical and Electronic Manufacturers' Association to promote Taiwan's electronic industry, featuring various electronic components, products, and applications."
+            },
+            {
+                "name": "Lifestyle_Food",
+                "desc": "Lifestyle Food is an Australian pay-TV food channel that airs 24/7 on Foxtel, dedicated to food, wine, and restaurant society."
+            },
+            {
+                "name": "Fresh_food",
+                "desc": "Fresh_food refers to food that has not been preserved and has not spoiled yet, including recently harvested and treated vegetables and fruits, recently slaughtered and butchered meat, recently caught or harvested fish, and dairy products that have not been dried, smoked, salted, frozen, canned, pickled, or otherwise preserved."
+            },
+            {
+                "name": "Specialty_food",
+                "desc": "A specialty food is a unique and high-value food item made in small quantities from high-quality ingredients, typically sold at a higher price due to its premium ingredients and labor."
+            },
+            {
+                "name": "Everyday_Food",
+                "desc": "Everyday Food is a cooking magazine and PBS television program that features quick and easy recipes targeted at everyday cooks and supermarket shoppers."
+            }
+        ],
+        "mention_imgpath": "b0816553ffa9224df995dfeb24bebe02.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a large room with a large display of machinery",
+            "Dense Captions": "a large room with a large display of machinery; a blue fabric on a blue surface; a stack of plastic cups; a large white machine with a paper sheet; a blue sign with yellow text; a machine on a red mat; a sign on a building",
+            "Tags": "building; indoor; ceiling; clothing; floor; people; person; blue; display; standing; event",
+            "OCR text": "SYSTEM; CURRENTK PIRUSING MACHINERY SYSTEM; CUTONATIC PACKAGING; MACHINERY SYSTEM",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        375
+                    ],
+                    "caption": "a large room with a large display of machinery",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        26,
+                        256,
+                        96,
+                        80
+                    ],
+                    "caption": "a blue fabric on a blue surface",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        114,
+                        263,
+                        86,
+                        91
+                    ],
+                    "caption": "a stack of plastic bottles",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        102,
+                        128,
+                        116,
+                        111
+                    ],
+                    "caption": "a blue sign with yellow text",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        185,
+                        201,
+                        116,
+                        152
+                    ],
+                    "caption": "a large white machine with a paper sheet",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        225,
+                        488,
+                        143
+                    ],
+                    "caption": "a person sitting on a red mat",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        41,
+                        59,
+                        345,
+                        99
+                    ],
+                    "caption": "a sign on a building",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "room",
+                    "bounding_box": [
+                        7,
+                        36,
+                        405,
+                        326
+                    ],
+                    "confidence": 0.557
+                }
+            ]
+        }
+    },
+    "872": {
+        "mention": "Cadillac",
+        "mention_context": "President George W. Bush's Presidential State Car, a Cadillac limousine outside the Washington Hilton Hotel.",
+        "Candentity": [
+            {
+                "name": "The_Cadillac_(Seinfeld)",
+                "desc": "\"The Cadillac\" is a two-part episode of Seinfeld's seventh season where Jerry's gift of a Cadillac to his parents causes chaos, Elaine develops gold-digger tendencies, Kramer takes revenge on his cable company, and George becomes obsessed with dating Academy Award-winning actress Marisa Tomei."
+            },
+            {
+                "name": "Square_Deal:_The_Game_of_Two_Dimensional_Poker",
+                "desc": "Square Deal."
+            },
+            {
+                "name": "The_Cadillac_(Part_2)",
+                "desc": "\"The Cadillac\" is a two-part episode of Seinfeld's seventh season, where Jerry's gift of a Cadillac to his parents causes trouble, Elaine becomes attracted to a gold digger, Kramer takes revenge on his cable company, and George becomes obsessed with dating Academy Award-winning actress Marisa Tomei."
+            },
+            {
+                "name": "Cadillac_CT4",
+                "desc": "The Cadillac CT4 is a compact executive sedan manufactured by Cadillac, replacing the ATS and sitting below the CT5 in the brand's lineup."
+            },
+            {
+                "name": "Trebbiano",
+                "desc": "Trebbiano is an Italian wine grape variety that is widely planted globally, producing good yields but undistinguished wine, with high acidity making it important in Cognac and Armagnac productions."
+            },
+            {
+                "name": "Cadillac",
+                "desc": "Cadillac is a luxury vehicle division of General Motors that designs and builds high-end cars, with a history dating back to 1909 and a reputation for innovation and technological advancements."
+            },
+            {
+                "name": "Presidential_state_car_(United_States)",
+                "desc": "The United States presidential state car is the official vehicle of the President of the United States, a unique Cadillac model that debuted in 2018, designed to meet Secret Service standards and provide enhanced security features."
+            },
+            {
+                "name": "The_Cadillac_(Part_1)",
+                "desc": "\"The Cadillac\" is a two-part episode of Seinfeld's seventh season, where Jerry's gift of a Cadillac to his parents causes chaos, Elaine becomes a gold digger, Kramer takes revenge on his cable company, and George becomes obsessed with dating Marisa Tomei."
+            },
+            {
+                "name": "Bo_Diddley_Is_a_Gunslinger",
+                "desc": "Bo Diddley Is a Gunslinger is the fifth studio album by American rock and roll pioneer Bo Diddley, released in December 1960, featuring songs recorded from October 1959 to February 1960, including the title track and notable tracks like \"Sixteen Tons\" and \"Diddling\"."
+            },
+            {
+                "name": "Cadillac_station",
+                "desc": "Cadillac station is a Montreal Metro station in the borough of Mercier–Hochelaga-Maisonneuve, operated by the Société de transport de Montréal and serving the Green Line since its opening on June 6, 1976."
+            }
+        ],
+        "mention_imgpath": "c24b996b46374ca414549fdb9963b444.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "long shot of a limousine",
+            "Dense Captions": "long shot of a limousine; a man standing next to a car; a car with flags in water; a close up of a tire; a white wall with a white object on it; a sidewalk next to a car",
+            "Tags": "land vehicle; vehicle; wheel; transport; outdoor; tire; car; limousine; grille; station wagon; parked",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        332
+                    ],
+                    "caption": "long shot of a limousine",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        1,
+                        79,
+                        470,
+                        202
+                    ],
+                    "caption": "a man standing next to a car",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        76,
+                        228,
+                        111
+                    ],
+                    "caption": "a car with flags in water",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        170,
+                        193,
+                        69,
+                        95
+                    ],
+                    "caption": "a close up of a tire",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        363,
+                        0,
+                        135,
+                        78
+                    ],
+                    "caption": "a white wall with a white object on it",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        316,
+                        197,
+                        179,
+                        131
+                    ],
+                    "caption": "a sidewalk next to a car",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "car",
+                    "bounding_box": [
+                        0,
+                        81,
+                        228,
+                        109
+                    ],
+                    "confidence": 0.811
+                },
+                {
+                    "object_name": "car",
+                    "bounding_box": [
+                        93,
+                        87,
+                        359,
+                        202
+                    ],
+                    "confidence": 0.821
+                }
+            ]
+        }
+    },
+    "1330": {
+        "mention": "Taiwan Design Gallery",
+        "mention_context": "Taiwan Design Gallery, designed to promote excellent \"Made In Taiwan\" products.",
+        "Candentity": [
+            {
+                "name": "National_Taiwan_Museum_of_Fine_Arts",
+                "desc": "The National Taiwan Museum of Fine Arts is a national-grade fine arts museum in Taichung, Taiwan, established in 1988, featuring works by Taiwanese artists and covering modern and contemporary Taiwanese arts."
+            },
+            {
+                "name": "Culture_of_Taiwan",
+                "desc": "The culture of Taiwan is a unique blend of Confucian Chinese and indigenous Taiwanese cultures, with influences from Japan, and is shaped by its complex political history and ongoing debates about identity and multiculturalism."
+            },
+            {
+                "name": "National_Museum_of_Taiwan_History",
+                "desc": "The National Museum of Taiwan History is a museum in Tainan, Taiwan, that covers the history of the island nation and its associated islands."
+            },
+            {
+                "name": "White_City_Place",
+                "desc": "White City Place is a collection of six buildings in West London, formerly known as BBC Media Village, which was sold by the BBC in 2015 and renamed by its new owners Stanhope and Mitsui Fudosan."
+            },
+            {
+                "name": "Taipei_Fine_Arts_Museum",
+                "desc": "The Taipei Fine Arts Museum is a museum in Taipei, Taiwan, built in 1983, and is the country's first museum dedicated to contemporary art exhibitions, featuring a unique architecture inspired by the Japanese Metabolist Movement."
+            },
+            {
+                "name": "Museum_of_Contemporary_Art_Taipei",
+                "desc": "The Museum of Contemporary Art Taipei is a museum located in Datong District, Taipei, Taiwan, dedicated to showcasing contemporary art."
+            },
+            {
+                "name": "Architecture_of_Taiwan",
+                "desc": "The architecture of Taiwan has evolved over time, influenced by various cultures and styles, including indigenous stilt housing, Dutch and Spanish colonialism, Chinese and Western architectural traditions, and modern influences, resulting in a diverse and eclectic mix of styles."
+            },
+            {
+                "name": "Taipei_Language_Institute",
+                "desc": "The Taipei Language Institute was founded in 1956 by missionaries to provide training in Mandarin Chinese and Taiwanese for Taiwan-bound missionaries."
+            },
+            {
+                "name": "National_Taiwan_Museum",
+                "desc": "The National Taiwan Museum, established in 1908, is the oldest museum in Taiwan, located in Zhongzheng District, Taipei, and was founded by the colonial government during Taiwan's period of Japanese rule."
+            },
+            {
+                "name": "National_Museum_of_Taiwan_Literature",
+                "desc": "The National Museum of Taiwan Literature is a museum in Tainan, Taiwan, dedicated to researching, preserving, and exhibiting literary artifacts in Taiwanese, Japanese, Mandarin, and Classical Chinese languages."
+            }
+        ],
+        "mention_imgpath": "dd6caacb0d6f5714fdd12c485e95673f.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "people standing in front of a glass door",
+            "Dense Captions": "people standing in front of a glass door; a person in a black suit; people standing in front of a glass door; people standing in front of a glass door; a man and woman standing in a room",
+            "Tags": "clothing; man; footwear; indoor; lobby; display window; person; people; standing; store; floor; shop",
+            "OCR text": "TAITRA; Ta wan Design Gallery; Taiwan Design Gallery",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        375
+                    ],
+                    "caption": "people standing in front of a glass door",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        104,
+                        176,
+                        74,
+                        181
+                    ],
+                    "caption": "a person in a black suit",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        1,
+                        0,
+                        490,
+                        362
+                    ],
+                    "caption": "people standing in front of a glass door",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        70,
+                        127,
+                        354,
+                        243
+                    ],
+                    "caption": "people standing in front of a glass door",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        263,
+                        187,
+                        73,
+                        107
+                    ],
+                    "caption": "a man and woman standing in a room",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        228,
+                        186,
+                        24,
+                        109
+                    ],
+                    "confidence": 0.525
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        277,
+                        193,
+                        27,
+                        106
+                    ],
+                    "confidence": 0.704
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        315,
+                        195,
+                        23,
+                        92
+                    ],
+                    "confidence": 0.641
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        116,
+                        176,
+                        66,
+                        190
+                    ],
+                    "confidence": 0.848
+                },
+                {
+                    "object_name": "room",
+                    "bounding_box": [
+                        72,
+                        0,
+                        427,
+                        362
+                    ],
+                    "confidence": 0.718
+                }
+            ]
+        }
+    },
+    "839": {
+        "mention": "Monteverde",
+        "mention_context": "EXTINCT: The Golden Toad of Monteverde, Costa Rica was among the first casualties of amphibian declines. Formerly abundant, it was last seen in 1989.",
+        "Candentity": [
+            {
+                "name": "Santa_Elena,_Costa_Rica",
+                "desc": "Santa Elena is the head town of Monteverde, a canton in Costa Rica's Puntarenas province, known for its ecotourism attractions, including the Monteverde Cloud Forest Reserve, which is considered one of the world's most valuable cloud forests."
+            },
+            {
+                "name": "Monteverde_Cloud_Forest_Reserve",
+                "desc": "The Monteverde Cloud Forest Reserve is a 10,500-hectare Costa Rican reserve founded in 1972, featuring six ecological zones, 90% virgin forest, and an exceptionally high biodiversity of over 2,500 plant species, 100 mammals, 400 birds, and thousands of insects."
+            },
+            {
+                "name": "Monteverde,_Costa_Rica",
+                "desc": "Monteverde is the twelfth canton of Costa Rica's Puntarenas province, located in the Cordillera de Tilarán mountain range, known for its ecotourism destinations, including the Monteverde Cloud Forest Reserve, and considered one of the country's natural wonders."
+            },
+            {
+                "name": "Monteverde_(Rome)",
+                "desc": "Monteverde is an urban zone in Rome, Italy, located outside the Aurelian walls and named after a hill within the area, meaning \"green mountain\"."
+            },
+            {
+                "name": "Endangered_Species_Act_of_1969",
+                "desc": "The Endangered Species Conservation Act of 1969 expanded the Endangered Species Preservation Act of 1966 by listing threatened species, prohibiting importation, and allowing limited exceptions for scientific, educational, and commercial purposes."
+            },
+            {
+                "name": "Monteverde_Cloud_Forest_Preserve",
+                "desc": "Monteverde Cloud Forest Preserve is a canton in Costa Rica's Puntarenas province, home to the renowned Monteverde Cloud Forest Reserve and a major ecotourism destination, known for its unique cloud forests and natural attractions."
+            },
+            {
+                "name": "Monteverde",
+                "desc": "Monteverde is the 12th canton of Costa Rica's Puntarenas province, located in the Cordillera de Tilarán mountain range and known for its ecotourism attractions, including the Monteverde Cloud Forest Reserve."
+            },
+            {
+                "name": "Monteverde,_Lazio",
+                "desc": "Monteverde is an urban zone in Rome, Italy, located outside the Aurelian walls and named after a hill within the zone, meaning \"green mountain\"."
+            },
+            {
+                "name": "Monteverde_(AV)",
+                "desc": "Monteverde (AV) is a comune in the province of Avellino in Southern Italy."
+            },
+            {
+                "name": "Monte_Verde_District",
+                "desc": "The Monte Verde District is a canton in Costa Rica's Puntarenas province, known for its ecotourism destinations, including the Monteverde Cloud Forest Reserve, and has been recognized as one of the Seven Natural Wonders of Costa Rica."
+            }
+        ],
+        "mention_imgpath": "87bffa8cf401b6b414f62c267857c55b.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a close-up of a frog on a leaf",
+            "Dense Captions": "a close-up of a frog on a leaf; a close-up of a frog; a close-up of a frog on a leaf; a close up of a green leaf",
+            "Tags": "animal; frog; amphibian; true frog; toad; orange",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        333
+                    ],
+                    "caption": "a close-up of a frog on a leaf",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        149,
+                        85,
+                        308,
+                        243
+                    ],
+                    "caption": "a close-up of a frog",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        491,
+                        328
+                    ],
+                    "caption": "a close-up of a frog on a leaf",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        8,
+                        65,
+                        139,
+                        262
+                    ],
+                    "caption": "a close up of a green leaf",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "animal",
+                    "bounding_box": [
+                        156,
+                        103,
+                        298,
+                        226
+                    ],
+                    "confidence": 0.857
+                }
+            ]
+        }
+    }
+}

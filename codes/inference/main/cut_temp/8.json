@@ -1,0 +1,1338 @@
+{
+    "602": {
+        "mention": "Justin Bieber",
+        "mention_context": "Justin Bieber was due to appear on the same episode of the show",
+        "Candentity": [
+            {
+                "name": "Believe_Tour",
+                "desc": "The Believe Tour was a concert tour by Canadian pop star Justin Bieber, launched in support of his third studio album Believe, which played over 150 shows across the globe and earned $40."
+            },
+            {
+                "name": "@Bieber",
+                "desc": "Justin Bieber is a Canadian singer who rose to fame as a teen idol, known for his genre-melding music and global influence, and has since become one of the best-selling music artists of all time, with numerous accolades and records under his belt."
+            },
+            {
+                "name": "Justin_Bieber_discography",
+                "desc": "Justin Bieber is a Canadian singer-songwriter who has released six studio albums, including My World, My World 2."
+            },
+            {
+                "name": "Justin_Bieber_videography",
+                "desc": "Justin Bieber videography refers to the music videos, films, and television appearances of the Canadian singer and songwriter, featuring over 30 music videos, two films, and several TV series, showcasing his growth and evolution as an artist."
+            },
+            {
+                "name": "Baby_(Justin_Bieber_song)",
+                "desc": "\"Baby\" is a song by Justin Bieber, featuring Ludacris, released as the lead single from his debut album My World 2."
+            },
+            {
+                "name": "Justin_Bieber",
+                "desc": "Justin Drew Bieber is a Canadian singer, songwriter, and multi-instrumentalist who has released several successful albums, singles, and collaborations, and has won numerous awards, including two Grammy Awards, and is one of the world's best-selling music artists."
+            },
+            {
+                "name": "Kitty_(rapper)",
+                "desc": "Kitty, a multi-talented American artist, is a singer, songwriter, producer, visual artist, and record label owner from Florida, known for her versatile discography spanning genres from alternative hip-hop to avant synth-pop and her collaborations with other artists."
+            },
+            {
+                "name": "Justin_Bieber:_Seasons",
+                "desc": "Justin Bieber."
+            },
+            {
+                "name": "Bieber,_Justin",
+                "desc": "Justin Bieber is a Canadian singer recognized for his genre-melding musicianship and global influence in modern-day popular music, with a career spanning over a decade and numerous accolades, including multiple Grammy Awards and Guinness World Records."
+            },
+            {
+                "name": "Justin_Bieber:_Never_Say_Never",
+                "desc": "Justin Bieber."
+            }
+        ],
+        "mention_imgpath": "587cb2d2c7a23cf56b61f4348a125759.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a boy wearing a purple sweater and holding up two fingers",
+            "Dense Captions": "a boy wearing a purple sweater and holding up two fingers; a boy wearing a purple sweater and smiling; a close up of a watch; a black surface with a white border; a close up of a boy",
+            "Tags": "person; clothing; human face; wall; indoor; smile; watch; wrist; finger; thumb; remote; holding; woman; blue; young; controller; electronic; shirt; device",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        422,
+                        500
+                    ],
+                    "caption": "a boy wearing a purple sweater and holding up two fingers",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        25,
+                        1,
+                        373,
+                        488
+                    ],
+                    "caption": "a boy wearing a purple sweater and smiling",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        170,
+                        345,
+                        51,
+                        66
+                    ],
+                    "caption": "a close up of a watch",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        368,
+                        78,
+                        53,
+                        296
+                    ],
+                    "caption": "a black surface with a white border",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        84,
+                        4,
+                        168,
+                        199
+                    ],
+                    "caption": "a close up of a boy",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        52,
+                        7,
+                        325,
+                        354
+                    ],
+                    "confidence": 0.756
+                }
+            ]
+        }
+    },
+    "1150": {
+        "mention": "Punta Tombo",
+        "mention_context": "A mated pair of Magellanic penguins on Punta Tombo, showing the visual similarity between male and female birds.",
+        "Candentity": [
+            {
+                "name": "Puca_Punta_(mountain)",
+                "desc": "Puca Punta is a 5,600-meter-high mountain located in the Vilcanota mountain range in the Andes of Peru, specifically in the Cusco Region's Canchis Province and Quispicanchi Province."
+            },
+            {
+                "name": "Chocorua_Island_Chapel",
+                "desc": "The Chocorua Island Chapel is a non-denominational, open-air chapel located on an island in Squam Lake, New Hampshire, built by young campers as an extension of Camp Chocorua using natural materials such as boulders, trees, and vegetation."
+            },
+            {
+                "name": "Tombo_Island",
+                "desc": "Tombo Island is a small island in the Atlantic Ocean, located at the tip of the Guinean Kaloum Peninsula, which served as the site for the old city of Conakry and was placed under French protectorate in 1880."
+            },
+            {
+                "name": "Tombo_(Registry)",
+                "desc": "The Tombo is a land registry compiled by the Portuguese in 1615 to record property ownership and tax obligations in Portuguese Ceylon, still used today to settle land disputes."
+            },
+            {
+                "name": "Ipi_Tombi",
+                "desc": "Ipi Tombi is a 1974 South African musical by Bertha Egnos Godfrey and Gail Lakier, telling the story of a young black man leaving his village and wife to work in Johannesburg's mines, featuring pastiches of indigenous musical styles."
+            },
+            {
+                "name": "Punta_Tombo",
+                "desc": "Punta Tombo is a peninsula in Argentina's Chubut Province, home to the largest colony of Magellanic penguins in the country, located 110 km south of Trelew."
+            },
+            {
+                "name": "Alma_(Crimea)",
+                "desc": "The Alma is a small river in Crimea that flows from the Crimean Mountains to the Black Sea, with its mouth located south of Pishchane."
+            },
+            {
+                "name": "Tombos",
+                "desc": "Tombos is a municipality in southeast Minas Gerais state, Brazil, located in the Zona da Mata region with a population of approximately 7,850 inhabitants as of 2020."
+            },
+            {
+                "name": "Tombo_Ati",
+                "desc": "Tombo Ati is a traditional Javanese song composed by Sunan Bonang, a Wali Sanga, that promotes spiritual peace and tranquility through various Islamic practices."
+            },
+            {
+                "name": "Tômbua",
+                "desc": "Tômbua is a city and municipality in Angola's Namibe Province, located on the shore of Porto Alexandre harbor, with a population of 46,573 in 2014."
+            }
+        ],
+        "mention_imgpath": "c155db17c367906537b9fe69c023a8ca.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "two penguins in the grass",
+            "Dense Captions": "two penguins in the grass; two penguins in a field; a close-up of a plant; a close up of grass and plants; a blurry image of a field of grass; a couple of penguins in a grassy area; a group of animals in a field",
+            "Tags": "outdoor; grass; plant; dog; field; animal",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        375
+                    ],
+                    "caption": "two penguins in the grass",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        257,
+                        129,
+                        216,
+                        163
+                    ],
+                    "caption": "two penguins in a field",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        3,
+                        123,
+                        228,
+                        248
+                    ],
+                    "caption": "a close-up of a plant",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        220,
+                        252,
+                        211,
+                        120
+                    ],
+                    "caption": "a close up of grass and plants",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        50,
+                        0,
+                        433,
+                        75
+                    ],
+                    "caption": "a blurry image of a field of grass",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        488,
+                        364
+                    ],
+                    "caption": "a couple of penguins in a grassy area",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        259,
+                        134,
+                        126,
+                        125
+                    ],
+                    "caption": "a group of animals in a field",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "Magpie",
+                    "bounding_box": [
+                        261,
+                        134,
+                        223,
+                        140
+                    ],
+                    "confidence": 0.551
+                }
+            ]
+        }
+    },
+    "31": {
+        "mention": "swans",
+        "mention_context": "A photograph of swans in a lake in Rouen.",
+        "Candentity": [
+            {
+                "name": "Black_swan",
+                "desc": "The Black Swan is a large waterbird native to southeastern and southwestern Australia, characterized by its mostly black plumage and red bill, and is known for its erratic migration patterns and ability to form stable populations outside its natural range."
+            },
+            {
+                "name": "Black-necked_swan",
+                "desc": "The Black-necked Swan is the largest waterfowl native to South America, a swan species that inhabits the continent."
+            },
+            {
+                "name": "Swans_(band)",
+                "desc": "Swans is an American experimental rock band formed in 1982 by Michael Gira, known for their ever-changing sound that explores genres such as noise rock, post-punk, industrial, and post-rock, and has undergone several lineup changes and iterations over the years."
+            },
+            {
+                "name": "Swans_Are_Dead",
+                "desc": "Swans Are Dead is the fifth live album by American experimental rock band Swans, recorded during their final tours in 1995 and 1997, featuring a varied setlist with songs from different eras of the band's discography."
+            },
+            {
+                "name": "Swans_(eyewear)",
+                "desc": "Swans is a Japanese eyewear manufacturer founded in 1911, producing a range of optical lenses, sunglasses, goggles, and safety glasses, with a focus on sports eyewear and helmets."
+            },
+            {
+                "name": "Mute_swan",
+                "desc": "The Mute Swan is a large, white waterfowl species native to Eurosiberia and Africa, introduced to North America, Australasia, and southern Africa, characterized by its distinctive orange beak and knob, and known for being less vocal than other swan species."
+            },
+            {
+                "name": "Swan",
+                "desc": "A swan is a type of bird belonging to the Anatidae family and Cygnus genus, characterized by its distinctive appearance and social behavior, including lifelong mating and nesting habits."
+            },
+            {
+                "name": "Sydney_Swans",
+                "desc": "The Sydney Swans is a professional Australian rules football club that plays in the Australian Football League, founded in 1874 as the South Melbourne Football Club and relocated to Sydney in 1982, having won premierships in 2005 and 2012 and boasting a strong record of consistency and support among fans."
+            },
+            {
+                "name": "Swans_(EP)",
+                "desc": "Swans is the debut EP by experimental rock band Swans, released in 1982 on Labor, marking the band's first project."
+            },
+            {
+                "name": "Manor_House_Gardens",
+                "desc": "Manor House Gardens is a 3."
+            }
+        ],
+        "mention_imgpath": "50aa0685f80bea1b5de275d454308d38.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a group of swans swimming in a pond with snow covered trees",
+            "Dense Captions": "a group of swans swimming in a pond; a close-up of a body of water; a group of swans in a lake; a group of white swans swimming in water",
+            "Tags": "outdoor; tree; water; plant; snow; winter; nature; rock; bird",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        375
+                    ],
+                    "caption": "a group of swans swimming in a pond",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        101,
+                        257,
+                        170,
+                        114
+                    ],
+                    "caption": "a close-up of a body of water",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        212,
+                        487,
+                        156
+                    ],
+                    "caption": "a group of swans in a lake",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        238,
+                        227,
+                        89,
+                        67
+                    ],
+                    "caption": "a group of white swans swimming in water",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": []
+        }
+    },
+    "1175": {
+        "mention": "Blythe",
+        "mention_context": "Blythe on-stage in 2009, the year ahead of the incident in Prague.",
+        "Candentity": [
+            {
+                "name": "Peter_Blythe",
+                "desc": "Peter Blythe was a renowned English character actor, most notably recognized for his role as Samuel \"Soapy Sam\" Ballard in the TV series Rumpole of the Bailey."
+            },
+            {
+                "name": "Blythe_(doll)",
+                "desc": "Blythe is a 28 cm tall fashion doll with oversized head and changeable eye color, originally created in 1972 by Kenner and later revived by Takara in 2001, with a dedicated community of hobbyists who customize and create content for the doll."
+            },
+            {
+                "name": "Blythe,_California",
+                "desc": "Blythe, California is a city in eastern Riverside County, situated in the Palo Verde Valley of the Lower Colorado River Valley region, named after Thomas Henry Blythe and incorporated in 1916."
+            },
+            {
+                "name": "James_Blyth,_1st_Baron_Blyth",
+                "desc": "James Blyth, 1st Baron Blyth, was a British businessman, wine connoisseur, and liberal party supporter who served as a Director of a wine mercantile firm, was a Justice of the Peace, and held various honors and titles."
+            },
+            {
+                "name": "The_Casualties",
+                "desc": "The Casualties is an American street punk band from New York City, founded in 1990 by Jorge Herrera and others, known for their energetic live performances and contributions to the punk rock scene."
+            },
+            {
+                "name": "Baron_Blyth_of_Rowington",
+                "desc": "James Blyth, Baron Blyth of Rowington, is a British businessman born on 8 May 1940."
+            },
+            {
+                "name": "Blythe_Bridge",
+                "desc": "Blythe Bridge is a village in Staffordshire, England, located south-east of Stoke-on-Trent."
+            },
+            {
+                "name": "Blythe_(CA)",
+                "desc": "Blythe is a city in eastern Riverside County, California, located in the Palo Verde Valley of the Lower Colorado River Valley region, with a population of 18,317 as of 2020."
+            },
+            {
+                "name": "Colin_Blythe",
+                "desc": "Colin Blythe, also known as Charlie Blythe, was a renowned English first-class cricketer who played for Kent and England, known for his exceptional slow left-arm orthodox bowling and batting skills, and tragically died in World War I."
+            },
+            {
+                "name": "Blythe,_Georgia",
+                "desc": "Blythe, Georgia is a city in Richmond County, Georgia, with a population of 721 as of 2010, and is part of the Augusta metropolitan area."
+            }
+        ],
+        "mention_imgpath": "c548e2d07c74314b2238ce691debf3ea.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a man singing into a microphone",
+            "Dense Captions": "a man singing into a microphone; a man singing into a microphone; a close up of a black shirt with a white skeleton on it",
+            "Tags": "concert; person; human face; clothing; flesh; music",
+            "OCR text": "LIVI; TGENAY",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        331,
+                        500
+                    ],
+                    "caption": "a man singing into a microphone",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        7,
+                        322,
+                        483
+                    ],
+                    "caption": "a man singing into a microphone",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        187,
+                        294,
+                        140,
+                        201
+                    ],
+                    "caption": "a close up of a black shirt with a white skeleton on it",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": []
+        }
+    },
+    "1499": {
+        "mention": "Romanenko",
+        "mention_context": "Crew of the Soyuz TMA-15 From left to right; Thirsk, Romanenko and De Winne",
+        "Candentity": [
+            {
+                "name": "Ulyana_Sergeenko",
+                "desc": "Ulyana Viktorovna Sergeenko is a Kazakh and Russian fashion designer born on August 30, 1979."
+            },
+            {
+                "name": "Roman_Romanenko",
+                "desc": "Roman Romanenko is a retired cosmonaut at the Yuri Gagarin Cosmonaut Training Center."
+            },
+            {
+                "name": "Averchenko",
+                "desc": "Averchenko is a gender-neutral Slavic surname shared by notable individuals, including Russian playwright and satirist Arkady Averchenko (1881–1925) and Kazakh footballer Evgeniy Averchenko (born 1982)."
+            },
+            {
+                "name": "Romanenko",
+                "desc": "Romanenko is a Ukrainian surname derived from the first name Roman, and it refers to various notable individuals, including cosmonauts, football players, generals, and fictional characters."
+            },
+            {
+                "name": "Adamenko",
+                "desc": "Adamenko is a Ukrainian language last name derived from the given name Adam, shared by several notable individuals including football players, a World War II hero, and a scientist."
+            },
+            {
+                "name": "Crew",
+                "desc": "A crew is a group of people working together in a structured organization, often with a chain of command, and can refer to a ship's crew, a rowing team, or other similar groups."
+            },
+            {
+                "name": "Ivanenko",
+                "desc": "Ivanenko is a Ukrainian surname that refers to several notable individuals, including physicists, writers, sport shooters, television producers, race walkers, and footballers."
+            },
+            {
+                "name": "Yakov_Cherevichenko",
+                "desc": "Yakov Cherevichenko was a Soviet military leader."
+            },
+            {
+                "name": "Glinienko",
+                "desc": "Glinienko is a former village in west-central Poland, located approximately 6 km northeast of Suchy Las and 13 km north of Poznań, now within the area of a military training ground."
+            },
+            {
+                "name": "2349_Kurchenko",
+                "desc": "2349 Kurchenko is a 24-kilometer-diameter asteroid in the asteroid belt, discovered in 1970 by Tamara Smirnova, named after Soviet flight attendant Nadezhda Kurchenko who was killed in a hijacking."
+            }
+        ],
+        "mention_imgpath": "fcabf6f35b996f7b8d02d05aa754e296.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a group of men wearing space suits",
+            "Dense Captions": "a group of men wearing space suits; a man in a space suit; a man in a space suit; a couple of astronauts sitting in a chair; a person in a space suit; a person using a vacuum cleaner; a person wearing a white suit; a person wearing white pants; a group of astronauts sitting together",
+            "Tags": "pressure suit; person; clothing; human face; astronaut; indoor; wall; posing; protective garment",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        333
+                    ],
+                    "caption": "a group of men wearing space suits",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        173,
+                        43,
+                        165,
+                        282
+                    ],
+                    "caption": "a man in a space suit",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        274,
+                        44,
+                        204,
+                        282
+                    ],
+                    "caption": "a man in a space suit",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        21,
+                        41,
+                        264,
+                        284
+                    ],
+                    "caption": "a couple of astronauts sitting in a chair",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        59,
+                        102,
+                        106,
+                        170
+                    ],
+                    "caption": "a person in a space suit",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        124,
+                        190,
+                        81,
+                        139
+                    ],
+                    "caption": "a person using a vacuum cleaner",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        327,
+                        157,
+                        112,
+                        172
+                    ],
+                    "caption": "a person wearing a white suit",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        28,
+                        210,
+                        142,
+                        118
+                    ],
+                    "caption": "a person wearing white pants",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        6,
+                        7,
+                        481,
+                        237
+                    ],
+                    "caption": "a group of astronauts sitting together",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        30,
+                        45,
+                        212,
+                        283
+                    ],
+                    "confidence": 0.883
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        181,
+                        51,
+                        158,
+                        277
+                    ],
+                    "confidence": 0.859
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        309,
+                        51,
+                        158,
+                        277
+                    ],
+                    "confidence": 0.771
+                }
+            ]
+        }
+    },
+    "1101": {
+        "mention": "St. Louis",
+        "mention_context": "The Gateway Arch in St. Louis, Missouri.",
+        "Candentity": [
+            {
+                "name": "Louis_St._Louis",
+                "desc": "Louis St."
+            },
+            {
+                "name": "St._Louis,_Missouri",
+                "desc": "St."
+            },
+            {
+                "name": "Saint_Louis,_Missouri",
+                "desc": "St."
+            },
+            {
+                "name": "Saint_Louis_Athletica",
+                "desc": "Saint Louis Athletica was a professional women's soccer team based in Fenton, Missouri, that played in the Women's Professional Soccer league from 2009 to 2010 before folding due to financial issues."
+            },
+            {
+                "name": "St._Louis",
+                "desc": "St."
+            },
+            {
+                "name": "St._Louis_(MO)",
+                "desc": "St."
+            },
+            {
+                "name": "Lambic",
+                "desc": "Lambic is a type of beer brewed in Belgium since the 13th century, characterized by its fermentation process using wild yeasts and bacteria, resulting in a distinctive dry, vinous, and cidery flavor."
+            },
+            {
+                "name": "St._Louis_(Easybeats_song)",
+                "desc": "\"St."
+            },
+            {
+                "name": "St._Louis_(NA)",
+                "desc": "The St."
+            },
+            {
+                "name": "Gateway_Arch",
+                "desc": "The Gateway Arch is a 630-foot stainless steel monument in St."
+            }
+        ],
+        "mention_imgpath": "b9a00f93bfae8f6d197bfe6746b56a97.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a large arch in the middle of Gateway Arch",
+            "Dense Captions": "a large arch in the middle of a city; a large arch in the city; a group of buildings in a city; a large arch in the city; a group of buildings in a city; a tall building in a city; a tall building in the background",
+            "Tags": "outdoor; building; arch; sky; water; river; bridge; skyscraper; city; metropolitan area; tower block; lake; tied-arch bridge; skyline",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        388
+                    ],
+                    "caption": "a large arch in the middle of a city",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        98,
+                        42,
+                        296,
+                        280
+                    ],
+                    "caption": "a large arch in the city",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        165,
+                        246,
+                        66,
+                        72
+                    ],
+                    "caption": "a group of buildings in a city",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        489,
+                        297
+                    ],
+                    "caption": "a large arch in the city",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        74,
+                        248,
+                        186,
+                        73
+                    ],
+                    "caption": "a group of buildings in a city",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        328,
+                        183,
+                        153,
+                        139
+                    ],
+                    "caption": "a tall building in a city",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        399,
+                        187,
+                        63,
+                        125
+                    ],
+                    "caption": "a tall building in the background",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": []
+        }
+    },
+    "1071": {
+        "mention": "Haramachi-ku",
+        "mention_context": "Devastation in Haramachi-ku, Minamisōma, following the Fukushima accident.",
+        "Candentity": [
+            {
+                "name": "Kabe_Station_(Hiroshima)",
+                "desc": "Kabe Station is a railway station on the Kabe Line in Hiroshima, Japan, operated by West Japan Railway Company, and served as the terminal station of the Kabe Line from 2003 to 2017."
+            },
+            {
+                "name": "Komagata_Maru_incident",
+                "desc": "The Komagata Maru incident was a 1914 event in which a group of 376 passengers from British India, mostly Sikhs, attempted to immigrate to Canada but were denied entry and forced to return to India after 352 of them were refused disembarkation."
+            },
+            {
+                "name": "Shibuya_incident",
+                "desc": "The Shibuya incident was a violent confrontation in June 1946 between rival gangs, including former Japanese citizens from Taiwan and native Japanese Yakuza gangs, over control of black markets in post-war Tokyo, Japan."
+            },
+            {
+                "name": "Battle_of_Hitotoribashi",
+                "desc": "The Battle of Hitotoribashi was a 1586 battle in Japan during the Azuchi-Momoyama period, where Date Masamune launched a revenge attack against the Nihonmatsu clan and their allies after his father's death."
+            },
+            {
+                "name": "Kochira_Katsushika-ku_Kameari_Kōen-mae_Hashutsujo",
+                "desc": "Kochira Katsushika-ku Kameari Kōen-mae Hashutsujo, also known as KochiKame, is a Japanese comedy manga series written and illustrated by Osamu Akimoto, following the misadventures of a middle-aged cop at a Tokyo police station, which was serialized for 40 years and has been adapted into various forms of media."
+            },
+            {
+                "name": "Bombing_of_Kure",
+                "desc": "The Japanese city of Kure, Hiroshima was repeatedly attacked by Allied aircraft during World War II, targeting its naval base, ships, industrial facilities, and urban area, with multiple raids occurring from March to July 1945."
+            },
+            {
+                "name": "Dorset_culture",
+                "desc": "The Dorset culture was a Paleo-Eskimo culture that existed in the Arctic of North America from 500 BC to 1000-1500 AD, characterized by distinctive triangular end-blades, soapstone lamps, and burins, and was eventually replaced by the Thule people."
+            },
+            {
+                "name": "Assault_of_Maho_Yamaguchi",
+                "desc": "The Assault of Maho Yamaguchi refers to the December 2018 incident in which Maho Yamaguchi, a member of the Japanese idol group NGT48, was assaulted by two male fans and later faced pressure to apologize and withdrew from the group due to the group's management's handling of the incident."
+            },
+            {
+                "name": "Kurobe_Gorge",
+                "desc": "Kurobe Gorge is a canyon in Toyama Prefecture, Japan, featuring the Kurobe Dam and designated as a part of the Chūbu-Sangaku National Park."
+            },
+            {
+                "name": "Kurashiki-shi_Station",
+                "desc": "Kurashiki-shi Station is a train station in Kurashiki, Okayama Prefecture, Japan, operated by Mizushima Rinkai Railway and serving as the only staffed station on the Mizushima Main Line."
+            }
+        ],
+        "mention_imgpath": "74b2460fb2b96606a77e8955201c75ad.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a dirty area with debris and a red building",
+            "Dense Captions": "a dirty area with debris and a red building; a blue sky with clouds; a pile of debris in a landfill; a blue piece of clothing on the ground; a muddy area with a few boats and a blue tarp; a close-up of a dirty area",
+            "Tags": "outdoor; sky; pollution; disaster; natural disaster; litter; water; scrap; ground; rock",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        333
+                    ],
+                    "caption": "a dirty area with debris and a red building",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        492,
+                        99
+                    ],
+                    "caption": "a blue sky with clouds",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        105,
+                        490,
+                        220
+                    ],
+                    "caption": "a pile of debris in a landfill",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        285,
+                        234,
+                        129,
+                        94
+                    ],
+                    "caption": "a blue piece of clothing on the ground",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        235,
+                        170,
+                        158,
+                        159
+                    ],
+                    "caption": "a muddy area with a few boats and a blue tarp",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        176,
+                        232,
+                        151
+                    ],
+                    "caption": "a close-up of a dirty area",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": []
+        }
+    },
+    "356": {
+        "mention": "Egyptian",
+        "mention_context": "Egyptian army soldiers monitor protests over the weekend.",
+        "Candentity": [
+            {
+                "name": "The_Egyptian",
+                "desc": "The Egyptian is a historical novel by Mika Waltari, set in Ancient Egypt during the reign of Pharaoh Akhenaten, known for its high-level historical accuracy and a pessimistic message about the sameness of flawed human nature throughout the ages."
+            },
+            {
+                "name": "Slab_serif",
+                "desc": "Slab serif is a type of serif typeface characterized by thick, block-like serifs, with designs ranging from geometric to more traditional serif styles, often used for display purposes, legibility, and in typewriters and monospaced text fonts."
+            },
+            {
+                "name": "Egyptian_Army",
+                "desc": "The Egyptian Army is the largest service branch of the Egyptian Armed Forces, with an estimated strength of 340,000 personnel, including professionals and conscripts, and has been involved in various conflicts, including wars with Israel, the Suez Crisis, and Operation Desert Storm."
+            },
+            {
+                "name": "Egypt",
+                "desc": "Egypt is a transcontinental country in Northeast Africa and Southwest Asia, known for its rich cultural heritage, iconic monuments, and significant role in the Middle East and North Africa, with a population of over 100 million people and a diverse economy."
+            },
+            {
+                "name": "The_Egyptian_(film)",
+                "desc": "The Egyptian is a 1954 American epic drama film directed by Michael Curtiz, based on Mika Waltari's novel of the same name, starring Edmund Purdom, Bella Darvi, and other notable actors."
+            },
+            {
+                "name": "Egyptian_language",
+                "desc": "The Egyptian language is an Afro-Asiatic language that was spoken in ancient Egypt, with a written record dating back to around 2690 BC and evolving through various stages, including Middle Egyptian, Demotic, and Coptic, with the latter remaining in use as the liturgical language of the Coptic Orthodox Church of Alexandria."
+            },
+            {
+                "name": "2011_military_intervention_in_Libya",
+                "desc": "The 2011 military intervention in Libya was a NATO-led operation that involved airstrikes, a naval blockade, and a no-fly zone, conducted by a coalition of 19 countries, including the US, UK, France, and Canada, aimed at protecting civilians and enforcing a UN arms embargo."
+            },
+            {
+                "name": "Egyptian_(band)",
+                "desc": "Egyptian is an American indie rock duo band, a side project of married singers Dan Reynolds and Aja Volkman, comprising soft rock and indie sounds."
+            },
+            {
+                "name": "Egyptians",
+                "desc": "The Egyptians are the people originating from the country of Egypt, with a unique identity tied to their geography, predominantly adhering to Sunni Islam or Coptic Christianity, and speaking a continuum of Arabic dialects."
+            },
+            {
+                "name": "Egyptian_(prophet)",
+                "desc": "The Egyptian was a Jewish eschatological prophet in the Christian text, The Acts of the Apostles, who predicted the destruction of Jerusalem's walls and led a group of followers into the wilderness, mistaken by Claudius Lysias as the leader of a revolt."
+            }
+        ],
+        "mention_imgpath": "cea1b075f4590743203aa84a53eab4a6.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a group of people in military uniforms standing on a tank",
+            "Dense Captions": "a group of people in military uniforms standing on a tank; a person in a uniform; a man holding a pen; a close up of a person in a uniform; a man raising his hand up; a group of people in a crowd; a man in a black shirt; a group of men sitting in a crowd; the back of a man's head; a group of soldiers standing in front of a building",
+            "Tags": "clothing; building; man; outdoor; human face; person; sky; statue; people; crowd; crowded; group; street; city; large",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        375
+                    ],
+                    "caption": "a group of people in military uniforms standing on a tank",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        137,
+                        85,
+                        61,
+                        160
+                    ],
+                    "caption": "a person in a uniform",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        382,
+                        265,
+                        114,
+                        105
+                    ],
+                    "caption": "a man holding a pen",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        368,
+                        130,
+                        51,
+                        140
+                    ],
+                    "caption": "a close up of a person in a uniform",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        20,
+                        230,
+                        113,
+                        140
+                    ],
+                    "caption": "a man raising his hand up",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        264,
+                        257,
+                        127,
+                        114
+                    ],
+                    "caption": "a group of people in a crowd",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        108,
+                        299,
+                        73,
+                        74
+                    ],
+                    "caption": "a man in a black shirt",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        226,
+                        490,
+                        140
+                    ],
+                    "caption": "a group of men sitting in a crowd",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        176,
+                        321,
+                        57,
+                        52
+                    ],
+                    "caption": "the back of a man's head",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        489,
+                        250
+                    ],
+                    "caption": "a group of soldiers standing in front of a building",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        92,
+                        164,
+                        43,
+                        94
+                    ],
+                    "confidence": 0.651
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        141,
+                        86,
+                        63,
+                        158
+                    ],
+                    "confidence": 0.813
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        252,
+                        126,
+                        62,
+                        137
+                    ],
+                    "confidence": 0.777
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        368,
+                        133,
+                        56,
+                        137
+                    ],
+                    "confidence": 0.769
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        34,
+                        238,
+                        112,
+                        133
+                    ],
+                    "confidence": 0.761
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        257,
+                        258,
+                        129,
+                        117
+                    ],
+                    "confidence": 0.827
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        388,
+                        275,
+                        108,
+                        100
+                    ],
+                    "confidence": 0.773
+                }
+            ]
+        }
+    },
+    "580": {
+        "mention": "USS Missouri",
+        "mention_context": "Ozzy and Sharon Osbourne visit the USS Missouri on March 9, 2004.",
+        "Candentity": [
+            {
+                "name": "USS_Cyane_(1837)",
+                "desc": "The USS Cyane (1837) was a United States Navy ship that served on the coasts of North and South America during the mid-19th century, including preventing a Confederate privateer from leaving San Francisco during the American Civil War."
+            },
+            {
+                "name": "Official_Manual_State_of_Missouri",
+                "desc": "The Official Manual - State of Missouri is a biennial publication from the Missouri Secretary of State that contains historical, political, and statistical information about the state, first published in 1889."
+            },
+            {
+                "name": "Missouri",
+                "desc": "Missouri is a state in the Midwestern United States, known for its rich history, cultural blend of Midwestern and Southern influences, and iconic landmarks like the Gateway Arch, with a population of over six million residents and a diverse economy."
+            },
+            {
+                "name": "USS_Missouri_(BB-11)",
+                "desc": "USS Missouri (BB-11) was a Maine-class battleship commissioned in 1903, serving in the Atlantic Fleet, participating in the Great White Fleet's circumnavigation of the globe, and later used for training and troop transport during World War I before being decommissioned and scrapped in 1922."
+            },
+            {
+                "name": "Missouri_in_the_American_Civil_War",
+                "desc": "Missouri was a hotly contested border state during the American Civil War, with over 150,000 Missourians serving in the Union and Confederate armies, and experiencing continuous battles and skirmishes throughout its territory from 1861 to 1865."
+            },
+            {
+                "name": "USS_Missouri_(1841)",
+                "desc": "The USS Missouri (1841) was a 10-gun side-wheel frigate that was the first steam warship in the United States Navy, launched in 1841 and commissioned in 1842, but it sank on August 27, 1843, after a fire broke out in its storeroom during a voyage to Gibraltar."
+            },
+            {
+                "name": "USS_Missouri_(BB-63)",
+                "desc": "The USS Missouri (BB-63) is an Iowa-class battleship that served in World War II, the Korean War, and the Persian Gulf War, and is most famously known as the site of Japan's surrender, ending World War II."
+            },
+            {
+                "name": "USS_Missouri_(SSN-780)",
+                "desc": "The USS Missouri (SSN-780) is a Virginia-class attack submarine and the fourth ship in the United States Navy to bear the name, completed nine months early and under budget."
+            },
+            {
+                "name": "2006_Bahrain_Grand_Prix",
+                "desc": "The 2006 Bahrain Grand Prix was the opening round of the 2006 Formula One season, won by Fernando Alonso and the Renault team, with notable debuts for drivers Nico Rosberg, Scott Speed, and Yuji Ide, and the introduction of 2."
+            },
+            {
+                "name": "History_of_Missouri",
+                "desc": "The history of Missouri spans from indigenous settlement in the Paleo-Indian period to the present day, with significant events including the Louisiana Purchase, statehood, the Civil War, and 20th-century reforms and economic diversification."
+            }
+        ],
+        "mention_imgpath": "545a08327ffc55364c89ecc8b8b1f93f.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a man and woman standing on a boat",
+            "Dense Captions": "a man and woman standing on a boat; a woman in a white shirt; a man with tattoos on his arm; a woman wearing a hat and sunglasses; a close up of a tattoo; a blurry picture of a wood floor",
+            "Tags": "clothing; person; human face; fashion accessory; sunglasses; hat; man; smile; goggles; cap; woman; outdoor; standing",
+            "OCR text": "ISSOURI; 19.63",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        332,
+                        500
+                    ],
+                    "caption": "a man and woman standing on a boat",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        183,
+                        135,
+                        143,
+                        354
+                    ],
+                    "caption": "a woman in a white shirt",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        85,
+                        29,
+                        148,
+                        460
+                    ],
+                    "caption": "a man with tattoos on his arm",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        181,
+                        140,
+                        129,
+                        92
+                    ],
+                    "caption": "a woman wearing a hat and sunglasses",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        89,
+                        248,
+                        51,
+                        197
+                    ],
+                    "caption": "a close up of a tattoo",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        396,
+                        98,
+                        99
+                    ],
+                    "caption": "a blurry picture of a wood floor",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        185,
+                        144,
+                        146,
+                        354
+                    ],
+                    "confidence": 0.816
+                }
+            ]
+        }
+    },
+    "564": {
+        "mention": "turkey",
+        "mention_context": "Matthews started producing turkey eggs in 1950",
+        "Candentity": [
+            {
+                "name": "Ancona_chicken",
+                "desc": "The Ancona is a breed of chicken originating from Italy, bred to its present type in the UK in the 19th century, and popular in Britain and the US, but rare in Italy."
+            },
+            {
+                "name": "Turkey_as_food",
+                "desc": "Turkey_as_food is the meat from domesticated or wild turkeys, commonly consumed as a popular poultry dish in North America, particularly during culturally significant events like Thanksgiving and Christmas."
+            },
+            {
+                "name": "Turkey_national_football_team",
+                "desc": "The Turkey national football team represents Turkey in men's international football matches, having achieved notable successes including reaching the semi-finals at the 2002 FIFA World Cup and UEFA Euro 2008, and holding top 10 rankings in the FIFA World Rankings between 2002 and 2004."
+            },
+            {
+                "name": "Turkish_wine",
+                "desc": "Turkish wine refers to wine produced in Turkey, a country with over 8,120 square kilometers of vineyards, home to 600-1200 indigenous grape varieties, and ranking as the world's fourth-largest grape producer."
+            },
+            {
+                "name": "The_Turkey",
+                "desc": "\"The Turkey\" is a short story by Flannery O'Connor that tells the tale of a boy who chases and captures an injured turkey, only to have it taken away, exploring Christian themes and the boy's sinful motivations."
+            },
+            {
+                "name": "Strike_(bowling)",
+                "desc": "A Strike is a term used in American nine-pin bowling to describe the act of knocking down all nine pins with the first ball thrown in a frame."
+            },
+            {
+                "name": "Turkey_(bird)",
+                "desc": "The turkey is a type of bird that evolved in North America over 20 million years ago and shares a recent common ancestor with grouse, pheasants, and other fowl."
+            },
+            {
+                "name": "Domestic_turkey",
+                "desc": "The domestic turkey is a large fowl species, domesticated in central Mexico and later introduced to Europe, now raised worldwide for its meat, with most breeds having white feathers and males referred to as toms, stags, or hens."
+            },
+            {
+                "name": "The_Turkey_(film)",
+                "desc": "The Turkey is a 1951 French comedy film directed by Claude Barma and starring Nadine Alari and Louis de Funès, an adaptation of Georges Feydeau's 1896 play Le Dindon."
+            },
+            {
+                "name": "Ocellated_turkey",
+                "desc": "The ocellated turkey is a large bird species native to the Yucatán Peninsula, Mexico, and parts of Belize and Guatemala, with a declining population due to habitat changes and overhunting."
+            }
+        ],
+        "mention_imgpath": "4dabc6371c2f7d33c4423427d8b57d4c.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a turkey walking in the grass",
+            "Dense Captions": "a turkey standing in grass; a turkey walking in the grass; a close up of a leaf; a close up of a leaf; a blurry image of a person's head; a close up of a turkey",
+            "Tags": "bird; animal; turkey; outdoor; feather; wild turkey; beak; wildlife; galliformes; phasianidae; fowl; grass; field",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        351
+                    ],
+                    "caption": "a turkey standing in grass",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        9,
+                        28,
+                        429,
+                        310
+                    ],
+                    "caption": "a turkey walking in the grass",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        175,
+                        256,
+                        120,
+                        84
+                    ],
+                    "caption": "a close up of a leaf",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        261,
+                        489,
+                        82
+                    ],
+                    "caption": "a close up of a leaf",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        51,
+                        0,
+                        397,
+                        108
+                    ],
+                    "caption": "a blurry image of a person's head",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        361,
+                        28,
+                        76,
+                        103
+                    ],
+                    "caption": "a close up of a turkey",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "turkey",
+                    "bounding_box": [
+                        80,
+                        32,
+                        370,
+                        311
+                    ],
+                    "confidence": 0.59
+                }
+            ]
+        }
+    }
+}

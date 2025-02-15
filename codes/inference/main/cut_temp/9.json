@@ -1,0 +1,1579 @@
+{
+    "156": {
+        "mention": "Bayern Munich",
+        "mention_context": "Bayern Munich lifting their sixth DFL-Super Cup trophy.",
+        "Candentity": [
+            {
+                "name": "1975%E2%80%9376_FC_Bayern_Munich_season",
+                "desc": "The 1975-76 FC Bayern Munich season was the 67th season in the club's history, during which they competed in the Bundesliga and other domestic and international competitions."
+            },
+            {
+                "name": "FC_Bayern_Munich_(women%27s_section)",
+                "desc": "FC Bayern Munich (women's section) is a German women's football team based in Munich, Bavaria, playing in the top-tier Frauen-Bundesliga."
+            },
+            {
+                "name": "FC_Bayern_Munich_(women)",
+                "desc": "FC Bayern Munich (women) is a German women's football team based in Munich, Bavaria, currently playing in the top-tier Frauen-Bundesliga."
+            },
+            {
+                "name": "Bayern_Munich_1%E2%80%932_Norwich_City_(1993)",
+                "desc": "The 2012-13 season was Arsenal Football Club's 21st season in the Premier League, where they finished fourth in the league and were eliminated from the UEFA Champions League, FA Cup, and League Cup in the quarterfinals, semifinals, and quarterfinals respectively."
+            },
+            {
+                "name": "FC_Bayern_Munich_II",
+                "desc": "FC Bayern Munich II is the reserve team of Bayern Munich, playing in the 3."
+            },
+            {
+                "name": "FC_Bayern_Munich",
+                "desc": "FC Bayern Munich is a German professional sports club based in Munich, Bavaria, known for its highly successful football team that has won numerous national and European titles, including a record 30 national titles and 20 national cups."
+            },
+            {
+                "name": "History_of_FC_Bayern_Munich",
+                "desc": "FC Bayern Munich is a German sports club based in Munich, Bavaria, known for its highly successful professional football team with a record 30 national titles and 20 national cups, and a history of European success including six UEFA Champions League titles."
+            },
+            {
+                "name": "FC_Bayern_Munich_(basketball)",
+                "desc": "FC Bayern Munich Basketball GmbH, a professional basketball club based in Munich, Germany, competes in the Basketball Bundesliga and EuroLeague, playing home games at Audi Dome."
+            },
+            {
+                "name": "Philipp_Lahm",
+                "desc": "Philipp Lahm is a German retired professional footballer considered one of the greatest defenders of all time, known for his tactical intelligence, versatility, pace, technique, and precise tackling abilities, leading his teams to numerous honours including the 2013 UEFA Champions League and 2014 FIFA World Cup."
+            },
+            {
+                "name": "FC_Bayern_M%C3%BCnchen",
+                "desc": "FC Bayern München is a German professional football club based in Munich, Bavaria, that plays in the Bundesliga, the top tier of the German football league system."
+            }
+        ],
+        "mention_imgpath": "e30295afa4505b05314de47dc2a87b1a.jpeg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a group of people in red uniforms holding a trophy",
+            "Dense Captions": "a group of people in red uniforms; a person holding a sign; a person wearing a red and white striped uniform; a person holding a sign; a group of football players celebrating; a man in red uniform; a person wearing a red shirt; a close up of a jersey; a close up of a red shirt; a close up of a sign",
+            "Tags": "person; sport; clothing; group; sports uniform; soccer; outdoor; player; posing; team; people; standing",
+            "OCR text": "SUPERO; 2017; SUPERCUP; SELGER 2947; 25; 23; 7; LUIPERCUP",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        300
+                    ],
+                    "caption": "a group of people in red uniforms",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        406,
+                        148,
+                        69,
+                        148
+                    ],
+                    "caption": "a person holding a sign",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        356,
+                        158,
+                        65,
+                        138
+                    ],
+                    "caption": "a person holding a sign",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        174,
+                        44,
+                        71,
+                        251
+                    ],
+                    "caption": "a person wearing a red and white striped uniform",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        39,
+                        482,
+                        253
+                    ],
+                    "caption": "a group of football players celebrating",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        68,
+                        95,
+                        69,
+                        200
+                    ],
+                    "caption": "a man in red uniform",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        233,
+                        104,
+                        70,
+                        192
+                    ],
+                    "caption": "a person wearing a red shirt",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        121,
+                        127,
+                        65,
+                        169
+                    ],
+                    "caption": "a close up of a jersey",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        38,
+                        142,
+                        74,
+                        155
+                    ],
+                    "caption": "a close up of a red shirt",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        384,
+                        204,
+                        54,
+                        85
+                    ],
+                    "caption": "a close up of a sign",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        386,
+                        90,
+                        58,
+                        83
+                    ],
+                    "confidence": 0.619
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        79,
+                        83,
+                        64,
+                        211
+                    ],
+                    "confidence": 0.527
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        183,
+                        69,
+                        60,
+                        225
+                    ],
+                    "confidence": 0.703
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        34,
+                        135,
+                        79,
+                        162
+                    ],
+                    "confidence": 0.757
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        128,
+                        131,
+                        57,
+                        164
+                    ],
+                    "confidence": 0.827
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        239,
+                        135,
+                        66,
+                        156
+                    ],
+                    "confidence": 0.721
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        406,
+                        148,
+                        80,
+                        147
+                    ],
+                    "confidence": 0.836
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        365,
+                        160,
+                        55,
+                        136
+                    ],
+                    "confidence": 0.71
+                }
+            ]
+        }
+    },
+    "735": {
+        "mention": "Sevastopol",
+        "mention_context": "Map of the Autonomous Republic of Crimea and of Sevastopol, Ukraine.",
+        "Candentity": [
+            {
+                "name": "History_of_Sevastopol",
+                "desc": "Sevastopol is the largest city in Crimea, a major port on the Black Sea, and a significant naval base with a rich history, strategic location, and a robust economy driven by its unique naval and maritime features."
+            },
+            {
+                "name": "Russian_battleship_Sevastopol_(1911)",
+                "desc": "The Russian battleship Sevastopol was a Gangut-class dreadnought built before World War I, serving in the Imperial Russian Navy, then the Soviet Navy, and played a role in various conflicts including World War II before being broken up in 1956-1957."
+            },
+            {
+                "name": "Theoderichshafen",
+                "desc": "Theoderichshafen is not mentioned in the provided text, but Sevastopol is a city in Crimea with a strategic location and a significant naval base, having been an important port and naval base throughout its history."
+            },
+            {
+                "name": "Севастополь",
+                "desc": "Sevastopol is a major port city on the Black Sea, serving as the largest city in Crimea and a significant naval base, with a population of 393,304 and a rich history of military importance and marine biology research."
+            },
+            {
+                "name": "Montenegro_(province)",
+                "desc": "Montenegro was a temporary province in the Kingdom of Serbs, Croats and Slovenes that existed from 1918 to 1922 before being abolished and replaced with new administrative units."
+            },
+            {
+                "name": "Sevastopol,_Ukraine",
+                "desc": "Sevastopol is the largest city in Crimea, a major port on the Black Sea, and a significant naval base, with a population of 479,394 and a unique economy driven by its naval and maritime features."
+            },
+            {
+                "name": "FC_Sevastopol",
+                "desc": "FC Sevastopol was a Ukrainian football club based in Sevastopol that ceased to exist after the 2013-14 season due to the Crimean Conflict and rebranded as FC SKChF Sevastopol with a Russian license."
+            },
+            {
+                "name": "Sevastopol’",
+                "desc": "Sevastopol is the largest city on Crimea, a major port on the Black Sea, and a strategically important naval base with a Russian majority population, featuring a robust economy, mild winters, and moderate warm summers, making it a popular tourist destination and centre for marine biology research."
+            },
+            {
+                "name": "Sevastopol,_Russia",
+                "desc": "Sevastopol is the largest city in Crimea, a major port on the Black Sea, and a significant naval base for Russia's Black Sea Fleet, with a population of 547,820 and a unique economy driven by its naval and maritime features."
+            },
+            {
+                "name": "Sevastopol",
+                "desc": "Sevastopol is the largest city in Crimea, a major port on the Black Sea, and a strategically important naval base with a Russian majority population, known for its mild winters, moderate summers, and popular tourist destination."
+            }
+        ],
+        "mention_imgpath": "7175ebea0195349e6848a6a03d27a868.png",
+        "mention_imgdesc_Azure": {
+            "Caption": "a map of the country",
+            "Dense Captions": "a map of the country; a map of the country; a yellow sign with black text; a map of the country",
+            "Tags": "text; map; atlas",
+            "OCR text": "KHERSON OBLAST; KHERSON OBLAST; ZAPORIZHIA OBLAST; Armyansk; Krasnoperekopsk; Gulf of Karkinit; Sea of Azov; Drhankoy; AUTONOMOUS; Kerch,; Yevpatoriya; REPUBLIC; RUSSIA; Saky; OF CRIMEA; Feodosiya; Simferopol; Black Sea; Bakhchysaray; SevastopolS; Black Sea; SEVASTOPOL; Valt; Autonomous Republic of Crimea, Ukraine",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        332
+                    ],
+                    "caption": "a map of the country",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        4,
+                        0,
+                        484,
+                        315
+                    ],
+                    "caption": "a map of the country",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        157,
+                        142,
+                        112,
+                        57
+                    ],
+                    "caption": "a yellow sign with black text",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        109,
+                        237,
+                        68,
+                        76
+                    ],
+                    "caption": "a map of the country",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": []
+        }
+    },
+    "1074": {
+        "mention": "Northern Rock",
+        "mention_context": "Queues forming outside a Northern Rock branch in Brighton, East Sussex.",
+        "Candentity": [
+            {
+                "name": "Northern_Rock_Foundation",
+                "desc": "The Northern Rock Foundation was a UK-based charity that aimed to tackle disadvantage and improve quality of life in the North East and Cumbria, awarding £235."
+            },
+            {
+                "name": "Nationalisation_of_Northern_Rock",
+                "desc": "The Nationalisation of Northern Rock refers to the 2008 takeover of the British bank Northern Rock by the British Labour Government due to financial difficulties caused by the subprime mortgage crisis, which was later split into two parts and eventually sold to Virgin Money in 2012."
+            },
+            {
+                "name": "Westminster_tube_station",
+                "desc": "Westminster tube station is a London Underground station in the City of Westminster, served by the Circle, District, and Jubilee lines, and located near iconic landmarks such as the Houses of Parliament, Westminster Abbey, and the London Eye."
+            },
+            {
+                "name": "Ravenglass_and_Eskdale_Railway_locomotives",
+                "desc": "The Ravenglass and Eskdale Railway locomotives refers to the details of the locomotives used on the 15-inch narrow gauge preserved railway line that runs from Ravenglass to Dalegarth in Cumbria."
+            },
+            {
+                "name": "Northern_rock_sole",
+                "desc": "The Northern Rock Sole is a demersal fish that inhabits the temperate waters of the northern Pacific, ranging from Puget Sound to Alaska, and can grow up to 69 cm in length with a maximum recorded lifespan of 18 years."
+            },
+            {
+                "name": "Semibalanus_balanoides",
+                "desc": "Semibalanus balanoides is a common and widespread boreo-arctic species of acorn barnacle found on rocks and other substrates in the intertidal zone of north-western Europe and both coasts of North America."
+            },
+            {
+                "name": "Northern_Rock",
+                "desc": "Northern Rock was a British bank that demutualized in 1997, experienced financial difficulties during the 2007-2008 global banking crisis, and was taken into public ownership in 2008 before being returned to private ownership in 2012 and eventually sold to Cerberus Capital Management in 2016."
+            },
+            {
+                "name": "Northern_rock_mouse",
+                "desc": "The Northern Rock Mouse is a species of rodent in the family Cricetidae, found in Mexico and the United States."
+            },
+            {
+                "name": "Landmark_Mortgages",
+                "desc": "Landmark Mortgages is a British asset holding and management company that was previously known as NRAM plc, the \"bad bank\" of Northern Rock, and was sold to Cerberus Capital Management in 2016, holding the bad debts of the former Northern Rock bank."
+            },
+            {
+                "name": "North_Rock",
+                "desc": "North Rock is an offshore rock near the boundary between the Gulf of Maine and the Bay of Fundy, disputed between Canada's New Brunswick and the US state of Maine as part of the territorial and maritime boundary dispute surrounding Machias Seal Island."
+            }
+        ],
+        "mention_imgpath": "b4455b391d3135f1ab7bd84aad59ef7d.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a group of people standing outside of a building",
+            "Dense Captions": "a group of people standing outside of a building; the back of a car; a group of people standing in a line; a group of people standing outside of a building",
+            "Tags": "text; building; land vehicle; outdoor; vehicle; car; clothing; person; street; vehicle registration plate; road; people; pedestrian; group",
+            "OCR text": "northern rock; 5.78",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        375
+                    ],
+                    "caption": "a group of people standing outside of a building",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        415,
+                        213,
+                        80,
+                        147
+                    ],
+                    "caption": "the back of a car",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        196,
+                        374,
+                        125
+                    ],
+                    "caption": "a group of people standing in a line",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        488,
+                        345
+                    ],
+                    "caption": "a group of people standing outside of a building",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        40,
+                        216,
+                        26,
+                        94
+                    ],
+                    "confidence": 0.531
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        70,
+                        214,
+                        29,
+                        92
+                    ],
+                    "confidence": 0.594
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        104,
+                        214,
+                        25,
+                        92
+                    ],
+                    "confidence": 0.541
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        305,
+                        210,
+                        29,
+                        113
+                    ],
+                    "confidence": 0.607
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        2,
+                        204,
+                        48,
+                        117
+                    ],
+                    "confidence": 0.554
+                },
+                {
+                    "object_name": "car",
+                    "bounding_box": [
+                        419,
+                        217,
+                        80,
+                        154
+                    ],
+                    "confidence": 0.832
+                }
+            ]
+        }
+    },
+    "681": {
+        "mention": "\"On Top of the World\"",
+        "mention_context": "Edsilia Rombley performing \"On Top of the World\" at Eurovision 2007 in Helsinki.Photo: Loe Beerens",
+        "Candentity": [
+            {
+                "name": "Sitting_on_Top_of_the_World",
+                "desc": "\"Sitting on Top of the World\" is a country blues song written by Walter Vinson and Lonnie Chatmon, a core member of the Mississippi Sheiks, which became a popular crossover hit and a standard of traditional American music."
+            },
+            {
+                "name": "On_Top_of_the_World_(album)",
+                "desc": "On Top of the World is the third studio album by American hip hop duo Eightball & MJG, released on November 1, 1995, featuring guest appearances from various West-coast artists and Suave House Records' new group Nuckle Heads."
+            },
+            {
+                "name": "Macedonia_in_the_Eurovision_Song_Contest_2007",
+                "desc": "Macedonia participated in the Eurovision Song Contest 2007, represented by Karolina Gočeva and her song \"Mojot svet\", which qualified from the semi-final and placed 14th in the final."
+            },
+            {
+                "name": "Top_Model_of_the_World",
+                "desc": "The Top Model of the World is an international model search competition started in 1993, now owned and managed by the World Beauty Organization, with the current titleholder being Pierinna Patiño from Peru."
+            },
+            {
+                "name": "The_Top_10_of_Everything",
+                "desc": "Top 10 of Everything is an annual illustrated reference book that presents quantifiable Top 10 lists on various subjects, featuring practical facts and occasional offbeat entries, with over 700 lists in each volume."
+            },
+            {
+                "name": "Topness",
+                "desc": "Topness is a term in particle physics that refers to the property of top quarks having a value of +1 and top antiquarks having a value of -1."
+            },
+            {
+                "name": "On_Top_of_the_World_(film)",
+                "desc": "On Top of the World is a 1936 British comedy film about a mill worker who uses her dog's racetrack winnings to start a soup kitchen and mediate between management and labor during an industrial dispute."
+            },
+            {
+                "name": "The_Top_of_the_World_(novel)",
+                "desc": "The Top of the World is a 1920 novel by British writer Ethel M."
+            },
+            {
+                "name": "On_Top_of_da_World",
+                "desc": "On Top of da World is the debut album by Lil Italy, released in 1999 for No Limit Records, which peaked at #99 on the Billboard 200 and #20 on the Top R&B/Hip-Hop Albums but failed to gain significant sales and was soon followed by Lil Italy's departure from the label."
+            },
+            {
+                "name": "Reach_for_the_Top",
+                "desc": "Reach for the Top is a Canadian academic quiz competition for high school students, held in national rounds and online, with teams qualifying through local Schoolreach tournaments."
+            }
+        ],
+        "mention_imgpath": "69f515952f3cd7ed81705cf86831a3fa.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a woman on a stage with a group of women",
+            "Dense Captions": "a woman on a stage with a group of women; a woman wearing a red dress; a blurry image of a woman in a white dress; a woman in a grey shirt; a woman wearing a white dress; a woman in white dress; a woman singing on stage with other women",
+            "Tags": "clothing; person; human face; dress; entertainment; girl; talent show; fashion; performance art; dance; sport; dancing; lady; performance; woman; dancer",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        326
+                    ],
+                    "caption": "a woman on a stage with a group of women",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        208,
+                        35,
+                        113,
+                        283
+                    ],
+                    "caption": "a woman wearing a red dress",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        74,
+                        123,
+                        83,
+                        189
+                    ],
+                    "caption": "a blurry image of a woman in a white dress",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        289,
+                        98,
+                        103,
+                        214
+                    ],
+                    "caption": "a woman in a grey shirt",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        369,
+                        123,
+                        77,
+                        190
+                    ],
+                    "caption": "a woman wearing a white dress",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        125,
+                        98,
+                        100,
+                        215
+                    ],
+                    "caption": "a woman in white dress",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        24,
+                        15,
+                        448,
+                        296
+                    ],
+                    "caption": "a woman singing on stage with other women",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        77,
+                        126,
+                        86,
+                        181
+                    ],
+                    "confidence": 0.736
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        155,
+                        105,
+                        76,
+                        203
+                    ],
+                    "confidence": 0.821
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        299,
+                        101,
+                        86,
+                        216
+                    ],
+                    "confidence": 0.864
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        371,
+                        131,
+                        74,
+                        170
+                    ],
+                    "confidence": 0.718
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        206,
+                        35,
+                        112,
+                        281
+                    ],
+                    "confidence": 0.861
+                }
+            ]
+        }
+    },
+    "224": {
+        "mention": "torch",
+        "mention_context": "Map showing the route of the torch (Click to enlarge)",
+        "Candentity": [
+            {
+                "name": "The_Torch_(film)",
+                "desc": "The Torch is a 1950 Mexican-American film directed by Emilio Fernández, a remake of Enamorada, also known as Bandit General in the UK."
+            },
+            {
+                "name": "Torch_(machine_learning)",
+                "desc": "Torch is an open-source machine learning library and scientific computing framework based on Lua programming language, providing algorithms for deep learning, but is no longer in active development."
+            },
+            {
+                "name": "Torch_(juggling)",
+                "desc": "Juggling torches are commercially made props consisting of wooden and/or metal handles with a wick soaked in liquid fuel, typically paraffin, that is ignited before use."
+            },
+            {
+                "name": "Torch_(American_rapper)",
+                "desc": "Torch is a Haitian-American rapper signed to Maybach Music Group, part of the group Triple C's, formed with Rick Ross, Gunplay, and Young Breed, who was born and raised in the Bronx but grew up in Miami, Florida."
+            },
+            {
+                "name": "Torch",
+                "desc": "A torch is a stick with combustible material at one end, ignited to serve as a light source, commonly used in historical, symbolic, and entertainment contexts."
+            },
+            {
+                "name": "Croats",
+                "desc": "The Croats, also known as Croatians, are a South Slavic ethnic group native to Croatia and Bosnia and Herzegovina, with a significant diaspora in North and South America, Australia, and New Zealand, and are predominantly Roman Catholic with the Croatian language being official in several countries."
+            },
+            {
+                "name": "Torch_(novel)",
+                "desc": "Torch is the debut novel by Cheryl Strayed, a semi-autobiographical story about a family's crisis and grief after the mother's failing health and death, published in 2006."
+            },
+            {
+                "name": "Torchwood:_Miracle_Day",
+                "desc": "Torchwood."
+            },
+            {
+                "name": "Torch_(rapper)",
+                "desc": "Torch, a German rapper also known as DJ Haitian Star, is a pioneer of German hip hop music, laying the foundation for the genre's success in the mid-1980s and being recognized by Afrika Bambaataa as the king of the first German chapter of the Zulu Nation."
+            },
+            {
+                "name": "Torch_(browser)",
+                "desc": "Torch is a Chromium-based web browser and Internet suite that allows users to perform various tasks such as displaying websites, sharing, downloading, and grabbing media directly from the browser, and is compatible with Chrome add-ons and extensions."
+            }
+        ],
+        "mention_imgpath": "0dc3166227ab0d0daa753580878739bd.png",
+        "mention_imgdesc_Azure": {
+            "Caption": "a map of the world with blue lines",
+            "Dense Captions": "a map of the world with blue lines; a map of the world with blue lines; a map of south america with a blue line; a map of the world; a map of the world with lines; a map of the world with a route",
+            "Tags": "map; text; atlas",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        231
+                    ],
+                    "caption": "a map of the world with blue lines",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        43,
+                        0,
+                        385,
+                        228
+                    ],
+                    "caption": "a map of the world with blue lines",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        76,
+                        108,
+                        74,
+                        113
+                    ],
+                    "caption": "a map of south america with a blue line",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        176,
+                        34,
+                        118,
+                        157
+                    ],
+                    "caption": "a map of the world",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        213,
+                        9,
+                        213,
+                        101
+                    ],
+                    "caption": "a map of the world with lines",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        21,
+                        37,
+                        217,
+                        189
+                    ],
+                    "caption": "a map of the world with a route",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": []
+        }
+    },
+    "1191": {
+        "mention": "Canadian",
+        "mention_context": "Canadian oceanographic research ship CCGS Hudson searches for Swissair Flight 111 debris",
+        "Candentity": [
+            {
+                "name": "The_Canadian_(film)",
+                "desc": "The Canadian is a 1926 American silent drama film based on the 1913 Broadway play The Land of Promise, starring Thomas Meighan and directed by William Beaudine."
+            },
+            {
+                "name": "Canadian_wine",
+                "desc": "Canadian wine is a type of wine produced in Canada, with Ontario and British Columbia being the largest wine-producing provinces, accounting for over 90% of the country's icewine production."
+            },
+            {
+                "name": "Index_of_Canada-related_articles",
+                "desc": "The Index of Canada-related articles is a list of articles related to Canada, providing an outline and categorization of topics by provinces and territories."
+            },
+            {
+                "name": "Canadian_Airlines",
+                "desc": "Canadian Airlines International Ltd."
+            },
+            {
+                "name": "Canadians",
+                "desc": "The Canadians are a diverse group of people who identify with the country of Canada, having a complex cultural heritage shaped by various ethnic, religious, and national origins, with a gradual growth towards independence and sovereignty."
+            },
+            {
+                "name": "Canada",
+                "desc": "Canada is a country located in North America, known for its vast territory, diverse culture, and strong economy, with a parliamentary democracy and constitutional monarchy system, and is a member of several major international institutions."
+            },
+            {
+                "name": "Culture_of_Canada",
+                "desc": "The culture of Canada is a diverse and multicultural blend of European, indigenous, and immigrant influences, shaped by its history, government policies, and institutions, which promote a progressive and inclusive society."
+            },
+            {
+                "name": "CCGS_Hudson",
+                "desc": "CCGS Hudson is an offshore oceanographic and hydrographic survey vessel operated by the Canadian Coast Guard, which entered service in 1963 and has made several significant scientific voyages, including the first circumnavigation of the Americas in 1970."
+            },
+            {
+                "name": "Canadian_(train)",
+                "desc": "The Canadian is a transcontinental passenger train operated by Via Rail Canada, running between Toronto and Vancouver, with a history dating back to 1955 when it was renamed from a Canadian Pacific Railway train between Toronto and Chicago."
+            },
+            {
+                "name": "Canadian_(canoe)",
+                "desc": "The \"Canadian\" is a colloquial term used to describe certain types of canoes, particularly touring, whitewater, and racing canoes, which are often distinguished from kayaks in European countries."
+            }
+        ],
+        "mention_imgpath": "c88f22aa7d004178c1292eb2357741cf.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "several ships in the water",
+            "Dense Captions": "several ships in the water; a large ship in the water; a group of ships in the water",
+            "Tags": "transport; watercraft; outdoor; water; ship; sky; vehicle; naval architecture; boat; sea; navy; naval ship; ocean; large",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        304
+                    ],
+                    "caption": "several ships in the water",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        61,
+                        161,
+                        351,
+                        125
+                    ],
+                    "caption": "a large ship in the water",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        13,
+                        61,
+                        455,
+                        234
+                    ],
+                    "caption": "a group of ships in the water",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "Watercraft",
+                    "bounding_box": [
+                        175,
+                        51,
+                        90,
+                        23
+                    ],
+                    "confidence": 0.525
+                },
+                {
+                    "object_name": "boat",
+                    "bounding_box": [
+                        455,
+                        54,
+                        44,
+                        40
+                    ],
+                    "confidence": 0.591
+                },
+                {
+                    "object_name": "boat",
+                    "bounding_box": [
+                        173,
+                        108,
+                        78,
+                        46
+                    ],
+                    "confidence": 0.641
+                },
+                {
+                    "object_name": "boat",
+                    "bounding_box": [
+                        60,
+                        162,
+                        320,
+                        116
+                    ],
+                    "confidence": 0.558
+                }
+            ]
+        }
+    },
+    "803": {
+        "mention": "influenza A virus",
+        "mention_context": "A transmission electron micrograph of influenza A virus, late passage.",
+        "Candentity": [
+            {
+                "name": "Influenza_C_virus",
+                "desc": "Influenza C virus is a species of the Orthomyxoviridae family that causes influenza in humans and pigs, although it is less common and severe compared to Types A and B."
+            },
+            {
+                "name": "Influenza_A_virus_subtype_H3N8",
+                "desc": "H3N8 is a subtype of the Influenza A virus that is endemic in birds, horses, dogs, and seals, and can also infect cats experimentally, causing clinical signs and shedding of the virus."
+            },
+            {
+                "name": "Influenza_A_virus",
+                "desc": "Influenza A virus is a negative-sense, single-stranded, segmented RNA virus that causes influenza in birds and some mammals, with various subtypes labeled according to H and N numbers and capable of mutating into different strains with varying pathogenic profiles."
+            },
+            {
+                "name": "Influenza_A_virus_subtype_H5N6",
+                "desc": "H5N6 is a subtype of the Influenza A virus that has caused 28 human cases, including 16 fatalities, as of January 19, 2021."
+            },
+            {
+                "name": "DNA_virus",
+                "desc": "A DNA virus is a type of virus that has a genome composed of deoxyribonucleic acid, which can be single-stranded or double-stranded, and infects both prokaryotes and eukaryotes, causing various diseases including herpes, papillomavirus, and poxvirus infections."
+            },
+            {
+                "name": "Influenza_A_virus_subtype_H7N7",
+                "desc": "Influenza A virus subtype H7N7 is a subtype of the influenza A virus that has caused outbreaks of low and high pathogenicity in various countries, including the Netherlands, England, Spain, China, and Australia, resulting in the culling of thousands of chickens and suspension of poultry imports."
+            },
+            {
+                "name": "Influenza_B_virus",
+                "desc": "Influenza B virus is a species of Orthomyxoviridae that infects only humans and seals, with two circulating lineages and a slower mutation rate than Influenza A virus, but can still cause significant morbidity and mortality worldwide, particularly among adolescents and schoolchildren."
+            },
+            {
+                "name": "Influenza_A_virus_subtype_H5N2",
+                "desc": "Influenza A virus subtype H5N2 is a bird-infecting virus that can cause mild to severe illness in birds, with occasional outbreaks in poultry farms, and can also infect humans who work with birds, but with minimal health effects and no evidence of human-to-human transmission."
+            },
+            {
+                "name": "Influenza_D_virus",
+                "desc": "Influenza D virus is a species of Orthomyxoviridae that causes influenza in pigs and cattle, but no human infections have been observed, and it is distinct from previously-known Influenzavirus C."
+            },
+            {
+                "name": "Influenza_A_virus_subtype_H7N9",
+                "desc": "Influenza A virus subtype H7N9 is a highly pathogenic and potentially pandemic-causing virus that has a mortality rate of around 30% and has been linked to live bird markets, with a high incidence among older males."
+            }
+        ],
+        "mention_imgpath": "7fedd931a1572714bcd7e992844938a0.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a close-up of a cell",
+            "Dense Captions": "a close-up of a cell; a close-up of a cell; a close-up of a grey and white background",
+            "Tags": "sketch; drawing; painting; art; abstract",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        390
+                    ],
+                    "caption": "a close-up of a cell",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        490,
+                        379
+                    ],
+                    "caption": "a close-up of a cell",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        375,
+                        0,
+                        100,
+                        117
+                    ],
+                    "caption": "a close-up of a grey and white background",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": []
+        }
+    },
+    "312": {
+        "mention": "Sydney",
+        "mention_context": "China versus Japan earlier today in Sydney.",
+        "Candentity": [
+            {
+                "name": "Sydney,_New_South_Wales",
+                "desc": "Sydney is the capital city of New South Wales, Australia, and the most populous city in Australia and Oceania, known for its rich history, cultural diversity, and iconic landmarks such as the Sydney Opera House and Harbour Bridge."
+            },
+            {
+                "name": "Sydney",
+                "desc": "Sydney is the capital city of New South Wales, Australia, and the most populous city in Oceania, known for its rich Aboriginal history, cultural and economic significance, and iconic landmarks such as the Sydney Opera House and Harbour Bridge."
+            },
+            {
+                "name": "Sydney_(city)",
+                "desc": "The City of Sydney is the oldest local government area in New South Wales, Australia, covering the central business district and surrounding inner city suburbs, with a complex history of boundary changes and governance structures."
+            },
+            {
+                "name": "The_Real_World:_Sydney",
+                "desc": "The Real World."
+            },
+            {
+                "name": "Sydney_(NRC_team)",
+                "desc": "Sydney is an Australian rugby union team that competes in the National Rugby Championship (NRC) as an all-of-Sydney side, drawing on metropolitan teams that have represented the city for over a century."
+            },
+            {
+                "name": "Sydney_Airport",
+                "desc": "Sydney Airport, also known as Kingsford Smith Airport, is an international airport in Sydney, Australia, serving as a primary hub for Qantas and a secondary hub for Virgin Australia and Jetstar, handling over 42 million passengers and 348,000 aircraft movements annually."
+            },
+            {
+                "name": "Hard_Eight_(film)",
+                "desc": "Hard Eight is a 1996 American crime film written and directed by Paul Thomas Anderson, starring Philip Baker Hall, John C."
+            },
+            {
+                "name": "Sydney_(Australia)",
+                "desc": "Sydney is the capital city of New South Wales and the most populous city in Australia, with a population of over 5."
+            },
+            {
+                "name": "Sydney,_Australia",
+                "desc": "Sydney is the capital city of New South Wales, Australia, known for its iconic landmarks, natural beauty, and cultural diversity, with a population of over 5."
+            },
+            {
+                "name": "Dan_Highcock",
+                "desc": "Dan Highcock is a former British wheelchair basketball player who was selected to play for Team GB in the 2012 Summer Paralympics in London."
+            }
+        ],
+        "mention_imgpath": "241ae2aabfd9ba4aa7552d3426b32af2.JPG",
+        "mention_imgdesc_Azure": {
+            "Caption": "a group of women playing basketball",
+            "Dense Captions": "a group of wheelchair basketball players; a close up of a basketball; a person in a wheelchair; a person in a wheelchair; a woman in a wheelchair; a person falling on a wheelchair; a blue pyramid shaped object; a person in a wheelchair with a basketball; a woman falling on a wheelchair; a person in a white shirt",
+            "Tags": "furniture; person; chair; wheelchair; floor; basketball; disabled sports; wheelchair sports; sports equipment; clothing; indoor; footwear; bicycle; ground; people",
+            "OCR text": "ports Centre; tre",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        333
+                    ],
+                    "caption": "a group of wheelchair basketball players",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        54,
+                        177,
+                        58,
+                        56
+                    ],
+                    "caption": "a close up of a basketball",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        367,
+                        43,
+                        85,
+                        139
+                    ],
+                    "caption": "a person in a wheelchair",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        66,
+                        60,
+                        145
+                    ],
+                    "caption": "a person in a wheelchair",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        59,
+                        50,
+                        99,
+                        129
+                    ],
+                    "caption": "a woman in a wheelchair",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        204,
+                        118,
+                        180,
+                        168
+                    ],
+                    "caption": "a person falling on a wheelchair",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        181,
+                        0,
+                        54,
+                        72
+                    ],
+                    "caption": "a blue pyramid shaped object",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        62,
+                        129,
+                        119,
+                        95
+                    ],
+                    "caption": "a person in a wheelchair with a basketball",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        1,
+                        39,
+                        484,
+                        287
+                    ],
+                    "caption": "a woman falling on a wheelchair",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        301,
+                        36,
+                        62,
+                        124
+                    ],
+                    "caption": "a person in a wheelchair",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "sports ball",
+                    "bounding_box": [
+                        59,
+                        176,
+                        53,
+                        57
+                    ],
+                    "confidence": 0.581
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        306,
+                        44,
+                        63,
+                        126
+                    ],
+                    "confidence": 0.764
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        372,
+                        48,
+                        81,
+                        131
+                    ],
+                    "confidence": 0.824
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        0,
+                        75,
+                        59,
+                        141
+                    ],
+                    "confidence": 0.793
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        71,
+                        52,
+                        86,
+                        150
+                    ],
+                    "confidence": 0.856
+                },
+                {
+                    "object_name": "wheelchair",
+                    "bounding_box": [
+                        61,
+                        114,
+                        115,
+                        112
+                    ],
+                    "confidence": 0.526
+                },
+                {
+                    "object_name": "wheelchair",
+                    "bounding_box": [
+                        369,
+                        110,
+                        94,
+                        88
+                    ],
+                    "confidence": 0.674
+                },
+                {
+                    "object_name": "Land vehicle",
+                    "bounding_box": [
+                        208,
+                        118,
+                        184,
+                        177
+                    ],
+                    "confidence": 0.575
+                }
+            ]
+        }
+    },
+    "1460": {
+        "mention": "Bratz",
+        "mention_context": "The Bratz cast signs autographs for fans.",
+        "Candentity": [
+            {
+                "name": "Bratsch",
+                "desc": "Bratsch is a village in the municipality of Gampel-Bratsch in the canton of Valais, Switzerland, that was an independent municipality until its merger with Gampel in 2009."
+            },
+            {
+                "name": "Bratz_(surname)",
+                "desc": "Bratz is a German surname with notable individuals including a Norwegian businessman, a retired American basketball player, and a 19th-century Norwegian actress and opera singer."
+            },
+            {
+                "name": "Bratz_(video_game)",
+                "desc": "Bratz is a 2002 video game based on the Bratz doll line, allowing players to control the fashion-forward characters in various activities and mini-games."
+            },
+            {
+                "name": "Volzing",
+                "desc": "Volzing is a now illegal technique in pole vaulting that allows the athlete to steady or replace the bar while in mid-air, popularized by American David Volz before being outlawed by various governing bodies."
+            },
+            {
+                "name": "Bratz_(web_series)",
+                "desc": "Bratz is a stop-motion web series based on the toy dolls, produced by MGA Entertainment and premiering on the Bratz YouTube channel."
+            },
+            {
+                "name": "Bratz_(TV_series)",
+                "desc": "Bratz is an American CGI animated television series that aired from 2005 to 2006, focusing on four teenage girls who run their own teen magazine, with a total of two seasons featuring different voice actors."
+            },
+            {
+                "name": "Divara_–_Wasser_und_Blut",
+                "desc": "Divara – Wasser und Blut is a German-language opera by Azio Corghi, based on the play In Nomine Dei by José Saramago, telling the story of Divara van Haarlem and the Münster Rebellion of 1534."
+            },
+            {
+                "name": "Bratz",
+                "desc": "Bratz is an American product line of fashion dolls and merchandise created by Carter Bryant and manufactured by MGA Entertainment, featuring four original 10-inch dolls with stylized proportions and fashion-forward clothing, and has undergone several changes and controversies throughout its history."
+            },
+            {
+                "name": "Bratz_(film)",
+                "desc": "Bratz is a 2007 American musical comedy film based on the Bratz dolls, following the story of four teenage girls and their struggles against the social pyramid in high school."
+            },
+            {
+                "name": "Rock_&_Roll_(Avril_Lavigne_song)",
+                "desc": "\"Rock & Roll\" is a song by Canadian singer-songwriter Avril Lavigne, known as the \"Pop Punk Queen\" for her contributions to the pop punk genre and her successful albums, including \"Let Go\", \"Under My Skin\", and \"The Best Damn Thing\"."
+            }
+        ],
+        "mention_imgpath": "f56265e6784ac24368ad7cc4de62e011.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a group of women standing in a hallway",
+            "Dense Captions": "a group of women standing around each other; a woman holding a bag; a woman in a white shirt; a woman holding a knife; a woman covering her face with her hand; a group of women sitting and talking; a person holding a skateboard; a person holding a book; a group of women looking at papers; a woman smiling with her mouth open",
+            "Tags": "clothing; person; human face; footwear; smile; girl; dress; indoor; party; friendship; wall; people; woman; group; floor",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        333
+                    ],
+                    "caption": "a group of women standing around each other",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        228,
+                        63,
+                        105,
+                        265
+                    ],
+                    "caption": "a woman holding a bag",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        18,
+                        92,
+                        129,
+                        237
+                    ],
+                    "caption": "a woman in a white shirt",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        144,
+                        40,
+                        101,
+                        289
+                    ],
+                    "caption": "a woman holding a knife",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        330,
+                        146,
+                        143,
+                        183
+                    ],
+                    "caption": "a woman covering her face with her hand",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        288,
+                        35,
+                        129,
+                        292
+                    ],
+                    "caption": "a group of women sitting and talking",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        142,
+                        128,
+                        113,
+                        81
+                    ],
+                    "caption": "a person holding a skateboard",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        248,
+                        160,
+                        98,
+                        75
+                    ],
+                    "caption": "a person holding a book",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        28,
+                        462,
+                        295
+                    ],
+                    "caption": "a group of women looking at papers",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        98,
+                        54,
+                        51,
+                        91
+                    ],
+                    "caption": "a woman smiling with her mouth open",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        71,
+                        81,
+                        78,
+                        240
+                    ],
+                    "confidence": 0.634
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        241,
+                        69,
+                        102,
+                        260
+                    ],
+                    "confidence": 0.825
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        312,
+                        70,
+                        98,
+                        245
+                    ],
+                    "confidence": 0.541
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        24,
+                        111,
+                        105,
+                        217
+                    ],
+                    "confidence": 0.692
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        329,
+                        149,
+                        139,
+                        176
+                    ],
+                    "confidence": 0.705
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        133,
+                        43,
+                        125,
+                        288
+                    ],
+                    "confidence": 0.874
+                }
+            ]
+        }
+    },
+    "567": {
+        "mention": "Opals",
+        "mention_context": "Marianna Tolo on Monday at the first day of the Opals training camp.",
+        "Candentity": [
+            {
+                "name": "Australia_women%27s_national_basketball_team",
+                "desc": "The Australian women's national basketball team, nicknamed the Opals, is a highly successful team that has won nine medals at FIBA international tournaments and 15 titles at the Oceania Championship for Women."
+            },
+            {
+                "name": "Opale",
+                "desc": "Opale is a small settlement in the hills southeast of Žiri in the Upper Carniola region of Slovenia."
+            },
+            {
+                "name": "Australia_women's_national_basketball_team",
+                "desc": "The Australia women's national basketball team, nicknamed the Opals, is a highly successful team that has won nine medals at FIBA international tournaments, including a gold medal at the 2006 World Championship."
+            },
+            {
+                "name": "Opale_(horse)",
+                "desc": "Opale was a British Thoroughbred racehorse and broodmare who won several races, including the Irish St."
+            },
+            {
+                "name": "Black_Opals",
+                "desc": "Black Opals was an African American literary magazine published in Philadelphia between 1927 and 1928, associated with the Harlem Renaissance and featuring contributions from notable writers and artists of the time."
+            },
+            {
+                "name": "Suzy_Batkovic",
+                "desc": "Suzy Batkovic is a professional Australian basketball player and politician who has played for various clubs and the national team, winning multiple Olympic medals, and later became a Townsville City Councillor in 2020."
+            },
+            {
+                "name": "OPALS_(Ogren_Plant_Allergy_Scale)",
+                "desc": "OPALS (Ogren Plant Allergy Scale) is an allergy rating system that measures the potential of a plant to cause allergic reactions in humans."
+            },
+            {
+                "name": "Large_Electron–Positron_Collider",
+                "desc": "The Large Electron–Positron Collider was a massive particle accelerator built at CERN, colliding electrons with positrons at energies reaching 209 GeV, and was used from 1989 to 2000 before being dismantled to make way for the Large Hadron Collider."
+            },
+            {
+                "name": "Optical_PAyload_for_Lasercomm_Science",
+                "desc": "Optical PAyload for Lasercomm Science (OPALS) is a spacecraft communication instrument developed at the Jet Propulsion Laboratory that tested laser communications technology on the International Space Station in 2014 to replace traditional radio-frequency communications and increase data downlink rates by 10-100 times."
+            },
+            {
+                "name": "Opal",
+                "desc": "Opal is a hydrated amorphous form of silica with a water content ranging from 3-21%, occurring in various types of rocks, and classified into precious and common opal, with precious opal displaying play-of-color due to its internal structure."
+            }
+        ],
+        "mention_imgpath": "4f1284dbd1d65449aa8403acfd08d135.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a woman in a green and yellow jersey",
+            "Dense Captions": "a woman in a basketball uniform; a woman wearing a green and yellow jersey; a person wearing a green and yellow jersey; a close-up of a woman's face; a blurry image of a person's arm; a close up of a logo",
+            "Tags": "sport; person; clothing; human face; athletic game; sports uniform; sportswear; sleeveless shirt; physical fitness; athlete; shoulder; sports; competition; yellow; player; volleyball; woman; indoor",
+            "OCR text": "PEAK; OPALS; Jayco",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        333
+                    ],
+                    "caption": "a woman in a basketball uniform",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        102,
+                        11,
+                        390,
+                        316
+                    ],
+                    "caption": "a woman wearing a green and yellow jersey",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        142,
+                        133,
+                        203,
+                        194
+                    ],
+                    "caption": "a person wearing a green and yellow jersey",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        169,
+                        12,
+                        122,
+                        133
+                    ],
+                    "caption": "a close-up of a woman's face",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        133,
+                        323
+                    ],
+                    "caption": "a blurry image of a person's arm",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        208,
+                        258,
+                        106,
+                        65
+                    ],
+                    "caption": "a close up of a logo",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        112,
+                        17,
+                        377,
+                        310
+                    ],
+                    "confidence": 0.891
+                }
+            ]
+        }
+    }
+}

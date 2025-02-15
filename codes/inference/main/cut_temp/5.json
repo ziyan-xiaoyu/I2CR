@@ -1,0 +1,1428 @@
+{
+    "815": {
+        "mention": "Mugabe",
+        "mention_context": "A photograph of Mugabe, President of Zimbabwe, at the African Union Summit in Addis Ababa, Ethiopia.",
+        "Candentity": [
+            {
+                "name": "Sally_Mugabe",
+                "desc": "Sally_Mugabe, also known as Amai, was the first wife of Robert Mugabe and the First Lady of Zimbabwe from 1987 until her death in 1992."
+            },
+            {
+                "name": "Sabina_Mugabe",
+                "desc": "Sabina Gabriel Mugabe was a Zimbabwean politician and the younger sister of former Zimbabwean president Robert Mugabe."
+            },
+            {
+                "name": "Victor_Wanyama",
+                "desc": "Victor Wanyama is a Kenyan professional footballer who plays as a defensive midfielder for CF Montréal and the Kenyan national team, known for being the first Kenyan player to score in the UEFA Champions League and holding the record for being the most expensive player sold by a Scottish club."
+            },
+            {
+                "name": "Mugabe's_Zimbabwe",
+                "desc": "Mugabe's Zimbabwe is a 2010 documentary film directed by Shrenik Rao that explores the country under the leadership of Robert Mugabe."
+            },
+            {
+                "name": "Mugabe%27s_Zimbabwe",
+                "desc": "\"Mugabe's Zimbabwe\" is a 2010 documentary film directed by Shrenik Rao that explores the country's tumultuous history under the leadership of Robert Mugabe."
+            },
+            {
+                "name": "Bingu_wa_Mutharika",
+                "desc": "Bingu wa Mutharika was a Malawian politician and economist who served as President of Malawi from 2004 to 2012, known for his domestic controversies and international leadership as Chairperson of the African Union."
+            },
+            {
+                "name": "Grace_Mugabe",
+                "desc": "Grace Ntombizodwa Mugabe is the widow of Zimbabwean President Robert Mugabe and a former First Lady, known for her rise to power within the ruling ZANU–PF party and her reputation for privilege and extravagance during a period of economic turmoil in the country."
+            },
+            {
+                "name": "Mugabe_Were",
+                "desc": "Mellitus Mugabe Were was a Kenyan politician affiliated with the Orange Democratic Movement who was elected to the National Assembly in 2007 but was later killed outside his home in Nairobi."
+            },
+            {
+                "name": "2017_Zimbabwean_coup_d'état",
+                "desc": "In November 2017, Zimbabwe's President Robert Mugabe was removed from office and replaced by Emmerson Mnangagwa after a military coup, amid a power struggle within the ruling ZANU-PF party."
+            },
+            {
+                "name": "Robert_Mugabe",
+                "desc": "Robert Gabriel Mugabe was a Zimbabwean revolutionary and politician who served as Prime Minister and President of Zimbabwe from 1980 to 2017, leading the country through significant political and economic changes, but also facing criticism for authoritarian rule, corruption, and human rights abuses."
+            }
+        ],
+        "mention_imgpath": "836ed0df002c4a247c03e92fdee6c03d.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a man with his hand on his chin",
+            "Dense Captions": "a man with his hand on his chin; a man with his hand on his chin; a close up of a hand; a close up of a cow's eye; a close up of an ear",
+            "Tags": "human face; person; man; wrinkle; eyewear; forehead; vision care; glasses; holding; indoor; wearing; portrait",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        332
+                    ],
+                    "caption": "a man with his hand on his chin",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        5,
+                        0,
+                        477,
+                        324
+                    ],
+                    "caption": "a man with his hand on his chin",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        194,
+                        246,
+                        183,
+                        82
+                    ],
+                    "caption": "a close up of a hand",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        108,
+                        32,
+                        292,
+                        102
+                    ],
+                    "caption": "a close up of a cow's eye",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        54,
+                        128,
+                        72,
+                        114
+                    ],
+                    "caption": "a close up of an ear",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        53,
+                        4,
+                        366,
+                        320
+                    ],
+                    "confidence": 0.879
+                }
+            ]
+        }
+    },
+    "1040": {
+        "mention": "USGS",
+        "mention_context": "The epicentre of the quake according to USGS (Source: NASA Worldwind).",
+        "Candentity": [
+            {
+                "name": "Recruit_Global_Staffing",
+                "desc": "Recruit Global Staffing is a Dutch-based recruitment and human resources company, operating temporary employment agencies and providing HR services in 13 countries across Central and Western Europe."
+            },
+            {
+                "name": "United_States_Geological_Survey",
+                "desc": "The United States Geological Survey is a scientific agency of the United States government that studies the country's landscape, natural resources, and hazards, employing approximately 8,670 people and headquartered in Reston, Virginia."
+            },
+            {
+                "name": "U.S._Geological_Survey",
+                "desc": "The United States Geological Survey (USGS) is a scientific agency of the US Department of the Interior that studies the country's landscape, natural resources, and hazards, employing approximately 8,670 people and conducting research in biology, geography, geology, and hydrology."
+            },
+            {
+                "name": "Norfolk_headless_body",
+                "desc": "The Norfolk headless body case refers to the 1974 discovery of a decapitated female body near Swaffham, Norfolk, England, whose identity remains unknown despite ongoing investigations and theories linking her to a sex worker known as \"The Duchess\"."
+            },
+            {
+                "name": "U.S._National_Geodetic_Survey",
+                "desc": "The National Geodetic Survey (NGS) is a US federal agency that defines and manages a national coordinate system, providing the foundation for various applications in transportation, communication, mapping, and science."
+            },
+            {
+                "name": "USG_(Novell)",
+                "desc": "Novell, Inc."
+            },
+            {
+                "name": "Usgs",
+                "desc": "The United States Geological Survey (USGS) is a federal agency that conducts research and studies in biology, geography, geology, and hydrology to understand the natural resources and hazards of the United States, as well as extraterrestrial bodies, with a motto of \"science for a changing world\"."
+            },
+            {
+                "name": "K_Koke",
+                "desc": "K Koke is a British rapper from North-West London, known for his diss track \"Are You Alone\" and his popular Fire in the Booth freestyle on BBC Radio 1Xtra."
+            },
+            {
+                "name": "US_Boulogne",
+                "desc": "Union Sportive de Boulogne-sur-Mer Côte d'Opale is a French football club founded in 1898, currently playing in Championnat National, with its biggest achievement being reaching the semi-finals of the 1936-37 Coupe de France."
+            },
+            {
+                "name": "FN_P90",
+                "desc": "The FN P90 is a compact submachine gun designed and manufactured by FN Herstal in Belgium, featuring a unique bullpup design, integrated reflex sight, and fully ambidextrous controls, and is used by military and police forces in over 40 nations."
+            }
+        ],
+        "mention_imgpath": "b0c15037d09e9ae8693e898db5b4f25c.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a map of the united kingdom",
+            "Dense Captions": "a map of the united kingdom; a map of england with a red circle; a map of ireland with text; a map of the water; a blue sky with no clouds; a blue sign with white text",
+            "Tags": "map; atlas; text",
+            "OCR text": "Isle of Man; Doughs; United Kingdom; Baile Dubb Cliath; Ireland; M 4.7, England, United Kingdom; Depth: 10.00 km; February 27, 2008 00:56:45 GMT; London; Belgien-; English Channel",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        357
+                    ],
+                    "caption": "a map of the united kingdom",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        88,
+                        0,
+                        283,
+                        324
+                    ],
+                    "caption": "a map of england with a red circle",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        1,
+                        116,
+                        223
+                    ],
+                    "caption": "a map of ireland with text",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        314,
+                        110,
+                        180,
+                        239
+                    ],
+                    "caption": "a map of the water",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        234,
+                        86,
+                        121
+                    ],
+                    "caption": "a blue sky with no clouds",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        315,
+                        123,
+                        149,
+                        54
+                    ],
+                    "caption": "a blue sign with white text",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "fish",
+                    "bounding_box": [
+                        94,
+                        5,
+                        284,
+                        320
+                    ],
+                    "confidence": 0.533
+                }
+            ]
+        }
+    },
+    "1285": {
+        "mention": "Robert Cailliau",
+        "mention_context": "Robert Cailliau, Jean-François Abramatic and Tim Berners-Lee at the 10th anniversary of the WWW Consortium.",
+        "Candentity": [
+            {
+                "name": "Jean_Robert",
+                "desc": "Jean Robert was a Belgian jazz saxophonist who played with various musicians in Belgium and the Netherlands, leading his own band, and continued to work as an arranger and composer in his later years."
+            },
+            {
+                "name": "Iraqi_Governing_Council",
+                "desc": "The Iraqi Governing Council was a provisional government of Iraq established by the US-led Coalition Provisional Authority in 2003, consisting of 25 members from various ethnic and religious backgrounds, which served until June 2004 when it dissolved and transferred sovereignty to the Iraqi Interim Government."
+            },
+            {
+                "name": "Robert_Robideau",
+                "desc": "Robert Eugene Robideau was an American activist who was acquitted in the 1975 shooting deaths of two FBI agents in South Dakota."
+            },
+            {
+                "name": "Jean_Bobet",
+                "desc": "Jean Bobet is a French former professional road bicycle racer who won several notable races, including Paris–Nice and Genoa–Nice, and later became a journalist, writing for various publications and contributing to television programs."
+            },
+            {
+                "name": "Robert_Crais",
+                "desc": "Robert Crais is a renowned American author of detective fiction, known for his crime novels influenced by classic writers and having won numerous awards, including the Ross Macdonald Literary Award and the Mystery Writers of America's Grand Master award."
+            },
+            {
+                "name": "Jean_Bricaud",
+                "desc": "Jean Bricaud, also known as Tau Jean II, was a French occultist and esoteric scholar who was consecrated a Gnostic bishop and played a central role in the French neo-Gnostic movement and various lines of apostolic succession."
+            },
+            {
+                "name": "Robert_Cailliau",
+                "desc": "Robert Cailliau is a Belgian informatics engineer and computer scientist who played a crucial role in the development of the World Wide Web, collaborating with Tim Berners-Lee and designing the iconic logo, among other contributions."
+            },
+            {
+                "name": "Robert_Saucier",
+                "desc": "Robert \"Bobby\" Joseph Saucier is a former American politician who served as a member of the Maine House of Representatives for Presque Isle, ME, House District 147."
+            },
+            {
+                "name": "Jean_Boiteux",
+                "desc": "Jean Boiteux is a French swimmer who has a biographical article that is currently a stub, requiring further information to be expanded."
+            },
+            {
+                "name": "Julien_Robert",
+                "desc": "Julien Robert is a retired French biathlete who won multiple medals at the Winter Olympics and World Championships, including bronze at the 2002 and 2006 Winter Olympics, and gold and bronze at the World Championships."
+            }
+        ],
+        "mention_imgpath": "d316d6d9f764c6755250a7f3962d1301.png",
+        "mention_imgdesc_Azure": {
+            "Caption": "a group of men standing together",
+            "Dense Captions": "a group of men standing together; a group of men standing together; a man wearing glasses and a jacket; a man wearing a tie and a badge; a close up of a tie; a man wearing a tie; a close up of a tie; a close-up of a man's shirt; a close-up of a man smiling; a close-up of a man's face",
+            "Tags": "person; human face; shirt; man; dress shirt; smile; clothing; tie; collar; gentleman; outerwear; glasses; outdoor; wall; standing; people; wearing",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        373
+                    ],
+                    "caption": "a group of men standing together",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        24,
+                        486,
+                        340
+                    ],
+                    "caption": "a group of men standing together",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        148,
+                        49,
+                        210,
+                        316
+                    ],
+                    "caption": "a man wearing a name tag",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        26,
+                        170,
+                        339
+                    ],
+                    "caption": "a man wearing a tie and a badge",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        64,
+                        156,
+                        51,
+                        200
+                    ],
+                    "caption": "a close up of a tie",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        340,
+                        50,
+                        150,
+                        317
+                    ],
+                    "caption": "a man wearing a tie",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        375,
+                        187,
+                        62,
+                        182
+                    ],
+                    "caption": "a close up of a tie",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        181,
+                        158,
+                        112,
+                        201
+                    ],
+                    "caption": "a close-up of a man's shirt",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        210,
+                        56,
+                        96,
+                        119
+                    ],
+                    "caption": "a close-up of a man smiling",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        60,
+                        31,
+                        92,
+                        121
+                    ],
+                    "caption": "a close-up of a man's face",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "Sunglasses",
+                    "bounding_box": [
+                        220,
+                        110,
+                        75,
+                        24
+                    ],
+                    "confidence": 0.516
+                },
+                {
+                    "object_name": "tie",
+                    "bounding_box": [
+                        71,
+                        152,
+                        37,
+                        208
+                    ],
+                    "confidence": 0.568
+                },
+                {
+                    "object_name": "tie",
+                    "bounding_box": [
+                        385,
+                        199,
+                        52,
+                        174
+                    ],
+                    "confidence": 0.705
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        2,
+                        38,
+                        175,
+                        328
+                    ],
+                    "confidence": 0.867
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        339,
+                        55,
+                        161,
+                        318
+                    ],
+                    "confidence": 0.884
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        168,
+                        80,
+                        196,
+                        293
+                    ],
+                    "confidence": 0.73
+                }
+            ]
+        }
+    },
+    "1360": {
+        "mention": "Gold Coast Suns",
+        "mention_context": "GWS Giants players 18 Jeremy Cameron and 30 Taylor Adams in a game earlier this season against the Gold Coast Suns.",
+        "Candentity": [
+            {
+                "name": "2015_Gold_Coast_Suns_season",
+                "desc": "The 2015 Gold Coast Suns season was the team's fifth season in the Australian Football League."
+            },
+            {
+                "name": "Gold_Coast_Suns_(baseball)",
+                "desc": "The Gold Coast Suns was a professional baseball team that played in the Senior Professional Baseball Association's 1989 inaugural season, struggling to a 32-39 record and folding due to low attendance."
+            },
+            {
+                "name": "Australian_rules_football",
+                "desc": "Australian rules football, also known as Aussie rules or AFL, is a contact sport played between two teams of 18 players on an oval field, where points are scored by kicking the ball between goal posts, with a focus on marking, tackling, and physical contests."
+            },
+            {
+                "name": "Gold_Coast_Suns",
+                "desc": "The Gold Coast Suns is a professional Australian rules football club based in Carrara, Queensland, that competes in the Australian Football League and has been playing since the 2011 season."
+            },
+            {
+                "name": "2012_Gold_Coast_Suns_season",
+                "desc": "The 2012 Gold Coast Suns season was the team's second season in the Australian Football League, with their reserves team also competing in the North East Australian Football League (NEAFL)."
+            },
+            {
+                "name": "Football_Gold_Coast",
+                "desc": "Football Gold Coast is a Football Queensland administrative zone that governs football in the Gold Coast region of Queensland, Australia."
+            },
+            {
+                "name": "Gold_Coast_Suns_Club_Champion",
+                "desc": "The Gold Coast Suns Club Champion is an annual award given to the best and fairest player at the Gold Coast Football Club in the Australian Football League season, determined by a voting system among five coaches."
+            },
+            {
+                "name": "2013_Gold_Coast_Suns_season",
+                "desc": "The 2013 Gold Coast Suns season was the club's third season in the Australian Football League, captained by Gary Ablett Jr."
+            },
+            {
+                "name": "2018_Gold_Coast_Suns_season",
+                "desc": "The 2018 Gold Coast Suns season was the Gold Coast Suns' 8th season in the Australian Football League, with the team competing in the 2018 AFL season and also fielding a reserves team in the NEAFL."
+            },
+            {
+                "name": "Gold_Coast_Sun",
+                "desc": "The Gold Coast Sun is a weekly newspaper serving Australia's Gold Coast region, established in 1967 and acquired by News Corporation in 1987, before ceasing publication in 2020."
+            }
+        ],
+        "mention_imgpath": "e374072adba4d873124954d49d89b0a1.png",
+        "mention_imgdesc_Azure": {
+            "Caption": "a group of people on a field",
+            "Dense Captions": "a group of people on a field; a person wearing white shorts; a person in shorts on a field; a person in shorts with number on back; a group of people on a field; a blurry image of a person running; a person in a white shirt and shorts; a blurry image of a person running; a blurry image of a group of people running; a blurry image of a man running",
+            "Tags": "grass; person; sport; outdoor; athletic game; team sport; footwear; competition event; ball game; field; sports; sport venue; sportswear; competition; tournament; sports equipment; athletic shoe; jersey; artificial turf; athlete; championship; sports uniform; stadium; multi-sport event; football player; group; player; people; woman; rugby; team; running",
+            "OCR text": "1.124; 28417; 35 130; 1300; S",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        338
+                    ],
+                    "caption": "a group of people on a field",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        232,
+                        57,
+                        60,
+                        179
+                    ],
+                    "caption": "a person wearing white shorts",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        33,
+                        66,
+                        82,
+                        224
+                    ],
+                    "caption": "a person in shorts on a field",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        278,
+                        63,
+                        74,
+                        173
+                    ],
+                    "caption": "a person in shorts with number on back",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        3,
+                        5,
+                        478,
+                        291
+                    ],
+                    "caption": "a group of people on a field",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        375,
+                        38,
+                        54,
+                        154
+                    ],
+                    "caption": "a blurry image of a person running",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        399,
+                        50,
+                        74,
+                        142
+                    ],
+                    "caption": "a person in a white shirt and shorts",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        158,
+                        17,
+                        51,
+                        127
+                    ],
+                    "caption": "a blurry image of a person running",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        304,
+                        23,
+                        62,
+                        128
+                    ],
+                    "caption": "a blurry image of a group of people running",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        31,
+                        60,
+                        106
+                    ],
+                    "caption": "a blurry image of a man running",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "footwear",
+                    "bounding_box": [
+                        68,
+                        273,
+                        32,
+                        18
+                    ],
+                    "confidence": 0.505
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        17,
+                        31,
+                        46,
+                        106
+                    ],
+                    "confidence": 0.635
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        126,
+                        16,
+                        42,
+                        127
+                    ],
+                    "confidence": 0.652
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        169,
+                        15,
+                        52,
+                        127
+                    ],
+                    "confidence": 0.534
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        85,
+                        47,
+                        47,
+                        107
+                    ],
+                    "confidence": 0.575
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        371,
+                        40,
+                        56,
+                        154
+                    ],
+                    "confidence": 0.736
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        229,
+                        55,
+                        63,
+                        184
+                    ],
+                    "confidence": 0.692
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        264,
+                        61,
+                        82,
+                        174
+                    ],
+                    "confidence": 0.636
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        418,
+                        55,
+                        58,
+                        143
+                    ],
+                    "confidence": 0.751
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        36,
+                        73,
+                        89,
+                        214
+                    ],
+                    "confidence": 0.713
+                }
+            ]
+        }
+    },
+    "1225": {
+        "mention": "French Republic",
+        "mention_context": "Logo of the French Republic",
+        "Candentity": [
+            {
+                "name": "France",
+                "desc": "France is a country located in Western Europe, consisting of metropolitan France and several overseas regions and territories, with a rich history dating back to the Iron Age and a strong cultural, political, and economic presence in the world today."
+            },
+            {
+                "name": "French_Fourth_Republic",
+                "desc": "The French Fourth Republic was the republican government of France from 1946 to 1958, marked by political dysfunction, frequent government changes, and inability to make effective decisions, ultimately leading to its collapse and the establishment of the modern-day Fifth Republic."
+            },
+            {
+                "name": "French_Third_Republic",
+                "desc": "The French Third Republic was the system of government that existed in France from 1870 to 1940, characterized by a provisional government that became permanent, and was marked by political instability, colonial expansion, and sharply polarized politics between left and right factions."
+            },
+            {
+                "name": "Ligurian_Republic",
+                "desc": "The Ligurian Republic was a French client state formed by Napoleon in 1797, consisting of the old Republic of Genoa and surrounding territories, which was governed by a series of regimes, including a directory, commission, and doge, before being annexed by France in 1805."
+            },
+            {
+                "name": "French_Constitution_of_1791",
+                "desc": "The French Constitution of 1791 was the first written constitution in France, adopted after the collapse of the absolute monarchy, establishing popular sovereignty and constitutionality as its core principles."
+            },
+            {
+                "name": "French_Fifth_Republic",
+                "desc": "The French Fifth Republic is the current constitution of France, adopted in 1958 and providing the framework for the country's government and politics."
+            },
+            {
+                "name": "Highland_Park_station_(Illinois)",
+                "desc": "Highland Park station is a suburban city in Lake County, Illinois, located 25 miles north of downtown Chicago, with a population of 30,176 as of 2020."
+            },
+            {
+                "name": "French_First_Republic",
+                "desc": "The French First Republic was a period in French history that lasted from 1792 to 1804, marked by the fall of the monarchy, establishment of the National Convention, and eventual rise of Napoleon to power."
+            },
+            {
+                "name": "French_Second_Republic",
+                "desc": "The French Second Republic was a short-lived republican government of France from 1848 to 1851, led by President Louis-Napoléon Bonaparte, who eventually became Emperor Napoleon III after a coup."
+            },
+            {
+                "name": "Provisional_Government_of_the_French_Republic",
+                "desc": "The Provisional Government of the French Republic was an interim government established in 1944, following the liberation of continental France, which handled the aftermath of the occupation, continued to wage war against Germany, and prepared the ground for the establishment of the French Fourth Republic."
+            }
+        ],
+        "mention_imgpath": "c819e1eb379811d3e0dc38214804ac1e.png",
+        "mention_imgdesc_Azure": {
+            "Caption": "a black background with red text",
+            "Dense Captions": "a black background with red text; a black background with red text",
+            "Tags": "font; graphics; text; design; typography",
+            "OCR text": "Image Not; Available",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        100,
+                        100
+                    ],
+                    "caption": "a black background with red text",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        97,
+                        95
+                    ],
+                    "caption": "a black background with red text",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": []
+        }
+    },
+    "490": {
+        "mention": "Uruguay",
+        "mention_context": "Paul the Octopus correctly predicts a win by Germany over Uruguay in the third place play-off of the 2010 FIFA World Cup.",
+        "Candentity": [
+            {
+                "name": "Uruguay_(Milan_Metro)",
+                "desc": "Uruguay is a station on Line 1 of Milan Metro in Milan, Italy, located between Via Benedetto Croce and Via Giacomo Quarenghi, and opened in 1980."
+            },
+            {
+                "name": "Uruguay_national_rugby_union_team",
+                "desc": "The Uruguay national rugby union team, nicknamed Los Teros, represents Uruguay in international rugby union and has qualified for the Rugby World Cup four times, currently ranked 17th in the world and 3rd in the Americas region."
+            },
+            {
+                "name": "Uruguayan_wine",
+                "desc": "Uruguay is a significant wine producer in South America, particularly known for its red Tannat wines and emerging white Albariño wines."
+            },
+            {
+                "name": "Uruguay_Davis_Cup_team",
+                "desc": "The Uruguay Davis Cup team represents Uruguay in Davis Cup tennis competition, governed by the Asociación Uruguaya de Tenis, and has been competing in the Americas Zone Group I since 2019 after winning the Group II final in 2007."
+            },
+            {
+                "name": "Süper_Lig",
+                "desc": "The Süper Lig is a Turkish professional football league, the top-flight of the Turkish football league system, featuring 18 clubs competing annually from August to May with a champion decided and three clubs promoted and relegated."
+            },
+            {
+                "name": "ARA_Uruguay",
+                "desc": "The ARA Uruguay is a historic ship built in 1874 in England, serving as a gunboat, school ship, and expedition support vessel for over 50 years before being converted into a museum ship in Buenos Aires."
+            },
+            {
+                "name": "Uruguay_national_football_team",
+                "desc": "The Uruguay national football team, also known as La Celeste, is a highly successful team that represents Uruguay in international football, having won 20 official titles, including two FIFA World Cup titles and 15 Copa América titles, despite being the smallest country in the world to have won a World Cup in terms of population."
+            },
+            {
+                "name": "Uruguay_River",
+                "desc": "The Uruguay River is a major river in South America that forms parts of the borders of Brazil, Argentina, and Uruguay, separating some of the Argentine provinces from the other two countries."
+            },
+            {
+                "name": "Uruguay",
+                "desc": "Uruguay is a country in southeastern South America, bordering Argentina, Brazil, and the Atlantic Ocean, known for its democratic constitutional republic, high standard of living, and progressive social policies, including legalized cannabis, same-sex marriage, and abortion."
+            },
+            {
+                "name": "Uruguay_(Buenos_Aires_Underground)",
+                "desc": "Uruguay is a station on Line B of the Buenos Aires Underground, located at the intersection of Avenida Corrientes and Calle Uruguay, and was opened on 22 July 1931 as part of the line's extension."
+            }
+        ],
+        "mention_imgpath": "3e924eff12a7e1a0d3159f45005383e4.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a small animal sitting on a plastic box",
+            "Dense Captions": "a small animal on a transparent box; a close up of an animal; a bird sitting on a plastic box; a blurry image of a green object; a blurry image of a flag; a blurry image of a cat",
+            "Tags": "aquarium; animal; outdoor",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        310,
+                        236
+                    ],
+                    "caption": "a small animal on a transparent box",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        53,
+                        0,
+                        213,
+                        124
+                    ],
+                    "caption": "a close up of an animal",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        293,
+                        230
+                    ],
+                    "caption": "a bird sitting on a plastic box",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        214,
+                        0,
+                        93,
+                        52
+                    ],
+                    "caption": "a blurry image of a green object",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        11,
+                        74,
+                        123,
+                        155
+                    ],
+                    "caption": "a blurry image of a flag",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        137,
+                        1,
+                        168,
+                        58
+                    ],
+                    "caption": "a blurry image of a cat",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": []
+        }
+    },
+    "603": {
+        "mention": "Korla",
+        "mention_context": "Panorama of downtown Korla, Xinjiang in the majestic Tian Shan mountain range. May 2007.",
+        "Candentity": [
+            {
+                "name": "Ku'erle_City",
+                "desc": "Ku'erle City, also known as Korla, is a county-level city and the seat of the Bayingolin Mongol Autonomous Prefecture in Xinjiang, China, known for its production of fragrant pears and oil fields."
+            },
+            {
+                "name": "KRLA",
+                "desc": "KRLA \"AM 870 The Answer\" is a talk radio station broadcasting in Los Angeles and Southern California, featuring a local wake-up show and syndicated conservative talk shows, as well as hosting notable personalities like Larry Elder and Ben Shapiro."
+            },
+            {
+                "name": "Korla_Awgust_Kocor",
+                "desc": "Korla Awgust Kocor was a Sorbian composer and conductor, known as the \"founding father of secular Sorbian music\" and composer of the Lusatian national anthem Rjana Łužica."
+            },
+            {
+                "name": "Golmud–Korla_railway",
+                "desc": "The Golmud–Korla railway is a 1,214-kilometer long railway connecting Qinghai province and Xinjiang province in western China, completed in 2020 and costing CN¥36 billion, which reduces travel time between the two provinces from 26 hours to 12 hours."
+            },
+            {
+                "name": "Korla",
+                "desc": "Korla is a county-level city and the seat of the Bayingolin Mongol Autonomous Prefecture in Xinjiang, China, known for its production of fragrant pears and being a center for the Tarim oil fields."
+            },
+            {
+                "name": "Ku'erle",
+                "desc": "Ku'erle, also known as Korla, is a county-level city and the seat of the Bayingolin Mongol Autonomous Prefecture in Xinjiang, China, known for its production of fragrant pears and oil fields."
+            },
+            {
+                "name": "Korla_Pandit",
+                "desc": "Korla Pandit, born John Roland Redd, was an American musician and composer who passed as an Indian and became known as the \"Godfather of Exotica\" for his unique blend of music and exotic persona on television, radio, and film."
+            },
+            {
+                "name": "Korla,_Xinjiang",
+                "desc": "Korla, also known as Kurla or Kuerle, is a county-level city and the seat of Bayingolin Mongol Autonomous Prefecture in Xinjiang, China, known for its production of fragrant pears and oil fields."
+            },
+            {
+                "name": "Baghdad_City",
+                "desc": "Baghdad is the capital of Iraq, a city with a rich history dating back to the 8th century as a major cultural, commercial, and intellectual center of the Muslim world, with a complex and tumultuous past marked by destruction, decline, and recent efforts to rebuild and recover."
+            },
+            {
+                "name": "Korla_Airport",
+                "desc": "Korla Airport is an airport serving Korla, a city in Xinjiang, China, providing air transportation to the region."
+            }
+        ],
+        "mention_imgpath": "58c0db2bcd5049f1904a4529a01655c5.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "an aerial view of a city",
+            "Dense Captions": "an aerial view of a city; a high angle view of a village; a river running through a city; a aerial view of a city; a city in the desert; a building with a lot of debris",
+            "Tags": "outdoor; aerial photography; building; ground; water; bird's-eye view; sky; urban design; urban area; shore; nature; city; river; aerial; panorama",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        222
+                    ],
+                    "caption": "an aerial view of a city",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        120,
+                        53,
+                        359,
+                        162
+                    ],
+                    "caption": "a high angle view of a village",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        55,
+                        182,
+                        126
+                    ],
+                    "caption": "a river running through a city",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        123,
+                        152,
+                        209,
+                        66
+                    ],
+                    "caption": "a aerial view of a city",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        116,
+                        157,
+                        121,
+                        62
+                    ],
+                    "caption": "a building with a lot of debris",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": []
+        }
+    },
+    "1342": {
+        "mention": "10th Earl of Dartmouth",
+        "mention_context": "William Legge, 10th Earl of Dartmouth, MEP for South West England.",
+        "Candentity": [
+            {
+                "name": "Dartmouth_(UK_Parliament_constituency)",
+                "desc": "Dartmouth was a parliamentary borough in Devon, England that elected members to the House of Commons from 1298 to 1868, with varying numbers of representatives over time."
+            },
+            {
+                "name": "Earl_of_Devon",
+                "desc": "The Earl of Devon is a title in the English peerage that has been created multiple times, held by the de Redvers and Courtenay families, with a complex history of attaintments, restorations, and claims, and is associated with Powderham Castle in Devon."
+            },
+            {
+                "name": "Marquess_of_Halifax",
+                "desc": "The Marquess of Halifax was a title in the Peerage of England created in 1682 for George Savile, 1st Earl of Halifax, and became extinct on the death of the 2nd Marquess in 1700, while the baronetcy continued until its extinction in 1784."
+            },
+            {
+                "name": "Earl_of_Halifax",
+                "desc": "The Earl of Halifax is a title created four times in British history, referring to Halifax, West Yorkshire, with the most recent creation being in 1944 for Lord Halifax, the former Viceroy of India and prominent 1930s minister."
+            },
+            {
+                "name": "Lord_William_Dartmouth",
+                "desc": "Lord William Dartmouth is a British politician and hereditary peer who served as a Member of the European Parliament for South West England from 2009 to 2019, representing the UK Independence Party (UKIP)."
+            },
+            {
+                "name": "Earl_of_Dartmouth",
+                "desc": "The Earl of Dartmouth is a title in the Peerage of Great Britain created in 1711 for William Legge, 2nd Baron Dartmouth."
+            },
+            {
+                "name": "Dartmouth_North",
+                "desc": "Dartmouth North is a provincial electoral district in Dartmouth, Nova Scotia, Canada, that elects one member of the Nova Scotia House of Assembly, created in 1966 and renamed in 1967."
+            },
+            {
+                "name": "Earl_of_Plymouth",
+                "desc": "The Earl of Plymouth is a title that has been created three times in the Peerage of England and the Peerage of the United Kingdom."
+            },
+            {
+                "name": "Marquess_of_Exeter",
+                "desc": "The Marquess of Exeter is a title created twice, once in the Peerage of England in 1525 for Henry Courtenay, 2nd Earl of Devon, and again in the Peerage of the United Kingdom, with the first creation being forfeited in 1538."
+            },
+            {
+                "name": "Dartmouth-Cole_Harbour_(provincial_electoral_district)",
+                "desc": "Dartmouth-Cole Harbour was a provincial electoral district in Nova Scotia, Canada, that existed from 1993 to 2003 and elected one member to the Nova Scotia House of Assembly."
+            }
+        ],
+        "mention_imgpath": "45c5daf82bd6a59fbade12b617f2f115.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a man in a suit and tie",
+            "Dense Captions": "a man in a suit and tie; a man in a suit and tie; a close up of a tie; a man in a suit smiling",
+            "Tags": "human face; person; clothing; smile; necktie; formal wear; tie; wall; forehead; businessperson; collar; dress shirt; blazer; chin; white-collar worker; shirt; gentleman; eyebrow; man; outerwear; comb over; headshot; neck; wearing; suit; indoor; business",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        368
+                    ],
+                    "caption": "a man in a suit and tie",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        64,
+                        28,
+                        396,
+                        332
+                    ],
+                    "caption": "a man in a suit and tie",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        198,
+                        260,
+                        60,
+                        106
+                    ],
+                    "caption": "a close up of a tie",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        156,
+                        30,
+                        162,
+                        216
+                    ],
+                    "caption": "a man in a suit smiling",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "tie",
+                    "bounding_box": [
+                        201,
+                        267,
+                        55,
+                        95
+                    ],
+                    "confidence": 0.744
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        80,
+                        40,
+                        371,
+                        326
+                    ],
+                    "confidence": 0.958
+                }
+            ]
+        }
+    },
+    "715": {
+        "mention": "Treasury Secretary Hank Paulson",
+        "mention_context": "Bush delivers a statement on the agreement with Treasury Secretary Hank Paulson looking on.",
+        "Candentity": [
+            {
+                "name": "Shadow_Chief_Secretary_to_the_Treasury",
+                "desc": "The Shadow Chief Secretary to the Treasury is the most junior member of the Shadow Cabinet, serving as the deputy to the Shadow Chancellor of the Exchequer and primary opposition to the Government's Chief Secretary to the Treasury."
+            },
+            {
+                "name": "Ron_Stanton",
+                "desc": "Ron Stanton was an Australian professional rugby league footballer who played in the 1950s, representing Queensland and winning a premiership with Eastern Suburbs before retiring due to injury and later coaching the Souths Club at Gordonvale, Queensland."
+            },
+            {
+                "name": "Office_of_the_Superintendent_of_Financial_Institutions",
+                "desc": "The Office of the Superintendent of Financial Institutions is an independent agency of the Government of Canada responsible for regulating banks, insurance companies, trust companies, loan companies, and pension plans to maintain public confidence in the Canadian financial system."
+            },
+            {
+                "name": "United_States_Deputy_Secretary_of_the_Treasury",
+                "desc": "The United States Deputy Secretary of the Treasury is a high-ranking official who advises and assists the Secretary of the Treasury, plays a key role in formulating and executing Treasury policies, and succeeds the secretary in their absence or unavailability."
+            },
+            {
+                "name": "Deputy_Secretary_of_State_for_Management_and_Resources",
+                "desc": "The Deputy Secretary of State for Management and Resources is the third in charge of the United States Department of State, serving as a principal advisor to the Secretary of State and overseeing foreign assistance and overseas diplomatic operations."
+            },
+            {
+                "name": "Office_of_the_General_Counsel_for_the_Department_of_the_Treasury",
+                "desc": "The Office of the General Counsel for the Department of the Treasury is the chief legal advisor to the Secretary and senior officials, providing legal and policy advice and overseeing the Treasury Legal Division."
+            },
+            {
+                "name": "Deputy_Director_of_the_National_Security_Agency",
+                "desc": "The Deputy Director of the National Security Agency is the highest-ranking civilian within the NSA, serving as the agency's chief operating officer and principal advisor to the Director, with a focus on guiding strategies and policy."
+            },
+            {
+                "name": "Spokesperson_for_the_United_States_Department_of_State",
+                "desc": "The Spokesperson for the United States Department of State is a U."
+            },
+            {
+                "name": "110th_United_States_Congress",
+                "desc": "The 110th United States Congress was a meeting of the legislative branch of the federal government of the United States, serving from 2007 to 2009."
+            },
+            {
+                "name": "Ron_Fuller_(artist)",
+                "desc": "Ron Fuller was a British artist and toy designer who created highly sought-after wooden toys and collaborated with Cabaret Mechanical Theatre, with his work exhibited and sold globally."
+            }
+        ],
+        "mention_imgpath": "6cee47c0371b9e740966d34ad07ceaec.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "two men standing at a podium",
+            "Dense Captions": "a man standing at a podium with a microphone; a man in a suit and tie; a man in a suit and tie; a sign on a desk; a man in a suit and tie at a podium; a man in a suit and tie; a close up of a flag; a man standing at a podium with a microphone",
+            "Tags": "suit; clothing; person; man; tie; official; human face; businessperson; white-collar worker; management; blazer; spokesperson; speaker; government; formal wear; speech; employment; flag of the united states; public speaking; lectern; flag; indoor",
+            "OCR text": "*********; YXv; T; THE WHI; OUSE; THE WHITE HOUSE; WASHINGTON",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        350
+                    ],
+                    "caption": "a man standing at a podium with a microphone",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        31,
+                        41,
+                        174,
+                        300
+                    ],
+                    "caption": "a man in a suit and tie",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        231,
+                        47,
+                        184,
+                        172
+                    ],
+                    "caption": "a man in a suit and tie",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        164,
+                        215,
+                        270,
+                        130
+                    ],
+                    "caption": "a sign on a desk",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        208,
+                        42,
+                        213,
+                        301
+                    ],
+                    "caption": "a man in a suit and tie at a podium",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        181,
+                        0,
+                        260,
+                        151
+                    ],
+                    "caption": "a man in a suit and tie",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        423,
+                        0,
+                        71,
+                        346
+                    ],
+                    "caption": "a close up of a flag",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        11,
+                        0,
+                        471,
+                        339
+                    ],
+                    "caption": "a man standing at a podium with a microphone",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "flag",
+                    "bounding_box": [
+                        427,
+                        0,
+                        73,
+                        350
+                    ],
+                    "confidence": 0.514
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        32,
+                        36,
+                        180,
+                        314
+                    ],
+                    "confidence": 0.889
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        226,
+                        48,
+                        193,
+                        178
+                    ],
+                    "confidence": 0.543
+                }
+            ]
+        }
+    },
+    "687": {
+        "mention": "Cocker Square",
+        "mention_context": "Blackpool's promenade, showing the treacherous sea conditions and the steps in the Cocker Square area.",
+        "Candentity": [
+            {
+                "name": "Eccleston_Square",
+                "desc": "Eccleston Square is a square located in Pimlico, London."
+            },
+            {
+                "name": "Prittlewell_Square",
+                "desc": "Prittlewell Square is a geographic location with coordinates 51°32′05″N 0°42′30″E."
+            },
+            {
+                "name": "Lechmere_Square",
+                "desc": "Lechmere Square is a historic area in East Cambridge, Massachusetts, that has undergone significant development and revitalization, featuring a shopping mall, office buildings, and condominiums, as well as proximity to the Charles River and the Museum of Science."
+            },
+            {
+                "name": "Eldon_Square_Shopping_Centre",
+                "desc": "Eldon Square Shopping Centre is a shopping centre in Newcastle upon Tyne, England, built on the site of Old Eldon Square, which opened in 1976 and was rebranded as Intu Eldon Square in 2013 before reverting to its original name in 2020."
+            },
+            {
+                "name": "Tidbury_Green",
+                "desc": "Tidbury Green is a village and civil parish in the Metropolitan Borough of Solihull, West Midlands, England, with a population of 1,130 as of 2011, known for its modern settlement and historical vegetable growers association."
+            },
+            {
+                "name": "Ladbroke_Square",
+                "desc": "Ladbroke Square is a garden square located in Notting Hill, west London, England."
+            },
+            {
+                "name": "Ramsden_Square",
+                "desc": "Ramsden Square is a historic square in Barrow-in-Furness, England, laid out in the 1840s as a focal point of the town's master plan, featuring a statue of Sir James Ramsden and framed by historic buildings."
+            },
+            {
+                "name": "Bonnington_Square",
+                "desc": "Bonnington Square is a historic square in Vauxhall, south London, built in the 1870s, which gained notoriety in the 1980s when it was squatted by residents who occupied vacant houses awaiting demolition."
+            },
+            {
+                "name": "Bermondsey_Square",
+                "desc": "Bermondsey Square is a location in south London, England, that was formerly the site of the 11th century Bermondsey Abbey, now redeveloped with apartments, offices, a hotel, restaurants, and an independent cinema."
+            },
+            {
+                "name": "Greydon_Square",
+                "desc": "Greydon Square is an American West Coast hip hop emcee, producer, and sound engineer from Compton, California, who is also a former U."
+            }
+        ],
+        "mention_imgpath": "65001eab379b62677eca42720b232198.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a wave crashing against a railing",
+            "Dense Captions": "a wave crashing against a railing; a red and white object with a yellow circle on it; a white cloud in the sky; a wet sidewalk with a metal fence; a close-up of a road; a boxing ring with a metal fence; a red sign with a white circle on it",
+            "Tags": "outdoor; sky; water; wave; ocean; cloud; ground; beach; rail; pier; coast",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        368
+                    ],
+                    "caption": "a wave crashing against a railing",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        151,
+                        59,
+                        74
+                    ],
+                    "caption": "a red and white object with a yellow circle on it",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        332,
+                        196
+                    ],
+                    "caption": "a white cloud in the sky",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        193,
+                        489,
+                        165
+                    ],
+                    "caption": "a wet sidewalk with a metal fence",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        116,
+                        276,
+                        376,
+                        88
+                    ],
+                    "caption": "a close-up of a road",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        157,
+                        488,
+                        108
+                    ],
+                    "caption": "a boxing ring with a metal fence",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        144,
+                        61,
+                        143
+                    ],
+                    "caption": "a red sign with a white circle on it",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": []
+        }
+    }
+}

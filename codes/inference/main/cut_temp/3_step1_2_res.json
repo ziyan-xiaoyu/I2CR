@@ -1,0 +1,52 @@
+{
+    "220": {
+        "sample_id": "220",
+        "ans_1": "Pennsylvania",
+        "ans_2": "Pennsylvania"
+    },
+    "1231": {
+        "sample_id": "1231",
+        "ans_1": "Pound_sterling",
+        "ans_2": "Pound_sterling"
+    },
+    "1000": {
+        "sample_id": "1000",
+        "ans_1": "Guy_Verhofstadt",
+        "ans_2": "Guy_Verhofstadt"
+    },
+    "1377": {
+        "sample_id": "1377",
+        "ans_1": "Joe_Schriner",
+        "ans_2": "Joe_Schriner"
+    },
+    "1333": {
+        "sample_id": "1333",
+        "ans_1": "Star",
+        "ans_2": "Star"
+    },
+    "391": {
+        "sample_id": "391",
+        "ans_1": "Scotland",
+        "ans_2": "Scotland"
+    },
+    "1039": {
+        "sample_id": "1039",
+        "ans_1": "nil",
+        "ans_2": "nil"
+    },
+    "872": {
+        "sample_id": "872",
+        "ans_1": "Cadillac",
+        "ans_2": "Cadillac"
+    },
+    "1330": {
+        "sample_id": "1330",
+        "ans_1": "nil",
+        "ans_2": "nil"
+    },
+    "839": {
+        "sample_id": "839",
+        "ans_1": "Monteverde,_Costa_Rica",
+        "ans_2": "Monteverde"
+    }
+}

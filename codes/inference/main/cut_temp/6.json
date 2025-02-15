@@ -1,0 +1,1339 @@
+{
+    "1416": {
+        "mention": "Claudia Mo",
+        "mention_context": "Claudia Mo of Civic Party",
+        "Candentity": [
+            {
+                "name": "Claudia_Rivero_(journalist)",
+                "desc": "Claudia Rivero is a Philadelphia-based journalist and reporter who has worked for various news outlets, including NBC10 and KTVK, and has received multiple awards for her work, including two Emmy awards and two Associated Press awards."
+            },
+            {
+                "name": "Claudia_Lumor",
+                "desc": "Claudia Lumor is a Ghanaian publisher and entrepreneur who founded Glitz Africa Magazine, Glitz Style Awards, and Glitz Africa Fashion Week Ghana, serving as their executive producer."
+            },
+            {
+                "name": "Claudia_Losch",
+                "desc": "Claudia Losch is a retired German shot putter who won the 1984 Olympic Championship and held multiple titles, including the 1989 World Indoor Championship and nine consecutive German championships."
+            },
+            {
+                "name": "Claudia_(magazine)",
+                "desc": "Claudia is a Polish language monthly women's magazine published in Warsaw, Poland."
+            },
+            {
+                "name": "Mikuni_Shimokawa",
+                "desc": "Mikuni Shimokawa is a Japanese pop singer and songwriter, known for her anime theme music work, particularly for the Full Metal Panic! series, and also a former member of the girl group Checkicco."
+            },
+            {
+                "name": "Claudia_Mo",
+                "desc": "Claudia Mo, a Hong Kong journalist and politician, is a member of the pan-democracy camp who was arrested and charged with conspiracy to commit subversion under Hong Kong's National Security Law, and is currently in gaol custody pending further investigation."
+            },
+            {
+                "name": "Claudia_Moreno",
+                "desc": "Claudia Cristina Moreno González, a Venezuelan beauty pageant titleholder, was the official representative of Venezuela to the Miss Universe 2000 pageant."
+            },
+            {
+                "name": "Claudia_Montero",
+                "desc": "Claudia_Montero is a entity with no description provided."
+            },
+            {
+                "name": "Claudia_Molitor",
+                "desc": "Claudia Molitor is a British-German composer born in 1974, based in Brighton, East Sussex, England."
+            },
+            {
+                "name": "Claudia_Andujar",
+                "desc": "Claudia Andujar is a Swiss-born Brazilian photographer and activist."
+            }
+        ],
+        "mention_imgpath": "ed7156117d2b37351eb6f13141fa0303.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a woman holding books in a store",
+            "Dense Captions": "a woman holding books in a store; a woman holding a book; a person wearing blue jeans; a woman smiling at the camera; a book with a picture of two men; a close up of a person's pants; a person holding a book; a person holding a camera",
+            "Tags": "clothing; person; human face; smile; book; indoor; girl; woman; ceiling; holding; store; standing; young",
+            "OCR text": "次文化; 次文; LONG Time No Talk; 中英會谈",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        375,
+                        500
+                    ],
+                    "caption": "a woman holding books in a store",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        40,
+                        40,
+                        252,
+                        449
+                    ],
+                    "caption": "a woman holding a book",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        109,
+                        63,
+                        343
+                    ],
+                    "caption": "a person wearing blue jeans",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        193,
+                        249,
+                        86,
+                        111
+                    ],
+                    "caption": "a woman smiling at the camera",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        81,
+                        263,
+                        143,
+                        99
+                    ],
+                    "caption": "a book with a picture of two men",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        99,
+                        418,
+                        172,
+                        78
+                    ],
+                    "caption": "a close up of a person's pants",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        42,
+                        175,
+                        175,
+                        264
+                    ],
+                    "caption": "a person holding a book",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        146,
+                        55,
+                        145
+                    ],
+                    "caption": "a person holding a phone",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        1,
+                        118,
+                        64,
+                        334
+                    ],
+                    "confidence": 0.703
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        50,
+                        53,
+                        241,
+                        397
+                    ],
+                    "confidence": 0.634
+                }
+            ]
+        }
+    },
+    "152": {
+        "mention": "Iron Man",
+        "mention_context": "Cosplayers cosplaying Marvel Cinematic Universe's Iron Man (left) and Spider-Man (right).",
+        "Candentity": [
+            {
+                "name": "Iron_Man_(2008_film)",
+                "desc": "Iron Man is a 2008 American superhero film directed by Jon Favreau, starring Robert Downey Jr."
+            },
+            {
+                "name": "Iron_Man",
+                "desc": "Iron Man is a fictional superhero and a main character in the Marvel Cinematic Universe, created by Stan Lee, Larry Lieber, and Don Heck, who wears a powered exoskeleton suit to fight crime and protect the world."
+            },
+            {
+                "name": "Peter_Parker_(Marvel_Cinematic_Universe)",
+                "desc": "Peter Parker, portrayed by Tom Holland, is a high school student with spider-like abilities who operates as a vigilante and joins the Avengers in the Marvel Cinematic Universe."
+            },
+            {
+                "name": "Iron_Man_(2009_film)",
+                "desc": "Iron Man (2009 film) is a 2009 Chinese biographical drama film directed by Li Yin, based on the life of model worker Wang Jinxi, played by Wu Gang, who won several awards for his performance."
+            },
+            {
+                "name": "Iron_Man_(magazine)",
+                "desc": "Iron Man Magazine is a publication founded in 1936 by Peary and Mabel Rader that focuses on bodybuilding, weightlifting, and powerlifting."
+            },
+            {
+                "name": "Iron_Man_(song)",
+                "desc": "\"Iron Man\" is a song by Black Sabbath, released in 1970, which tells the story of a man who time travels and becomes steel, seeking revenge on humanity after his warnings are ignored."
+            },
+            {
+                "name": "Tony_Stark_(Marvel_Cinematic_Universe)",
+                "desc": "Tony Stark, also known as Iron Man, is a fictional character and CEO of Stark Industries who uses his genius and mechanized suits to defend the world and is a central figure in the Marvel Cinematic Universe."
+            },
+            {
+                "name": "Iron_Man_(Ultimate_Marvel_character)",
+                "desc": "Iron Man is a fictional character in the Ultimate Marvel Universe, a wealthy industrialist and genius inventor who wears a high-tech exo-suit to fight crime and has a life-threatening brain tumor, using his remaining time to become a philanthropist and superhero."
+            },
+            {
+                "name": "The_Iron_Man_(serial)",
+                "desc": "The Iron Man is a 1924 American silent film serial directed by Jay Marchant, considered a film stub."
+            },
+            {
+                "name": "Iron_Man_(TV_series)",
+                "desc": "Iron Man, an American animated television series, aired from 1994 to 1996 and was part of The Marvel Action Hour, featuring Iron Man and the Fantastic Four, with a toy line and THX re-recording."
+            }
+        ],
+        "mention_imgpath": "0e463c5651b7d3f0d32f36a01e722a58.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "two people in clothing",
+            "Dense Captions": "two people in clothing; a person in a garment; a person in a garment; two people in clothing in front of a blue wall; a person wearing a garment",
+            "Tags": "superhero; hero; fictional character; avengers; justice league; cartoon; fiction; iron man; action figure; armour; costume; clothing; person",
+            "OCR text": "COMIC CON; 1 --; THC CON; TIC CON; COM; SUZUKI MINA; GALURU; BENGALUETI; Comic CON; NIC CON; PLAY; RIC CON; NER; CON; COITIC CON; Tc CON",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        281
+                    ],
+                    "caption": "two people in clothing",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        46,
+                        4,
+                        197,
+                        268
+                    ],
+                    "caption": "a person in a garment",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        287,
+                        65,
+                        153,
+                        207
+                    ],
+                    "caption": "a person in a garment",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        487,
+                        272
+                    ],
+                    "caption": "two people in clothing in front of a blue wall",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        136,
+                        5,
+                        79,
+                        90
+                    ],
+                    "caption": "a close up of a garment",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        53,
+                        8,
+                        192,
+                        273
+                    ],
+                    "confidence": 0.85
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        295,
+                        71,
+                        148,
+                        209
+                    ],
+                    "confidence": 0.571
+                }
+            ]
+        }
+    },
+    "605": {
+        "mention": "Tian Shan mountain range",
+        "mention_context": "Panorama of downtown Korla, Xinjiang in the majestic Tian Shan mountain range. May 2007.",
+        "Candentity": [
+            {
+                "name": "Qitian_Mountains",
+                "desc": "The Qitian Mountains, also known as the Guiyang Mountains, are a series of mountains located in Chenzhou, Hunan Province, China, and are part of the Nanling Mountains' Five Ranges."
+            },
+            {
+                "name": "Tian_Shan",
+                "desc": "The Tian Shan, also known as the Tengri Tagh or Tengir-Too, is a large system of mountain ranges in Central Asia, stretching from the highest peak of Jengish Chokusu (7,439 meters) to the lowest point of the Turpan Depression (154 meters below sea level)."
+            },
+            {
+                "name": "Tianzhong_Mountain",
+                "desc": "Tianzhong Mountain, also known as Tiantai, is a small hill located in Runan, Henan province, covering an area of about 540 square meters and 3."
+            },
+            {
+                "name": "Tianmen_Mountain",
+                "desc": "Tianmen Mountain is a mountain located in Zhangjiajie, Hunan Province, China, known for its unique sandstone pillars and stunning natural beauty."
+            },
+            {
+                "name": "Tiantai_Mountain",
+                "desc": "Tiantai Mountain, also known as Mount Tiantai, is a mountain in Zhejiang, China, with a highest peak of 1,138 meters, made a national park in 1988, and home to a rare population of Seven-Son Flower."
+            },
+            {
+                "name": "Legend_of_Tianyun_Mountain",
+                "desc": "Legend of Tianyun Mountain is a 1980 Chinese film that depicts the hardships of individuals during China's political campaigns in the 1950s and 1960s, critically reflecting on the impact of those tumultuous years."
+            },
+            {
+                "name": "Jialishan_Range",
+                "desc": "Jialishan Range is a mountain range in northern Taiwan, with a tallest peak of 2,618m, although some scholars consider it a piedmont belt rather than a true range due to its being cut by several rivers."
+            },
+            {
+                "name": "Tianmu_Mountain",
+                "desc": "Tianmu Mountain is a mountain in eastern China, comprising two peaks with twin ponds, known for its giant Japanese cedars, waterfalls, and diverse flora and fauna, including the last surviving truly wild population of Ginkgo trees and over 2,000 plant species."
+            },
+            {
+                "name": "Korla",
+                "desc": "Korla is a county-level city and the seat of the Bayingolin Mongol Autonomous Prefecture in Xinjiang, China, known for its production of fragrant pears and oil fields, with a history dating back to at least the Han Dynasty."
+            },
+            {
+                "name": "Sacred_Mountains_of_China",
+                "desc": "The Sacred Mountains of China are a group of mountains divided into three categories, including the Five Great Mountains, Four Sacred Mountains of Buddhism, and Four Sacred Mountains of Taoism, which have been important destinations for pilgrimage in Chinese history."
+            }
+        ],
+        "mention_imgpath": "58c0db2bcd5049f1904a4529a01655c5.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "an aerial view of a city",
+            "Dense Captions": "an aerial view of a city; a high angle view of a village; a river running through a city; a aerial view of a city; a city in the desert; a building with a lot of debris",
+            "Tags": "outdoor; aerial photography; building; ground; water; bird's-eye view; sky; urban design; urban area; shore; nature; city; river; aerial; panorama",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        222
+                    ],
+                    "caption": "an aerial view of a city",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        120,
+                        53,
+                        359,
+                        162
+                    ],
+                    "caption": "a high angle view of a village",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        55,
+                        182,
+                        126
+                    ],
+                    "caption": "a river running through a city",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        123,
+                        152,
+                        209,
+                        66
+                    ],
+                    "caption": "a aerial view of a city",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        116,
+                        157,
+                        121,
+                        62
+                    ],
+                    "caption": "a building with a lot of debris",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": []
+        }
+    },
+    "359": {
+        "mention": "Stockholm",
+        "mention_context": "AP-BGY, the aircraft which was forced to land in Stockholm, photographed last year. Following the incident, one man of Pakistani origin was detained by police.",
+        "Candentity": [
+            {
+                "name": "Stockholm_(2018_film)",
+                "desc": "Stockholm is a 2018 crime film written, produced, and directed by Robert Budreau, starring Ethan Hawke and Noomi Rapace, which premiered at the Tribeca Film Festival and was released in 2019."
+            },
+            {
+                "name": "Stockholm_&_Göteborg",
+                "desc": "Stockholm & Göteborg is a live album by English avant-rock group Henry Cow, featuring previously unreleased recordings from concerts in Sweden and Germany in 1976 and 1977, remixed and remastered from the original master tapes."
+            },
+            {
+                "name": "The_Real_World:_Stockholm",
+                "desc": "The Real World."
+            },
+            {
+                "name": "Stockholm_(2013_film)",
+                "desc": "Stockholm is a 2013 Spanish romantic drama film directed by Rodrigo Sorogoyen."
+            },
+            {
+                "name": "Stockholm,_Sweden",
+                "desc": "Stockholm is the capital and largest city of Sweden, located on 14 islands where Lake Mälaren flows into the Baltic Sea, and is a cultural, media, political, and economic hub with a rich history and home to many world-renowned institutions and landmarks."
+            },
+            {
+                "name": "Stockholm_(The_Triffids_album)",
+                "desc": "Stockholm is a live album by Australian folk rock group The Triffids, recorded in Stockholm in 1989 and released in 1990, featuring the band's pre-Calenture era material and marking their final official recording."
+            },
+            {
+                "name": "Stockholm_County",
+                "desc": "Stockholm County is a county in Sweden located on the Baltic Sea coast, bordering Uppsala and Södermanland counties, and home to more than two million inhabitants, making it the most densely populated county in Sweden."
+            },
+            {
+                "name": "Stockholm_(Jean-Louis_Aubert_album)",
+                "desc": "\"Stockholm\" is a French solo album by Jean-Louis Aubert, featuring singles \"Océan\" and \"Le Jour Se Lève Encore\"."
+            },
+            {
+                "name": "Boeing_777",
+                "desc": "The Boeing 777 is a wide-body airliner developed by Boeing Commercial Airplanes, designed to bridge the gap between Boeing's 767 and 747, with a capacity of up to 368 passengers and a range of 5,240 to 8,555 nautical miles."
+            },
+            {
+                "name": "Stockholm",
+                "desc": "Stockholm is the capital and most populous urban area of Sweden, situated across 14 islands where Lake Mälaren flows into the Baltic Sea, and is a cultural, media, political, and economic centre with a rich history and numerous notable landmarks."
+            }
+        ],
+        "mention_imgpath": "2b22bc532444abaec22840bea83d9ced.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a large airplane flying in the sky",
+            "Dense Captions": "a large airplane flying in the sky; a plane flying in the sky; the tail of an airplane",
+            "Tags": "transport; aircraft; sky; outdoor; airplane; plane; air travel; vehicle; aircraft engine; airliner; flap; jet; airline; jet engine; flight; wing; twinjet; aerospace engineering; aviation; jet aircraft; air; takeoff; blue; large; airport; airbus",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        297
+                    ],
+                    "caption": "a large airplane flying in the sky",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        3,
+                        79,
+                        478,
+                        133
+                    ],
+                    "caption": "a plane flying in the sky",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        5,
+                        80,
+                        247,
+                        75
+                    ],
+                    "caption": "the tail of an airplane",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "airplane",
+                    "bounding_box": [
+                        29,
+                        79,
+                        317,
+                        135
+                    ],
+                    "confidence": 0.5
+                },
+                {
+                    "object_name": "airplane",
+                    "bounding_box": [
+                        148,
+                        83,
+                        325,
+                        139
+                    ],
+                    "confidence": 0.662
+                }
+            ]
+        }
+    },
+    "865": {
+        "mention": "Singapore rhododendron",
+        "mention_context": "A video of a Singapore rhododendron with a carpenter bee",
+        "Candentity": [
+            {
+                "name": "Bulbophyllum_trigonopus",
+                "desc": "Bulbophyllum trigonopus is a species of epiphytic orchid native to Borneo, Thailand, and Malaysia, first described in 1881 as Cirrhopetalum trigonopus and later reclassified in 2017."
+            },
+            {
+                "name": "Patersonia_occidentalis",
+                "desc": "Patersonia occidentalis, also known as purple flag or long purple flag, is a perennial herbaceous plant endemic to Western Australia, typically growing 0."
+            },
+            {
+                "name": "Melastoma_malabathricum",
+                "desc": "Melastoma malabathricum, also known as Malabar melastome, is a flowering plant native to Indomalaya, Japan, and Australia, with medicinal and phytoremediation properties, but considered a noxious weed in the US."
+            },
+            {
+                "name": "Benthamina_alyxifolia",
+                "desc": "Benthamina alyxifolia is a species of mistletoe plant native to Australia."
+            },
+            {
+                "name": "Hoplerythrinus",
+                "desc": "Hoplerythrinus is a stub article related to the Characiformes order, requiring further development and information to be considered complete."
+            },
+            {
+                "name": "Rhododendron_sect._Rhodora",
+                "desc": "Rhododendron sect."
+            },
+            {
+                "name": "Acacia_perangusta",
+                "desc": "Acacia perangusta, also known as eprapah wattle, is a tree or shrub native to eastern Australia, belonging to the genus Acacia and subgenus Phyllodineae."
+            },
+            {
+                "name": "California_carpenter_bee",
+                "desc": "The California carpenter bee, Xylocopa californica, is a native species of carpenter bee found in western North America."
+            },
+            {
+                "name": "Rhododendron_subsect._Ledum",
+                "desc": "Rhododendron_subsect."
+            },
+            {
+                "name": "Salix_triandra",
+                "desc": "Salix triandra, also known as almond willow, is a species of willow native to Europe and Western and Central Asia, typically growing in riparian habitats and wetlands."
+            }
+        ],
+        "mention_imgpath": "2a989849b7b1e61bcd04e66879bb5650.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a black insect on a purple flower",
+            "Dense Captions": "a black insect on a purple flower; a blurry image of a person's head; a black bug on a purple flower; a bee on a purple flower; a close up of a green vegetable; a purple flower with green leaves",
+            "Tags": "insect; invertebrate; purple; outdoor; plant; bee; animal; flower",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        407
+                    ],
+                    "caption": "a black insect on a purple flower",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        208,
+                        127,
+                        72,
+                        119
+                    ],
+                    "caption": "a blurry image of a person's head",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        488,
+                        397
+                    ],
+                    "caption": "a black bug on a purple flower",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        150,
+                        57,
+                        252,
+                        219
+                    ],
+                    "caption": "a bee on a purple flower",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        219,
+                        0,
+                        235,
+                        71
+                    ],
+                    "caption": "a close up of a green vegetable",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        294,
+                        167,
+                        110,
+                        76
+                    ],
+                    "caption": "a purple flower with green leaves",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": []
+        }
+    },
+    "1355": {
+        "mention": "Bulldog",
+        "mention_context": "Jim LeRoy in his airplane \"Bulldog\", taxiing back after a performance at Airshow Chattanooga in October 2005.",
+        "Candentity": [
+            {
+                "name": "Bulldog_(band)",
+                "desc": "Bulldog is an Argentine punk rock band formed in 1989."
+            },
+            {
+                "name": "The_Bulldog",
+                "desc": "The_Bulldog is an Amsterdam-based company that owns and operates a chain of cannabis coffee shops and a hotel in Canada, with a merchandising brand name and logo featuring a cartoon bulldog."
+            },
+            {
+                "name": "Microsoft_SQL_Server_Master_Data_Services",
+                "desc": "Microsoft SQL Server Master Data Services is a Master Data Management product from Microsoft that helps organizations discover, define, and maintain reliable master lists of non-transactional data."
+            },
+            {
+                "name": "Bulldog",
+                "desc": "The Bulldog, also known as the English or British Bulldog, is a medium-sized dog breed characterized by its muscular build, wrinkled face, and distinctive pushed-in nose, and is a popular pet with a long-standing association with British culture."
+            },
+            {
+                "name": "Jim_LeRoy",
+                "desc": "Jim LeRoy was an American aerobatics pilot who tragically died in a crash at the Dayton Air Show in Ohio."
+            },
+            {
+                "name": "Scottish_Aviation_Bulldog",
+                "desc": "The Scottish Aviation Bulldog is a British two-seat training aircraft designed by Beagle Aircraft, which was later taken over by Scottish Aviation Limited after Beagle ceased trading, and was produced at Prestwick Airport."
+            },
+            {
+                "name": "Bulldog_(The_Killing)",
+                "desc": "\"Bulldog\" is the 24th episode of the second season of the TV series The Killing, where detectives gain access to the casino's 10th floor, leading to further elusion and key decisions affecting the characters' futures."
+            },
+            {
+                "name": "Bristol_Bulldog",
+                "desc": "The Bristol Bulldog is a British single-seat biplane fighter designed by the Bristol Aeroplane Company in the 1920s, with over 400 produced for the RAF and overseas customers."
+            },
+            {
+                "name": "GWR_3300_Class",
+                "desc": "The GWR_3300_Class, also known as the Bulldog and Bird classes, were a type of 4-4-0 steam locomotive used for passenger services on the Great Western Railway, with a total of 141 built and rebuilt between the classes."
+            },
+            {
+                "name": "Oxford_University_Police",
+                "desc": "The Oxford University Police, also known as Oxford University Constables, was a private police force that existed from 1829 to 2003, responsible for maintaining law and order within the University of Oxford's precincts and surrounding areas."
+            }
+        ],
+        "mention_imgpath": "e20f03d1b843ec9a7df6739291fe78ef.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a yellow airplane parked in front of a building",
+            "Dense Captions": "a yellow airplane parked in front of a building; a yellow airplane with a person in the cockpit; a close up of a sign; a blue roof with a white wall; the tail of a yellow airplane; a building with many windows",
+            "Tags": "transport; vehicle; aircraft; general aviation; outdoor; building; plane; propeller-driven aircraft; propeller; air travel; yellow; light aircraft; airplane; aerospace manufacturer; aviation; monoplane; turboprop; parked; ground; airport; runway",
+            "OCR text": "UNISON; BULLDOG; A Co",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        500,
+                        375
+                    ],
+                    "caption": "a yellow airplane parked in front of a building",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        1,
+                        131,
+                        466,
+                        195
+                    ],
+                    "caption": "a yellow airplane with a person in the cockpit",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        134,
+                        217,
+                        159,
+                        53
+                    ],
+                    "caption": "a close up of a sign",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        186,
+                        0,
+                        310,
+                        68
+                    ],
+                    "caption": "a blue roof with a white wall",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        9,
+                        187,
+                        122,
+                        120
+                    ],
+                    "caption": "the tail of a yellow airplane",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        73,
+                        492,
+                        103
+                    ],
+                    "caption": "a building with many windows",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "plane",
+                    "bounding_box": [
+                        98,
+                        140,
+                        380,
+                        185
+                    ],
+                    "confidence": 0.588
+                }
+            ]
+        }
+    },
+    "862": {
+        "mention": "Rick Perry",
+        "mention_context": "Rick Perry in October 2011.",
+        "Candentity": [
+            {
+                "name": "Rick_Ross",
+                "desc": "Rick Ross is an American rapper, songwriter, entrepreneur, and record executive who has released numerous successful albums, including Port of Miami and Trilla, and founded the record label Maybach Music Group."
+            },
+            {
+                "name": "Rick_Leach",
+                "desc": "Rick Leach is a former professional tennis player and coach from the United States, who won five Grand Slam doubles titles and reached the world No."
+            },
+            {
+                "name": "2010_Texas_gubernatorial_election",
+                "desc": "The 2010 Texas gubernatorial election was held on November 2, 2010, in which incumbent Republican Governor Rick Perry won a third consecutive term, defeating Democratic nominee Bill White and Libertarian nominee Kathie Glass."
+            },
+            {
+                "name": "Rick_Spears",
+                "desc": "Rick Spears is an American comic book writer known for his work on independent titles such as Teenagers from Mars."
+            },
+            {
+                "name": "Rick_Perry_presidential_campaign,_2012",
+                "desc": "The Rick Perry presidential campaign of 2012 was the bid by Rick Perry, four-term Governor of Texas, for the 2012 Republican Party nomination for president, which began in August 2011 and ended in January 2012 after a series of poor debate performances and declining poll numbers."
+            },
+            {
+                "name": "Rick_Perry",
+                "desc": "Rick Perry is an American politician who served as the 14th United States Secretary of Energy from 2017 to 2019 and the 47th Governor of Texas from 2000 to 2015, with a political career marked by conservative stances and multiple presidential campaign attempts."
+            },
+            {
+                "name": "Ron_Perry_(music)",
+                "desc": "Ron Perry is an American music executive who serves as the Chairman & CEO of Columbia Records, overseeing the careers of renowned artists, and has also worked at SONGS Music Publishing, where he signed and oversaw notable artists and songwriters."
+            },
+            {
+                "name": "Rick_Tyler",
+                "desc": "Rick Tyler is an American white supremacist and political candidate from Tennessee who has run for various offices, including President in 2020 on the American Freedom Party ticket, and gained media attention for his controversial campaign slogans."
+            },
+            {
+                "name": "Rick_Perry_2012_presidential_campaign",
+                "desc": "The Rick Perry 2012 presidential campaign was the presidential bid of Rick Perry, the four-term Governor of Texas, who launched his campaign in August 2011, struggled in debates and polling, and ultimately suspended his campaign in January 2012."
+            },
+            {
+                "name": "Mastermind_(Rick_Ross_album)",
+                "desc": "Mastermind is the sixth studio album by American rapper Rick Ross, released on March 3, 2014, featuring guest appearances from various artists and debuting at number one on the US Billboard 200."
+            }
+        ],
+        "mention_imgpath": "89eb64d71ff00d457225c150f8415a1f.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a man in a suit and tie",
+            "Dense Captions": "a man in a suit and tie; a man in a suit and tie; a close-up of a man's tie; a man smiling with a white shirt; a close up of a man's face; a close up of a person's mouth; a man wearing a suit and tie",
+            "Tags": "human face; person; smile; clothing; formal wear; man; chin; tie; forehead; blazer; businessperson; gentleman; white-collar worker; dress shirt; collar; shirt; wrinkle; eyebrow; headshot; wearing; suit; indoor; fabric",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        369,
+                        500
+                    ],
+                    "caption": "a man in a suit and tie",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        2,
+                        9,
+                        358,
+                        480
+                    ],
+                    "caption": "a man in a suit and tie",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        75,
+                        318,
+                        106,
+                        177
+                    ],
+                    "caption": "a close-up of a man's tie",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        58,
+                        8,
+                        227,
+                        286
+                    ],
+                    "caption": "a man smiling with a white shirt",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        72,
+                        15,
+                        208,
+                        133
+                    ],
+                    "caption": "a close up of a man's face",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        91,
+                        189,
+                        117,
+                        57
+                    ],
+                    "caption": "a close up of a person's mouth",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        7,
+                        245,
+                        352,
+                        244
+                    ],
+                    "caption": "a man wearing a suit and tie",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "tie",
+                    "bounding_box": [
+                        79,
+                        321,
+                        95,
+                        179
+                    ],
+                    "confidence": 0.793
+                }
+            ]
+        }
+    },
+    "1132": {
+        "mention": "Arkadiusz Milik",
+        "mention_context": "Arkadiusz Milik whose goal helped Poland enjoy their first victory in UEFA Euro turnament.",
+        "Candentity": [
+            {
+                "name": "Janusz_Michallik",
+                "desc": "Janusz Michallik is a retired Polish-American soccer defender, coach, and TV sports commentator."
+            },
+            {
+                "name": "Leszek_Marks",
+                "desc": "Leszek Eugeniusz Marks is a Polish geologist and professor who serves as the president of the Committee for Quaternary Research of the Polish Academy of Sciences and is a member of several scientific journal editorial boards."
+            },
+            {
+                "name": "Milak",
+                "desc": "Milak is a city and municipal board in Uttar Pradesh, India, known for its law college and several degree colleges, located near cities Rampur, Rudrapur, and Bareilly."
+            },
+            {
+                "name": "Jaroslav_Jašek",
+                "desc": "Jaroslav Jašek was a Czechoslovakian orienteering competitor who won a bronze medal in the relay at the 1970 World Orienteering Championships."
+            },
+            {
+                "name": "Juraj_Haulik",
+                "desc": "Juraj Haulik was a Slovak-born Croatian cardinal and the first archbishop of Zagreb, who also served as acting ban of Croatia for two terms."
+            },
+            {
+                "name": "Arkadiusz_Milik",
+                "desc": "Arkadiusz Milik is a Polish professional footballer who plays as a striker for Olympique de Marseille on loan from Napoli and the Poland national team, having played for several clubs including Ajax and Napoli, and participated in major international tournaments."
+            },
+            {
+                "name": "Jan_Milíč",
+                "desc": "Jan_Milíč was a Czech Catholic priest and influential preacher who played a key role in paving the way for the Bohemian Reformation in the 14th century."
+            },
+            {
+                "name": "Jozef_Kovalík",
+                "desc": "Jozef Kovalík is a Slovak tennis player competing on the ATP Challenger Tour."
+            },
+            {
+                "name": "Raúl_Albiol",
+                "desc": "Raúl Albiol is a Spanish professional footballer who plays for Villarreal and the Spain national team, known for his versatility and physical strength, having won five major titles and represented Spain in two World Cups and as many European Championships."
+            },
+            {
+                "name": "Joseph_Jankovic",
+                "desc": "Joseph Jankovic is a renowned American neurologist and researcher at Baylor College of Medicine, known for his pioneering work on movement disorders, clinical trials, and therapeutic guidelines, and has contributed to the development and approval of several treatments for Parkinson's disease and related disorders."
+            }
+        ],
+        "mention_imgpath": "be8e1af9654febc2aefaf837370aaeea.jpg",
+        "mention_imgdesc_Azure": {
+            "Caption": "a man in a football uniform running",
+            "Dense Captions": "a man in a football uniform running; a person wearing a white shirt and red shorts; a blurry image of a person in a yellow shirt; a blurry image of a person wearing a red shirt; a person wearing red shorts; a close up of a person's feet; a blurry image of a person; a man running in a sports uniform; a close up of a shoe",
+            "Tags": "person; sport; soccer player; player; athletic game; grass; stadium; man; football player; sport venue; soccer-specific stadium; team sport; sportswear; soccer; championship; jersey; tournament; field; outdoor",
+            "OCR text": "23",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        232,
+                        500
+                    ],
+                    "caption": "a man in a football uniform running",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        43,
+                        14,
+                        147,
+                        464
+                    ],
+                    "caption": "a person wearing a white shirt and red shorts",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        177,
+                        68,
+                        255
+                    ],
+                    "caption": "a blurry image of a person in a yellow shirt",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        168,
+                        163,
+                        60,
+                        121
+                    ],
+                    "caption": "a blurry image of a person wearing a red shirt",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        61,
+                        252,
+                        113,
+                        89
+                    ],
+                    "caption": "a person wearing red shorts",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        102,
+                        418,
+                        94,
+                        63
+                    ],
+                    "caption": "a close up of a person's feet",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        13,
+                        0,
+                        54,
+                        83
+                    ],
+                    "caption": "a blurry image of a person",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        43,
+                        76,
+                        140,
+                        189
+                    ],
+                    "caption": "a man running in a sports uniform",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        432,
+                        227,
+                        64
+                    ],
+                    "caption": "a close up of a shoe",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": []
+        }
+    },
+    "41": {
+        "mention": "Chinese",
+        "mention_context": "North Korea's 007 meets a leader of the Chinese mafia (screenshot of the short movie).",
+        "Candentity": [
+            {
+                "name": "Sinitic_languages",
+                "desc": "The Sinitic languages, also known as Chinese languages, are the major branch of the Sino-Tibetan language family, comprising many varieties of Chinese and potentially the Bai languages."
+            },
+            {
+                "name": "Jang_Woo-hyuk",
+                "desc": "Jang Woo-hyuk is a South Korean singer and rapper who debuted in 1996 as a member of the K-pop boy band HOT, later forming JtL and releasing solo music, and also founded talent agency WH Entertainment."
+            },
+            {
+                "name": "Simplified_Chinese_characters",
+                "desc": "Simplified Chinese characters are a standardized character set in the contemporary Chinese written language, created by reducing the number of strokes and simplifying forms of a sizable proportion of Chinese characters, officially used in mainland China, Malaysia, and Singapore."
+            },
+            {
+                "name": "Traditional_Chinese_characters",
+                "desc": "Traditional Chinese characters are a standard set of Chinese characters that have remained largely unchanged since the 2nd century and are still widely used in Taiwan, Hong Kong, Macau, and overseas Chinese communities, despite the introduction of simplified Chinese characters in other regions."
+            },
+            {
+                "name": "People%27s_Republic_of_China",
+                "desc": "The People's Republic of China is a government institution headed by a paramount leader, who holds the highest authority of the Chinese Communist Party and Government, with various chairpersons and secretaries leading different institutions."
+            },
+            {
+                "name": "Chinese_people_in_Finland",
+                "desc": "The Chinese people in Finland form one of the largest immigrant groups in Finland, with approximately 12,407 speakers of Chinese residing in the country, with a significant majority living in the Capital Region."
+            },
+            {
+                "name": "China",
+                "desc": "China is a country in East Asia, officially the People's Republic of China, with a population exceeding 1."
+            },
+            {
+                "name": "History_of_China",
+                "desc": "The History of China is a comprehensive article covering the country's history from prehistoric times to the present, excluding the Republic of China and the People's Republic of China."
+            },
+            {
+                "name": "Chinese_people",
+                "desc": "Chinese people refer to various individuals or ethnic groups associated with China, including the dominant Han Chinese ethnic group, as well as 55 officially-recognized ethnic minorities and an extensive Chinese diaspora."
+            },
+            {
+                "name": "Chinese_language",
+                "desc": "The Chinese language is a group of language varieties spoken by over 1."
+            }
+        ],
+        "mention_imgpath": "d01afbcf12151b93cc66938c47b416ab.png",
+        "mention_imgdesc_Azure": {
+            "Caption": "a man in a white hat and white coat facing another man",
+            "Dense Captions": "a man in a white hat and white coat facing another man in a white hat; a blurry image of a man; a man wearing a white hat and a white shirt; blur a blurry image of a person's head; a man in a white hat and a white shirt; a blurry image of a light",
+            "Tags": "clothing; person; human face; man; concert; music; standing",
+            "OCR text": "6rooms; com",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        444,
+                        249
+                    ],
+                    "caption": "a man in a white hat and white coat facing another man in a white hat",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        251,
+                        46,
+                        110,
+                        197
+                    ],
+                    "caption": "a blurry image of a man",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        96,
+                        48,
+                        165,
+                        192
+                    ],
+                    "caption": "a man wearing a white hat and a white shirt",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        121,
+                        51
+                    ],
+                    "caption": "blur a blurry image of a person's head",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        65,
+                        31,
+                        318,
+                        161
+                    ],
+                    "caption": "a man in a white hat and a white shirt facing each other",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        5,
+                        31,
+                        133,
+                        107
+                    ],
+                    "caption": "a blurry image of a light",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "headwear",
+                    "bounding_box": [
+                        169,
+                        54,
+                        80,
+                        49
+                    ],
+                    "confidence": 0.674
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        99,
+                        53,
+                        170,
+                        194
+                    ],
+                    "confidence": 0.819
+                },
+                {
+                    "object_name": "person",
+                    "bounding_box": [
+                        248,
+                        52,
+                        116,
+                        194
+                    ],
+                    "confidence": 0.902
+                }
+            ]
+        }
+    },
+    "905": {
+        "mention": "Concordia University",
+        "mention_context": "Loyola campus of Concordia University in Montreal",
+        "Candentity": [
+            {
+                "name": "Concordia_University_(Nebraska)",
+                "desc": "Concordia University, Nebraska is a private Lutheran university in Seward, Nebraska, established in 1894 and affiliated with the Lutheran Church–Missouri Synod, offering programs through three schools."
+            },
+            {
+                "name": "Concordia_University",
+                "desc": "Concordia University is a public comprehensive research university in Montreal, Quebec, Canada, founded in 1974, with two campuses, four faculties, and over 400 undergraduate and 200 graduate programs, ranking among the top in Canada and worldwide."
+            },
+            {
+                "name": "Concordia_University_(Quebec)",
+                "desc": "Concordia University is a public English-language research university in Montreal, Quebec, Canada, founded in 1974, with two campuses, over 400 undergraduate and 200 graduate programs, and a student body of 51,253."
+            },
+            {
+                "name": "Concordia_University_(Saint_Paul,_Minnesota)",
+                "desc": "Concordia University, St."
+            },
+            {
+                "name": "Concordia_University_(Portland,_Oregon)",
+                "desc": "Concordia University in Portland, Oregon was a private Lutheran university that closed in 2020 after its parent organization, the LCMS, withdrew financial support, except for its nursing program which was transferred to Concordia University of St."
+            },
+            {
+                "name": "Reed_College",
+                "desc": "Reed College is a private liberal arts college in Portland, Oregon, known for its unique academic programs, progressive politics, and high proportion of graduates who go on to earn advanced degrees, including a notable number of Fulbright, Watson, and Rhodes Scholars."
+            },
+            {
+                "name": "Concordia_University_(Montreal)",
+                "desc": "Concordia University is a public research university located in Montreal, Quebec, Canada, founded in 1974 and offering over 400 undergraduate and 200 graduate programs across its two campuses, with a student enrollment of 51,253 as of 2020-21."
+            },
+            {
+                "name": "Concordia_University_System",
+                "desc": "The Concordia University System is a network of seven colleges and universities operated by the Lutheran Church–Missouri Synod, featuring professional church work programs and a shared Simultaneous Enrollment Program allowing students to attend multiple institutions."
+            },
+            {
+                "name": "Concordia_University_(Saint_Paul)",
+                "desc": "Concordia University, St."
+            },
+            {
+                "name": "Concordia_University_(Oregon)",
+                "desc": "Concordia University (Oregon) was a private Lutheran Church–Missouri Synod university in Portland, Oregon that closed in Spring 2020 after its parent organization withdrew financial support, leaving only one remaining program, the accelerated Bachelor Degree, operating under another Concordia University System school."
+            }
+        ],
+        "mention_imgpath": "949e4dbc036ffb343b7d9c7b3fd2f7a5.JPG",
+        "mention_imgdesc_Azure": {
+            "Caption": "a building with snow on the ground",
+            "Dense Captions": "a building with snow on the ground; a tree with snow on it; a building with many windows; a building with green domes; a statue in the snow; a building with many windows; a building with snow on the roof; a statue in a snowy area; a building with snow on the ground; a snow covered path with a tire track",
+            "Tags": "outdoor; sky; building; tree; snow; winter; freezing; castle",
+            "OCR text": "",
+            "Dense Captions detail": [
+                {
+                    "bounding_box": [
+                        0,
+                        0,
+                        402,
+                        500
+                    ],
+                    "caption": "a building with snow on the ground",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        328,
+                        145,
+                        70,
+                        305
+                    ],
+                    "caption": "a tree with snow on it",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        244,
+                        110,
+                        73,
+                        209
+                    ],
+                    "caption": "a building with many windows",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        100,
+                        55,
+                        87,
+                        82
+                    ],
+                    "caption": "a building with green domes",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        32,
+                        353,
+                        186,
+                        72
+                    ],
+                    "caption": "a statue in the snow",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        132,
+                        151,
+                        242
+                    ],
+                    "caption": "a building with many windows",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        92,
+                        347,
+                        245
+                    ],
+                    "caption": "a building with snow on the roof",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        305,
+                        298,
+                        187
+                    ],
+                    "caption": "a statue in a snowy area",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        0,
+                        19,
+                        391,
+                        455
+                    ],
+                    "caption": "a building with snow on the ground",
+                    "Confidence": 1.0
+                },
+                {
+                    "bounding_box": [
+                        157,
+                        339,
+                        186,
+                        156
+                    ],
+                    "caption": "a snow covered path with a tire track",
+                    "Confidence": 1.0
+                }
+            ],
+            "Objects": [
+                {
+                    "object_name": "castle",
+                    "bounding_box": [
+                        0,
+                        46,
+                        362,
+                        329
+                    ],
+                    "confidence": 0.548
+                }
+            ]
+        }
+    }
+}
