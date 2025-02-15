@@ -24,7 +24,7 @@
   - [Evaluate](#evaluate)
 
 ## Overview
-<img src="/figures/framework.jpg"/>
+<img src="framework.png"/>
 
 Our proposed I2CR consists of four key steps. (1) Target Entity Selection (TES). (2) Intra-modal Consistency Reflection (ICR). (3) Inter-modal Alignment Verification (IAV). and (4) Visual Iterative Feedback (VIF).
 
