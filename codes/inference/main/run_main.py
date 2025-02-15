@@ -8,7 +8,6 @@ from tqdm import tqdm
 import sys
 sys.path.append('..')
 from ex_ask_SFR import execute_dataset
-# from ex_ask_SBert import execute_dataset
 from llm_utils.askGPT import ASK_GPT
 from llm_utils.utils import *
 from llm_utils.infer_SFR import *
@@ -69,35 +68,25 @@ class ModelLoader:
     _llama_pipeline = None
     _SFR_tokenizer = None
     _SFR_model = None
-    _SBert_model = None
 
     @staticmethod
     def get_llama_pipeline():
         if ModelLoader._llama_pipeline is None:
             print('load llama3')
-            ModelLoader._llama_pipeline = load_model_llama(model_id='/data/yuguangya/ALLYOUNEED/7B/llama/chat/llama3-8b-instruct', max_length=4096)
+            ModelLoader._llama_pipeline = load_model_llama(model_id='../../../models/llama3-8b-instruct', max_length=4096)
         return ModelLoader._llama_pipeline
 
     @staticmethod
     def get_SFR_model():
         if ModelLoader._SFR_model is None:
             print('load SFR')
-            ModelLoader._SFR_tokenizer, ModelLoader._SFR_model = load_model_SFR(model_dir='/root/nas/someModels/models/SFR-Embedding-Mistral-huggingface')
+            ModelLoader._SFR_tokenizer, ModelLoader._SFR_model = load_model_SFR(model_dir='../../../models/SFR-Embedding-Mistral')
         return ModelLoader._SFR_tokenizer, ModelLoader._SFR_model
-    
-    @staticmethod
-    def get_SBert_model():
-        if ModelLoader._SBert_model is None:
-            print('load SBert')
-            ModelLoader._SBert_model = load_model_SBert()
-        return ModelLoader._SBert_model
-
 
 def process_func(ex_id:int, exdataset, key_list, score_dataset):
     '''子进程函数 改成全局'''
     llama_pipeline = ModelLoader.get_llama_pipeline()
     SFR_tokenizer, SFR_model = ModelLoader.get_SFR_model()
-    # SBert_model = ModelLoader.get_SBert_model()
 
     save_path = '../main/cut_temp/{}_res.json'.format(ex_id+1)
     temp_path = '../main/cut_temp/{}_temp.json'.format(ex_id+1)
@@ -106,7 +95,6 @@ def process_func(ex_id:int, exdataset, key_list, score_dataset):
 
     is_record = True if ex_id == 1 else False
     execute_dataset(exdataset, save_path, temp_path, step1_2_path, ask_gpt, llama_pipeline, SFR_tokenizer, SFR_model, score_dataset, is_record)
-    # execute_dataset(exdataset, save_path, temp_path, step1_2_path, ask_gpt, llama_pipeline, SBert_model, score_dataset, is_record)
 
     print('{} done'.format(ex_id+1))
     torch.cuda.empty_cache()  # 手动释放 CUDA 资源
@@ -159,11 +147,11 @@ if __name__ == '__main__':
     keys = params.__keys
 
     if params.__dataset_type == 'wikimel':
-        dataset = loaddata('../dataset_WIKIMEL/WikiMEL_testset.json')
+        dataset = loaddata('../../../datasets/dataset_WikiMEL/WikiMEL_testset.json')
     elif params.__dataset_type == 'wikidiverse':
-        dataset = loaddata('../dataset_wikidiverse/WikiDiverse_testset_summary.json')
+        dataset = loaddata('../../../datasets/dataset_WikiDiverse/WikiDiverse_testset_summary.json')
     elif params.__dataset_type == 'richpedia':
-        dataset = loaddata('../dataset_richpedia/richpedia_testset.json')    
+        dataset = loaddata('../../../datasets/dataset_RichMEL/richpedia_testset.json')    
     else:
         raise
 
@@ -193,30 +181,3 @@ if __name__ == '__main__':
     dumpdata(combine_step1_2_res(num_cut=num_cut), params.__step1_2_save_path)
     print(f'save to {params.__step1_2_save_path}')
 
-
-# 原始的 process_func
-# def process_func(self, ex_id:int):
-#     save_path = '../main/cut_temp/{}_res.json'.format(ex_id+1)
-#     temp_path = '../main/cut_temp/{}_temp.json'.format(ex_id+1)
-#     step1_2_path = '../main/cut_temp/{}_step1_2_res.json'.format(ex_id+1)
-#     ask_gpt = ASK_GPT(self.keyListofList[ex_id])
-
-#     is_record = True if ex_id == 1 else False
-
-#     llama_pipeline = ModelLoader.get_llama_pipeline()
-#     SFR_tokenizer, SFR_model = ModelLoader.get_SFR_model()
-
-#     execute_dataset(self.exdataset_list[ex_id], save_path, temp_path, step1_2_path, ask_gpt, llama_pipeline, SFR_tokenizer, SFR_model, self.score_dataset, is_record)
-
-#     print('{} done'.format(ex_id+1))
-#     return
-
-# 原始的 flow(self):
-    # def flow(self):
-    #     pool = multiprocessing.Pool(self.num_possess)
-
-    #     for ex_id in range(self.num_possess):
-    #         pool.apply_async(self.process_func, args=(ex_id, ), error_callback=self.err_call_back)
-
-    #     pool.close()
-    #     pool.join()
