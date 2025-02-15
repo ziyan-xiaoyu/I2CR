@@ -6,9 +6,9 @@
   <p align="center">  
 <!--     <a href="https://arxiv.org/abs/2205.00363">arxiv</a> -->
     ·
-    <a href="https://github.com/ziyan-xiaoyu/I2CR/blob/master/codes/inference/main/run_main.py">codes</a>
+    <a href="https://github.com/ziyan-xiaoyu/SpatialMQA/blob/master/figures/framework.png">framework</a>
     ·
-    <a href="https://github.com/ziyan-xiaoyu/SpatialMQA/blob/master/LICENSE.txt">license</a>
+    <a href="https://github.com/ziyan-xiaoyu/I2CR/blob/master/codes/inference/main/run_main.py">codes</a>
 <!--     <a href="https://paperswithcode.com/sota/visual-reasoning-on-vsr">benchmark</a> -->
     
   </p>
@@ -26,7 +26,8 @@
   - [Evaluate](#evaluate)
 
 ## Overview
-<img src="/figures/framework.jpg"/>
+<img src="/figures/framework.png"/>
+[`Framework/`](figures/framework.png)
 
 Our proposed I2CR consists of four key steps. (1) Target Entity Selection (TES). (2) Intra-modal Consistency Reflection (ICR). (3) Inter-modal Alignment Verification (IAV). and (4) Visual Iterative Feedback (VIF).
 
