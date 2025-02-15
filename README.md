@@ -27,15 +27,14 @@
 
 ## Overview
 <img src="/figures/framework.png"/>
-[`Framework/`](figures/framework.png)
 
 Our proposed I2CR consists of four key steps. (1) Target Entity Selection (TES). (2) Intra-modal Consistency Reflection (ICR). (3) Inter-modal Alignment Verification (IAV). and (4) Visual Iterative Feedback (VIF).
 
 ## Folders and Files
-`./datasets/dataset_WIKIMEL/`: The provide preprocessed data of WikiMEL.  
-`./datasets/dataset_wikidiverse/` The provide preprocessed data of WikiDiverse.  
-`./datasets/dataset_richpedia/` The provide preprocessed data of Richpedia-MEL.
-`./codes/llm_utils/prompts`: All prompts used in interacting with the LLM
+`./datasets/dataset_WikiMEL/`: The provide preprocessed data of WikiMEL.  
+`./datasets/dataset_wikiDiverse/` The provide preprocessed data of WikiDiverse.  
+`./datasets/dataset_RichMEL/` The provide preprocessed data of Richpedia-MEL.
+`./codes/inference/`: All inference codes of our framework
 `./models/llm_utils/prompts`: All prompts used in interacting with the LLM
 
 `./llm_utils/prompts`: All prompts used in interacting with the LLM  
